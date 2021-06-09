@@ -7,10 +7,118 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2021/06/08/time-to-move.html",
+				"title": "Time to move off Apple’s Intel iMac? (#apple #adobe #lightroomclassic #applesilicon)",
+				"content_html": "<p>With Adobe finally releasing Lightroom Classic for Apple Silicon Macs, This could enable me to move off my 2017 21.5” Intel Mac for once. The prospect of Lightroom catalogs and data migration is not enchanting though. There the issues of plugins migration too. Is it time for me to go all-in cloud with Lightroom CC only? Not sure it is the right time either.</p>\n\n<p>I have a few incentives for selling my iMac: one being to help me finance a shiny new 2021 12.9” iPad Pro with 1 TB of RAM. This could serve as my iPadOS 15 test bed for the second half of summer. I still have quite some time to think about all this as these devices are back-ordered for at least the second half of July.</p>\n\n<p>You thoughts?</p>\n",
+				"content_text": "With Adobe finally releasing Lightroom Classic for Apple Silicon Macs, This could enable me to move off my 2017 21.5” Intel Mac for once. The prospect of Lightroom catalogs and data migration is not enchanting though. There the issues of plugins migration too. Is it time for me to go all-in cloud with Lightroom CC only? Not sure it is the right time either.\n\nI have a few incentives for selling my iMac: one being to help me finance a shiny new 2021 12.9” iPad Pro with 1 TB of RAM. This could serve as my iPadOS 15 test bed for the second half of summer. I still have quite some time to think about all this as these devices are back-ordered for at least the second half of July. \n\nYou thoughts?\n",
+				"date_published": "2021-06-08T12:33:56-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/08/time-to-move.html",
+				"tags": ["Photography","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/07/i-was-oversimplifying.html",
+				"title": "I was over-simplifying quite a bit",
+				"content_html": "<p>After publishing my essay on what I was hoping Apple would do in response to the developers community, Matt Birchler wrote a small response regarding my assertion about payments processing platform being a limited feature in the grand scheme of things. It appears I was wrong. Thanks to Matt <a href=\"https://birchtree.me/blog/payment-processing-is-not-a-commodity/\">blog post</a>, I have a better view of what goes behind the scene here.</p>\n\n<p>That being said, Apple’s payment processing service within the App Store serves Apple&rsquo;s purposes and is the one that is very narrow, very focused. It&rsquo;s a good thing. I&rsquo;m not sure Apple has to compete against this industry. Allowing third-party payment processing services would need to focus on the minimum in order to protect privacy or help guarantee that privacy is in good hands. It&rsquo;s an attainable goal.</p>\n",
+				"content_text": "After publishing my essay on what I was hoping Apple would do in response to the developers community, Matt Birchler wrote a small response regarding my assertion about payments processing platform being a limited feature in the grand scheme of things. It appears I was wrong. Thanks to Matt [blog post](https://birchtree.me/blog/payment-processing-is-not-a-commodity/), I have a better view of what goes behind the scene here. \n\nThat being said, Apple’s payment processing service within the App Store serves Apple's purposes and is the one that is very narrow, very focused. It's a good thing. I'm not sure Apple has to compete against this industry. Allowing third-party payment processing services would need to focus on the minimum in order to protect privacy or help guarantee that privacy is in good hands. It's an attainable goal. \n",
+				"date_published": "2021-06-07T07:14:35-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/07/i-was-oversimplifying.html",
+				"tags": ["Apple","Privacy","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/06/ipados-to-limit.html",
+				"title": "iPadOS 15 to limit certain features to iPad Pro? (#apple #ipados15 #wwdc21)",
+				"content_html": "<p>If Apple ups the game with iPadOS 15 (background tasks, better multitasking, external monitor support, etc.), we could see a situation where iPadOS crawls on lower or mid-range iPad while working like a breeze on the iPad Pro. Could Apple limit certain features to the high end only? Quite possibly. Your thoughts?</p>\n",
+				"content_text": "If Apple ups the game with iPadOS 15 (background tasks, better multitasking, external monitor support, etc.), we could see a situation where iPadOS crawls on lower or mid-range iPad while working like a breeze on the iPad Pro. Could Apple limit certain features to the high end only? Quite possibly. Your thoughts?\n",
+				"date_published": "2021-06-06T14:37:24-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/06/ipados-to-limit.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/06/141201.html",
+				"title": "Popup Menus — Comments About This Relic of iOS 3 — Could There Be A Better Design? (#apple #wwdc21 #ipadOS15 #ios15)",
+				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/d9d05e43b6.jpg\" alt=\"\" /></p>\n\n<p>Consider the previous screenshot showing the popup menu when selecting a word in a document. This menu hasn’t been touched since iOS 3, if I remember correctly. Tomorrow, as we are about to get a peek at iPadOS 15 and iOS 15, I’m wondering if there are better ways to display such a menu. Consider a few design problems and possible improvements.</p>\n\n<p>This menu doesn’t scale well; it isn’t exactly elegant. In some situations, we have to scroll through its options which is not always obvious and is tricky to do with the finger without selecting the option at touch and scroll time. Also, this design involves too much finder travel to my taste; I would prefer a more condensed version. The design is flat and doesn’t allow for hierarchical grouping of options which could help is situations where many options are available. The design is flat and is not as distinctive as it could be. Adding some depth, contour line would help.</p>\n\n<p>Do you have any suggestions on how Apple could improve on this?</p>\n",
+				"content_text": "![](https://numericcitizen.micro.blog/uploads/2021/d9d05e43b6.jpg)\n\nConsider the previous screenshot showing the popup menu when selecting a word in a document. This menu hasn’t been touched since iOS 3, if I remember correctly. Tomorrow, as we are about to get a peek at iPadOS 15 and iOS 15, I’m wondering if there are better ways to display such a menu. Consider a few design problems and possible improvements. \n\nThis menu doesn’t scale well; it isn’t exactly elegant. In some situations, we have to scroll through its options which is not always obvious and is tricky to do with the finger without selecting the option at touch and scroll time. Also, this design involves too much finder travel to my taste; I would prefer a more condensed version. The design is flat and doesn’t allow for hierarchical grouping of options which could help is situations where many options are available. The design is flat and is not as distinctive as it could be. Adding some depth, contour line would help.\n\nDo you have any suggestions on how Apple could improve on this?\n\n",
+				"date_published": "2021-06-06T14:12:01-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/06/141201.html",
+				"tags": ["Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/06/its-always-fun.html",
+				
+				"content_html": "<p>It&rsquo;s always fun to re-watch a previous Apple Event. Just did the Spring Loaded one and used CleanShot to capture the best moments creating a library of 260 shots, all stored in Synology Photos, ready to be used, just in case. Tech is fun.</p>\n\n<p><img src=\"uploads/2021/390138d5dd.jpg\" width=\"600\" height=\"410\" alt=\"\" /></p>\n",
+				"content_text": "It's always fun to re-watch a previous Apple Event. Just did the Spring Loaded one and used CleanShot to capture the best moments creating a library of 260 shots, all stored in Synology Photos, ready to be used, just in case. Tech is fun. \n\n<img src=\"uploads/2021/390138d5dd.jpg\" width=\"600\" height=\"410\" alt=\"\" />\n",
+				"date_published": "2021-06-06T08:48:36-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/06/its-always-fun.html",
+				"tags": ["Apple","Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/03/the-imac-vs.html",
+				"title": "The iMac vs a Simple Monitor",
+				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/208f51a3db.jpg\" alt=\"\" /></p>\n\n<p>The Thunderbolt display <a href=\"https://www.macrumors.com/2021/06/03/apple-thunderbolt-display-now-considered-vintage/\">is now a vintage product</a> for Apple. When I look at this beautiful monitor, I’m thinking about the recently introduced redesigned iMac. Many people would have preferred to see the iMac chin disappear. We should know better and see this is a distinctive design attribute of the iMac which make it look different than from a simple monitor. It’s an important visual differentiation factor in my opinion. The iMac is not a simple monitor.</p>\n\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/c1aa673007.jpg\" alt=\"\" /></p>\n",
+				"content_text": "![](https://numericcitizen.micro.blog/uploads/2021/208f51a3db.jpg)\n\nThe Thunderbolt display [is now a vintage product](https://www.macrumors.com/2021/06/03/apple-thunderbolt-display-now-considered-vintage/) for Apple. When I look at this beautiful monitor, I’m thinking about the recently introduced redesigned iMac. Many people would have preferred to see the iMac chin disappear. We should know better and see this is a distinctive design attribute of the iMac which make it look different than from a simple monitor. It’s an important visual differentiation factor in my opinion. The iMac is not a simple monitor. \n\n![](https://numericcitizen.micro.blog/uploads/2021/c1aa673007.jpg)\n\n",
+				"date_published": "2021-06-03T18:11:24-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/03/the-imac-vs.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/03/microblog-twitter-blue.html",
+				"title": "Micro.blog \u003e Twitter Blue. ",
+				"content_html": "<p><blockquote class=\"quoteback\" data-title=\"\" data-author=\"Manton Reece\" data-avatar=\"https://micro.blog/manton/avatar.jpg\" cite=\"https://www.manton.org/2021/06/03/i-like-how.html\"><p>I like how Micro.blog stacks up against <a href=\"https://www.theverge.com/2021/6/3/22464291/twitter-blue-subscription-service-canada-australia-undo-reader-mode\">Twitter’s subscription</a>. $5: Micro.blog hosting, photos, use your own domain name, categories, bookmarks, themes, CSS, plug-ins, bookshelves, standalone pages, native apps, open APIs. $3: undo tweet, thread viewer, free Twitter features.</p>\n<footer>Manton Reece <cite><a href=\"https://www.manton.org/2021/06/03/i-like-how.html\">https://www.manton.org/2021/06/03/i-like-how.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script></p>\n\n<p>Indeed.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Manton Reece\" data-avatar=\"https://micro.blog/manton/avatar.jpg\" cite=\"https://www.manton.org/2021/06/03/i-like-how.html\"><p>I like how Micro.blog stacks up against <a href=\"https://www.theverge.com/2021/6/3/22464291/twitter-blue-subscription-service-canada-australia-undo-reader-mode\">Twitter’s subscription</a>. $5: Micro.blog hosting, photos, use your own domain name, categories, bookmarks, themes, CSS, plug-ins, bookshelves, standalone pages, native apps, open APIs. $3: undo tweet, thread viewer, free Twitter features.</p>\r\n<footer>Manton Reece <cite><a href=\"https://www.manton.org/2021/06/03/i-like-how.html\">https://www.manton.org/2021/06/03/i-like-how.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nIndeed. \n",
+				"date_published": "2021-06-03T12:19:20-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/03/microblog-twitter-blue.html",
+				"tags": ["Blogging","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/03/count-me-out.html",
+				"title": "Count me OUT then - Twitter Blue #twitterblue ",
+				"content_html": "<p>Here is why I won&rsquo;t subscribe anytime soon (another reason on top of many, btw):\n&gt; But what is interesting is one thing that you won’t get with Twitter Blue: an ad-free experience. Advertising is still the biggest chunk of Twitter’s revenue, and they’re not going to replace that with direct subscriptions anytime soon.\nSource: <a href=\"https://sixcolors.com/link/2021/06/twitter-blue-subscription-launches-in-australia-canada/\">Twitter Blue subscription launches in Australia, Canada – Six Colors</a></p>\n\n<p>Paying to be a beta-tester and give feedback? Can you imagine paying to get beta releases of Apple&rsquo;s OSes? No way.</p>\n",
+				"content_text": "Here is why I won't subscribe anytime soon (another reason on top of many, btw):\r\n> But what is interesting is one thing that you won’t get with Twitter Blue: an ad-free experience. Advertising is still the biggest chunk of Twitter’s revenue, and they’re not going to replace that with direct subscriptions anytime soon. \r\nSource: [Twitter Blue subscription launches in Australia, Canada – Six Colors](https://sixcolors.com/link/2021/06/twitter-blue-subscription-launches-in-australia-canada/)\r\n\r\nPaying to be a beta-tester and give feedback? Can you imagine paying to get beta releases of Apple's OSes? No way. \n",
+				"date_published": "2021-06-03T12:02:13-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/03/count-me-out.html",
+				"tags": ["Misc","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/03/better-reading-experience.html",
+				
+				"content_html": "<p>Better reading experience of Twitter Threads, via Twitter Blue, will encourage people to write more threads on Twitter instead of publishing a blog post. I’m not sure that I like the trend here.</p>\n",
+				"content_text": "Better reading experience of Twitter Threads, via Twitter Blue, will encourage people to write more threads on Twitter instead of publishing a blog post. I’m not sure that I like the trend here. \n",
+				"date_published": "2021-06-03T11:45:39-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/03/better-reading-experience.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/02/certainly-a-massive.html",
+				"title": "Certainly a massive leak... (#apple #iphone13)",
+				"content_html": "<p>This CAD view of the iPhone 13 shows a bigger than usual camera assembly on the front of the iPhone. It&rsquo;s massive. Not sure what to make out of this leak. Good news for photography enthusiasts?</p>\n\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/75336b9afb.jpg\" width=\"600\" height=\"248\" alt=\"\" /></p>\n",
+				"content_text": "This CAD view of the iPhone 13 shows a bigger than usual camera assembly on the front of the iPhone. It's massive. Not sure what to make out of this leak. Good news for photography enthusiasts? \n\n<img src=\"https://numericcitizen.micro.blog/uploads/2021/75336b9afb.jpg\" width=\"600\" height=\"248\" alt=\"\" />\n",
+				"date_published": "2021-06-02T17:31:09-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/02/certainly-a-massive.html",
+				"tags": ["Apple","Photography","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/02/one-wwdc-wish.html",
+				"title": "One WWDC wish: bring back that loupe! (#apple #wwdc #wwdc21)",
+				"content_html": "<p>Don’t you find it weird and contradictory to see Apple investing so much in accessibility features at the operating system level yet they thought it was a good idea to remove the loupe in text selection interactions? Is this a typical “one team not talking to the other”? Please, Apple, bring back the loop in iOS 15. Thanks.</p>\n",
+				"content_text": "Don’t you find it weird and contradictory to see Apple investing so much in accessibility features at the operating system level yet they thought it was a good idea to remove the loupe in text selection interactions? Is this a typical “one team not talking to the other”? Please, Apple, bring back the loop in iOS 15. Thanks. \n",
+				"date_published": "2021-06-02T07:06:15-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/02/one-wwdc-wish.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/02/another-solid-update.html",
+				"title": "Another solid update to Craft! ",
+				"content_html": "<p>Another <a href=\"https://www.craft.do/whats-new\">solid update</a> to Craft released today. This time, Calendar view was added for those who would like to take daily notes or write meeting notes as this update integrates with Apple&rsquo;s calendars.</p>\n\n<p>If you pay attention to the Craft&rsquo;s update page, you&rsquo;ll see Craft rapidly evolving over time. Who knows what&rsquo;s next for this essential tool in my blogger and writer workflow.</p>\n\n<p>Oh, and Craft has made it to the <a href=\"https://twitter.com/craftdocsapp/status/1399766017061052417?s=21\">Apple Design Awards finalist</a>! Congrats to them!</p>\n",
+				"content_text": "Another [solid update](https://www.craft.do/whats-new) to Craft released today. This time, Calendar view was added for those who would like to take daily notes or write meeting notes as this update integrates with Apple's calendars.\n\nIf you pay attention to the Craft's update page, you'll see Craft rapidly evolving over time. Who knows what's next for this essential tool in my blogger and writer workflow. \n\nOh, and Craft has made it to the [Apple Design Awards finalist](https://twitter.com/craftdocsapp/status/1399766017061052417?s=21)! Congrats to them!\n",
+				"date_published": "2021-06-02T06:31:25-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/02/another-solid-update.html",
+				"tags": ["Misc","Longer posts","Feature posts"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2021/05/31/time-to-move.html",
 				"title": "Time to move off Google Photos I guess (#photography #googlephotos)",
-				"content_html": "<p><a href=\"https://9to5mac.com/2021/05/31/export-google-photos-to-icloud-photos/\">Time is running out</a> to those using and depending on Google Photos for their online photo library storage needs. The free tier is now capped at 15GB for new stuff added. That&rsquo;s small. Why not consider moving to iCloud Photo Library if you are already invested into Apple ecosystem? And, if privacy protection is something you care about, now is the best time to switch.</p>\n\n<p><img src=\"uploads/2021/bdc63e069f.jpg\" width=\"600\" height=\"295\" alt=\"\" /></p>\n",
-				"content_text": "[Time is running out](https://9to5mac.com/2021/05/31/export-google-photos-to-icloud-photos/) to those using and depending on Google Photos for their online photo library storage needs. The free tier is now capped at 15GB for new stuff added. That's small. Why not consider moving to iCloud Photo Library if you are already invested into Apple ecosystem? And, if privacy protection is something you care about, now is the best time to switch.\n\n<img src=\"uploads/2021/bdc63e069f.jpg\" width=\"600\" height=\"295\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://9to5mac.com/2021/05/31/export-google-photos-to-icloud-photos/\">Time is running out</a> to those using and depending on Google Photos for their online photo library storage needs. The free tier is now capped at 15GB for new stuff added. That&rsquo;s small. Why not consider moving to iCloud Photo Library if you are already invested into Apple ecosystem? And, if privacy protection is something you care about, now is the best time to switch.</p>\n\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/bdc63e069f.jpg\" width=\"600\" height=\"295\" alt=\"\" /></p>\n",
+				"content_text": "[Time is running out](https://9to5mac.com/2021/05/31/export-google-photos-to-icloud-photos/) to those using and depending on Google Photos for their online photo library storage needs. The free tier is now capped at 15GB for new stuff added. That's small. Why not consider moving to iCloud Photo Library if you are already invested into Apple ecosystem? And, if privacy protection is something you care about, now is the best time to switch.\n\n<img src=\"https://numericcitizen.micro.blog/uploads/2021/bdc63e069f.jpg\" width=\"600\" height=\"295\" alt=\"\" />\n",
 				"date_published": "2021-05-31T17:17:58-04:00",
 				"url": "https://numericcitizen.micro.blog/2021/05/31/time-to-move.html",
 				"tags": ["Photography","Longer posts","Feature posts"]
@@ -18,8 +126,8 @@
 			{
 				"id": "http://numericcitizen.micro.blog/2021/05/30/aaaaaah-the-joy.html",
 				
-				"content_html": "<p>Aaaaaah the joy of RAW photo processing.</p>\n\n<p><img src=\"uploads/2021/964da34b31.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
-				"content_text": "Aaaaaah the joy of RAW photo processing. \n\n<img src=\"uploads/2021/964da34b31.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
+				"content_html": "<p>Aaaaaah the joy of RAW photo processing.</p>\n\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/964da34b31.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
+				"content_text": "Aaaaaah the joy of RAW photo processing. \n\n<img src=\"https://numericcitizen.micro.blog/uploads/2021/964da34b31.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
 				"date_published": "2021-05-30T17:47:44-04:00",
 				"url": "https://numericcitizen.micro.blog/2021/05/30/aaaaaah-the-joy.html",
 				"tags": ["Photography"]
