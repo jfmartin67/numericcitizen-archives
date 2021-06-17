@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2021/06/16/is-your-iphone.html",
+				"title": "Is your iPhone really yours? ",
+				"content_html": "<blockquote>\n<p>But the thread running through everything was that <strong>if you buy an Apple device, it&rsquo;s yours.</strong> And it&rsquo;s you. And if you buy, well, anything else, you&rsquo;re just a slab of meat holding a slab of glass through which the internet will manipulate and extract data from you any way it wants. So, yeah, the garden&rsquo;s walls may be high, but Apple says that&rsquo;s only to keep you safe.</p>\n</blockquote>\n\n<p>— David PierceSource: <a href=\"https://www.protocol.com/newsletters/sourcecode/wwdc-apple-privacy?rebelltitem=5#rebelltitem5\">Apple defends the walled garden - Protocol — The people, power and politics of tech</a></p>\n\n<p>Many would argue the since you cannot install apps from outside the App Store, your iPhone isn&rsquo;t really yours. Others would argue that since you don&rsquo;t have a choice but go to Apple to get &ldquo;your&rdquo; iPhone repaired, your iPhone isn&rsquo;t really yours. what is &ldquo;your&rdquo; take on this?</p>\n",
+				"content_text": "> But the thread running through everything was that **if you buy an Apple device, it's yours.** And it's you. And if you buy, well, anything else, you're just a slab of meat holding a slab of glass through which the internet will manipulate and extract data from you any way it wants. So, yeah, the garden's walls may be high, but Apple says that's only to keep you safe.\r\n\r\n— David PierceSource: [Apple defends the walled garden - Protocol — The people, power and politics of tech](https://www.protocol.com/newsletters/sourcecode/wwdc-apple-privacy?rebelltitem=5#rebelltitem5)\r\n\r\nMany would argue the since you cannot install apps from outside the App Store, your iPhone isn't really yours. Others would argue that since you don't have a choice but go to Apple to get \"your\" iPhone repaired, your iPhone isn't really yours. what is \"your\" take on this?\n",
+				"date_published": "2021-06-16T21:47:40-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/16/is-your-iphone.html",
+				"tags": ["Apple","Privacy","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/15/app-clip-can.html",
+				"title": "App Clip can be really cool",
+				"content_html": "<p>I’m a bit late to the party but <a href=\"https://www.macrumors.com/2021/05/17/apple-watch-pride-band-app-clip/\">this use of Apple’s App Clip technology is clever</a>: point your iPhone to the Apple Watch band package, an App Clip will pop up on your phone to help you get the matching Watch Face. Cool. Great case of Apple eating its own dog food, and showing a great integration experience.</p>\n\n<p><img src=\"uploads/2021/2d599fa9b1.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "I’m a bit late to the party but [this use of Apple’s App Clip technology is clever](https://www.macrumors.com/2021/05/17/apple-watch-pride-band-app-clip/): point your iPhone to the Apple Watch band package, an App Clip will pop up on your phone to help you get the matching Watch Face. Cool. Great case of Apple eating its own dog food, and showing a great integration experience.\n\n<img src=\"uploads/2021/2d599fa9b1.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2021-06-15T20:03:49-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/15/app-clip-can.html",
+				"tags": ["Apple","Photography","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/15/michael-tsai-on.html",
+				"title": "Michael Tsai: On macOS Big Sur lingering issues",
+				"content_html": "<p><a href=\"https://mjtsai.com/blog/2021/05/24/remaining-issues-in-big-sur/\">This blog post</a> from Michael Tsai paints a very terrible picture of macOS Big Sur. Unstable, weird design decisions, lot’s of issues in Apple’s Mail, etc. Sounds like the worst macOS incarnation of all time. Personnally, I don’t experience many issues with macOS Big Sur, but I do feel it’s a weird design overall. The next release, macOS Montery, doesn’t appear to fix bad design choices… I’m thinking about widgets handling and notifications dismissal.</p>\n",
+				"content_text": "[This blog post](https://mjtsai.com/blog/2021/05/24/remaining-issues-in-big-sur/) from Michael Tsai paints a very terrible picture of macOS Big Sur. Unstable, weird design decisions, lot’s of issues in Apple’s Mail, etc. Sounds like the worst macOS incarnation of all time. Personnally, I don’t experience many issues with macOS Big Sur, but I do feel it’s a weird design overall. The next release, macOS Montery, doesn’t appear to fix bad design choices… I’m thinking about widgets handling and notifications dismissal.\n",
+				"date_published": "2021-06-15T19:57:54-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/15/michael-tsai-on.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/15/another-exciting-update.html",
+				
+				"content_html": "<p>Another exciting update coming this fall is Apple’s Maps data. <a href=\"https://www.justinobeirne.com/apple-maps-redesign-screenshots\">This site</a> carefully documents what’s new, what’s updated. Really well done. Day and night difference. Nice updated typography. Some features are available on more capable devices. Is this new?</p>\n",
+				"content_text": "Another exciting update coming this fall is Apple’s Maps data. [This site](https://www.justinobeirne.com/apple-maps-redesign-screenshots) carefully documents what’s new, what’s updated. Really well done. Day and night difference. Nice updated typography. Some features are available on more capable devices. Is this new?\n",
+				"date_published": "2021-06-15T19:51:16-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/15/another-exciting-update.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/15/macos-monterey-looks.html",
+				
+				"content_html": "<p>macOS Monterey looks more and more exciting each day. Can’t wait for <a href=\"https://www.pixelmator.com/blog/2021/06/14/pixelmator-pro-and-the-new-shortcuts-app/\">this update</a> from the makers of Pixelmator Pro. I can see two of my Automator scripts that will easily migrate to Shortcuts this fall.</p>\n\n<p><img src=\"uploads/2021/e485bee9bf.png\" width=\"600\" height=\"307\" alt=\"\" /></p>\n",
+				"content_text": "macOS Monterey looks more and more exciting each day. Can’t wait for [this update](https://www.pixelmator.com/blog/2021/06/14/pixelmator-pro-and-the-new-shortcuts-app/) from the makers of Pixelmator Pro. I can see two of my Automator scripts that will easily migrate to Shortcuts this fall. \n\n<img src=\"uploads/2021/e485bee9bf.png\" width=\"600\" height=\"307\" alt=\"\" />\n",
+				"date_published": "2021-06-15T19:45:02-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/15/macos-monterey-looks.html",
+				"tags": ["Apple","Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/14/focus-a-game.html",
+				"title": "Focus — A Game changer feature in experiencing Apple devices?",
+				"content_html": "<p>The more I read and learn about the <a href=\"https://techcrunch.com/2021/06/07/apple-refines-ios-15-notifications-with-focus-summary-features/\">upcoming “Focus” feature</a> in Apple’s upcoming OS updates, the more I think it could be a transformative feature in experiencing Apple’s devices. The combinaison of notifications and home page configurations assigned to each focus mode has powerful implications. Even though I’m not on the beta train right now, I’m already at work designing the different focus modes I plan to use on my devices. As you might expect, I’ll be writing a detailed blog post about this in the future.</p>\n",
+				"content_text": "The more I read and learn about the [upcoming “Focus” feature](https://techcrunch.com/2021/06/07/apple-refines-ios-15-notifications-with-focus-summary-features/) in Apple’s upcoming OS updates, the more I think it could be a transformative feature in experiencing Apple’s devices. The combinaison of notifications and home page configurations assigned to each focus mode has powerful implications. Even though I’m not on the beta train right now, I’m already at work designing the different focus modes I plan to use on my devices. As you might expect, I’ll be writing a detailed blog post about this in the future. \n",
+				"date_published": "2021-06-14T08:02:23-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/14/focus-a-game.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/14/a-few-words.html",
+				
+				"content_html": "<p>A few words to help you get a peek on what I&rsquo;m working on right now: Toggl. Focused Work.</p>\n",
+				"content_text": "A few words to help you get a peek on what I'm working on right now: Toggl. Focused Work. \n",
+				"date_published": "2021-06-14T07:00:10-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/14/a-few-words.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/11/tomorrow-ill-go.html",
+				
+				"content_html": "<p>Tomorrow I&rsquo;ll go to an Apple Store to pay a visit to the Genius Bar for a repair. My last visit goes back to more than a year. I may feel disoriented. 😳 I&rsquo;ll have a look at the iMac! And the iPhone 12 Pro! And the Mac Pro! And….</p>\n",
+				"content_text": "Tomorrow I'll go to an Apple Store to pay a visit to the Genius Bar for a repair. My last visit goes back to more than a year. I may feel disoriented. 😳 I'll have a look at the iMac! And the iPhone 12 Pro! And the Mac Pro! And….\n",
+				"date_published": "2021-06-11T07:36:13-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/11/tomorrow-ill-go.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/10/facetime-in-ios.html",
+				
+				"content_html": "<p>FaceTime in iOS 15: too little too late? <a href=\"https://www.macworld.com/article/348388/facetime-learns-lessons-from-the-pandemic-but-is-it-too-late.html\">Maybe.</a> At least, FaceTime is better positioned as a videoconference platform for the next pandemic. Because, you know, one day, there will be another one.</p>\n\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/12f1351745.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "FaceTime in iOS 15: too little too late? [Maybe.](https://www.macworld.com/article/348388/facetime-learns-lessons-from-the-pandemic-but-is-it-too-late.html) At least, FaceTime is better positioned as a videoconference platform for the next pandemic. Because, you know, one day, there will be another one.\n\n\n<img src=\"https://numericcitizen.micro.blog/uploads/2021/12f1351745.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2021-06-10T07:20:46-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/10/facetime-in-ios.html",
+				"tags": ["Apple","Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/10/the-change-that.html",
+				"title": "The change that didn’t came (#apple #wwdc21 #developers)",
+				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/f5e52c4466.png\" alt=\"\" /></p>\n\n<p>This take from Gruber “<a href=\"https://daringfireball.net/2021/06/app_store_the_schiller_cut\">App Store: The Schiller Cut</a>” has a sour taste following the WWDC keynote and Platforms state of the union. Did Apple announce something this week to appease developers relations? Nope. Will they announce something in the coming weeks in regard to App Store commissions? Who knows. If they do, they will do it in a position of weakness:</p>\n\n<blockquote>\n<p>If someday down the road we will be changing 70/30, then I think the question moves from “if” to “when” and “how”. I’m not suggesting we do anything differently today, only that whenever we make a change we do it from a position of strength rather than weakness. That we use any such change to our advantage if possible. And thinking about this long in advance can only help to look at an eventual change as an opportunity (with developers, press, customers, etc). — Phil Schiller in 2011</p>\n</blockquote>\n\n<p>They missed the opportunity this year. Apple is in a weak position and I don’t see how this could change anytime soon.</p>\n",
+				"content_text": "![](https://numericcitizen.micro.blog/uploads/2021/f5e52c4466.png)\n\nThis take from Gruber “[App Store: The Schiller Cut](https://daringfireball.net/2021/06/app_store_the_schiller_cut)” has a sour taste following the WWDC keynote and Platforms state of the union. Did Apple announce something this week to appease developers relations? Nope. Will they announce something in the coming weeks in regard to App Store commissions? Who knows. If they do, they will do it in a position of weakness:\n\n> If someday down the road we will be changing 70/30, then I think the question moves from “if” to “when” and “how”. I’m not suggesting we do anything differently today, only that whenever we make a change we do it from a position of strength rather than weakness. That we use any such change to our advantage if possible. And thinking about this long in advance can only help to look at an eventual change as an opportunity (with developers, press, customers, etc). — Phil Schiller in 2011\n\nThey missed the opportunity this year. Apple is in a weak position and I don’t see how this could change anytime soon. \n\n",
+				"date_published": "2021-06-10T07:09:49-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/10/the-change-that.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/06/09/thats-clever-apple.html",
+				"title": "That’s clever, Apple.",
+				"content_html": "<blockquote>\n<p>To run an internal version of iOS, each employee must first install a special profile on the device — just as we do for downloading beta versions. However, each profile sent to employees determines which of these features will be enabled for each person working on new versions of iOS and possibly other Apple operating systems as well.</p>\n</blockquote>\n\n<p>Source: <a href=\"https://9to5mac.com/2021/06/09/apple-doubles-down-on-secrecy-with-a-new-way-to-hide-ios-15-features-from-engineers/\">Apple doubles down on secrecy with a new way to hide iOS 15 features from engineers - 9to5Mac</a></p>\n",
+				"content_text": "> To run an internal version of iOS, each employee must first install a special profile on the device — just as we do for downloading beta versions. However, each profile sent to employees determines which of these features will be enabled for each person working on new versions of iOS and possibly other Apple operating systems as well.\r\n\r\nSource: [Apple doubles down on secrecy with a new way to hide iOS 15 features from engineers - 9to5Mac](https://9to5mac.com/2021/06/09/apple-doubles-down-on-secrecy-with-a-new-way-to-hide-ios-15-features-from-engineers/)\n",
+				"date_published": "2021-06-09T21:30:53-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/06/09/thats-clever-apple.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2021/06/08/time-to-move.html",
 				"title": "Time to move off Apple’s Intel iMac? (#apple #adobe #lightroomclassic #applesilicon)",
 				"content_html": "<p>With Adobe finally releasing Lightroom Classic for Apple Silicon Macs, This could enable me to move off my 2017 21.5” Intel Mac for once. The prospect of Lightroom catalogs and data migration is not enchanting though. There the issues of plugins migration too. Is it time for me to go all-in cloud with Lightroom CC only? Not sure it is the right time either.</p>\n\n<p>I have a few incentives for selling my iMac: one being to help me finance a shiny new 2021 12.9” iPad Pro with 1 TB of RAM. This could serve as my iPadOS 15 test bed for the second half of summer. I still have quite some time to think about all this as these devices are back-ordered for at least the second half of July.</p>\n\n<p>You thoughts?</p>\n",
@@ -45,8 +144,8 @@
 			{
 				"id": "http://numericcitizen.micro.blog/2021/06/06/its-always-fun.html",
 				
-				"content_html": "<p>It&rsquo;s always fun to re-watch a previous Apple Event. Just did the Spring Loaded one and used CleanShot to capture the best moments creating a library of 260 shots, all stored in Synology Photos, ready to be used, just in case. Tech is fun.</p>\n\n<p><img src=\"uploads/2021/390138d5dd.jpg\" width=\"600\" height=\"410\" alt=\"\" /></p>\n",
-				"content_text": "It's always fun to re-watch a previous Apple Event. Just did the Spring Loaded one and used CleanShot to capture the best moments creating a library of 260 shots, all stored in Synology Photos, ready to be used, just in case. Tech is fun. \n\n<img src=\"uploads/2021/390138d5dd.jpg\" width=\"600\" height=\"410\" alt=\"\" />\n",
+				"content_html": "<p>It&rsquo;s always fun to re-watch a previous Apple Event. Just did the Spring Loaded one and used CleanShot to capture the best moments creating a library of 260 shots, all stored in Synology Photos, ready to be used, just in case. Tech is fun.</p>\n\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/390138d5dd.jpg\" width=\"600\" height=\"410\" alt=\"\" /></p>\n",
+				"content_text": "It's always fun to re-watch a previous Apple Event. Just did the Spring Loaded one and used CleanShot to capture the best moments creating a library of 260 shots, all stored in Synology Photos, ready to be used, just in case. Tech is fun. \n\n<img src=\"https://numericcitizen.micro.blog/uploads/2021/390138d5dd.jpg\" width=\"600\" height=\"410\" alt=\"\" />\n",
 				"date_published": "2021-06-06T08:48:36-04:00",
 				"url": "https://numericcitizen.micro.blog/2021/06/06/its-always-fun.html",
 				"tags": ["Apple","Photography"]
