@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2021/09/02/a-typical-month.html",
+				"title": "A typical month on Substack",
+				"content_html": "<p>Five publications each month. Four Friday notes posts, one monthly newsletter. Some new subscribers. No comments. A lot of fun at writing and publishing these posts. I&rsquo;m writing for myself. I don&rsquo;t feel the pressure of regular writing schedules. It&rsquo;s easier than I thought. The more I do it, easier it becomes. Substack is a slowly evolving publishing platform. I wish it was a bit more like Twitter&rsquo;s Revue. Anyways. <a href=\"https://numericcitizen.substack.com\">https://numericcitizen.substack.com</a>.</p>\n\n<p><img src=\"uploads/2021/355660c348.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Five publications each month. Four Friday notes posts, one monthly newsletter. Some new subscribers. No comments. A lot of fun at writing and publishing these posts. I'm writing for myself. I don't feel the pressure of regular writing schedules. It's easier than I thought. The more I do it, easier it becomes. Substack is a slowly evolving publishing platform. I wish it was a bit more like Twitter's Revue. Anyways. [https://numericcitizen.substack.com](https://numericcitizen.substack.com). \n\n<img src=\"uploads/2021/355660c348.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-02T07:16:34-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/09/02/a-typical-month.html",
+				"tags": ["Photography","Blogging","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/08/31/and-so-it.html",
+				"title": "And so it begins. What's next?",
+				"content_html": "<p>According to the Wall Street Journal:</p>\n\n<blockquote>\n<p>South Korea today passed a bill that bans Apple and Google from requiring developers to use their own respective in-app purchasing systems, allowing developers to charge users using third-party payment methods</p>\n</blockquote>\n\n<p>Now what? How will Apple respond? Will they create a different version of iOS for South Korea? Can they simply appeal this law, if such a thing is possible? How is this going to help other countries and parties to go after Apple&rsquo;s practices? How much time will Apple be given to change its practices? Three months? A year? South Korea is probably a small market for Apple compared to other places in the world, but this new law seems like a tsunami in the making.</p>\n\n<p><img src=\"uploads/2021/b2fcea4bb6.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "According to the Wall Street Journal:\n\n> South Korea today passed a bill that bans Apple and Google from requiring developers to use their own respective in-app purchasing systems, allowing developers to charge users using third-party payment methods\n\nNow what? How will Apple respond? Will they create a different version of iOS for South Korea? Can they simply appeal this law, if such a thing is possible? How is this going to help other countries and parties to go after Apple's practices? How much time will Apple be given to change its practices? Three months? A year? South Korea is probably a small market for Apple compared to other places in the world, but this new law seems like a tsunami in the making. \n\n\n<img src=\"uploads/2021/b2fcea4bb6.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2021-08-31T06:37:55-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/08/31/and-so-it.html",
+				"tags": ["Apple","Photography","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/08/29/i-spend-between.html",
+				
+				"content_html": "<p>I spend between 4 to 5 hours each month to put together my <a href=\"https://numericcitizen.substack.com\">Numeric Citizen Introspection newsletter</a>.</p>\n",
+				"content_text": "I spend between 4 to 5 hours each month to put together my [Numeric Citizen Introspection newsletter](https://numericcitizen.substack.com). \n",
+				"date_published": "2021-08-29T15:37:27-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/08/29/i-spend-between.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/08/29/im-mostly-done.html",
+				
+				"content_html": "<p>I&rsquo;m mostly done with my next issue of <strong><a href=\"https://numericcitizen.substack.com\">The Numeric Citizen Introspection</a></strong> newsletter. Get ready to get it in your inbox, subscribe, it&rsquo;s FREE. It&rsquo;s the best way for you to show support! Even better, share the word about it if you already are subscribed! Thanks! 👍🏻</p>\n",
+				"content_text": "I'm mostly done with my next issue of **[The Numeric Citizen Introspection](https://numericcitizen.substack.com)** newsletter. Get ready to get it in your inbox, subscribe, it's FREE. It's the best way for you to show support! Even better, share the word about it if you already are subscribed! Thanks! 👍🏻\n",
+				"date_published": "2021-08-29T10:16:46-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/08/29/im-mostly-done.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/08/28/on-apples-m.html",
+				"title": "On Apple's M1 MacBook Air energy efficiency",
+				"content_html": "<p>Funny and fascinating to see that 95% of the time, the four energy-efficient CPU cores are doing all the legwork on my M1 MacBook Air. I rarely see the performance cores doing work for a long time.</p>\n\n<p><img src=\"uploads/2021/ae88da2297.jpg\" width=\"600\" height=\"239\" alt=\"\" /></p>\n",
+				"content_text": "Funny and fascinating to see that 95% of the time, the four energy-efficient CPU cores are doing all the legwork on my M1 MacBook Air. I rarely see the performance cores doing work for a long time. \n\n<img src=\"uploads/2021/ae88da2297.jpg\" width=\"600\" height=\"239\" alt=\"\" />\n",
+				"date_published": "2021-08-28T08:28:25-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/08/28/on-apples-m.html",
+				"tags": ["Apple","Photography","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2021/08/28/while-waiting-for.html",
+				"title": "While waiting for iCloud Private Relay...",
+				"content_html": "<p>I&rsquo;m using <a href=\"https://nextdns.io\">NextDNS.io</a> for a better web experience&hellip; not the same but it does a great job of making the web more privacy friendly and a lot faster too. Too bad that we will have to wait for iOS 15.1 or later for iCloud Private Relay. <a href=\"https://daringfireball.net/linked/2021/08/25/icloud-public-beta-will-launch-as-beta\">Each year there are features that get dropped from the initial release</a>&hellip; remember iMessage in the cloud, anyone?</p>\n",
+				"content_text": "I'm using [NextDNS.io](https://nextdns.io) for a better web experience... not the same but it does a great job of making the web more privacy friendly and a lot faster too. Too bad that we will have to wait for iOS 15.1 or later for iCloud Private Relay. [Each year there are features that get dropped from the initial release](https://daringfireball.net/linked/2021/08/25/icloud-public-beta-will-launch-as-beta)... remember iMessage in the cloud, anyone?\n",
+				"date_published": "2021-08-28T07:57:25-04:00",
+				"url": "https://numericcitizen.micro.blog/2021/08/28/while-waiting-for.html",
+				"tags": ["Apple","Privacy","Longer posts","Feature posts"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2021/08/26/late-to-the.html",
 				"title": "Late to the party, but...",
-				"content_html": "<p>Just got this yesterday. You know what this mean, right? Well, maybe not. Anyway, I&rsquo;m a bit late to the MacBook Air party, but this thing is probably THE best Mac Apple ever made. It&rsquo;s not the best Air Apple ever made, though. A tad too big probably, yet so powerful. And this keyboard&hellip; a real and trusty keyboard. 🥰</p>\n\n<p>I&rsquo;m working on an essay about my new adventure in the MacBook Air land. Stay tuned.</p>\n\n<p><img src=\"uploads/2021/c84b8941f0.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "Just got this yesterday. You know what this mean, right? Well, maybe not. Anyway, I'm a bit late to the MacBook Air party, but this thing is probably THE best Mac Apple ever made. It's not the best Air Apple ever made, though. A tad too big probably, yet so powerful. And this keyboard... a real and trusty keyboard. 🥰\n\nI'm working on an essay about my new adventure in the MacBook Air land. Stay tuned. \n\n<img src=\"uploads/2021/c84b8941f0.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>Just got this yesterday. You know what this mean, right? Well, maybe not. Anyway, I&rsquo;m a bit late to the MacBook Air party, but this thing is probably THE best Mac Apple ever made. It&rsquo;s not the best Air Apple ever made, though. A tad too big probably, yet so powerful. And this keyboard&hellip; a real and trusty keyboard. 🥰</p>\n\n<p>I&rsquo;m working on an essay about my new adventure in the MacBook Air land. Stay tuned.</p>\n\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2021/c84b8941f0.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Just got this yesterday. You know what this mean, right? Well, maybe not. Anyway, I'm a bit late to the MacBook Air party, but this thing is probably THE best Mac Apple ever made. It's not the best Air Apple ever made, though. A tad too big probably, yet so powerful. And this keyboard... a real and trusty keyboard. 🥰\n\nI'm working on an essay about my new adventure in the MacBook Air land. Stay tuned. \n\n<img src=\"https://numericcitizen.micro.blog/uploads/2021/c84b8941f0.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-08-26T06:40:10-04:00",
 				"url": "https://numericcitizen.micro.blog/2021/08/26/late-to-the.html",
 				"tags": ["Apple","Photography","Longer posts","Feature posts"]
