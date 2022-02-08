@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2022/02/08/writeas-why-am.html",
+				
+				"content_html": "<p><a href=\"https://write.as\">Write.as</a>. Why am I looking at Write.as now? Aren&rsquo;t WordPress, Micro.blog, Ghost and Blot enough already? Is this a disease? I like the concept of Write.as, but the lack of any native apps bugs me a lot. There is a deal right now running through Feb 16th. Gosh.</p>\n",
+				"content_text": "[Write.as](https://write.as). Why am I looking at Write.as now? Aren't WordPress, Micro.blog, Ghost and Blot enough already? Is this a disease? I like the concept of Write.as, but the lack of any native apps bugs me a lot. There is a deal right now running through Feb 16th. Gosh. \n",
+				"date_published": "2022-02-08T18:32:35-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/08/writeas-why-am.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/04/apple-is-clearly.html",
+				
+				"content_html": "<p>Apple is clearly crossing the red line here IMHO. They are being disingenuous.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Apple is clearly crossing the red line here IMHO. They are being disingenuous.\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Manton Reece\" data-avatar=\"https://micro.blog/manton/avatar.jpg\" cite=\"https://www.manton.org/2022/02/04/these-guidelines-from.html\"><p><a href=\"https://developer.apple.com/support/storekit-external-entitlement/\">These guidelines from Apple</a> about external payments are even worse than I expected. So many hoops to jump through, and a ridiculous 27% fee. No one is going to go along with this, which means it doesn’t relieve any regulatory pressure on Apple. Burning more developer trust.</p>\r\n<footer>Manton Reece <cite><a href=\"https://www.manton.org/2022/02/04/these-guidelines-from.html\">https://www.manton.org/2022/02/04/these-guidelines-from.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2022-02-04T11:06:11-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/04/apple-is-clearly.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/04/for-more-personal.html",
+				
+				"content_html": "<p>For (more) personal stories of mine, here is the place to go.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "For (more) personal stories of mine, here is the place to go.\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Numeric Citizen\" data-avatar=\"https://micro.blog/numericcitizen/avatar.jpg\" cite=\"https://numericcitizen-introspection.blog/friday-notes-61-knowing-our-parents/\">Friday Notes #61 — Knowing Our Parents <a href=\"https://numericcitizen-introspection.blog/friday-notes-61-knowing-our-parents/\">numericcitizen-introspection.blog</a><footer>Numeric Citizen <cite><a href=\"https://numericcitizen-introspection.blog/friday-notes-61-knowing-our-parents/\">https://numericcitizen-introspection.blog/friday-notes-61-knowing-our-parents/</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2022-02-04T10:07:21-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/04/for-more-personal.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/02/im-mostly-done.html",
+				
+				"content_html": "<p>I&rsquo;m mostly done with my love letter to <strong>Cleanshot</strong>, a screen grabber utility for the Mac (See <a href=\"https://cloud.numericcitizen.me/euHoYG\">About Box here</a> on Cleanshot Cloud). I&rsquo;m close to 500 words. I should be paid for doing this. Oh well&hellip; what passion can make us do&hellip;</p>\n",
+				"content_text": "I'm mostly done with my love letter to **Cleanshot**, a screen grabber utility for the Mac (See [About Box here](https://cloud.numericcitizen.me/euHoYG) on Cleanshot Cloud). I'm close to 500 words. I should be paid for doing this. Oh well... what passion can make us do...\n",
+				"date_published": "2022-02-02T07:31:27-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/02/im-mostly-done.html",
+				"tags": ["Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/01/on-december-th.html",
+				
+				"content_html": "<p><a href=\"https://numericcitizen.micro.blog/2019/12/18/now-that-im.html\">On December 18th of 2019</a>, Here&rsquo;s what I wrote on Micro.blog:</p>\n<blockquote>\n<p>Now that I’m closing my account here on micro.blog I’m starting to get more interactions 🤷🏻‍♂️.</p>\n</blockquote>\n<p>The responses I got were so enlightening, I changed my mind.  What a great community. 😀</p>\n",
+				"content_text": "[On December 18th of 2019](https://numericcitizen.micro.blog/2019/12/18/now-that-im.html), Here's what I wrote on Micro.blog:\r\n>Now that I’m closing my account here on micro.blog I’m starting to get more interactions 🤷🏻‍♂️.\r\n\r\nThe responses I got were so enlightening, I changed my mind.  What a great community. 😀\n",
+				"date_published": "2022-02-01T20:06:13-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/01/on-december-th.html",
+				"tags": ["Blogging"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/01/30/from-apples-airport.html",
 				"title": "From Apple’s AirPort Exterme to Ubiquiti’s Amplify HD",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/c5e5562e3a.jpg\" alt=\"\"></p>\n<p>As reported in <a href=\"https://numericcitizen.micro.blog/2022/01/30/replacing-another-aging.html\">my previous blog post</a>, I had a chance to perform a “tech refresh” of my sister’s WiFi installation at her house. <a href=\"https://numericcitizen.me/2020/06/21/replacing-an-airport-extreme-with-unifi-dream-machine/\">As a satisfied user of Ubiquiti product</a>, the Dream Machine, I suggested to go with a lower end model, the <strong><em>Amplify HD</em></strong>. She has a big two levels home, with numerous rooms that poses a challenge for good wireless connectivity. It was a delightful experience, from the unpacking to final configuration. It’s a beautiful device with an informative display.</p>\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/f1d52704eb.jpg\" alt=\"\"></p>\n<p>The setup was simple. Turning off the AirPort Express after taking note of the SSID, so I could reuse it with the same password. This prevents the reconfiguration of every device connecting to the WiFi with an already known SSID-password combination. After the initial power up sequence, the router will ask the user to download the configuration application from the App Store. An account has to be created with Ubiquity. Thankfully, Sign In with Apple is available.</p>\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/09a8811bed.jpg\" alt=\"\"></p>\n<p>The next phase happens on the iPhone with an initial discovery over Bluetooth. The setup process is quick and flawless. As expected, a firmware update was waiting to be applied. During the update process, it was the right rime to deploy the two WiFi extenders, in strategic places where the WiFi signals used to be weak. Once completed, I could name each devices with a more meaningful name, to represent where were each device. All in all, the process took less than 30 minutes. It’s a very Apple-like experience. The following table shows the situation before and after the new router. Numbers speaks for themselves.</p>\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/9e987d0e1c.png\" alt=\"\"></p>\n<p>Mission accomplished. Another happy customer. I came back with the old AirPort Extreme. No idea what to do with it.</p>\n",
