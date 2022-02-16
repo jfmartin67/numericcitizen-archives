@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2022/02/13/my-oldest-post.html",
+				"title": "My Oldest Post",
+				"content_html": "<p>Going back in time on previously published content can be the source of a few smiles. <a href=\"https://numericcitizen.me/2018/10/13/the-return-of-micro-blogging/\">My oldest post</a> on my main blog is about Micro.blog. Here is an excerpt:</p>\n<blockquote>\n<p>This morning I found out the existence of a blogging platform called Micro.blog. Something very special. Very lean. Very light. Without ads. Leaner than WordPress. Yet capable. Close to Twitter but with less clutter.</p>\n</blockquote>\n<p>It’s funny. It’s not about introducing my blog or something like “hello” world.</p>\n",
+				"content_text": "Going back in time on previously published content can be the source of a few smiles. [My oldest post](https://numericcitizen.me/2018/10/13/the-return-of-micro-blogging/) on my main blog is about Micro.blog. Here is an excerpt:\n\n> This morning I found out the existence of a blogging platform called Micro.blog. Something very special. Very lean. Very light. Without ads. Leaner than WordPress. Yet capable. Close to Twitter but with less clutter. \n\nIt’s funny. It’s not about introducing my blog or something like “hello” world. \n\n",
+				"date_published": "2022-02-13T18:00:50-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/13/my-oldest-post.html",
+				"tags": ["Blogging","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/13/challenge-of-the.html",
+				"title": "Challenge of the day: exporting posts from WordPress to Ghost",
+				"content_html": "<p>Well, well, well, it seems that data portability among CMS is an issue. Who knew! I&rsquo;m trying to find an easy way to move a few posts from my <a href=\"https://numericcitizen.me\">WordPress blog</a> into my <a href=\"https://numericcitizen-introspection.blog\">Ghost website</a>. Exporting data from WordPress seems like an all-or-nothing situation. There are a few plugins available for this. The problem is that the content isn&rsquo;t easily imported into Ghost. The latter does have a plugin, but it doesn&rsquo;t support selecting posts. I don&rsquo;t want to do this manually.</p>\n<p>Any idea or suggestions?</p>\n",
+				"content_text": "Well, well, well, it seems that data portability among CMS is an issue. Who knew! I'm trying to find an easy way to move a few posts from my [WordPress blog](https://numericcitizen.me) into my [Ghost website](https://numericcitizen-introspection.blog). Exporting data from WordPress seems like an all-or-nothing situation. There are a few plugins available for this. The problem is that the content isn't easily imported into Ghost. The latter does have a plugin, but it doesn't support selecting posts. I don't want to do this manually. \r\n\r\nAny idea or suggestions?\n",
+				"date_published": "2022-02-13T07:51:55-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/13/challenge-of-the.html",
+				"tags": ["Misc","Longer posts","Services","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/11/please-dont-think.html",
+				
+				"content_html": "<p>Please, don&rsquo;t think that because I&rsquo;m now subscribing to <strong>write.as</strong> that I&rsquo;m leaving <strong>Micro.blog</strong>. It couldn&rsquo;t be farther than the truth. You&rsquo;re pretty much stuck with me here, for as long as I can see! ☺️</p>\n",
+				"content_text": "Please, don't think that because I'm now subscribing to **write.as** that I'm leaving **Micro.blog**. It couldn't be farther than the truth. You're pretty much stuck with me here, for as long as I can see! ☺️\n",
+				"date_published": "2022-02-11T13:07:07-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/11/please-dont-think.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/10/health-of-developer.html",
+				"title": "Health of Developer Relations with Apple in Free Fall",
+				"content_html": "<p><img src=\"__uploaded__images__/21trends-developers.png.webp\" alt=\"\"></p>\n<p>According to this year’s <a href=\"https://sixcolors.com/post/2022/02/apple-in-2021-the-six-colors-report-card/\">Six Colors Report Card</a>, relationships between Apple and its developers' community is in terrible shape. The trend isn’t looking good either.</p>\n<blockquote>\n<p>Marco Arment said, “Apple’s tightening grip on App Store fees, attempts to reach into other parts of businesses that they don’t deserve, and extremely entitled and galling statements on the matter continue to be distasteful and extremely damaging to their reputation. It seems like a huge strategic blunder to inflame developer relations, generate bad PR, invite more regulatory scrutiny, and risk governments imposing much worse changes for such a small percentage of their revenue.”</p>\n</blockquote>\n<p>Is Apple still able to read the room temperature, or it is blind because of its financial successes? For once, I think Apple should copy <a href=\"https://blogs.microsoft.com/on-the-issues/2022/02/09/open-app-store-principles-activision-blizzard/\">Microsoft’s leadership</a>.</p>\n",
+				"content_text": "![](__uploaded__images__/21trends-developers.png.webp)\n\nAccording to this year’s [Six Colors Report Card](https://sixcolors.com/post/2022/02/apple-in-2021-the-six-colors-report-card/), relationships between Apple and its developers' community is in terrible shape. The trend isn’t looking good either. \n\n> Marco Arment said, “Apple’s tightening grip on App Store fees, attempts to reach into other parts of businesses that they don’t deserve, and extremely entitled and galling statements on the matter continue to be distasteful and extremely damaging to their reputation. It seems like a huge strategic blunder to inflame developer relations, generate bad PR, invite more regulatory scrutiny, and risk governments imposing much worse changes for such a small percentage of their revenue.”\n\nIs Apple still able to read the room temperature, or it is blind because of its financial successes? For once, I think Apple should copy [Microsoft’s leadership](https://blogs.microsoft.com/on-the-issues/2022/02/09/open-app-store-principles-activision-blizzard/).\n\n",
+				"date_published": "2022-02-10T07:50:55-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/10/health-of-developer.html",
+				"tags": ["Apple","Food for thought","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/09/on-sideloading-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>I&rsquo;d love to get feedback on this subject, from this community, here on MB&hellip;</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Numeric Citizen\" data-avatar=\"https://micro.blog/numericcitizen/avatar.jpg\" cite=\"https://numericcitizen.me/2022/02/09/on-sideloading-on-iphone-its-ok-im-changing-my-mind/\">On Sideloading on iPhone — It’s OK, I’m Changing My Mind <a href=\"https://numericcitizen.me/2022/02/09/on-sideloading-on-iphone-its-ok-im-changing-my-mind/\">numericcitizen.me</a><footer>Numeric Citizen <cite><a href=\"https://numericcitizen.me/2022/02/09/on-sideloading-on-iphone-its-ok-im-changing-my-mind/\">https://numericcitizen.me/2022/02/09/on-sideloading-on-iphone-its-ok-im-changing-my-mind/</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nI'd love to get feedback on this subject, from this community, here on MB... \n",
+				"date_published": "2022-02-09T12:29:02-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/02/09/on-sideloading-on.html",
+				"tags": ["Apple"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/02/08/writeas-why-am.html",
 				
 				"content_html": "<p><a href=\"https://write.as\">Write.as</a>. Why am I looking at Write.as now? Aren&rsquo;t WordPress, Micro.blog, Ghost and Blot enough already? Is this a disease? I like the concept of Write.as, but the lack of any native apps bugs me a lot. There is a deal right now running through Feb 16th. Gosh.</p>\n",
