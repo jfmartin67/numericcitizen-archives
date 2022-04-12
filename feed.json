@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2022/04/12/taking-a-break.html",
+				"title": "Taking a break of many things",
+				"content_html": "<p>If you are wondering what’s up with me, I’m on vacation for a week. I’m not only taking a break from work, my office, but also from blogging. Expect a return to normal programming next week.</p>\n<p>Written on my iPad, somewhere on a sandy beach in Mexico 😃😛</p>\n",
+				"content_text": "If you are wondering what’s up with me, I’m on vacation for a week. I’m not only taking a break from work, my office, but also from blogging. Expect a return to normal programming next week.\n\nWritten on my iPad, somewhere on a sandy beach in Mexico 😃😛\n\n",
+				"date_published": "2022-04-12T12:29:02-04:00",
+				"url": "https://numericcitizen.micro.blog/2022/04/12/taking-a-break.html",
+				"tags": ["Blogging","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/04/04/two-quick-questions.html",
+				
+				"content_html": "<p>Two quick questions: how do you cope with what&rsquo;s happening in Ukraine? Are you watching the news?</p>\n",
+				"content_text": "Two quick questions: how do you cope with what's happening in Ukraine? Are you watching the news?\n",
+				"date_published": "2022-04-04T21:42:00-04:00",
+				"url": "https://numericcitizen.micro.blog/2022/04/04/two-quick-questions.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/04/04/when-apple-pivoted.html",
+				"title": "When Apple Pivoted",
+				"content_html": "<p>Thanks to MacRumors, <a href=\"https://www.macrumors.com/2022/04/04/apple-apology-to-mac-pro-users-five-years-ago/\">as reported today</a>, I didn’t know today was the fifth anniversary of a special meeting between Apple’s top brass and select journalists to talk about Apple’s plans with the pro users and their commitment to the Mac.</p>\n<p>At the time, we didn’t know how serious Apple’s upcoming pivot would be. In retrospective, Apple delivered and then some. It is simply a tour-de-force to flip the Mac product line upside down and bring power efficient, mighty and beautiful Mac designs. The Mac transition to Apple Silicon is probably the most important change to come to the Mac line since its inception in 1984.</p>\n<p>I can’t wait to see what the next ten years will be made of.</p>\n",
+				"content_text": "Thanks to MacRumors, [as reported today](https://www.macrumors.com/2022/04/04/apple-apology-to-mac-pro-users-five-years-ago/), I didn’t know today was the fifth anniversary of a special meeting between Apple’s top brass and select journalists to talk about Apple’s plans with the pro users and their commitment to the Mac.\n\nAt the time, we didn’t know how serious Apple’s upcoming pivot would be. In retrospective, Apple delivered and then some. It is simply a tour-de-force to flip the Mac product line upside down and bring power efficient, mighty and beautiful Mac designs. The Mac transition to Apple Silicon is probably the most important change to come to the Mac line since its inception in 1984.\n\nI can’t wait to see what the next ten years will be made of. \n\n",
+				"date_published": "2022-04-04T21:27:55-04:00",
+				"url": "https://numericcitizen.micro.blog/2022/04/04/when-apple-pivoted.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/04/03/its-was-so.html",
+				"title": "It’s Was So Fun",
+				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/9e52b63323.jpg\" alt=\"\"></p>\n<p>This weekend I did some cleanup in my old papers and documents. I found an old bank account statement where I can see a withdraw transaction to help me pay for my <strong>Macintosh 128K</strong> in 1985: 3460.75 CAN$. 🤑 Ouch. I did some research to better document the time when I had a <strong>Macintosh SE</strong> while studying at the university and remembered about using Think Pascal, Prototyper and ResEdit to build a floppy disks indexer. That was before the Internet. It was so much fun. It’s gives you an idea how old I am. 😜</p>\n",
+				"content_text": "![](https://numericcitizen.micro.blog/uploads/2022/9e52b63323.jpg)\n\nThis weekend I did some cleanup in my old papers and documents. I found an old bank account statement where I can see a withdraw transaction to help me pay for my **Macintosh 128K** in 1985: 3460.75 CAN$. 🤑 Ouch. I did some research to better document the time when I had a **Macintosh SE** while studying at the university and remembered about using Think Pascal, Prototyper and ResEdit to build a floppy disks indexer. That was before the Internet. It was so much fun. It’s gives you an idea how old I am. 😜\n\n",
+				"date_published": "2022-04-03T10:06:23-04:00",
+				"url": "https://numericcitizen.micro.blog/2022/04/03/its-was-so.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/03/30/another-edition-of.html",
 				
 				"content_html": "<p>🇺🇦 Another edition of my free monthly Introspection newsletter is out NOW. Get it <a href=\"https://numericcitizen-introspection.blog\">here</a>! Talked about themes are <strong>Apple</strong>, <strong>photography</strong>, <strong>privacy protection</strong> and <strong>climate change</strong>. This month, though, to help build awareness, I have many war-related tidbits on each of these themes. 🇺🇦</p>\n",
