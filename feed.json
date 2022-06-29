@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2022/06/24/as-much-as.html",
+				
+				"content_html": "<p>As much as I like #Ghost as a hosting service for my monthly and weekly newsletters, the lack of community, commenting, and recommendations by other readers make me wonder if I made the right move when I left #Substack.</p>\n",
+				"content_text": "As much as I like #Ghost as a hosting service for my monthly and weekly newsletters, the lack of community, commenting, and recommendations by other readers make me wonder if I made the right move when I left #Substack. \n",
+				"date_published": "2022-06-24T14:10:37-04:00",
+				"url": "https://numericcitizen.micro.blog/2022/06/24/as-much-as.html",
+				"tags": ["Blogging","Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/06/24/is-there-any.html",
+				
+				"content_html": "<p>Is there any user of Craft in here? In any case, may I suggest that you take a look at <a href=\"https://www.youtube.com/channel/UCpdbqSdJxiT4FoaFCwgCtZw\">my YouTube channel</a> for videos about Craft? The latest is my take on the latest release, version 2.2.3.</p>\n",
+				"content_text": "Is there any user of Craft in here? In any case, may I suggest that you take a look at [my YouTube channel](https://www.youtube.com/channel/UCpdbqSdJxiT4FoaFCwgCtZw ) for videos about Craft? The latest is my take on the latest release, version 2.2.3.\n",
+				"date_published": "2022-06-24T06:18:29-04:00",
+				"url": "https://numericcitizen.micro.blog/2022/06/24/is-there-any.html",
+				"tags": ["Misc"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/06/18/theres-no-such.html",
 				"title": "There’s no such thing as time elasticity",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/7f29f79e37.png\" alt=\"\"></p>\n<p>Since early June, I’ve been quite busy working and producing YouTube videos about <strong>Craft</strong> which left me no time for posting here. As seen in the following graph, YouTube videos production is now the lion share of my spare time schedule. 👀</p>\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/604ebee8e0.png\" alt=\"\"></p>\n<p>I expect things to return to normal in the coming weeks as my recording and producing setup is complete. Creating videos takes about 2-3 hours of my time. Subjects that I want to tackle will eventually dry out. If you are wondering what’s those videos are really about, feel free to pay a visit to <a href=\"https://www.youtube.com/channel/UCpdbqSdJxiT4FoaFCwgCtZw\">my YouTube Channel</a>. Tell me what you think here or over there in the comments!</p>\n",
