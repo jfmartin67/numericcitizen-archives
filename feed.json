@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2022/07/29/on-apple-silicon.html",
+				"title": "On Apple Silicon Macs and lack of Windows Support",
+				"content_html": "<p><a href=\"https://initialcharge.net/2022/07/boot-camp-buying-decision/\">Regarding the lack of Boot Camp on Apple Silicon Macs</a>: I think that the lack of Windows support on Apple Silicon machines is hurting some buyers, me included. I’d like to be able to run Windows on a Mac, because of my job in IT. <a href=\"https://numericcitizen.me/2020/10/25/the-sddcbox-project-part-1-an-introduction/\">I came close to buying a Mac Pro to run VMware stuff</a>. But who’s really at fault here, Apple or … Microsoft? Linux is another story, though. I&rsquo;m not fully aware of current Linux compatibility with Apple Silicon, but I think it&rsquo;s slowly coming. Oh, and don&rsquo;t even try to mention Windows ARM to me. This thing won&rsquo;t run on Apple Silicon Macs unless Microsoft and Apple actively cooperate on this.</p>\n",
+				"content_text": "[Regarding the lack of Boot Camp on Apple Silicon Macs](https://initialcharge.net/2022/07/boot-camp-buying-decision/): I think that the lack of Windows support on Apple Silicon machines is hurting some buyers, me included. I’d like to be able to run Windows on a Mac, because of my job in IT. [I came close to buying a Mac Pro to run VMware stuff](https://numericcitizen.me/2020/10/25/the-sddcbox-project-part-1-an-introduction/). But who’s really at fault here, Apple or … Microsoft? Linux is another story, though. I'm not fully aware of current Linux compatibility with Apple Silicon, but I think it's slowly coming. Oh, and don't even try to mention Windows ARM to me. This thing won't run on Apple Silicon Macs unless Microsoft and Apple actively cooperate on this. \n",
+				"date_published": "2022-07-29T06:49:02-04:00",
+				"url": "https://numericcitizen.micro.blog/2022/07/29/on-apple-silicon.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/07/28/the-lost-of.html",
+				"title": "The Lost of the Nobs",
+				"content_html": "<p>About the updated design of the media player on the iPhone with iOS 16 beta 4: this enhancement in iOS 16 <a href=\"https://sixcolors.com/post/2022/07/scrubbing-through-ios-16s-music-app/\">illustrated by Six Colors </a> is real. At first, I didn’t like the loss of the little and reassuring nob, but now the interface feels cleaner and yet shows some affordance as we now know what these lines are for.</p>\n",
+				"content_text": "About the updated design of the media player on the iPhone with iOS 16 beta 4: this enhancement in iOS 16 [illustrated by Six Colors ](https://sixcolors.com/post/2022/07/scrubbing-through-ios-16s-music-app/) is real. At first, I didn’t like the loss of the little and reassuring nob, but now the interface feels cleaner and yet shows some affordance as we now know what these lines are for.\n",
+				"date_published": "2022-07-28T21:16:20-04:00",
+				"url": "https://numericcitizen.micro.blog/2022/07/28/the-lost-of.html",
+				"tags": ["Apple","Longer posts","Feature posts"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/07/23/only-posts-this.html",
 				"title": "Only 84 posts this year",
 				"content_html": "<p>Woah, I just paid a visit to my stats for Micro.blog. This year, I&rsquo;ve got only 84 posts published; the lowest since 2019. It&rsquo;s a bit sad because I like the platform, its values and the community. It&rsquo;s not the first time I have lamented the lack of time elasticity. I have too many projects and fall into many rabbit holes. At the very least, I could tweak my routine to visit and post once a week. Vacations are a month away, but this could be the occasion to spend more time here.</p>\n",
