@@ -7,10 +7,181 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2022/12/21/assign-to-all.html",
+				"title": "Assign to All Desktops - A Must Know macOS Stage Manager Trick",
+				"content_html": "<p>Updated my last Mac to macOS Ventura and discovered something super useful when using Stage Manager. <!-- raw HTML omitted -->\nIf you want to have an application always visible, make sure to select &ldquo;Assign To: All Desktops&rdquo; from the application icon in the Dock. This is particularly useful with the Finder so we can easily do drag &amp; drop of a file into the active window; the Finder needs to always be available for this to be possible.</p>\n",
+				"content_text": "Updated my last Mac to macOS Ventura and discovered something super useful when using Stage Manager. <img src=\"uploads/2022/18f6f76fcc.png\" alt=\"Craft Post Highlights From my Microblog 2022 12 21 19 56 47 2x\" title=\"Craft-Post Highlights From my Microblog@2022-12-21@19.56.47@2x.png\" border=\"0\" width=\"906\" height=\"792\" style=\"float:right;\" />\nIf you want to have an application always visible, make sure to select \"Assign To: All Desktops\" from the application icon in the Dock. This is particularly useful with the Finder so we can easily do drag & drop of a file into the active window; the Finder needs to always be available for this to be possible.\n",
+				"date_published": "2022-12-21T20:01:09-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/21/assign-to-all.html",
+				"tags": ["Apple","Photography","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/21/found-a-great.html",
+				
+				"content_html": "<p>Found a great place for my Tidbyt.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Found a great place for my Tidbyt. \n\n<img src=\"uploads/2022/5ca1721450.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2022-12-21T19:08:35-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/21/found-a-great.html",
+				"tags": ["Apple","Photography","Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/21/the-trend-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2022/c783cbfa4e.png\" alt=\"Typefully trending\" title=\"Typefully-trending.png\" border=\"0\" width=\"1200\" height=\"682\" style=\"float:right;\" />\nThe trend is clear: people are leaving Twitter. This is my follower count since June of 2022. If there was any doubt left about my decision to quit Twitter, no more. \n",
+				"date_published": "2022-12-21T16:49:23-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/21/the-trend-is.html",
+				"tags": ["Photography","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/21/why-close-my.html",
+				"title": "Why Close My Twitter Accounts? Here Are My Five Reasons",
+				"content_html": "<p>I think it is essential to elaborate on why I will close my Twitter accounts in 2023. This is not something to do lightly. So, after much thought, here are my five main reasons.</p>\n<ol>\n<li>I disagree with the values and views as they are expressed by its new owner: Elon Musk. Even if he resigns, it won’t matter much. Elon Musk has broken too many things since he became the owner. Twitter is a broken platform and cannot be trusted.</li>\n<li>I no longer want to feed the beast (user tracking, advertising networks, algorithm-based timelines). I won’t pay to get rid of 50% of the ads or whatever Musk decides to ask for.</li>\n<li>I no longer trust Twitter’s sustainability and ability to thrive in the future. Twitter has become a loser in my digital landscape. If anything, Twitter has become the other wake-up call for the toxicity of a centralized web. The time has come for decentralizing the Internet.</li>\n<li>Twitter doesn’t add significant unique value to my digital life anyway. Most of what I’m getting from Twitter can be found elsewhere.</li>\n<li>Before I decided to close my accounts, I wanted to focus on one of my two accounts anyway (numericcitizen) instead of apple_observer, but it doesn’t have enough traction to warrant the efforts for the change.</li>\n</ol>\n<p>What are your reasons?</p>\n",
+				"content_text": "I think it is essential to elaborate on why I will close my Twitter accounts in 2023. This is not something to do lightly. So, after much thought, here are my five main reasons.\n\n1. I disagree with the values and views as they are expressed by its new owner: Elon Musk. Even if he resigns, it won’t matter much. Elon Musk has broken too many things since he became the owner. Twitter is a broken platform and cannot be trusted.\n2. I no longer want to feed the beast (user tracking, advertising networks, algorithm-based timelines). I won’t pay to get rid of 50% of the ads or whatever Musk decides to ask for. \n3. I no longer trust Twitter’s sustainability and ability to thrive in the future. Twitter has become a loser in my digital landscape. If anything, Twitter has become the other wake-up call for the toxicity of a centralized web. The time has come for decentralizing the Internet. \n4. Twitter doesn’t add significant unique value to my digital life anyway. Most of what I’m getting from Twitter can be found elsewhere. \n5. Before I decided to close my accounts, I wanted to focus on one of my two accounts anyway (numericcitizen) instead of apple_observer, but it doesn’t have enough traction to warrant the efforts for the change.\n\nWhat are your reasons?\n",
+				"date_published": "2022-12-21T14:13:32-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/21/why-close-my.html",
+				"tags": ["Longer posts","Feature posts","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/21/installing-windows-in.html",
+				"title": "Installing Windows in 2022",
+				"content_html": "<p>I just spent part of my morning installing Windows 10 version 22H2 on a virtual machine with VMware Fusion 12 on <!-- raw HTML omitted -->my recently acquired 2013 Mac Pro<!-- raw HTML omitted -->. God, it&rsquo;s been a long time since I experienced the Windows installation process. It is so freaking slow (way faster to install a Linux machine, BTW) and with so many reboots. I still prefer Apple&rsquo;s macOS in that respect.<!-- raw HTML omitted --></p>\n",
+				"content_text": "I just spent part of my morning installing Windows 10 version 22H2 on a virtual machine with VMware Fusion 12 on <a href=\"https://world.numericcitizen.io/sddcbox-project-reboot\">my recently acquired 2013 Mac Pro</a>. God, it's been a long time since I experienced the Windows installation process. It is so freaking slow (way faster to install a Linux machine, BTW) and with so many reboots. I still prefer Apple's macOS in that respect.<img src=\"uploads/2022/fb95795c0a.png\" alt=\"Screens MacPro 2022 12 21 10 35 23 2x\" title=\"Screens-MacPro@2022-12-21@10.35.23@2x.png\" border=\"0\" width=\"1230\" height=\"928\" style=\"float:right;\" />\n",
+				"date_published": "2022-12-21T09:44:28-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/21/installing-windows-in.html",
+				"tags": ["Misc","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/20/my-experience-with.html",
+				"title": "My Experience With Tidbyt LED-Based Display",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"IMG_4361.jpeg\" src=\"https://numericcitizen.micro.blog/uploads/2022/ae135221b2.jpg\" alt=\"IMG 4361\" width=\"2000\" height=\"1125\" border=\"0\" /></p>\n<p>After six weeks of waiting, I finally got this little LED-based display called “<a href=\"https://tidbyt.com/\">Tidbyt</a>”, a reference, I guess, to the old <a href=\"https://en.wikipedia.org/wiki/Lite-Brite\">Lite-Brite</a> game which came out in 1967 (I had one when I was a child).</p>\n<p>Tidbyt is an intelligent wireless LED-based panel that displays content configured from the Tidbyt app available on a smartphone. Physically, the device feels high quality and well-designed and is framed with real wood, reminiscent of mid-century furniture.</p>\n<p>Content is configured using applets that you put together on a canvas. The display content will switch from one applet to another in the order defined on the canvas. Applets can be set to display only on a specific schedule, but the scheduling options are rather limited. It’s very simple to set this up.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Tuesday, 20 Dec 2022 06:37:07.png\" src=\"https://numericcitizen.micro.blog/uploads/2022/9d26fb048a.png\" alt=\"Tuesday 20 Dec 2022 06 37 07\" width=\"2000\" height=\"621\" border=\"0\" /></p>\n<p>Once the display is plugged into power via its USB-C cable, it will wait for the configuration to be done from the smartphone, a six-step process. Bluetooth is required to detect the display, and a Wifi network is required for the display to get its data from the Internet. <img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Tuesday, 20 Dec 2022 06:49:36.png\" src=\"https://numericcitizen.micro.blog/uploads/2022/b1348d9ebe.png\" alt=\"Tuesday 20 Dec 2022 06 49 36\" width=\"1037\" height=\"2000\" border=\"0\" /></p>\n<p>The applets catalogue is growing but still is relatively limited. Thanks to an SDK and open APIs, developers constantly add new ones. The display is bright and can be adjusted according to a manual setting or time of the day. There is a night mode, too, if you want to put the device in one bedroom.</p>\n<p>The screen resolution seemed low at first, but from a distance, it is surprisingly good, enough to display small images.</p>\n<p>All in all, the Tidbyt makes a great addition to my home office, and people at work have already noticed it during Teams meetings and are asking questions about this little thing sitting on the shelf behind me.</p>\n",
+				"date_published": "2022-12-20T07:02:32-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/20/my-experience-with.html",
+				"tags": ["Photography","Misc","Longer posts","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/19/so-what-do.html",
+				
+				"content_html": "<p>So what do have here&hellip; quick and dirty review coming soon. 🤓🤗</p>\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/2b3b989562.jpg\" alt=\"\"></p>\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/920bd5d707.jpg\" alt=\"\"></p>\n<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/338370979e.jpg\" alt=\"\"></p>\n",
+				"content_text": "So what do have here... quick and dirty review coming soon. 🤓🤗\n\n![](https://numericcitizen.micro.blog/uploads/2022/2b3b989562.jpg)\n\n![](https://numericcitizen.micro.blog/uploads/2022/920bd5d707.jpg)\n\n![](https://numericcitizen.micro.blog/uploads/2022/338370979e.jpg)\n\n",
+				"date_published": "2022-12-19T21:22:59-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/19/so-what-do.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/19/i-get-way.html",
+				
+				"content_html": "<p>I get way better interactions here on Micro.blog (more often, better quality) than on any other platforms I ever spent time on. Just a not-so-random thought.</p>\n",
+				"content_text": "I get way better interactions here on Micro.blog (more often, better quality) than on any other platforms I ever spent time on. Just a not-so-random thought. \n",
+				"date_published": "2022-12-19T11:52:01-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/19/i-get-way.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/19/on-twitters-attention.html",
+				"title": "On Twitter's Attention Seekers",
+				"content_html": "<p>On Twitter, you can get notified when someone starts following you. Sounds great until it isn&rsquo;t. You know, many people will start following others to get attention about their existence, hoping to get a follow back. It&rsquo;s easy to know they are seeking your attention because after a few days they will unfollow you. I always despised this behaviour. For this reason, I prefer Micro.blog&rsquo;s lack of notifications when someone starts to follow me. I don&rsquo;t pay attention.</p>\n",
+				"content_text": "On Twitter, you can get notified when someone starts following you. Sounds great until it isn't. You know, many people will start following others to get attention about their existence, hoping to get a follow back. It's easy to know they are seeking your attention because after a few days they will unfollow you. I always despised this behaviour. For this reason, I prefer Micro.blog's lack of notifications when someone starts to follow me. I don't pay attention.\n",
+				"date_published": "2022-12-19T08:32:21-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/19/on-twitters-attention.html",
+				"tags": ["Longer posts","Feature posts","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/19/rewind-thanks-but.html",
+				"title": "Rewind: Thanks but No Thanks",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>After watching a <a href=\"https://youtu.be/r0k-wNol5SM\">recent video</a> from Matt Birchler about <a href=\"https://www.rewind.ai/\">Rewind</a>, a constant screen recording utility for the Mac, I was excited to give my email address and get onboard the waiting list for early access to the app. I got my invite a few days ago. As much as I would like to test this app, here's this deal-breaker for me: 20 US$ per month to get on the early access program, no thank you. Why?</p>\n<p>I understand Rewind is still in beta, but the developer wants me to pay for testing the application. Shouldn’t it be the other way around so I get a rebate when the app goes out of beta? I mean, even with a 30-day “trial” I still can’t get over this. If it’s 20 US$ a month now for the early access, what will be the price of the final product then? Even more expansive?</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"HEY-Your invitation to the Rewind Early Access Program!@2022-12-19@07.26.04@2x.png\" src=\"https://numericcitizen.micro.blog/uploads/2022/9a82125873.png\" alt=\"HEY Your invitation to the Rewind Early Access Program 2022 12 19 07 26 04 2x\" width=\"1798\" height=\"792\" border=\"0\" /></p>\n<p>Rewind makes me think of CleanShot, and I find Rewind’s pricing overly expansive if I think about the scope of both apps. </p>\n<p>Rewind is a great idea, even if it pauses many security risks, but I’ll pass for now.</p>\n",
+				"date_published": "2022-12-19T07:32:44-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/19/rewind-thanks-but.html",
+				"tags": ["Photography","Longer posts","Services","Feature posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/18/the-cost-of.html",
+				"title": "The Cost of Twitter",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I could save more than a whopping 400$ annually by shutting down my Twitter accounts. Thanks to the potential removal of a few service subscriptions from my workflow and potentially unjustified without Twitter in my digital life: Buffer, Typefully, Mailbrew. </p>\n<p>It’s incredible how thinking about my Twitter reliance makes me realize so many things on so many levels in my content creation workflow.</p>\n",
+				"date_published": "2022-12-18T21:57:27-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/18/the-cost-of.html",
+				"tags": ["Longer posts","Services","Feature posts","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/18/ive-stopped-clicking.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Brent Simmons\" data-avatar=\"https://micro.blog/brentsimmons/avatar.jpg\" cite=\"https://micro.inessential.com/2022/12/18/ive-stopped-clicking.html\"><p>I’ve stopped clicking on Twitter links. Starve the site of attention.</p>\r\n<footer>Brent Simmons <cite><a href=\"https://micro.inessential.com/2022/12/18/ive-stopped-clicking.html\" class=\"u-in-reply-to\">https://micro.inessential.com/2022/12/18/ive-stopped-clicking.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\nGreat idea. Time to give more space to non-centralizing platforms.\n",
+				"date_published": "2022-12-18T21:11:23-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/18/ive-stopped-clicking.html",
+				"tags": ["Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/18/less-than.html",
+				"title": "Less Than 1%",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The longer you’ve been on Twitter (I joined in 2007), the more likely that most of your followers are inactive accounts. My guesstimate would be that less than 1% of my followers are actually active, and even fewer actually care about what I’m saying or posting. So why on earth, give a damn?</p>\n",
+				"date_published": "2022-12-18T20:12:23-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/18/less-than.html",
+				"tags": ["Longer posts","Feature posts","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/18/twitter-is-xenophobic.html",
+				"title": "Twitter Is Xenophobic Now",
+				"content_html": "<p>I&rsquo;m in violation of Twitter&rsquo;s guidelines because I do promote content coming from other social platforms. I do use Linktree and have my Linktr.ee URL set on <a href=\"https://micro.blog/numericcitizen\">@numericcitizen</a>.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm in violation of Twitter's guidelines because I do promote content coming from other social platforms. I do use Linktree and have my Linktr.ee URL set on [@numericcitizen](https://micro.blog/numericcitizen). \r\n\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Jamie Thingelstad\" data-avatar=\"https://micro.blog/jthingelstad/avatar.jpg\" cite=\"https://www.thingelstad.com/2022/12/18/this-new-promotion.html\"><p>This new \"<a href=\"https://help.twitter.com/en/rules-and-policies/social-platforms-policy\">Promotion of alternative social platforms policy</a>\" on Twitter deserves memorializing for the pure idiocy of it.</p>\r\n\r\n<p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Fwww.thingelstad.com%2Fuploads%2F2022%2F4bd1a1b99b.png\" width=\"428\" height=\"600\" alt=\"\" loading=\"lazy\"></p>\r\n<footer>Jamie Thingelstad <cite><a href=\"https://www.thingelstad.com/2022/12/18/this-new-promotion.html\" class=\"u-in-reply-to\">https://www.thingelstad.com/2022/12/18/this-new-promotion.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\"Accounts that are used for the main purpose of promoting content on another social platform may be suspended.\". \n",
+				"date_published": "2022-12-18T17:40:36-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/18/twitter-is-xenophobic.html",
+				"tags": ["Photography","Longer posts","Feature posts","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/17/twitter-down-microblog.html",
+				"title": "Twitter Down, Micro.blog Up",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I would love @manton to speak out about how the current Twitter turmoils, people flocking to Mastodon, and the ability to follow people over there right from my Micro.blog feed is increasing Micro.blog engagement, subscriptions and general usage. Personally, I’m much more active than before.</p>\n",
+				"date_published": "2022-12-17T08:37:46-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/17/twitter-down-microblog.html",
+				"tags": ["Longer posts","Feature posts","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/17/on-load-bearing.html",
+				"title": "On \"Load Bearing Mac Mini\"",
+				"content_html": "<p>Is this true?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Is this true?\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"\" data-avatar=\"https://micro.blog/sandofsky@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@sandofsky/109434832011074072\"><p>12 years ago, Twitter’s office used a Mac Mini to tunnel into the servers. One day, an IT guy found it in the closet. </p><p>“Anyone know who owns this?”</p><p>“Unplug it. Someone will show up.”</p><p>Everyone lost access to servers. Huge crisis. It became known as the “Load Bearing Mac Mini.”</p><footer> <cite><a href=\"https://mastodon.social/@sandofsky/109434832011074072\" class=\"u-in-reply-to\">https://mastodon.social/@sandofsky/109434832011074072</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2022-12-17T08:33:56-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/17/on-load-bearing.html",
+				"tags": ["Longer posts","Feature posts","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/17/mailbrew-typefully-and.html",
+				"title": "Mailbrew, Typefully and Twitter",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I finally found how to reconfigure my Mailbrew account to log in without using Twitter. Good thing. I don’t log in often in Mailbrew, but this morning I learned that I’d need to adjust many things when I close my Twitter account. As an example, <a href=\"https://app.mailbrew.com/apple_observer/numeric-citizen-reading-writing-summary-newsletter-x9MmQUXjnEMG\">this newsletter</a> setup will need to be revisited to remove any references to Twitter as a data source.</p>\n<p>Mailbrew is an excellent tool for generating newsletters, but it hasn’t been updated for quite a while (October of 2021, according to the <a href=\"https://changelog.mailbrew.com/\">change log</a>). The developers behind Mailbrew are too busy working on their other product: Typefully, a web service for writing Twitter threads. I’m subscribing to both services. Typefully was cool when it launched but being entirely dependent on Twitter puts them in danger IMHO. I don’t use Typefully much, preferring Buffer for scheduling cross-posted content to Twitter, something Typefully doesn’t support. </p>\n<p>It’s sad to see Mailbrew coming to a halt. Typefully will go down the drain with my Twitter account closure next year.</p>\n",
+				"date_published": "2022-12-17T08:27:42-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/17/mailbrew-typefully-and.html",
+				"tags": ["Longer posts","Services","Feature posts","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/17/found-in-my.html",
+				
+				"content_html": "<p>Found in my Micro.blog bookmarks collection:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Found in my Micro.blog bookmarks collection:\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Mike Rockwell\" data-avatar=\"https://micro.blog/mdrockwell/avatar.jpg\" cite=\"https://mike.rockwell.mx/asides/1160\"><div>\r\n<p>Culture is shaped by SEO experts and algorithms. Neither of which have our best interests in mind.</p>\r\n</div><footer>Mike Rockwell <cite><a href=\"https://mike.rockwell.mx/asides/1160\" class=\"u-in-reply-to\">https://mike.rockwell.mx/asides/1160</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\nAnother good reason to quit Twitter and concentrate my energy here on Micro.blog. \n",
+				"date_published": "2022-12-17T07:46:47-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/17/found-in-my.html",
+				"tags": ["Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/16/the-stars-of.html",
+				"title": "The Stars of the Show for 2022 Are...",
+				"content_html": "<p><!-- raw HTML omitted -->If I look back at my software usage in 2022, three stars stand out:</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Things 3<!-- raw HTML omitted --> returned after more than a year of trying Apple Reminders and Craft Daily notes. It was a futile exercise. Things 3 is beautifully supporting my content creator workflow. Managing to-dos has never been so enjoyable.</p>\n<p><!-- raw HTML omitted -->Screenflow<!-- raw HTML omitted --> is essential to my YouTube video creation workflow. I don&rsquo;t use FinalCut Pro, Luma Fusion or anything that sophisticated. I could use Screenshot screen recording too, but Screenflow is really the simplest and most focused video creation app out there that clicks with me.</p>\n<p>I love using great software.</p>\n",
+				"content_text": "<img src=\"https://numericcitizen.micro.blog/uploads/2022/28929e5fa6.png\" alt=\"Raycast 2022 12 16 08 19 49 2x\" title=\"Raycast-@2022-12-16@08.19.49@2x.png\" border=\"0\" width=\"1800\" height=\"1263\" style=\"float:right;\" />If I look back at my software usage in 2022, three stars stand out:\n<ol>\n\t<li>Raycast</li>\n\t<li>Things 3</li>\n\t<li>Screenflow</li>\n</ol>\n<strong>Raycast</strong> was a revelation. It is so pervasive in my workflow that I feel lost when returning to my iPad for serious work. I underutilize Raycast for sure. It's free and constantly evolving. \n\n<strong>Things 3</strong> returned after more than a year of trying Apple Reminders and Craft Daily notes. It was a futile exercise. Things 3 is beautifully supporting my content creator workflow. Managing to-dos has never been so enjoyable.\n\n<strong>Screenflow</strong> is essential to my YouTube video creation workflow. I don't use FinalCut Pro, Luma Fusion or anything that sophisticated. I could use Screenshot screen recording too, but Screenflow is really the simplest and most focused video creation app out there that clicks with me. \n\nI love using great software. \n",
+				"date_published": "2022-12-16T21:15:40-05:00",
+				"url": "https://numericcitizen.micro.blog/2022/12/16/the-stars-of.html",
+				"tags": ["Photography","Misc","Longer posts","Feature posts"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/12/16/back-in-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/f5d0f5dbd8.jpg\" alt=\"IMG 4058 2\" title=\"IMG_4058-2.jpeg\" border=\"0\" width=\"1280\" height=\"720\" style=\"float:right;\" />\nBack in the nineties, I tried drawing a few things, like this Apple's Newton MessagePad. Not bad, hen!?\n",
+				"content_text": "<img src=\"https://numericcitizen.micro.blog/uploads/2022/f5d0f5dbd8.jpg\" alt=\"IMG 4058 2\" title=\"IMG_4058-2.jpeg\" border=\"0\" width=\"1280\" height=\"720\" style=\"float:right;\" />\nBack in the nineties, I tried drawing a few things, like this Apple's Newton MessagePad. Not bad, hen!?\n",
 				"date_published": "2022-12-16T09:13:23-05:00",
 				"url": "https://numericcitizen.micro.blog/2022/12/16/back-in-the.html",
 				"tags": ["Apple","Photography"]
@@ -19,7 +190,7 @@
 				"id": "http://numericcitizen.micro.blog/2022/12/16/raycast-year-in.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/cb59451509.png\" alt=\"Raycast 2022 12 16 08 21 18 2x\" title=\"Raycast-@2022-12-16@08.21.18@2x.png\" border=\"0\" width=\"1800\" height=\"1263\" style=\"float:right;\" />\nRaycast year in review. Wow. I love this thing so much!\n",
+				"content_text": "<img src=\"https://numericcitizen.micro.blog/uploads/2022/cb59451509.png\" alt=\"Raycast 2022 12 16 08 21 18 2x\" title=\"Raycast-@2022-12-16@08.21.18@2x.png\" border=\"0\" width=\"1800\" height=\"1263\" style=\"float:right;\" />\nRaycast year in review. Wow. I love this thing so much!\n",
 				"date_published": "2022-12-16T08:24:11-05:00",
 				"url": "https://numericcitizen.micro.blog/2022/12/16/raycast-year-in.html",
 				"tags": ["Photography","Misc"]
@@ -37,7 +208,7 @@
 				"id": "http://numericcitizen.micro.blog/2022/12/15/hands-down-to.html",
 				"title": "Hands Down to Hand Mirror Plus",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Just got my notice for the <strong>Hand Mirror</strong> update today. The latest release offers a paid version, for which I gladly paid. Why? Hand Mirror is a great example of useful software with attributes of the work of great craftsmanship. It was an instant buy because of this. The onboarding screen is simply gorgeous. </p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Hand Mirror-Settings@2022-12-15@21.24.36@2x.png\" src=\"https://numericcitizen.micro.blog/uploads/2022/5fb7431e95.png\" alt=\"Hand Mirror Settings 2022 12 15 21 24 36 2x\" width=\"2036\" height=\"1614\" border=\"0\" /></p>\n\n<img src=\"uploads/2022/f83de3b273.png\" alt=\"HazeOver 2022 12 16 09 28 07 2x\" title=\"HazeOver-@2022-12-16@09.28.07@2x.png\" border=\"0\" width=\"1940\" height=\"1620\" style=\"float:right;\" />\n",
+				"content_text": "<p>Just got my notice for the <strong>Hand Mirror</strong> update today. The latest release offers a paid version, for which I gladly paid. Why? Hand Mirror is a great example of useful software with attributes of the work of great craftsmanship. It was an instant buy because of this. The onboarding screen is simply gorgeous. </p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" title=\"Hand Mirror-Settings@2022-12-15@21.24.36@2x.png\" src=\"https://numericcitizen.micro.blog/uploads/2022/5fb7431e95.png\" alt=\"Hand Mirror Settings 2022 12 15 21 24 36 2x\" width=\"2036\" height=\"1614\" border=\"0\" /></p>\n\n<img src=\"https://numericcitizen.micro.blog/uploads/2022/f83de3b273.png\" alt=\"HazeOver 2022 12 16 09 28 07 2x\" title=\"HazeOver-@2022-12-16@09.28.07@2x.png\" border=\"0\" width=\"1940\" height=\"1620\" style=\"float:right;\" />\n",
 				"date_published": "2022-12-15T21:31:08-05:00",
 				"url": "https://numericcitizen.micro.blog/2022/12/15/hands-down-to.html",
 				"tags": ["Photography","Misc","Longer posts","Feature posts"]
@@ -238,7 +409,7 @@
 				"content_text": "I read about so many people flocking to Mastodon, leaving Twitter behind. I actually started to see a definitive decline in my followers number. Something is really going on. I myself started to think about the possibility of leaving the platform too. Just like I did with Facebook, Flickr, and Tumblr, only to leave a place where my content is simply cross-posted from another source without a real and active presence of mine. Twitter could be next. Really. I could live without the traffic influx from Twitter, which represents about 15% of all my visitors. \n\nThere is one thing that it would be hard for me to leave behind, though. If it wasn’t about the war in Ukraine, it would be an easy decision. The problem is that I follow a few people and news sources that diffuse their content on Twitter. Is there a Twitter equivalent for this type of small blips of nano content? I don’t see that in Mastodon yet. RSS feeds are not a platform but transport. The next Twitter has yet to emerge. \n\n",
 				"date_published": "2022-11-30T07:00:00-05:00",
 				"url": "https://numericcitizen.micro.blog/2022/11/30/twitters-essentials.html",
-				"tags": ["Misc","Longer posts","Services","Feature posts"]
+				"tags": ["Misc","Longer posts","Services","Feature posts","Qwitter"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/11/12/if-you-read.html",
