@@ -7,6 +7,114 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/02/03/i-took-back.html",
+				
+				"content_html": "<p>I took back the iPad Air that my mom was using a few years ago. I would like to repurpose the iPad as a photo frame. It was updated to the latest iPadOS release the iPad can support, but unfortunately, slide options in Apple’s Photos are pretty limited. I wish there were a “Photo frame” mode in Photos. Synology Photos required iPadOS 13.</p>\n<p>How would you reconfigure this iPad, so it becomes a photo frame?</p>\n",
+				"content_text": "I took back the iPad Air that my mom was using a few years ago. I would like to repurpose the iPad as a photo frame. It was updated to the latest iPadOS release the iPad can support, but unfortunately, slide options in Apple’s Photos are pretty limited. I wish there were a “Photo frame” mode in Photos. Synology Photos required iPadOS 13.\n\nHow would you reconfigure this iPad, so it becomes a photo frame?\n\n",
+				"date_published": "2023-02-03T06:53:46-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/03/i-took-back.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/02/tim-cooks-introductory.html",
+				
+				"content_html": "<p>Tim Cook&rsquo;s introductory comment on Apple&rsquo;s latest quarter:</p>\n<blockquote>\n<p>“As we all continue to navigate a challenging environment, we are proud to have our best lineup of products and services ever, and as always, we remain focused on the long term and are leading with our values in everything we do,” said Tim Cook, Apple’s CEO. “During the December quarter, we achieved a major milestone and are excited to report that we now have more than 2 billion active devices as part of our growing installed base.”</p>\n</blockquote>\n<p>How many devices count as being active if a user has an iPhone and two Apple Watch, two HomePod and an Apple TV? Six. That&rsquo;s a lot of devices but not as many users.</p>\n",
+				"content_text": "Tim Cook's introductory comment on Apple's latest quarter:\r\n\r\n> “As we all continue to navigate a challenging environment, we are proud to have our best lineup of products and services ever, and as always, we remain focused on the long term and are leading with our values in everything we do,” said Tim Cook, Apple’s CEO. “During the December quarter, we achieved a major milestone and are excited to report that we now have more than 2 billion active devices as part of our growing installed base.”\r\n\r\nHow many devices count as being active if a user has an iPhone and two Apple Watch, two HomePod and an Apple TV? Six. That's a lot of devices but not as many users. \n",
+				"date_published": "2023-02-02T20:18:46-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/02/tim-cooks-introductory.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/02/dhhs-concluding-words.html",
+				
+				"content_html": "<p>DHH&rsquo;s concluding words about testing an Android phone:</p>\n<blockquote>\n<p>I&rsquo;m no fan of Google in general. And I still prefer the fit and finish of iOS over Android, but there&rsquo;s something deeply appealing about having a phone where at least it&rsquo;s actually possible to install Forbidden Software, like Fortnite, without wild interventions like jailbreaking. The fidelity gap is real, but the freedom gap is bigger. Source: <a href=\"https://world.hey.com/dhh/another-android-de53085c\">Another Android</a></p>\n</blockquote>\n<p>His post is a reminder for me that I never tried or used an Android device for real. Never ever. Should I? Why would I? But then I read <a href=\"https://daringfireball.net/2023/02/making_our_hearts_sing\">this article</a> from Gruber commenting about his perception of the Android app landscape:</p>\n<blockquote>\n<p>Android enthusiasts don’t want to hear it, but from a design perspective, the apps on Android suck. They may not suck from a feature perspective (but they often do), but they’re aesthetically unpolished and poorly designed even from a “design is how it works” perspective.</p>\n</blockquote>\n<p>After all, I might never waste my time testing an Android phone. Life is too short.</p>\n",
+				"content_text": "DHH's concluding words about testing an Android phone: \r\n> I'm no fan of Google in general. And I still prefer the fit and finish of iOS over Android, but there's something deeply appealing about having a phone where at least it's actually possible to install Forbidden Software, like Fortnite, without wild interventions like jailbreaking. The fidelity gap is real, but the freedom gap is bigger. Source: [Another Android](https://world.hey.com/dhh/another-android-de53085c)\r\n\r\nHis post is a reminder for me that I never tried or used an Android device for real. Never ever. Should I? Why would I? But then I read [this article](https://daringfireball.net/2023/02/making_our_hearts_sing) from Gruber commenting about his perception of the Android app landscape:\r\n\r\n> Android enthusiasts don’t want to hear it, but from a design perspective, the apps on Android suck. They may not suck from a feature perspective (but they often do), but they’re aesthetically unpolished and poorly designed even from a “design is how it works” perspective.\r\n\r\nAfter all, I might never waste my time testing an Android phone. Life is too short. \r\n\r\n",
+				"date_published": "2023-02-02T20:05:18-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/02/dhhs-concluding-words.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/02/highly-troublingops-are.html",
+				"title": "Highly Troubling—Ops are Taking Over Apple My Friends ",
+				"content_html": "<p>Don&rsquo;t bother reading too much into the latest Apple financial numbers. They&rsquo;re not too bad. What you should be paying attention to is this:</p>\n<blockquote>\n<p>Apple is eliminating one of its most high-profile executive positions. According to a new report today, Apple is eliminating the role of “industrial design chief” as part of a broader shake-up. This role was once held by Jony Ive, and most recently held by Evans Hankey.</p>\n</blockquote>\n<p>More specifically:</p>\n<blockquote>\n<p>Under this new structure, the design team will report to Apple’s chief operating officer Jeff Williams. Source: <a href=\"https://9to5mac.com/2023/02/02/apple-industrial-design-chief-role/\">Apple is eliminating its iconic &lsquo;industrial design chief&rsquo; position</a></p>\n</blockquote>\n<p>This comment by one of the 9To5Mac staff members is not reassuring at all:</p>\n<blockquote>\n<p>I think it’s important to keep in mind, however, that Williams has been involved with the design team for several years at this point. Hankey has reported to Williams since 2019. The difference now is that the middle ground between Williams and the rest of the design team is being removed.</p>\n</blockquote>\n<p>Maybe Hankey saw this coming and couldn&rsquo;t adhere to this direction. Here&rsquo;s my take: ops are taking over Apple, and design is no longer the top priority. It is utterly troubling to read rumours of Williams possibly replacing Cook which looks like being more of the same if you ask me. Maybe Williams has more design experience, but not as a first-party involvement. Troubling.</p>\n",
+				"content_text": "Don't bother reading too much into the latest Apple financial numbers. They're not too bad. What you should be paying attention to is this:  \r\n> Apple is eliminating one of its most high-profile executive positions. According to a new report today, Apple is eliminating the role of “industrial design chief” as part of a broader shake-up. This role was once held by Jony Ive, and most recently held by Evans Hankey.  \r\n\r\nMore specifically: \r\n> Under this new structure, the design team will report to Apple’s chief operating officer Jeff Williams. Source: [Apple is eliminating its iconic 'industrial design chief' position](https://9to5mac.com/2023/02/02/apple-industrial-design-chief-role/)\r\n\r\nThis comment by one of the 9To5Mac staff members is not reassuring at all:\r\n> I think it’s important to keep in mind, however, that Williams has been involved with the design team for several years at this point. Hankey has reported to Williams since 2019. The difference now is that the middle ground between Williams and the rest of the design team is being removed.\r\n\r\nMaybe Hankey saw this coming and couldn't adhere to this direction. Here's my take: ops are taking over Apple, and design is no longer the top priority. It is utterly troubling to read rumours of Williams possibly replacing Cook which looks like being more of the same if you ask me. Maybe Williams has more design experience, but not as a first-party involvement. Troubling. \r\n",
+				"date_published": "2023-02-02T18:50:31-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/02/highly-troublingops-are.html",
+				"tags": ["Apple","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/02/if-i-had.html",
+				
+				"content_html": "<p>If I had enough time on hand, I would build a one-pager website comparing all Mastodon clients. Then, I would update it as new app releases come out. I can see the feature-by-feature comparison table with an overall score at the bottom. I think it could be helpful for new Mastodon users and developers to better understand their app&rsquo;s position in the client landscape.</p>\n",
+				"content_text": "If I had enough time on hand, I would build a one-pager website comparing all Mastodon clients. Then, I would update it as new app releases come out. I can see the feature-by-feature comparison table with an overall score at the bottom. I think it could be helpful for new Mastodon users and developers to better understand their app's position in the client landscape. \n",
+				"date_published": "2023-02-02T07:24:14-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/02/if-i-had.html",
+				"tags": ["Misc","Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/02/some-telling-excerpt.html",
+				
+				"content_html": "<p>Some telling excerpt from <a href=\"https://www.theglobeandmail.com/canada/article-evening-update-canadian-sniper-in-ukraine-describes-russians-stubborn/\">a recent story</a> in the Globe and Mail about a Canadian helping Ukraine:</p>\n<blockquote>\n<p>“There’s a couple of shots I made that day that will be with me,” he said. One was a Russian in a T-shirt who was carrying a box of ammunition more than 1,800 metres behind the front line – a distance Teflon says was the longest shot he’s ever made. “He saw no threat, he thought he was safe. But it’s my job to ensure that they know that they’re not safe anywhere,” Teflon said. “The role of a sniper is to ultimately push into the minds of the enemy and make them question everything.”</p>\n</blockquote>\n<p>And</p>\n<blockquote>\n<p>“There’s allegations that all these Russians must be drugged. There’s no way. I think it’s just lack of training. Because they still act like human beings. I’ve watched guys cry and I’ve watched guys scream and I’ve watched guys try to pull their friends back when they get killed. They’re humans but they don’t have an ounce of training when it comes to fighting a war.”</p>\n</blockquote>\n<p>And</p>\n<blockquote>\n<p>“Sadly, it’s working. That’s why they’re doing it. We’re defending until we can’t defend that spot any more because they just destroy it with tanks. And they just keep sending another wave. It’s just relentless,” Teflon said. “So, they’ve gained 500 metres of dirt, but they just took over a completely destroyed position and lost hundreds of guys to do so.”</p>\n</blockquote>\n<p>Finally</p>\n<blockquote>\n<p>“The world deserves to hear the truth and after losing Joe and Greg, they need to understand we’re not stopping this work,” he said. “There’s no point me dying without telling my story.”</p>\n</blockquote>\n<p>This a poignant story about a Canadian snipper “working” on the front line in Ukraine.</p>\n",
+				"content_text": "Some telling excerpt from [a recent story](https://www.theglobeandmail.com/canada/article-evening-update-canadian-sniper-in-ukraine-describes-russians-stubborn/) in the Globe and Mail about a Canadian helping Ukraine: \n\n> “There’s a couple of shots I made that day that will be with me,” he said. One was a Russian in a T-shirt who was carrying a box of ammunition more than 1,800 metres behind the front line – a distance Teflon says was the longest shot he’s ever made. “He saw no threat, he thought he was safe. But it’s my job to ensure that they know that they’re not safe anywhere,” Teflon said. “The role of a sniper is to ultimately push into the minds of the enemy and make them question everything.”\n\nAnd\n\n> “There’s allegations that all these Russians must be drugged. There’s no way. I think it’s just lack of training. Because they still act like human beings. I’ve watched guys cry and I’ve watched guys scream and I’ve watched guys try to pull their friends back when they get killed. They’re humans but they don’t have an ounce of training when it comes to fighting a war.”\n\nAnd\n\n> “Sadly, it’s working. That’s why they’re doing it. We’re defending until we can’t defend that spot any more because they just destroy it with tanks. And they just keep sending another wave. It’s just relentless,” Teflon said. “So, they’ve gained 500 metres of dirt, but they just took over a completely destroyed position and lost hundreds of guys to do so.”\n\nFinally\n\n> “The world deserves to hear the truth and after losing Joe and Greg, they need to understand we’re not stopping this work,” he said. “There’s no point me dying without telling my story.”\n\nThis a poignant story about a Canadian snipper “working” on the front line in Ukraine. \n\n",
+				"date_published": "2023-02-02T07:01:44-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/02/some-telling-excerpt.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/01/carplay-in-will.html",
+				
+				"content_html": "<p><a href=\"https://www.macrumors.com/2022/12/28/next-generation-carplay-features/\">CarPlay in 2023</a> will see its most significant upgrade since its launch. I don’t know when we’ll actually be able to get this in a real car, but I certainly look forward to it.</p>\n<p>I recently spent some travel time in a high-end Mercedes. The Dashboard was very impressive. Still, the future CarPlay version seems a bit pale in comparison.</p>\n<p>Why did Apple choose to make this early announcement?</p>\n",
+				"content_text": "[CarPlay in 2023](https://www.macrumors.com/2022/12/28/next-generation-carplay-features/) will see its most significant upgrade since its launch. I don’t know when we’ll actually be able to get this in a real car, but I certainly look forward to it.\n\nI recently spent some travel time in a high-end Mercedes. The Dashboard was very impressive. Still, the future CarPlay version seems a bit pale in comparison. \n\nWhy did Apple choose to make this early announcement?\n\n",
+				"date_published": "2023-02-01T13:38:37-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/01/carplay-in-will.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/01/it-is-so.html",
+				
+				"content_html": "<p>It is so slow to recharge an Apple Magic Mouse. Considering how we need to connect this thing for a recharge, Apple should have made it much quicker to recharge. 😒</p>\n",
+				"content_text": "It is so slow to recharge an Apple Magic Mouse. Considering how we need to connect this thing for a recharge, Apple should have made it much quicker to recharge. 😒\n",
+				"date_published": "2023-02-01T11:44:04-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/01/it-is-so.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/01/wow-i-spent.html",
+				
+				"content_html": "<p>Wow, I spent 10 minutes searching for &ldquo;how to save an email into a .EML file on the iPad&rdquo;. It&rsquo;s not in the action menu. The only way is to do a &ldquo;drag &amp; drop&rdquo; of the mail into Files.app (or any app that understands this file format, for that matter). Who knew it could be that hard to discover such a simple thing. It should really be in the action menu too.</p>\n",
+				"content_text": "Wow, I spent 10 minutes searching for \"how to save an email into a .EML file on the iPad\". It's not in the action menu. The only way is to do a \"drag & drop\" of the mail into Files.app (or any app that understands this file format, for that matter). Who knew it could be that hard to discover such a simple thing. It should really be in the action menu too. \n",
+				"date_published": "2023-02-01T11:19:36-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/01/wow-i-spent.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/01/any-little-snitch.html",
+				
+				"content_html": "<p>Any <a href=\"https://www.obdev.at/products/littlesnitch/index.html\">Little Snitch</a> users here? Thoughts? I&rsquo;m using NextDNS to block tracking sites, but what would be the added value of using Little Snitch?</p>\n",
+				"content_text": "Any [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) users here? Thoughts? I'm using NextDNS to block tracking sites, but what would be the added value of using Little Snitch? \n",
+				"date_published": "2023-02-01T08:59:36-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/01/any-little-snitch.html",
+				"tags": ["Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/01/31/a-special-message.html",
+				
+				"content_html": "<p>A special message to all the people who expressed their support for the loss of my mother. It really means a lot, even though I don&rsquo;t know you personally. Thanks.</p>\n",
+				"content_text": "A special message to all the people who expressed their support for the loss of my mother. It really means a lot, even though I don't know you personally. Thanks. \n",
+				"date_published": "2023-01-31T21:06:09-05:00",
+				"url": "https://blog.numericcitizen.me/2023/01/31/a-special-message.html",
+				"tags": ["Personal"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/01/31/im-back-mostly.html",
+				
+				"content_html": "<p>I’m back. Mostly. It was an enduring experience to see my mom go as she did. It was an unintentional instructional experience too. Life has many lessons in store for us. We just have to open our minds and our heart. Easier said than done.</p>\n<p>Writing is part of the healing process, I guess.</p>\n",
+				"content_text": "I’m back. Mostly. It was an enduring experience to see my mom go as she did. It was an unintentional instructional experience too. Life has many lessons in store for us. We just have to open our minds and our heart. Easier said than done.\n\nWriting is part of the healing process, I guess. \n\n",
+				"date_published": "2023-01-31T20:46:45-05:00",
+				"url": "https://blog.numericcitizen.me/2023/01/31/im-back-mostly.html",
+				"tags": ["Personal"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/01/28/well-expect-a.html",
 				
 				"content_html": "<p>Well, expect a change of mood for the next couple of days. It’s seems that my mother, 89, is at the very end of her road. Not only that was expected but also I’m relieved somehow. 😔</p>\n",
