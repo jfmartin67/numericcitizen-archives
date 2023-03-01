@@ -7,6 +7,132 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/02/28/i-want-to.html",
+				
+				"content_html": "<p>I want to share a little follow-up to <a href=\"https://blog.numericcitizen.me/2023/02/28/another-day-another.html\">my previous post</a> regarding <strong>Anybox</strong>. As much as I like what I see in this nifty little app, it must replace something else to make the cut (Raindrop.io?). It must help improve an existing portion of my workflow (putting my monthly newsletter together - possible initial use case). It must make a real difference, not only add a new stopgap.</p>\n",
+				"content_text": "I want to share a little follow-up to [my previous post](https://blog.numericcitizen.me/2023/02/28/another-day-another.html) regarding **Anybox**. As much as I like what I see in this nifty little app, it must replace something else to make the cut (Raindrop.io?). It must help improve an existing portion of my workflow (putting my monthly newsletter together - possible initial use case). It must make a real difference, not only add a new stopgap.\n",
+				"date_published": "2023-02-28T10:01:07-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/28/i-want-to.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/28/another-day-another.html",
+				
+				"content_html": "<p>Another day, another rabbit hole. This time, meet <strong>Anybox</strong>, a bookmark manager for macOS, iOS and iPadOS. I&rsquo;ve been playing with it on macOS and I really like what I&rsquo;m seeing. It&rsquo;s a bit nerdy, but I do like it a lot. Everything I tried or wonder if it could do was met with a &ldquo;ah&rdquo; or &ldquo;ooooh&rdquo;. PopClip integration, easy integration with Things 3, data portability secured (lots of import &amp; export formats), great user interface, Safari extension support. The list goes on and on.</p>\n<p>Now, the only thing is to try to find a real use case for it. I&rsquo;ve been using Craft for the most part for bookmarks collection, so my need for an app like Anybox is still unclear. Stay tuned on that one.</p>\n<p>Is this another solution in search of a problem? 🤔</p>\n",
+				"content_text": "Another day, another rabbit hole. This time, meet **Anybox**, a bookmark manager for macOS, iOS and iPadOS. I've been playing with it on macOS and I really like what I'm seeing. It's a bit nerdy, but I do like it a lot. Everything I tried or wonder if it could do was met with a \"ah\" or \"ooooh\". PopClip integration, easy integration with Things 3, data portability secured (lots of import & export formats), great user interface, Safari extension support. The list goes on and on. \n\nNow, the only thing is to try to find a real use case for it. I've been using Craft for the most part for bookmarks collection, so my need for an app like Anybox is still unclear. Stay tuned on that one. \n\nIs this another solution in search of a problem? 🤔\n",
+				"date_published": "2023-02-28T07:54:42-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/28/another-day-another.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/01/16/got-this-for.html",
+				
+				"content_html": "<p>Got this for the Apple Studio Display and iPhone 13 Pro. With macOS Ventura Camera Continuity, it works much better than I thought. It works great with Microsoft Teams. Best way to add Center Stage to Microsoft Teams (using the Control Center settings while the camera is on). No latency. Surprising how low the battery power consumption is. It would have been nice if the iPhone mount could also recharge the iPhone, though.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got this for the Apple Studio Display and iPhone 13 Pro. With macOS Ventura Camera Continuity, it works much better than I thought. It works great with Microsoft Teams. Best way to add Center Stage to Microsoft Teams (using the Control Center settings while the camera is on). No latency. Surprising how low the battery power consumption is. It would have been nice if the iPhone mount could also recharge the iPhone, though.\n\n<img src=\"uploads/2023/fda6ef279b.png\" alt=\"IMG 5390\" title=\"IMG_5390.png\" border=\"0\" width=\"640\" height=\"360\" style=\"float:right;\" />\n\n<img src=\"uploads/2023/163de87802.png\" alt=\"IMG 5391\" title=\"IMG_5391.png\" border=\"0\" width=\"640\" height=\"360\" style=\"float:right;\" />\n\n<img src=\"uploads/2023/d6f2459bc5.png\" alt=\"IMG 5392\" title=\"IMG_5392.png\" border=\"0\" width=\"640\" height=\"360\" style=\"float:right;\" />\n\n<img src=\"uploads/2023/636fe2f498.png\" alt=\"IMG 8789\" title=\"IMG_8789.png\" border=\"0\" width=\"640\" height=\"480\" style=\"float:right;\" />\n",
+				"date_published": "2023-02-28T06:42:40-05:00",
+				"url": "https://blog.numericcitizen.me/2023/01/16/got-this-for.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/27/testing-microblog-bookmarking.html",
+				"title": "Testing Micro.blog Bookmarking Feature",
+				"content_html": "<p>For the first time today, I diligently tested Micro.blog’s bookmarking feature. I don’t know if this is a popular feature among MB users, but I wonder if I should find a place for MB bookmarks in my workflow. Let’s see a typical workflow.</p>\n<p><img src=\"https://blog.numericcitizen.me/uploads/2023/938c3e82dc.png\" alt=\"\"></p>\n<p>So, I start reading an article from my now favourite RSS reader: Inoreader. I decide to open the source website and use the bookmarklet to save the page into MB bookmarks. After a few minutes, MB diligently created a readable article archive stripped of all the noise. Think of it as an MB version of Instapaper.</p>\n<p><img src=\"https://blog.numericcitizen.me/uploads/2023/1c186c8a33.png\" alt=\"\"></p>\n<p>I open the newly created archive and start my reading. I find an interesting or very valuable passage that I select in the browser. MB shows a very gentle overlay titled “Highlight”. I click on it, and sure enough, the text gets highlighted. But that’s not all.</p>\n<p><img src=\"https://blog.numericcitizen.me/uploads/2023/4772dec351.png\" alt=\"\"></p>\n<p>MB can display a list of all my highlights. If I find a highlight that I want to create a linkpost for, I simply click the “New post” button underneath it. And voilà, I can start writing my linkpost right there.</p>\n<p>Moreover, MB offers a simple way to save a bookmark by entering the article’s URL into the provided field at the top of the “Bookmarks” section on the MB website. Very handy.</p>\n<p>Bookmarks can be embedded in a blog post too. Just click “Embed” underneath a specific bookmark.</p>\n<p>The only downside, for now, is the lack of data portability: bookmarks and highlights can’t be saved or exported outside MB.</p>\n<p>The bookmarking feature is part of the Premium subscription tier.</p>\n",
+				"content_text": "For the first time today, I diligently tested Micro.blog’s bookmarking feature. I don’t know if this is a popular feature among MB users, but I wonder if I should find a place for MB bookmarks in my workflow. Let’s see a typical workflow.\n\n![](https://blog.numericcitizen.me/uploads/2023/938c3e82dc.png)\n\nSo, I start reading an article from my now favourite RSS reader: Inoreader. I decide to open the source website and use the bookmarklet to save the page into MB bookmarks. After a few minutes, MB diligently created a readable article archive stripped of all the noise. Think of it as an MB version of Instapaper.\n\n![](https://blog.numericcitizen.me/uploads/2023/1c186c8a33.png)\n\nI open the newly created archive and start my reading. I find an interesting or very valuable passage that I select in the browser. MB shows a very gentle overlay titled “Highlight”. I click on it, and sure enough, the text gets highlighted. But that’s not all. \n\n![](https://blog.numericcitizen.me/uploads/2023/4772dec351.png)\n\nMB can display a list of all my highlights. If I find a highlight that I want to create a linkpost for, I simply click the “New post” button underneath it. And voilà, I can start writing my linkpost right there. \n\nMoreover, MB offers a simple way to save a bookmark by entering the article’s URL into the provided field at the top of the “Bookmarks” section on the MB website. Very handy.\n\nBookmarks can be embedded in a blog post too. Just click “Embed” underneath a specific bookmark. \n\nThe only downside, for now, is the lack of data portability: bookmarks and highlights can’t be saved or exported outside MB. \n\nThe bookmarking feature is part of the Premium subscription tier.\n\n",
+				"date_published": "2023-02-27T19:49:09-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/27/testing-microblog-bookmarking.html",
+				"tags": ["Longer posts","Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/27/writing-shouldnt-be.html",
+				
+				"content_html": "<p><a href=\"https://om.co/2023/02/27/writing-shouldnt-be-hard/\">Writing Shouldn’t Be Hard</a></p>\n<blockquote>\n<p>We now live in a world of multimodal communications, and how we communicate is changing. The omnipresence of devices in our lives — smartphones to computers, means most of our conversations and communications happen through text. We have replaced so much of our face-to-face interaction with the written word. Teams, Slack and Discords, are part of our daily lives now. As the volume of text in our lives increases, we need tools that help facilitate and perhaps improve how we write and how fast we write.</p>\n</blockquote>\n<p>Am I alone in having the feeling that people no longer read?</p>\n",
+				"content_text": " [Writing Shouldn’t Be Hard](https://om.co/2023/02/27/writing-shouldnt-be-hard/)\r\n\r\n> We now live in a world of multimodal communications, and how we communicate is changing. The omnipresence of devices in our lives — smartphones to computers, means most of our conversations and communications happen through text. We have replaced so much of our face-to-face interaction with the written word. Teams, Slack and Discords, are part of our daily lives now. As the volume of text in our lives increases, we need tools that help facilitate and perhaps improve how we write and how fast we write.\r\n\r\nAm I alone in having the feeling that people no longer read? \n",
+				"date_published": "2023-02-27T19:25:41-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/27/writing-shouldnt-be.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/27/apple-pays-mln.html",
+				
+				"content_html": "<p><a href=\"https://www.reuters.com/technology/apple-pays-121-mln-fine-alleged-app-market-abuse-russia-antimonopoly-service-2023-02-27/\">Apple pays $12.1 mln fine for alleged app market abuse in Russia - Antimonopoly Service</a></p>\n<blockquote>\n<p>U.S. tech giant Apple has paid a 906 million rouble ($12.12 million) fine in a Russian antitrust case alleging abuse of its dominance in the mobile apps market, Russia&rsquo;s Federal Antimonopoly Service (FAS) said on Monday.</p>\n</blockquote>\n<p>First, where is the money going once paid by Apple? The current situation in Ukraine mandates more scrutiny. Personally, I would have shut down the App Store altogether in this market. Plain and simple as well as give a middle finger instead of paying the fine. But that&rsquo;s me.</p>\n",
+				"content_text": " [Apple pays $12.1 mln fine for alleged app market abuse in Russia - Antimonopoly Service](https://www.reuters.com/technology/apple-pays-121-mln-fine-alleged-app-market-abuse-russia-antimonopoly-service-2023-02-27/)\r\n\r\n> U.S. tech giant Apple has paid a 906 million rouble ($12.12 million) fine in a Russian antitrust case alleging abuse of its dominance in the mobile apps market, Russia's Federal Antimonopoly Service (FAS) said on Monday.\r\n\r\nFirst, where is the money going once paid by Apple? The current situation in Ukraine mandates more scrutiny. Personally, I would have shut down the App Store altogether in this market. Plain and simple as well as give a middle finger instead of paying the fine. But that's me. \n",
+				"date_published": "2023-02-27T16:52:02-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/27/apple-pays-mln.html",
+				"tags": ["Apple","UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/27/dear-developers-be.html",
+				
+				"content_html": "<p>Dear developers, be honest with us. In my usual morning rabbit hole digging, I stumbled on Flow, a Pomodoro app for the Mac. According to the website, Flow is free.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/5fc3c5d5c6.png\" alt=\"\"></p>\n<p>I click on the “Available on the App Store” link. Once in the App Store, I look at the app details.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/1cba87eaa0.png\" alt=\"\"></p>\n<p>Then, things start to look different. There is an “In-app purchases” tag. Scrolling down to the details, I get to see this.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/0254352cc5.png\" alt=\"\"></p>\n<p>Now, I go up and read the app description. 😠 The developer fooled me. I feel cheated when basic and core features are under the “Pro” plan (like a timer custom duration). It’s a stupid one-feature app, and the developer manages to put the core feature under the pro plan!! I skip the app and move on because I don’t feel the developer is honest in his approach. Yeah, I know it’s called “marketing”.</p>\n",
+				"content_text": "Dear developers, be honest with us. In my usual morning rabbit hole digging, I stumbled on Flow, a Pomodoro app for the Mac. According to the website, Flow is free.\n\n![](https://cdn.uploads.micro.blog/6803/2023/5fc3c5d5c6.png)\n\nI click on the “Available on the App Store” link. Once in the App Store, I look at the app details. \n\n![](https://cdn.uploads.micro.blog/6803/2023/1cba87eaa0.png)\n\nThen, things start to look different. There is an “In-app purchases” tag. Scrolling down to the details, I get to see this.\n\n![](https://cdn.uploads.micro.blog/6803/2023/0254352cc5.png)\n\nNow, I go up and read the app description. 😠 The developer fooled me. I feel cheated when basic and core features are under the “Pro” plan (like a timer custom duration). It’s a stupid one-feature app, and the developer manages to put the core feature under the pro plan!! I skip the app and move on because I don’t feel the developer is honest in his approach. Yeah, I know it’s called “marketing”. \n\n",
+				"date_published": "2023-02-27T07:30:15-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/27/dear-developers-be.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/26/will-be-spending.html",
+				
+				"content_html": "<p>Will be spending the rest if the weekend trying to advance my (many) projects. One being to produce my next YouTube video about using Craft as a website publishing tool.</p>\n",
+				"content_text": "Will be spending the rest if the weekend trying to advance my (many) projects. One being to produce my next YouTube video about using Craft as a website publishing tool. \n",
+				"date_published": "2023-02-26T13:55:08-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/26/will-be-spending.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/25/coming-out-of.html",
+				"title": "Coming out of another rabbit hole…",
+				"content_html": "<p>👨‍💻 I’ve been extensively testing Inoreader recently and I have to say that as much as I like the service, I find the support for third-party services seriously lacking.</p>\n<p>Inoreader supports many third-party services like Blogger, Telegram, Buffer, Evernote, LinkedIn, Hootsuite, Pocket, Google Drive, Instapaper, OneNote, Hatena Bookmarks and Dropbox.</p>\n<p>It certainly a long list of services but the problem is that I don’t use any of them. I recently cancelled Buffer and Pocket. I’m surprised to see Blogger but not WordPress or Ghost. Who’s using Hootsuite these days?</p>\n<p>I wish Raindrop.io or Notion would be supported, after all, both of these services support offer APIs. Too bad because with better integration often come more efficient workflows.</p>\n<p>Building something around tags, IFTTT and RSS could unlock some form of automated workflow. For example, tagging an article would generate an article in a custom RSS feed built using Inoreader which would trigger an applet on IFTTT monitoring this RSS feed which in turn could create an entry in Things 3. The latter part is a challenge, though. IFTTT can’t talk to Things, but it can talk to Google Sheet.</p>\n<p>Nothing is perfect I guess. 🤷🏻‍♂️</p>\n",
+				"content_text": "👨‍💻 I’ve been extensively testing Inoreader recently and I have to say that as much as I like the service, I find the support for third-party services seriously lacking. \n\nInoreader supports many third-party services like Blogger, Telegram, Buffer, Evernote, LinkedIn, Hootsuite, Pocket, Google Drive, Instapaper, OneNote, Hatena Bookmarks and Dropbox. \n\nIt certainly a long list of services but the problem is that I don’t use any of them. I recently cancelled Buffer and Pocket. I’m surprised to see Blogger but not WordPress or Ghost. Who’s using Hootsuite these days? \n\nI wish Raindrop.io or Notion would be supported, after all, both of these services support offer APIs. Too bad because with better integration often come more efficient workflows.\n\nBuilding something around tags, IFTTT and RSS could unlock some form of automated workflow. For example, tagging an article would generate an article in a custom RSS feed built using Inoreader which would trigger an applet on IFTTT monitoring this RSS feed which in turn could create an entry in Things 3. The latter part is a challenge, though. IFTTT can’t talk to Things, but it can talk to Google Sheet. \n\nNothing is perfect I guess. 🤷🏻‍♂️\n\n",
+				"date_published": "2023-02-25T16:22:50-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/25/coming-out-of.html",
+				"tags": ["Longer posts","Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/25/im-running-a.html",
+				
+				"content_html": "<p>👉✅ I&rsquo;m running <a href=\"https://www.youtube.com/numericcitizenvideos/community\">a quick poll</a> on my YouTube Channel, in the community section! I&rsquo;m curious about your interest in &ldquo;how-to&rdquo; videos about Micro.blog. Thanks for taking the time to vote! 🙏🏻</p>\n",
+				"content_text": "👉✅ I'm running [a quick poll](https://www.youtube.com/numericcitizenvideos/community) on my YouTube Channel, in the community section! I'm curious about your interest in \"how-to\" videos about Micro.blog. Thanks for taking the time to vote! 🙏🏻\n",
+				"date_published": "2023-02-25T08:32:37-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/25/im-running-a.html",
+				"tags": ["Blogging","Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/24/the-funny-thing.html",
+				
+				"content_html": "<p>The funny thing about posting ideas on Friday nights, writing out loud ideas, it goes out unnoticed; nobody is paying attention. Everyone is too busy enjoying their weekend!</p>\n",
+				"content_text": "The funny thing about posting ideas on Friday nights, writing out loud ideas, it goes out unnoticed; nobody is paying attention. Everyone is too busy enjoying their weekend! \n",
+				"date_published": "2023-02-24T19:21:39-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/24/the-funny-thing.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/24/since-last-june.html",
+				
+				"content_html": "<p>Since last June I’ve been producing YouTube <a href=\"https://www.youtube.com/numericcitizenvideos\">videos about Craft</a> (the note taking app, not the game! 😜). I’m closing in to having fifty videos done. I like doing this quite a lot actually.</p>\n<p>Now I’m looking for the next product or service to talk about. 🧐</p>\n<p>It seems there is a lot to talk about with <strong>Micro.blog</strong>, don’t you think? 🤓</p>\n",
+				"content_text": "Since last June I’ve been producing YouTube [videos about Craft](https://www.youtube.com/numericcitizenvideos) (the note taking app, not the game! 😜). I’m closing in to having fifty videos done. I like doing this quite a lot actually. \n\nNow I’m looking for the next product or service to talk about. 🧐 \n\nIt seems there is a lot to talk about with **Micro.blog**, don’t you think? 🤓\n",
+				"date_published": "2023-02-24T19:00:40-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/24/since-last-june.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/24/ai-comes-to.html",
+				"title": "AI Comes to WordPress… Who Knew",
+				"content_html": "<p>The pervasiveness of AI is starting to look troubling at best. This week as I was heading to my WordPress admin page, I got this message at the top.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/42d2b6a180.png\" alt=\"\"></p>\n<p>Who knew? I was curious so I read the official <a href=\"https://wordpress.org/plugins/ai-engine/\">“AI Engine” plugin page</a> on WordPress.org. Here’s something that I found dubious.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/c0d4fe7148.jpg\" alt=\"\"></p>\n<p>Five stars reviews only so far. I won’t have the pleasure to test this plugin or implement any of this on <a href=\"https://numericcitizen.me\">my website</a> as I’m getting ready to move out of WordPress this year. Now, who’s next, Ghost?</p>\n<p>The official plugin page can be found <a href=\"https://meowapps.com/ai-engine/\">here</a>.</p>\n",
+				"content_text": "The pervasiveness of AI is starting to look troubling at best. This week as I was heading to my WordPress admin page, I got this message at the top. \n\n![](https://cdn.uploads.micro.blog/6803/2023/42d2b6a180.png)\n\nWho knew? I was curious so I read the official [“AI Engine” plugin page](https://wordpress.org/plugins/ai-engine/) on WordPress.org. Here’s something that I found dubious. \n\n![](https://cdn.uploads.micro.blog/6803/2023/c0d4fe7148.jpg)\n\nFive stars reviews only so far. I won’t have the pleasure to test this plugin or implement any of this on [my website](https://numericcitizen.me) as I’m getting ready to move out of WordPress this year. Now, who’s next, Ghost?\n\nThe official plugin page can be found [here](https://meowapps.com/ai-engine/). \n\n",
+				"date_published": "2023-02-24T07:09:35-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/24/ai-comes-to.html",
+				"tags": ["Longer posts","Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/24/its-friday-and.html",
+				
+				"content_html": "<p>👉 It&rsquo;s Friday, and it is time for another quick experiment. For the next few days, I will cross-post from the Micro.blog to my Mastodon account and see how it goes. I&rsquo;m unsure if I will add more confusion than anything else.</p>\n",
+				"content_text": "👉 It's Friday, and it is time for another quick experiment. For the next few days, I will cross-post from the Micro.blog to my Mastodon account and see how it goes. I'm unsure if I will add more confusion than anything else. \n",
+				"date_published": "2023-02-24T06:56:35-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/24/its-friday-and.html",
+				"tags": ["Blogging","Services"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/02/23/tonight-following-one.html",
 				
 				"content_html": "<p>Tonight, following one of my year&rsquo;s goals of focusing on and reducing my digital footprint, <strong>I deleted my Tumblr account</strong>, where each post was cross-posted from Micro.blog ➡️ Tumblr. This platform seems like a ghost town.</p>\n<p>I&rsquo;m also testing the new &ldquo;Show cross-posting&rdquo; feature to push this post on my Mastodon instance. Zoom zip and hop to <a href=\"https://micro.blog/numericcitizen@techhub.social\">@numericcitizen@techhub.social</a>!</p>\n",
@@ -27,8 +153,8 @@
 			{
 				"id": "http://numericcitizen.micro.blog/2023/02/22/day-one-now.html",
 				
-				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2023/bc786c548c.jpg\" alt=\"\"></p>\n<p>👉🏻 Day One, <a href=\"https://dayoneapp.com/web/\">now available on the web</a>. Woah! This is cool.</p>\n<p>I’m a big fan of Day One. I use it 99% of time for documenting my numeric life (details <a href=\"https://numericcitizen.me/2018/12/22/documenting-your-numeric-life/\">here</a> if you are curious). When Automattic bought them a while back, I was curious to see how it would influence its future. Now we get a much better idea. The web access maybe was an obvious “next step”, but they did a superb job of transposing most of the Day One experience on the web.</p>\n<p>What could be the next step for Day One? Well, what about being able to blog from Day One? A dedicated “public” journal could be created and any entry saved into that journal would go online. Boom.</p>\n<p>Now, if only I could spend more time writing personal thoughts in it.😒</p>\n",
-				"content_text": "![](https://blog.numericcitizen.me/uploads/2023/bc786c548c.jpg)\n\n👉🏻 Day One, [now available on the web](https://dayoneapp.com/web/). Woah! This is cool.\n\nI’m a big fan of Day One. I use it 99% of time for documenting my numeric life (details [here](https://numericcitizen.me/2018/12/22/documenting-your-numeric-life/) if you are curious). When Automattic bought them a while back, I was curious to see how it would influence its future. Now we get a much better idea. The web access maybe was an obvious “next step”, but they did a superb job of transposing most of the Day One experience on the web.\n\nWhat could be the next step for Day One? Well, what about being able to blog from Day One? A dedicated “public” journal could be created and any entry saved into that journal would go online. Boom. \n\nNow, if only I could spend more time writing personal thoughts in it.😒\n\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/bc786c548c.jpg\" alt=\"\"></p>\n<p>👉🏻 Day One, <a href=\"https://dayoneapp.com/web/\">now available on the web</a>. Woah! This is cool.</p>\n<p>I’m a big fan of Day One. I use it 99% of time for documenting my numeric life (details <a href=\"https://numericcitizen.me/2018/12/22/documenting-your-numeric-life/\">here</a> if you are curious). When Automattic bought them a while back, I was curious to see how it would influence its future. Now we get a much better idea. The web access maybe was an obvious “next step”, but they did a superb job of transposing most of the Day One experience on the web.</p>\n<p>What could be the next step for Day One? Well, what about being able to blog from Day One? A dedicated “public” journal could be created and any entry saved into that journal would go online. Boom.</p>\n<p>Now, if only I could spend more time writing personal thoughts in it.😒</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/bc786c548c.jpg)\n\n👉🏻 Day One, [now available on the web](https://dayoneapp.com/web/). Woah! This is cool.\n\nI’m a big fan of Day One. I use it 99% of time for documenting my numeric life (details [here](https://numericcitizen.me/2018/12/22/documenting-your-numeric-life/) if you are curious). When Automattic bought them a while back, I was curious to see how it would influence its future. Now we get a much better idea. The web access maybe was an obvious “next step”, but they did a superb job of transposing most of the Day One experience on the web.\n\nWhat could be the next step for Day One? Well, what about being able to blog from Day One? A dedicated “public” journal could be created and any entry saved into that journal would go online. Boom. \n\nNow, if only I could spend more time writing personal thoughts in it.😒\n\n",
 				"date_published": "2023-02-22T21:41:29-05:00",
 				"url": "https://blog.numericcitizen.me/2023/02/22/day-one-now.html",
 				"tags": ["Blogging","Services"]
@@ -36,8 +162,8 @@
 			{
 				"id": "http://numericcitizen.micro.blog/2023/02/21/glass-introduces-highlights.html",
 				
-				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2023/7c5775a54c.png\" alt=\"\"></p>\n<p>Glass introduces “Highlights”. Oh I like this a lot. They keep adding more and more dimensions to an already solid, simple, honest, photo-sharing service. I’m glad to be supporting them.</p>\n",
-				"content_text": "![](https://blog.numericcitizen.me/uploads/2023/7c5775a54c.png)\n\nGlass introduces “Highlights”. Oh I like this a lot. They keep adding more and more dimensions to an already solid, simple, honest, photo-sharing service. I’m glad to be supporting them. \n\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/7c5775a54c.png\" alt=\"\"></p>\n<p>Glass introduces “Highlights”. Oh I like this a lot. They keep adding more and more dimensions to an already solid, simple, honest, photo-sharing service. I’m glad to be supporting them.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/7c5775a54c.png)\n\nGlass introduces “Highlights”. Oh I like this a lot. They keep adding more and more dimensions to an already solid, simple, honest, photo-sharing service. I’m glad to be supporting them. \n\n",
 				"date_published": "2023-02-21T21:19:59-05:00",
 				"url": "https://blog.numericcitizen.me/2023/02/21/glass-introduces-highlights.html",
 				"tags": ["Photography"]
@@ -45,8 +171,8 @@
 			{
 				"id": "http://numericcitizen.micro.blog/2023/02/21/and-here-we.html",
 				
-				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2023/7d0a05a07d.jpg\" alt=\"\"></p>\n<p>And here we go again with the new Mac Pro “problem”. <a href=\"https://www.macworld.com/article/1512936\">Jason Snell writing</a> about the challenges Apple is facing with the unfinished Apple Silicon transition of its Mac line:</p>\n<blockquote>\n<p>And all that custom work, all those distortions to what makes Apple silicon so successful, would be done for a product that’s a niche of a niche–and it’s work that Apple’s chip design team could have spent on a next-generation chip for the iPhone, iPad, and Mac.</p>\n</blockquote>\n<p>Remember the Trashcan Mac? The black cylinder Mac Pro was a closed system with very limited internal expandability beyond memory and SSD drive. Criticism from pro users lasted so long that Apple reverted his take on the Mac Pro with the return of the expandable machine in 2019. Pro users rejoiced as they could again add the PCI cards of their choices as well as adding as much memory they could afford. Problems fixed? Think again.</p>\n<p>Now, enter the Apple Silicon chip: a highly regarded and efficient system-on-a-chip design with fixed amount of RAM and GPU (except for Pro, Max, Ultra flavours). A Mac Pro built around this chip would go against having 1 TB of RAM or external GPU without sacrificing latency and performance with support for RAM or eGPU. Apple Silicon makes the Mac a more closed system, just like the 2013 Trashcan Mac was. How ironic this is.</p>\n<p><img src=\"https://blog.numericcitizen.me/uploads/2023/304b3cdbcf.jpg\" alt=\"\"></p>\n",
-				"content_text": "![](https://blog.numericcitizen.me/uploads/2023/7d0a05a07d.jpg)\n\nAnd here we go again with the new Mac Pro “problem”. [Jason Snell writing](https://www.macworld.com/article/1512936) about the challenges Apple is facing with the unfinished Apple Silicon transition of its Mac line:\n\n> And all that custom work, all those distortions to what makes Apple silicon so successful, would be done for a product that’s a niche of a niche–and it’s work that Apple’s chip design team could have spent on a next-generation chip for the iPhone, iPad, and Mac.\n\nRemember the Trashcan Mac? The black cylinder Mac Pro was a closed system with very limited internal expandability beyond memory and SSD drive. Criticism from pro users lasted so long that Apple reverted his take on the Mac Pro with the return of the expandable machine in 2019. Pro users rejoiced as they could again add the PCI cards of their choices as well as adding as much memory they could afford. Problems fixed? Think again. \n\nNow, enter the Apple Silicon chip: a highly regarded and efficient system-on-a-chip design with fixed amount of RAM and GPU (except for Pro, Max, Ultra flavours). A Mac Pro built around this chip would go against having 1 TB of RAM or external GPU without sacrificing latency and performance with support for RAM or eGPU. Apple Silicon makes the Mac a more closed system, just like the 2013 Trashcan Mac was. How ironic this is.\n\n![](https://blog.numericcitizen.me/uploads/2023/304b3cdbcf.jpg)\n\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/7d0a05a07d.jpg\" alt=\"\"></p>\n<p>And here we go again with the new Mac Pro “problem”. <a href=\"https://www.macworld.com/article/1512936\">Jason Snell writing</a> about the challenges Apple is facing with the unfinished Apple Silicon transition of its Mac line:</p>\n<blockquote>\n<p>And all that custom work, all those distortions to what makes Apple silicon so successful, would be done for a product that’s a niche of a niche–and it’s work that Apple’s chip design team could have spent on a next-generation chip for the iPhone, iPad, and Mac.</p>\n</blockquote>\n<p>Remember the Trashcan Mac? The black cylinder Mac Pro was a closed system with very limited internal expandability beyond memory and SSD drive. Criticism from pro users lasted so long that Apple reverted his take on the Mac Pro with the return of the expandable machine in 2019. Pro users rejoiced as they could again add the PCI cards of their choices as well as adding as much memory they could afford. Problems fixed? Think again.</p>\n<p>Now, enter the Apple Silicon chip: a highly regarded and efficient system-on-a-chip design with fixed amount of RAM and GPU (except for Pro, Max, Ultra flavours). A Mac Pro built around this chip would go against having 1 TB of RAM or external GPU without sacrificing latency and performance with support for RAM or eGPU. Apple Silicon makes the Mac a more closed system, just like the 2013 Trashcan Mac was. How ironic this is.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/304b3cdbcf.jpg\" alt=\"\"></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/7d0a05a07d.jpg)\n\nAnd here we go again with the new Mac Pro “problem”. [Jason Snell writing](https://www.macworld.com/article/1512936) about the challenges Apple is facing with the unfinished Apple Silicon transition of its Mac line:\n\n> And all that custom work, all those distortions to what makes Apple silicon so successful, would be done for a product that’s a niche of a niche–and it’s work that Apple’s chip design team could have spent on a next-generation chip for the iPhone, iPad, and Mac.\n\nRemember the Trashcan Mac? The black cylinder Mac Pro was a closed system with very limited internal expandability beyond memory and SSD drive. Criticism from pro users lasted so long that Apple reverted his take on the Mac Pro with the return of the expandable machine in 2019. Pro users rejoiced as they could again add the PCI cards of their choices as well as adding as much memory they could afford. Problems fixed? Think again. \n\nNow, enter the Apple Silicon chip: a highly regarded and efficient system-on-a-chip design with fixed amount of RAM and GPU (except for Pro, Max, Ultra flavours). A Mac Pro built around this chip would go against having 1 TB of RAM or external GPU without sacrificing latency and performance with support for RAM or eGPU. Apple Silicon makes the Mac a more closed system, just like the 2013 Trashcan Mac was. How ironic this is.\n\n![](https://cdn.uploads.micro.blog/6803/2023/304b3cdbcf.jpg)\n\n",
 				"date_published": "2023-02-21T20:22:00-05:00",
 				"url": "https://blog.numericcitizen.me/2023/02/21/and-here-we.html",
 				"tags": ["Apple"]
@@ -7845,15 +7971,6 @@
 				"tags": ["Apple","Photography","Longer posts","Hashtags"]
 			},
 			{
-				"id": "http://numericcitizen.micro.blog/2020/11/15/universe-on-macos.html",
-				"title": "Universe on macOS Big Sur (@onuniverse #macosbigsur #apple #catalyst)",
-				"content_html": "<p>One of the best &ldquo;side effect&rdquo; of macOS Big Sur release is the ability to run iPadOS applications on the Mac. The first to cross the border that I really care about is <a href=\"https://www.onuniverse.com\">Universe</a>, a site builder app. I use it to build <a href=\"https://numericcitizen-visualspace.com\">My Numeric Citizen Visual Space</a>. The following screenshot is the application running on my 2017 MacBook Pro upgraded to Big Sur. The end-result is really good.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of the best \"side effect\" of macOS Big Sur release is the ability to run iPadOS applications on the Mac. The first to cross the border that I really care about is [Universe](https://www.onuniverse.com), a site builder app. I use it to build [My Numeric Citizen Visual Space](https://numericcitizen-visualspace.com). The following screenshot is the application running on my 2017 MacBook Pro upgraded to Big Sur. The end-result is really good.\n\n<img src=\"https://numericcitizen.micro.blog/uploads/2020/e03d370a6e.jpg\" width=\"600\" height=\"375\" alt=\"\" />\n",
-				"date_published": "2020-11-15T14:48:23-05:00",
-				"url": "https://blog.numericcitizen.me/2020/11/15/universe-on-macos.html",
-				"tags": ["Apple","Photography","Longer posts","Hashtags"]
-			},
-			{
 				"id": "http://numericcitizen.micro.blog/2020/11/15/here-is-why.html",
 				"title": "Here is why Microsoft should start to worry (#microsoft #surfacego #macbookair #apple #m1chip) ",
 				"content_html": "<p>In light of Apple&rsquo;s recent products introduction, consider the recently introduced <strong>Microsoft Surface Go</strong>. A Windows laptop that starts with 4 GB of RAM, 64 GB SSD, 12.4” touch screen using the Intel Core i5 which will get you 13 hours on battery for 550$. If you want a 8 GB of RAM, 256 GB SSD, the price goes up to 899$, but you keep the same lame CPU.</p>\n<p>Now, compare this to the new MacBook Air (a much more powerful laptop) for 899$ (education pricing), same amount of RAM and SSD, 5 hours more of battery life, a much better non-touch display.</p>\n<p>How is Microsoft supposed to compete against Apple in this market now?</p>\n<p>They simply can’t, and they should start to worry.</p>\n<!-- raw HTML omitted -->\n",
@@ -7914,15 +8031,6 @@
 				"content_text": "Maybe I'm wrong with my perception of the disaster Apple created with the introduction of widgets in combination with notifications center (read [my comment here on micro.blog](https://numericcitizen.micro.blog/2020/11/01/im-done-with.html)). After reading the excellent [MacStories.net review of Big Sur](https://www.macstories.net/stories/macos-big-sur-the-macstories-review/), I finally saw the combination in action. Notifications are see big improvements and look closer to what we get on iOS. \n\nStill, Apple lost the opportunity to make widgets available in their own space, something like what we used to have, the Dashboard. It's ridiculous to confine widgets in such a small space, considering modern screen sizes. Oh, and I hope the interaction feels much more fluid on M1-based machines because the last time checked on a 2017 MacBook Pro, with Big Sur beta 10, it was super laggy\n\nPicture credits: from MacStories’ review of Big Sur. \n\n<img src=\"https://numericcitizen.micro.blog/uploads/2020/1de2ad0ee6.jpg\" width=\"600\" height=\"375\" alt=\"\" />\n",
 				"date_published": "2020-11-13T12:00:21-05:00",
 				"url": "https://blog.numericcitizen.me/2020/11/13/on-big-sur.html",
-				"tags": ["Apple","Photography","Longer posts","Hashtags"]
-			},
-			{
-				"id": "http://numericcitizen.micro.blog/2020/11/13/its-happening-macos.html",
-				"title": "It's happening! (#macos #catalyst #universalapp #macosbigsur)",
-				"content_html": "<p>The movement of iPadOS apps crossing the boundaries to come to the Mac is starting, thanks to macOS Big Sur. A surprise addition to the Mac App Store is <a href=\"https://www.onuniverse.com\">@OnUniverse</a> which is now available for the Mac. The app has been rebuilt on iPadOS to better fit the Mac platform. It&rsquo;s a great example of Apple’s bet starting to payoff. I used to use this app on my iPad to build my <a href=\"https://numericcitizen-visualspace.com\">Visual Space</a>. It&rsquo;s only the beginning.</p>\n<p>As I don&rsquo;t have macOS Big installed yet, I couldn&rsquo;t play with the app. Can&rsquo;t wait to try it on <a href=\"https://numericcitizen.micro.blog/2020/11/11/another-experiment-mac.html\">my upcoming M1 Mac mini</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The movement of iPadOS apps crossing the boundaries to come to the Mac is starting, thanks to macOS Big Sur. A surprise addition to the Mac App Store is [@OnUniverse](https://www.onuniverse.com) which is now available for the Mac. The app has been rebuilt on iPadOS to better fit the Mac platform. It's a great example of Apple’s bet starting to payoff. I used to use this app on my iPad to build my [Visual Space](https://numericcitizen-visualspace.com). It's only the beginning. \n\nAs I don't have macOS Big installed yet, I couldn't play with the app. Can't wait to try it on [my upcoming M1 Mac mini](https://numericcitizen.micro.blog/2020/11/11/another-experiment-mac.html). \n\n<img src=\"https://numericcitizen.micro.blog/uploads/2020/a9d36e41f1.jpg\" width=\"552\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-11-13T06:39:33-05:00",
-				"url": "https://blog.numericcitizen.me/2020/11/13/its-happening-macos.html",
 				"tags": ["Apple","Photography","Longer posts","Hashtags"]
 			},
 			{
@@ -8843,15 +8951,6 @@
 				"tags": ["Apple","Photography","Longer posts"]
 			},
 			{
-				"id": "http://numericcitizen.micro.blog/2020/10/03/from-the-perfect.html",
-				
-				"content_html": "<p>From the Perfect Imperfections Series: The cross.</p>\n<p>I never pray. A cross is a geometric form. It can be a target too. It has no particular meaning by itself. #art #photography</p>\n<p><a href=\"https://numericcitizen-visualspace.com/the-perfect-imperfections-series/the-cross\">numericcitizen-visualspace.com/the-perfe&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "From the Perfect Imperfections Series: The cross.\n\nI never pray. A cross is a geometric form. It can be a target too. It has no particular meaning by itself. #art #photography\n\n[numericcitizen-visualspace.com/the-perfe...](https://numericcitizen-visualspace.com/the-perfect-imperfections-series/the-cross)\n\n<img src=\"https://numericcitizen.micro.blog/uploads/2020/8e4e25f45f.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
-				"date_published": "2020-10-03T13:15:00-05:00",
-				"url": "https://blog.numericcitizen.me/2020/10/03/from-the-perfect.html",
-				"tags": ["Photography"]
-			},
-			{
 				"id": "http://numericcitizen.micro.blog/2020/10/03/im-currently-testing.html",
 				
 				"content_html": "<p>I’m currently testing the beta of the upcoming reimagined <strong>Medium mobile app</strong> and I love it 🥰. For once, a redesigned experience is not synonymous of going backward. More on this soon.</p>\n<!-- raw HTML omitted -->\n",
@@ -9606,15 +9705,6 @@
 				"tags": ["Privacy","Food for thought","Longer posts"]
 			},
 			{
-				"id": "http://numericcitizen.micro.blog/2020/08/27/my-visual-space.html",
-				
-				"content_html": "<p>My Visual Space got an update today. <a href=\"https://numericcitizen-visualspace.com/the-perfect-imperfections-series/dream-flashback\">Dream Flashback - Numeric Citizen Visual Space</a></p>\n",
-				"content_text": "My Visual Space got an update today. [Dream Flashback - Numeric Citizen Visual Space](https://numericcitizen-visualspace.com/the-perfect-imperfections-series/dream-flashback)\n",
-				"date_published": "2020-08-27T18:20:11-05:00",
-				"url": "https://blog.numericcitizen.me/2020/08/27/my-visual-space.html",
-				"tags": ["Photography"]
-			},
-			{
 				"id": "http://numericcitizen.micro.blog/2020/08/27/apple-search-thats.html",
 				
 				"content_html": "<p>Apple Search. That’s quite intriguing. <a href=\"https://appleterm.com/2020/08/27/recent-apple-behavior-and-changes-hint-that-its-planning-to-launch-its-own-search-engine-to-compete-with-google/\">Recent Apple behavior and changes hint that it&rsquo;s planning to launch its own search engine to compete with Google • Aug 27, 2020 • Apple Terminal</a></p>\n",
@@ -9638,8 +9728,7 @@
 				"content_html": "<p>A building on ICU? #photography <a href=\"https://numericcitizen-visualspace.com/the-perfect-imperfections-series/breathing-building\">Breathing Building - Numeric Citizen Visual Space</a></p>\n",
 				"content_text": "A building on ICU? #photography [Breathing Building - Numeric Citizen Visual Space](https://numericcitizen-visualspace.com/the-perfect-imperfections-series/breathing-building)\n",
 				"date_published": "2020-08-26T19:45:45-05:00",
-				"url": "https://blog.numericcitizen.me/2020/08/26/a-building-on.html",
-				"tags": ["Photography"]
+				"url": "https://blog.numericcitizen.me/2020/08/26/a-building-on.html"
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2020/08/26/thinking-of-becoming.html",
@@ -9685,15 +9774,6 @@
 				"date_published": "2020-08-26T07:08:09-05:00",
 				"url": "https://blog.numericcitizen.me/2020/08/26/master-piece-from.html",
 				"tags": ["Apple","Misc"]
-			},
-			{
-				"id": "http://numericcitizen.micro.blog/2020/08/26/friendly-reminder-about.html",
-				
-				"content_html": "<p>Friendly reminder about my Visual Space existence. #photography <a href=\"https://numericcitizen-visualspace.com/the-perfect-imperfections-series/coloured-view\">Coloured View - Numeric Citizen Visual Space</a></p>\n",
-				"content_text": "Friendly reminder about my Visual Space existence. #photography [Coloured View - Numeric Citizen Visual Space](https://numericcitizen-visualspace.com/the-perfect-imperfections-series/coloured-view)\n",
-				"date_published": "2020-08-26T06:39:51-05:00",
-				"url": "https://blog.numericcitizen.me/2020/08/26/friendly-reminder-about.html",
-				"tags": ["Photography"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2020/08/26/on-ipados-beta.html",
@@ -10690,15 +10770,6 @@
 				"content_text": "Because of newly introduced folders support in iOS 14 Shortcuts, I made a spring cleanup. Now I’m down to what I actually need and use. #ios14 #apple \n",
 				"date_published": "2020-07-11T11:04:40-05:00",
 				"url": "https://blog.numericcitizen.me/2020/07/11/because-of-newly.html",
-				"tags": ["Apple"]
-			},
-			{
-				"id": "http://numericcitizen.micro.blog/2020/07/11/with-ipados-apple.html",
-				
-				"content_html": "<p>With iPadOS 14, Apple mades a lot of improvements to the Calendar app which makes me reconsider the use of Readdle’s Calendar alternative. The reason is mainly because of the new Sidebar. Decision, decision, decision. #iPadOS14</p>\n",
-				"content_text": "With iPadOS 14, Apple mades a lot of improvements to the Calendar app which makes me reconsider the use of Readdle’s Calendar alternative. The reason is mainly because of the new Sidebar. Decision, decision, decision. #iPadOS14 \n",
-				"date_published": "2020-07-11T08:29:28-05:00",
-				"url": "https://blog.numericcitizen.me/2020/07/11/with-ipados-apple.html",
 				"tags": ["Apple"]
 			},
 			{
@@ -12044,15 +12115,6 @@
 				"content_text": "My gosh: **Instagram** is such a massive mess in UX/UI. It is a great story on how numeric entropy took over the whole space. The fact that it has such a wide spread user base is baffling. \n",
 				"date_published": "2020-05-24T09:45:00-05:00",
 				"url": "https://blog.numericcitizen.me/2020/05/24/my-gosh-instagram.html",
-				"tags": ["Photography"]
-			},
-			{
-				"id": "http://numericcitizen.micro.blog/2020/05/24/my-visual-space.html",
-				
-				"content_html": "<p>My visual space just got updated with Sunset Beach. #photography #sunset #beach #snapseed</p>\n<blockquote>\n<p>Sunset Beach <a href=\"https://numericcitizen-visualspace.com/the-perfect-imperfections-series/sunset-beach\">numericcitizen-visualspace.com/the-perfe&hellip;</a></p>\n</blockquote>\n",
-				"content_text": "My visual space just got updated with Sunset Beach. #photography #sunset #beach #snapseed \n\n> Sunset Beach [numericcitizen-visualspace.com/the-perfe...](https://numericcitizen-visualspace.com/the-perfect-imperfections-series/sunset-beach)\n",
-				"date_published": "2020-05-24T07:57:59-05:00",
-				"url": "https://blog.numericcitizen.me/2020/05/24/my-visual-space.html",
 				"tags": ["Photography"]
 			},
 			{
