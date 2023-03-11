@@ -7,6 +7,131 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/03/11/here-is-something.html",
+				
+				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2023/6219485cbd.png\" alt=\"\"></p>\n<p>Here is something that I really would like to do. Using Apple shortcuts, <a href=\"https://apps.apple.com/ca/app/charty-for-shortcuts/id1494386093\">Charty for Shortcuts</a> and <a href=\"https://plausible.io/docs/stats-api\">Plausible analytics APIs</a>: create an iPhone and iPad widget to display visitor statistics on my home screen. Another app like <a href=\"https://apps.apple.com/ca/app/actions/id1586435171\">Actions</a> would probably be needed too.</p>\n",
+				"content_text": "![](https://blog.numericcitizen.me/uploads/2023/6219485cbd.png)\n\nHere is something that I really would like to do. Using Apple shortcuts, [Charty for Shortcuts](https://apps.apple.com/ca/app/charty-for-shortcuts/id1494386093) and [Plausible analytics APIs](https://plausible.io/docs/stats-api): create an iPhone and iPad widget to display visitor statistics on my home screen. Another app like [Actions](https://apps.apple.com/ca/app/actions/id1586435171) would probably be needed too. \n\n",
+				"date_published": "2023-03-11T08:53:51-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/11/here-is-something.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/10/so-in-a.html",
+				
+				"content_html": "<p>So, in a nutshell: <strong>Obsidian</strong> is a Markdown text editor on steroids with a fancy plugin ecosystem. Did I miss something?</p>\n",
+				"content_text": "So, in a nutshell: **Obsidian** is a Markdown text editor on steroids with a fancy plugin ecosystem. Did I miss something? \n",
+				"date_published": "2023-03-10T16:26:27-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/10/so-in-a.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/10/obsidian-users-what.html",
+				
+				"content_html": "<p><strong>Obsidian</strong> users: what do you use for syncing across devices if you don&rsquo;t pay any subs to Obsidian? On the Mac, do you put your vaults on iCloud Drive and let the &ldquo;magic&rdquo; happen? Asking for a friend. 🤫</p>\n",
+				"content_text": "**Obsidian** users: what do you use for syncing across devices if you don't pay any subs to Obsidian? On the Mac, do you put your vaults on iCloud Drive and let the \"magic\" happen? Asking for a friend. 🤫\n",
+				"date_published": "2023-03-10T12:23:31-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/10/obsidian-users-what.html",
+				"tags": ["Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/10/for-the-time.html",
+				
+				"content_html": "<p>For the time of my life, I downloaded <strong>Obsidian</strong> and launched it. Wrote something. Clicked here and there. Then, I closed it. I&rsquo;m afraid. 🫣</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "For the time of my life, I downloaded **Obsidian** and launched it. Wrote something. Clicked here and there. Then, I closed it. I'm afraid. 🫣\r\n\n\n<img src=\"uploads/2023/4d281f302e.png\" width=\"600\" height=\"340\" alt=\"\">\n",
+				"date_published": "2023-03-10T06:36:46-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/10/for-the-time.html",
+				"tags": ["Photography","Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/09/in-may-i.html",
+				
+				"content_html": "<p>In May 2019 I published this:</p>\n<blockquote>\n<p>Personally, I think this year is too early for ARM-based Mac. Why? Because, my thinking is that Apple wants iOS on these ARM-Based Macs, not Mac. And they want a lot of ready-to-use, yet well-known apps to be available. For this, they are working on Marzipan (which later became Catalyst) to entice developers to write more powerful apps for iOS, especially the iPad. These are the prime candidates to run on this future ARM-based Mac. We are four weeks away from knowing a bit more about Apple’s strategy. Source: <a href=\"https://numericcitizen.me/2019/05/04/apple-is-done-with-intel/\">Apple Is Done With Intel - Numeric Citizen Blog</a></p>\n</blockquote>\n<p>The Apple Silicon was announced more than a year later.</p>\n",
+				"content_text": "In May 2019 I published this:\r\n> Personally, I think this year is too early for ARM-based Mac. Why? Because, my thinking is that Apple wants iOS on these ARM-Based Macs, not Mac. And they want a lot of ready-to-use, yet well-known apps to be available. For this, they are working on Marzipan (which later became Catalyst) to entice developers to write more powerful apps for iOS, especially the iPad. These are the prime candidates to run on this future ARM-based Mac. We are four weeks away from knowing a bit more about Apple’s strategy. Source: [Apple Is Done With Intel - Numeric Citizen Blog](https://numericcitizen.me/2019/05/04/apple-is-done-with-intel/)\r\n\r\nThe Apple Silicon was announced more than a year later. \n",
+				"date_published": "2023-03-09T19:59:43-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/09/in-may-i.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/09/do-you-know.html",
+				
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/57b651c6fa.png\" alt=\"\"></p>\n<p>Do you know MacUpdater? It’s a paid utility to keep your Mac up-to-date. I use it on my M1 Mac mini, but on my M1 MacBook Air, I use “Latest”. It’s open-source and free and a very well-crafted piece of software. I highlight recommend it. Download it <a href=\"https://max.codes/latest/\">here</a>. You’ll thank me later.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/57b651c6fa.png)\n\nDo you know MacUpdater? It’s a paid utility to keep your Mac up-to-date. I use it on my M1 Mac mini, but on my M1 MacBook Air, I use “Latest”. It’s open-source and free and a very well-crafted piece of software. I highlight recommend it. Download it [here](https://max.codes/latest/). You’ll thank me later. \n\n",
+				"date_published": "2023-03-09T19:33:21-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/09/do-you-know.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/09/years-ago-today.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>I can barely remember what I was doing in 2002. I didn&rsquo;t have a website. I didn&rsquo;t know about website hosting. I didn&rsquo;t really care about blogs, for that matter. I started blogging in 2009 when I started doing iPhone application development. I wanted to share my discoveries while learning Objective-C and publishing apps on the App Store. At some point, writing took more of my time than actually writing lines of Objective-C code.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Manton Reece\" data-avatar=\"https://micro.blog/manton/avatar.jpg\" cite=\"https://www.manton.org/2023/03/09/years-ago-today.html\"><p>21 years ago today, <a href=\"https://www.manton.org/2002/03/09/sxsw-interactive-started.html\">my first blog post</a>. A bunch of promising social networks have come and gone in that time. Often feels like very little is permanent, so make sure to have your own space on the web.</p>\r\n<footer>Manton Reece <cite><a href=\"https://www.manton.org/2023/03/09/years-ago-today.html\" class=\"u-in-reply-to\">https://www.manton.org/2023/03/09/years-ago-today.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nI can barely remember what I was doing in 2002. I didn't have a website. I didn't know about website hosting. I didn't really care about blogs, for that matter. I started blogging in 2009 when I started doing iPhone application development. I wanted to share my discoveries while learning Objective-C and publishing apps on the App Store. At some point, writing took more of my time than actually writing lines of Objective-C code. \r\n",
+				"date_published": "2023-03-09T15:05:34-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/09/years-ago-today.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/08/riccardo-mori-wrote.html",
+				
+				"content_html": "<p>Riccardo Mori wrote an interesting take about the possible future of the Mac with a touch screen <a href=\"https://morrick.me/archives/9715\">Why do you want to touch your Mac screen so badly? | Riccardo Mori</a>:</p>\n<blockquote>\n<p>the people who’d love to have a touchscreen Mac are people who prefer having the iPad and iPhone as primary devices for work and leisure. It’s the iPad-first guys who on the one hand are frustrated by the still mediocre multitasking and still limited functionality Apple is providing on the iPad, and on the other hand realize the sheer versatility and multitasking dexterity the Mac still has in spades despite the general worsening of Mac OS over the past few years. In short, they say they’d love a touchscreen Mac, but what they mean is that they’d love a hybrid iPad/Mac device that could offer the best of both worlds.</p>\n</blockquote>\n<p>Today at work, during a Zoom call, my colleague found out by error that she could touch the screen of her Windows portable to interact with it. She was totally mesmerized. Then she continued with the conversation. I don&rsquo;t think it will make a big difference in her world. What people want is an iPad when it makes sense, a traditional computer, when it makes sense. Microsoft seems to have found an enduring combo with its Surface.</p>\n",
+				"content_text": "Riccardo Mori wrote an interesting take about the possible future of the Mac with a touch screen [Why do you want to touch your Mac screen so badly? | Riccardo Mori](https://morrick.me/archives/9715): \r\n> the people who’d love to have a touchscreen Mac are people who prefer having the iPad and iPhone as primary devices for work and leisure. It’s the iPad-first guys who on the one hand are frustrated by the still mediocre multitasking and still limited functionality Apple is providing on the iPad, and on the other hand realize the sheer versatility and multitasking dexterity the Mac still has in spades despite the general worsening of Mac OS over the past few years. In short, they say they’d love a touchscreen Mac, but what they mean is that they’d love a hybrid iPad/Mac device that could offer the best of both worlds.\r\n\r\nToday at work, during a Zoom call, my colleague found out by error that she could touch the screen of her Windows portable to interact with it. She was totally mesmerized. Then she continued with the conversation. I don't think it will make a big difference in her world. What people want is an iPad when it makes sense, a traditional computer, when it makes sense. Microsoft seems to have found an enduring combo with its Surface. \n",
+				"date_published": "2023-03-08T21:35:04-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/08/riccardo-mori-wrote.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/07/you-are-out.html",
+				
+				"content_html": "<p>You are out: Newsy out. Newsify out. Raindrop.io out. Matter out. Readwise Reader out. Medium out. News Explorer out (soon). 😅 Substack Reader… jury is still out. 😂</p>\n<p>The year 2023 is the year if cleanup for better focus.</p>\n",
+				"content_text": "You are out: Newsy out. Newsify out. Raindrop.io out. Matter out. Readwise Reader out. Medium out. News Explorer out (soon). 😅 Substack Reader… jury is still out. 😂\n\nThe year 2023 is the year if cleanup for better focus. \n",
+				"date_published": "2023-03-07T22:36:50-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/07/you-are-out.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/07/i-finally-completed.html",
+				
+				"content_html": "<p>I finally completed and published <a href=\"https://world.numericcitizen.io/meta\">my article</a> about migrating to <strong>Anybox</strong>, a bookmarks manager competing with <strong>Raindrop.io</strong>. I&rsquo;m not looking back.</p>\n",
+				"content_text": "I finally completed and published [my article](https://world.numericcitizen.io/meta) about migrating to **Anybox**, a bookmarks manager competing with **Raindrop.io**. I'm not looking back. \n",
+				"date_published": "2023-03-07T19:30:50-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/07/i-finally-completed.html",
+				"tags": ["Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/06/if-you-can.html",
+				
+				"content_html": "<p>If you can talk about it, explain it, even write about it, then I guess you can call yourself knowledgeable about it. Thought of the moment.</p>\n",
+				"content_text": "If you can talk about it, explain it, even write about it, then I guess you can call yourself knowledgeable about it. Thought of the moment. \n",
+				"date_published": "2023-03-06T22:30:50-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/06/if-you-can.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/06/numericcitizenmedm-is-my.html",
+				
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/2c2633e453.png\" alt=\"\"></p>\n<p><strong>@numericcitizen@me.dm</strong> is my new Mastodon address on Medium’s newly launched Mastodon instance. It’s without enthusiasm that I created this address when Medium opened the door to all Medium members today. I left the Paid Partner Program earlier this year. First, because I was no longer publishing articles over there. Second, because I’m not at ease supporting a closed platform like Medium. I’m not sure where I’ll go from here. That being said, I find it interesting that a closed and proprietary platform like Medium opens up to Mastodon, a distributed and open source network. Call it opportunistic, it will be interesting to see where this will lead in the future. I’ll certainly watch from afar.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/2c2633e453.png)\n\n**@numericcitizen@me.dm** is my new Mastodon address on Medium’s newly launched Mastodon instance. It’s without enthusiasm that I created this address when Medium opened the door to all Medium members today. I left the Paid Partner Program earlier this year. First, because I was no longer publishing articles over there. Second, because I’m not at ease supporting a closed platform like Medium. I’m not sure where I’ll go from here. That being said, I find it interesting that a closed and proprietary platform like Medium opens up to Mastodon, a distributed and open source network. Call it opportunistic, it will be interesting to see where this will lead in the future. I’ll certainly watch from afar. \n\n",
+				"date_published": "2023-03-06T18:37:10-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/06/numericcitizenmedm-is-my.html",
+				"tags": ["Blogging","Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/06/if-twitter-is.html",
+				
+				"content_html": "<p>If Twitter is broken, it might be a fix here and there, actually. Just saying.</p>\n",
+				"content_text": "If Twitter is broken, it might be a fix here and there, actually. Just saying. \n",
+				"date_published": "2023-03-06T12:37:46-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/06/if-twitter-is.html",
+				"tags": ["Qwitter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/03/06/mind-blown.html",
+				
+				"content_html": "<p>Mind blown. 🤯</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mind blown. 🤯\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/cbf1ce2007.png\" width=\"600\" height=\"479\" alt=\"\">\n",
+				"date_published": "2023-03-06T10:33:23-05:00",
+				"url": "https://blog.numericcitizen.me/2023/03/06/mind-blown.html",
+				"tags": ["Apple","Photography"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/03/05/daniel-jalkut-on.html",
 				
 				"content_html": "<p><a href=\"https://danielpunkass.micro.blog/2023/03/04/like-everybody-else.html\">Daniel Jalkut</a> on AI-based art and &ldquo;prose&rdquo;</p>\n<blockquote>\n<p>Like everybody else, I was fascinated by AI art and prose. But I’m bored by it already. Why? Because it’s obviously not human. I like human things. Little quirks that make us laugh and cringe. That’s the beauty of life. AI is amazing, but it’s not human.</p>\n</blockquote>\n<p>I don&rsquo;t think that I&rsquo;m bored yet, but I certainly feel the same about human-based creations. I&rsquo;ll never be bored and always be fascinated by it.</p>\n",
@@ -46,7 +171,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/03/04/smile-guys-youre.html",
 				
 				"content_html": "<p>🎦 Smile, guys; you&rsquo;re on camera! 😃 I&rsquo;m getting myself ready to record th first video in the <em>&ldquo;Understanding Micro.blog&rdquo;</em> video series. This blog post on <a href=\"https://blog.numericcitizen.me\">blog.numericcitizen.me</a> will appear in the video while I&rsquo;m giving a quick tour of a typical website hosted on Micro.blog.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎦 Smile, guys; you're on camera! 😃 I'm getting myself ready to record th first video in the _\"Understanding Micro.blog\"_ video series. This blog post on [blog.numericcitizen.me](https://blog.numericcitizen.me) will appear in the video while I'm giving a quick tour of a typical website hosted on Micro.blog.\n\n<img src=\"uploads/2023/e5ae0b6053.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "🎦 Smile, guys; you're on camera! 😃 I'm getting myself ready to record th first video in the _\"Understanding Micro.blog\"_ video series. This blog post on [blog.numericcitizen.me](https://blog.numericcitizen.me) will appear in the video while I'm giving a quick tour of a typical website hosted on Micro.blog.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/e5ae0b6053.png\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-03-04T13:13:04-05:00",
 				"url": "https://blog.numericcitizen.me/2023/03/04/smile-guys-youre.html",
 				"tags": ["Photography","Misc","Services"]
