@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/04/17/iphone-pro-action.html",
+				
+				"content_html": "<p><a href=\"https://www.macrumors.com/2023/04/17/iphone-15-pro-power-off-force-reset/\">iPhone 15 Pro &lsquo;Action&rsquo; Button to Replace Role of Volume Buttons When Performing a Power Off/Force Restart</a></p>\n<blockquote>\n<p>the leaker also claimed that the &ldquo;Action&rdquo; button will replace the volume up button for taking photos in the Camera app, with force-sensitivity enabling a light press to auto-focus the camera, a hard press to take a picture, and a hard/long press to record video.</p>\n</blockquote>\n<p>Ok, this is a rumour, but it&rsquo;s an interesting one. If Apple does this, it would bring the iPhone 15 Pro / Max closer to traditional camera behaviour. Coupled with the upgraded cameras and possible addition of the periscope lens, Apple seems geared to make the next iPhone iteration another potential winner.</p>\n",
+				"content_text": " [iPhone 15 Pro 'Action' Button to Replace Role of Volume Buttons When Performing a Power Off/Force Restart](https://www.macrumors.com/2023/04/17/iphone-15-pro-power-off-force-reset/)\r\n\r\n> the leaker also claimed that the \"Action\" button will replace the volume up button for taking photos in the Camera app, with force-sensitivity enabling a light press to auto-focus the camera, a hard press to take a picture, and a hard/long press to record video.\r\n\r\nOk, this is a rumour, but it's an interesting one. If Apple does this, it would bring the iPhone 15 Pro / Max closer to traditional camera behaviour. Coupled with the upgraded cameras and possible addition of the periscope lens, Apple seems geared to make the next iPhone iteration another potential winner.\r\n",
+				"date_published": "2023-04-17T07:11:51-04:00",
+				"url": "https://blog.numericcitizen.me/2023/04/17/iphone-pro-action.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/04/16/just-curious-here.html",
+				
+				"content_html": "<p>Just curious here, is anyone paying OpenAI to get one of their apps (like Raycast AI) to work with ChatGPT?</p>\n",
+				"content_text": "Just curious here, is anyone paying OpenAI to get one of their apps (like Raycast AI) to work with ChatGPT?\n",
+				"date_published": "2023-04-16T10:31:43-04:00",
+				"url": "https://blog.numericcitizen.me/2023/04/16/just-curious-here.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/04/16/rip-twitter-is.html",
+				
+				"content_html": "<p><a href=\"https://blog.numericcitizen.me/tweets/\">RIP Twitter 2007-2022</a> is now live (well, mostly live as tweets are still being processed and imported). Thanks for this <a href=\"https://micro.blog/manton\">@manton</a>!</p>\n",
+				"content_text": "[RIP Twitter 2007-2022](https://blog.numericcitizen.me/tweets/) is now live (well, mostly live as tweets are still being processed and imported). Thanks for this [@manton](https://micro.blog/manton)!\n",
+				"date_published": "2023-04-16T10:10:28-04:00",
+				"url": "https://blog.numericcitizen.me/2023/04/16/rip-twitter-is.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/04/15/coming-back-from.html",
+				
+				"content_html": "<p>Coming back from vacations. 🛬 Returning to normal programming this week. Vacations are always a great opportunity to disconnect and let new ideas pop up.</p>\n",
+				"content_text": "Coming back from vacations. 🛬 Returning to normal programming this week. Vacations are always a great opportunity to disconnect and let new ideas pop up. \n",
+				"date_published": "2023-04-15T19:42:35-04:00",
+				"url": "https://blog.numericcitizen.me/2023/04/15/coming-back-from.html",
+				"tags": ["Blogging","Personal"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/04/14/still-alive-only.html",
+				
+				"content_html": "<p>Still alive. Only on vacation. 😎</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Still alive. Only on vacation. 😎\n\n<img src=\"uploads/2023/c4f5b82886.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-14T13:23:50-04:00",
+				"url": "https://blog.numericcitizen.me/2023/04/14/still-alive-only.html",
+				"tags": ["Photography","Misc","Personal"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/04/07/when-ai-failed.html",
 				"title": "When AI Failed to Inspire Me",
 				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2023/ef4d7d0c13.png\" alt=\"\"></p>\n<p>I was looking for inspiration all week to write my next <a href=\"https://numericcitizen.me/tag/friday-notes-series/\">Friday Notes</a> edition. Early morning yesterday, I was still unsure if I could make it, but at lunchtime, I tried ChatGPT with “Give me some blog post ideas about the positive effects on creativity of going on vacation for a week”. It came back with phrases that looked taken from a travel agency ad. I tried again with different variations of my question. It failed to impress and to inspire me. I’ll pass this week’s edition.</p>\n",
