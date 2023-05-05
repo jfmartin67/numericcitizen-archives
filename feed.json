@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/05/05/im-going-to.html",
+				
+				"content_html": "<p>I’m going to Morocco this early summer for two weeks. I’ll bring my big camera gear but I wish I had the iPhone 14 Pro or better yet, the upcoming iPhone 15 Pro Max for this trip. The iPhone convenience is hard to beat and the big camera gear is heavy and the benefit from me getting this thing around is probably not much worth these days. It could be one of my last trip with the discreet camera. On my to do list: get my captor cleaned!</p>\n",
+				"content_text": "I’m going to Morocco this early summer for two weeks. I’ll bring my big camera gear but I wish I had the iPhone 14 Pro or better yet, the upcoming iPhone 15 Pro Max for this trip. The iPhone convenience is hard to beat and the big camera gear is heavy and the benefit from me getting this thing around is probably not much worth these days. It could be one of my last trip with the discreet camera. On my to do list: get my captor cleaned! \n\n\n",
+				"date_published": "2023-05-05T16:50:43-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/05/im-going-to.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/05/whos-actually-using.html",
+				
+				"content_html": "<p>Who&rsquo;s actually using Apple&rsquo;s Quick Notes feature? I never do because I always forget about its existence. It&rsquo;s probably because it&rsquo;s not useful or because it is tied to Apple&rsquo;s Notes.</p>\n",
+				"content_text": "Who's actually using Apple's Quick Notes feature? I never do because I always forget about its existence. It's probably because it's not useful or because it is tied to Apple's Notes.\n",
+				"date_published": "2023-05-05T07:11:21-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/05/whos-actually-using.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/03/i-own-yubikeys.html",
+				
+				"content_html": "<blockquote>\n<p>I own 3 YubiKeys that I have for personal use. There’s one that I keep connected to the USB hub on the desk in my study, another that I keep in my work bag, and a third that I keep in the safe at my mum’s house. Source: <a href=\"https://kevquirk.com/i-wont-by-a-yubikey\">I Won&rsquo;t Buy A YubiKey - Kev Quirk</a></p>\n</blockquote>\n<p>When I read stories like this one, I&rsquo;m reminded of how bad I am at managing my security posture. I depend on 1Password (less and less) and (more and more) on Apple&rsquo;s Keychain. Will passkeys suppress the need for YubiKeys?</p>\n",
+				"content_text": "> I own 3 YubiKeys that I have for personal use. There’s one that I keep connected to the USB hub on the desk in my study, another that I keep in my work bag, and a third that I keep in the safe at my mum’s house. Source: [I Won't Buy A YubiKey - Kev Quirk](https://kevquirk.com/i-wont-by-a-yubikey)\n\nWhen I read stories like this one, I'm reminded of how bad I am at managing my security posture. I depend on 1Password (less and less) and (more and more) on Apple's Keychain. Will passkeys suppress the need for YubiKeys?\n",
+				"date_published": "2023-05-03T18:01:00-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/03/i-own-yubikeys.html",
+				"tags": ["Privacy"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/03/so-that-sales.html",
+				
+				"content_html": "<blockquote>\n<p>So that sales pitch of “it’s just a coffee per month” really doesn’t hold water when you think that most people will subscribe to multiple services. Source: <a href=\"https://kevquirk.com/it-only-costs-a-coffee-per-month\">It Only Costs a Coffee per Month - Kev Quirk</a></p>\n</blockquote>\n<p>This is why I maintain a spreadsheet of my monthly (and yearly) spending. And frankly, even with my recent subscriptions cleanup, you wouldn&rsquo;t want to know my monthly spending on apps and services. Experimenting is not a free ride. Far from it.</p>\n",
+				"content_text": "> So that sales pitch of “it’s just a coffee per month” really doesn’t hold water when you think that most people will subscribe to multiple services. Source: [It Only Costs a Coffee per Month - Kev Quirk](https://kevquirk.com/it-only-costs-a-coffee-per-month)\r\n\r\nThis is why I maintain a spreadsheet of my monthly (and yearly) spending. And frankly, even with my recent subscriptions cleanup, you wouldn't want to know my monthly spending on apps and services. Experimenting is not a free ride. Far from it. \n",
+				"date_published": "2023-05-03T17:53:06-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/03/so-that-sales.html",
+				"tags": ["Food for thought","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/03/i-updated-my.html",
+				
+				"content_html": "<p>I updated <a href=\"https://numericcitizen.me\">my main website</a> to add a banner at the top, using Ghost&rsquo;s new &ldquo;Special Announcement&rdquo; feature. 🇺🇦👀</p>\n",
+				"content_text": "I updated [my main website](https://numericcitizen.me) to add a banner at the top, using Ghost's new \"Special Announcement\" feature. 🇺🇦👀\n",
+				"date_published": "2023-05-03T06:42:44-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/03/i-updated-my.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/02/i-am-currently.html",
+				
+				"content_html": "<p>I am currently learning to use <strong>Hookmark</strong>. This thing is so, how I could say that, powerful? It’s the kind of app with a slow learning curve that will take some time to use to its fullest potential.</p>\n",
+				"content_text": "I am currently learning to use **Hookmark**. This thing is so, how I could say that, powerful? It’s the kind of app with a slow learning curve that will take some time to use to its fullest potential.\n\n",
+				"date_published": "2023-05-02T19:59:25-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/02/i-am-currently.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/01/thanks-manton-for.html",
+				
+				"content_html": "<p>Thanks <a href=\"https://micro.blog/manton\">@manton</a> for the auto-complete! It works great on the iPad!</p>\n",
+				"content_text": "Thanks [@manton](https://micro.blog/manton) for the auto-complete! It works great on the iPad! \n",
+				"date_published": "2023-05-01T18:33:17-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/01/thanks-manton-for.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/01/i-had-such.html",
+				
+				"content_html": "<p>I had such a busy creative weekend, to the point where I wonder if I did too much. I mean, I didn’t see most of the weekend. It was raining most of the time, and I had those videos and articles that I wanted to move forward. On the positive side, I feel that my ideas backlog is more than ever in control.</p>\n",
+				"content_text": "I had such a busy creative weekend, to the point where I wonder if I did too much. I mean, I didn’t see most of the weekend. It was raining most of the time, and I had those videos and articles that I wanted to move forward. On the positive side, I feel that my ideas backlog is more than ever in control.\n\n",
+				"date_published": "2023-05-01T07:35:57-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/01/i-had-such.html",
+				"tags": ["Blogging","Personal"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/04/30/i-made-my.html",
+				
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/edbcb15754.jpg\" alt=\"\"></p>\n<p>I made my decision. The coffee shop it is. It’s a brand new place near my home. Not too busy yet because there aren’t well-known.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/edbcb15754.jpg)\n\nI made my decision. The coffee shop it is. It’s a brand new place near my home. Not too busy yet because there aren’t well-known.\n\n",
+				"date_published": "2023-04-30T13:56:50-04:00",
+				"url": "https://blog.numericcitizen.me/2023/04/30/i-made-my.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/04/30/im-still-wondering.html",
+				
+				"content_html": "<p>I’m still wondering where I’ll spend my Sunday afternoon for my creative activities. Should I go out to a coffee shop near my house or should I stay home, make myself a coffee and go in my home office? 🤔🙄</p>\n<p>I like the ambiance of the coffee shops, looking around me and furtively watching some people in their own bubble, in front of their screen, with their AirPods on, typing, pausing, etc. It’s a stimulating environment.</p>\n",
+				"content_text": "I’m still wondering where I’ll spend my Sunday afternoon for my creative activities. Should I go out to a coffee shop near my house or should I stay home, make myself a coffee and go in my home office? 🤔🙄\n\nI like the ambiance of the coffee shops, looking around me and furtively watching some people in their own bubble, in front of their screen, with their AirPods on, typing, pausing, etc. It’s a stimulating environment. \n\n",
+				"date_published": "2023-04-30T13:27:55-04:00",
+				"url": "https://blog.numericcitizen.me/2023/04/30/im-still-wondering.html",
+				"tags": ["Blogging"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/04/30/while-spending-some.html",
 				
 				"content_html": "<p>While spending some time in the Anybox bookmarks manager this morning, I was thinking of restarting <a href=\"https://numericcitizen.me/numeric-citizen-introspection-24/\">my monthly newsletter</a> because they are fun (but time-consuming) to build. I should find a way to better automate the production process, though.</p>\n",
@@ -36,8 +126,8 @@
 			{
 				"id": "http://numericcitizen.micro.blog/2023/04/28/something-that-bugs.html",
 				
-				"content_html": "<p>Something that bugs me with Micro.blog. Nothing serious, but still. The questionable sidebar arrangement. Why is Replies at the near bottom? Why not have a “Website” category with Plug-ins + Design inside of it? Why plans not into Account? Why “Feeds” sits inside Accounts? Why not rename “Feeds” to “Digital hub”? I’m just wondering out loud, <a href=\"https://micro.blog/manton\">@manton</a>!</p>\n<p><img src=\"https://blog.numericcitizen.me/uploads/2023/363cbd93da.png\" alt=\"\"></p>\n",
-				"content_text": "Something that bugs me with Micro.blog. Nothing serious, but still. The questionable sidebar arrangement. Why is Replies at the near bottom? Why not have a “Website” category with Plug-ins + Design inside of it? Why plans not into Account? Why “Feeds” sits inside Accounts? Why not rename “Feeds” to “Digital hub”? I’m just wondering out loud, [@manton](https://micro.blog/manton)!\n\n![](https://blog.numericcitizen.me/uploads/2023/363cbd93da.png)\n\n\n",
+				"content_html": "<p>Something that bugs me with Micro.blog. Nothing serious, but still. The questionable sidebar arrangement. Why is Replies at the near bottom? Why not have a “Website” category with Plug-ins + Design inside of it? Why plans not into Account? Why “Feeds” sits inside Accounts? Why not rename “Feeds” to “Digital hub”? I’m just wondering out loud, <a href=\"https://micro.blog/manton\">@manton</a>!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/363cbd93da.png\" alt=\"\"></p>\n",
+				"content_text": "Something that bugs me with Micro.blog. Nothing serious, but still. The questionable sidebar arrangement. Why is Replies at the near bottom? Why not have a “Website” category with Plug-ins + Design inside of it? Why plans not into Account? Why “Feeds” sits inside Accounts? Why not rename “Feeds” to “Digital hub”? I’m just wondering out loud, [@manton](https://micro.blog/manton)!\n\n![](https://cdn.uploads.micro.blog/6803/2023/363cbd93da.png)\n\n\n",
 				"date_published": "2023-04-28T12:55:58-04:00",
 				"url": "https://blog.numericcitizen.me/2023/04/28/something-that-bugs.html",
 				"tags": ["Misc"]
@@ -1353,7 +1443,8 @@
 				"content_html": "<p>Dear Apple, I’m done. It took me a long time, but I get it. Today, I turned off Stage Manager on my iPad. I tried with all my heart. I tried. But, even at iPadOS 16.3, after betas and final releases, six months later, I tired of fighting. Stage Manager is a mess on the iPad. In fact, Stage Manager breaks the iPad experience. Plain and simple. What is a nice improvement on the Mac, is a disastrous UX on the iPad form factor. Apple, go back to the drawing board, let me know when you’re done. Thanks.</p>\n",
 				"content_text": "Dear Apple, I’m done. It took me a long time, but I get it. Today, I turned off Stage Manager on my iPad. I tried with all my heart. I tried. But, even at iPadOS 16.3, after betas and final releases, six months later, I tired of fighting. Stage Manager is a mess on the iPad. In fact, Stage Manager breaks the iPad experience. Plain and simple. What is a nice improvement on the Mac, is a disastrous UX on the iPad form factor. Apple, go back to the drawing board, let me know when you’re done. Thanks.\n",
 				"date_published": "2023-02-07T21:49:04-04:00",
-				"url": "https://blog.numericcitizen.me/2023/02/07/dear-apple-im.html"
+				"url": "https://blog.numericcitizen.me/2023/02/07/dear-apple-im.html",
+				"tags": ["Apple"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/02/07/no-great-mockup.html",
@@ -1415,7 +1506,8 @@
 				"content_html": "<p>Just found out about <strong><a href=\"https://ia.net/presenter\">iA Presenter</a></strong>, from the makers of <strong>iA Writer</strong>. Looking at the website, this app looks like a superb macOS app! I can see a specific use case here for me: writing queue cards for when I&rsquo;m recording my YouTube videos. Is anyone on the beta from TestFlight here? Any thoughts?</p>\n",
 				"content_text": "Just found out about **[iA Presenter](https://ia.net/presenter)**, from the makers of **iA Writer**. Looking at the website, this app looks like a superb macOS app! I can see a specific use case here for me: writing queue cards for when I'm recording my YouTube videos. Is anyone on the beta from TestFlight here? Any thoughts?\n",
 				"date_published": "2023-02-05T15:19:39-04:00",
-				"url": "https://blog.numericcitizen.me/2023/02/05/just-found-out.html"
+				"url": "https://blog.numericcitizen.me/2023/02/05/just-found-out.html",
+				"tags": ["Apps  Services"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/02/05/benjamin-mayo-commenting.html",
