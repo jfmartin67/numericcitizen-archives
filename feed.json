@@ -7,6 +7,132 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/05/10/it-took-like.html",
+				
+				"content_html": "<p>It took like 10 years to get FinalCut Pro on the iPad and now we’re reading that it could run on the upcoming VR/AR headset??? Really? Come on.</p>\n",
+				"content_text": "It took like 10 years to get FinalCut Pro on the iPad and now we’re reading that it could run on the upcoming VR/AR headset??? Really? Come on. \n",
+				"date_published": "2023-05-10T12:51:00-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/10/it-took-like.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/09/by-making-fcp.html",
+				
+				"content_html": "<p>By making FCP finally available on the iPad, is Apple getting ready to bring more flexibility to iPadOS audio handling too? I read somewhere that there are missing pieces on iPadOS to make it comparable to macOS for handling complex audio setups. Answers are probably coming in iPadOS 17.</p>\n",
+				"content_text": "By making FCP finally available on the iPad, is Apple getting ready to bring more flexibility to iPadOS audio handling too? I read somewhere that there are missing pieces on iPadOS to make it comparable to macOS for handling complex audio setups. Answers are probably coming in iPadOS 17.\n",
+				"date_published": "2023-05-09T13:07:24-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/09/by-making-fcp.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/09/what-this-space.html",
+				
+				"content_html": "<p>Watch <a href=\"https://www.apple.com/ca/newsroom/\">this space</a>. This week is FCP and Logic for the iPad, next week? If Apple keeps releasing new things each week leading to WWDC, it certainly could mean that they have a packaged agenda for the Keynote. We already know that iOS 16.5 is coming out next week, but what else?</p>\n",
+				"content_text": "Watch [this space](https://www.apple.com/ca/newsroom/). This week is FCP and Logic for the iPad, next week? If Apple keeps releasing new things each week leading to WWDC, it certainly could mean that they have a packaged agenda for the Keynote. We already know that iOS 16.5 is coming out next week, but what else?\n",
+				"date_published": "2023-05-09T12:24:20-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/09/what-this-space.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/09/the-best-ui.html",
+				
+				"content_html": "<p>The best UI, the ultimate interface, is the one that you don’t see.</p>\n",
+				"content_text": "The best UI, the ultimate interface, is the one that you don’t see. \n",
+				"date_published": "2023-05-09T12:06:49-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/09/the-best-ui.html",
+				"tags": ["Apple","Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/09/i-got-my.html",
+				
+				"content_html": "<p>I got my first two paying members (annual subscription!) on my website (<a href=\"https://numericcitizen.me\">numericcitizen.me</a>) hosted on Ghost! Two people are willing to give me their money for my work. I feel blessed. 😊</p>\n",
+				"content_text": "I got my first two paying members (annual subscription!) on my website ([numericcitizen.me](https://numericcitizen.me)) hosted on Ghost! Two people are willing to give me their money for my work. I feel blessed. 😊\n",
+				"date_published": "2023-05-09T11:00:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/09/i-got-my.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/08/like-anything-else.html",
+				"title": "Like Anything Else, The World is Hybrid",
+				"content_html": "<p>DHH wrote “<a href=\"https://world.hey.com/dhh/in-defense-of-the-office-450fc177\">In defence of the office</a>”:</p>\n<blockquote>\n<p>I salute Apple, for example, for sticking to their in-person culture now that the pandemic is long gone. They&rsquo;re making that choice knowing that some, talented portion of their workforce will leave as a consequence, yet have the confidence that others will fill those chairs. Isn&rsquo;t this what we wanted? The freedom to choose how we&rsquo;d like to work by picking between a plentitude of companies offering the style of our preference?</p>\n</blockquote>\n<p>We’re better served by diverse choices because of the diversity of people (profile, aspiration, culture, etc.).</p>\n",
+				"content_text": "DHH wrote “[In defence of the office](https://world.hey.com/dhh/in-defense-of-the-office-450fc177)”:\n\n> I salute Apple, for example, for sticking to their in-person culture now that the pandemic is long gone. They're making that choice knowing that some, talented portion of their workforce will leave as a consequence, yet have the confidence that others will fill those chairs. Isn't this what we wanted? The freedom to choose how we'd like to work by picking between a plentitude of companies offering the style of our preference?\n\nWe’re better served by diverse choices because of the diversity of people (profile, aspiration, culture, etc.).\n\n",
+				"date_published": "2023-05-08T06:38:07-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/08/like-anything-else.html",
+				"tags": ["Food for thought","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/07/wow-the-opal.html",
+				
+				"content_html": "<p>Wow, the Opal C1 camera software is still in <a href=\"https://faqs.opal.camera/opal-build-026\">beta</a>&hellip; after so long on the market?? The last beta dates back to February. I have such a camera&hellip; still in my drawer. Happily using the Continuity Camera with my iPhone 13 Pro.</p>\n",
+				"content_text": "Wow, the Opal C1 camera software is still in [beta](https://faqs.opal.camera/opal-build-026)... after so long on the market?? The last beta dates back to February. I have such a camera... still in my drawer. Happily using the Continuity Camera with my iPhone 13 Pro.\n",
+				"date_published": "2023-05-07T20:13:20-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/07/wow-the-opal.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/07/in-case-you.html",
+				
+				"content_html": "<p>In case you didn&rsquo;t know: there is a small group of Microbloggers on the messaging app <strong>Wavelength</strong>. You can get on board and join the other 38 other members. Here is the <a href=\"https://wavelength.app/invite/K8vZnQI51dy#M3iTwlw1LzkPjaBFp8UZGw--\">invite link</a>. The idea behind this group is not to replace Micro.blog, far from it, but to add a complementary option for discussing any subjects that you might find interesting in near real-time.</p>\n",
+				"content_text": "In case you didn't know: there is a small group of Microbloggers on the messaging app **Wavelength**. You can get on board and join the other 38 other members. Here is the [invite link](https://wavelength.app/invite/K8vZnQI51dy#M3iTwlw1LzkPjaBFp8UZGw--). The idea behind this group is not to replace Micro.blog, far from it, but to add a complementary option for discussing any subjects that you might find interesting in near real-time.\n",
+				"date_published": "2023-05-07T17:38:33-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/07/in-case-you.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/07/a-peek-into.html",
+				"title": "A Peek Into My Typical Creative Week",
+				"content_html": "<p>Have you ever wondered what my typical creative week looks like? Here you go, courtesy of Things 3’s Logbook. As I was completing this week’s stretch, I had a look at the logbook, I thought it could be fun to share with you a behind the scene look. I love Things 3 logbook because it gives me a look at my past work.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/932d29cae9.png\" alt=\"\"></p>\n<p>If you want a closer look at my Things 3 usage in my creative workflow, you might want to watch <a href=\"https://youtu.be/2VAbL92T_4c\">this video</a>. Oh, and don’t miss <a href=\"https://world.numericcitizen.io/my-micro-workflows-explained\">my documented micro-workflows</a>.</p>\n<p>Now, it’s time to prepare for the upcoming week by duplicating the project template and setting my three goals for the week. 😅</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/0f9268a011.png\" alt=\"\"></p>\n",
+				"content_text": "Have you ever wondered what my typical creative week looks like? Here you go, courtesy of Things 3’s Logbook. As I was completing this week’s stretch, I had a look at the logbook, I thought it could be fun to share with you a behind the scene look. I love Things 3 logbook because it gives me a look at my past work.\n\n![](https://cdn.uploads.micro.blog/6803/2023/932d29cae9.png)\n\nIf you want a closer look at my Things 3 usage in my creative workflow, you might want to watch [this video](https://youtu.be/2VAbL92T_4c). Oh, and don’t miss [my documented micro-workflows](https://world.numericcitizen.io/my-micro-workflows-explained).\n\nNow, it’s time to prepare for the upcoming week by duplicating the project template and setting my three goals for the week. 😅\n\n![](https://cdn.uploads.micro.blog/6803/2023/0f9268a011.png)\n\n\n",
+				"date_published": "2023-05-07T07:59:35-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/07/a-peek-into.html",
+				"tags": ["Blogging","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/07/hot-ai-summer.html",
+				
+				"content_html": "<p><a href=\"https://birchtree.me/blog/hot-ai-summer/\">Hot AI Summer (or, my practical uses for AI generators)</a></p>\n<blockquote>\n<p>This is the sort of empowering interaction I love to experience with these new technologies: I’m not being replaced, I’m getting help, much in the way spellcheck and grammar checks in word processors have been doing for decades.</p>\n</blockquote>\n<p>Interesting parallel here with spell checkers and generative AI. At what point the help we&rsquo;re getting becomes troubling or questionable? The same goes in real life. Suppose there is something that needs your attention in your house, and a fix is required. Either you know from the get-go what to do and fix it yourself, either you go o YouTube and find a visual guide on how to fix it, or you call someone to your house to fix it for you. What&rsquo;s wrong with the latter approach?</p>\n<p>If there is something that generative AI brings to the table is the inevitable discussion in society of what is the human touch and when is asking for help crosses the lines and what those lines are.</p>\n",
+				"content_text": " [Hot AI Summer (or, my practical uses for AI generators)](https://birchtree.me/blog/hot-ai-summer/)\r\n\r\n> This is the sort of empowering interaction I love to experience with these new technologies: I’m not being replaced, I’m getting help, much in the way spellcheck and grammar checks in word processors have been doing for decades.\r\n\r\nInteresting parallel here with spell checkers and generative AI. At what point the help we're getting becomes troubling or questionable? The same goes in real life. Suppose there is something that needs your attention in your house, and a fix is required. Either you know from the get-go what to do and fix it yourself, either you go o YouTube and find a visual guide on how to fix it, or you call someone to your house to fix it for you. What's wrong with the latter approach? \r\n\r\nIf there is something that generative AI brings to the table is the inevitable discussion in society of what is the human touch and when is asking for help crosses the lines and what those lines are.\r\n",
+				"date_published": "2023-05-07T07:12:28-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/07/hot-ai-summer.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/07/wait-what-even.html",
+				
+				"content_html": "<p><a href=\"https://om.co/2023/04/10/wait-what-even-millennials-dont-like-algorithms/\">Wait what? Even millennials don’t like algorithms </a></p>\n<blockquote>\n<p>I don’t fight the future — we need all the help — but as someone who has made the transition from no technology to some technology to always technology — no matter what I do, there is a tiny bit of me that is still holding on to the analog world.</p>\n</blockquote>\n<p>Om Malik is probably my age. And I feel the same all the time. I know what it was like before the Internet. I prefer chronological over algorithmic timelines. I enjoy human curation. I certainly remember and value the &ldquo;human touch&rdquo;.</p>\n",
+				"content_text": " [Wait what? Even millennials don’t like algorithms ](https://om.co/2023/04/10/wait-what-even-millennials-dont-like-algorithms/)\n\n> I don’t fight the future — we need all the help — but as someone who has made the transition from no technology to some technology to always technology — no matter what I do, there is a tiny bit of me that is still holding on to the analog world.\n\nOm Malik is probably my age. And I feel the same all the time. I know what it was like before the Internet. I prefer chronological over algorithmic timelines. I enjoy human curation. I certainly remember and value the \"human touch\".\n",
+				"date_published": "2023-05-07T06:55:21-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/07/wait-what-even.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/06/a-seemingly-mundane.html",
+				"title": "A Seemingly Mundane Visit to the Apple Store — Random Thoughts",
+				"content_html": "<p>It’s been quite a while since I visited an Apple Store. Last I went for a quick stop after work since I was working at my downtown offices.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/0f4a0a1279.jpg\" alt=\"\"></p>\n<p>There are soooo many iPad models to choose from! Too many? The 12.9-inch iPad Pro screen is unbelievably gorgeous!! I wish it would come to the 11-inch version. Maybe next year?</p>\n<p>Of all the iPad models that I looked at, Stage Manager is not enabled. So what’s up, Apple, with that? Isn’t the Stage Manager good enough for the showroom?</p>\n<p>I wish I had bought the Studio Display with the articulated arm. Expensive but give the most flexibility. Too bad it’s not possible to replace the monitor’s stand.</p>\n<p>I tested the 13-inch M2 MacBook Air and tried to imagine what a 15-inch version would be. Not an easy thing to do. Speaking of MacBook, when I looked around on the MacBook table, they all look about the same; only the thickness makes it look slightly different, oh and the “colors”.</p>\n<p>I love the latest version of the iPhone display stands. Less dangling wires. Easy to grab and put back in place.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/5a1d71be62.jpg\" alt=\"\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/08225cb910.jpg\" alt=\"\"></p>\n<p>In the previous image, I am holding the iPhone 14 Pro Max. I was still testing the device’s overall size. This is my next. I mean, the 15 Pro Max (Ultra?).</p>\n<p>It was the day Apple released their FY2023 Q2 results. The store was unusually quiet. The illuminated decorations on the walls are getting old. I never really liked them.</p>\n<p>I’m out after having spent twenty minutes there.</p>\n",
+				"content_text": "It’s been quite a while since I visited an Apple Store. Last I went for a quick stop after work since I was working at my downtown offices.\n\n![](https://cdn.uploads.micro.blog/6803/2023/0f4a0a1279.jpg)\n\nThere are soooo many iPad models to choose from! Too many? The 12.9-inch iPad Pro screen is unbelievably gorgeous!! I wish it would come to the 11-inch version. Maybe next year?\n\nOf all the iPad models that I looked at, Stage Manager is not enabled. So what’s up, Apple, with that? Isn’t the Stage Manager good enough for the showroom? \n\nI wish I had bought the Studio Display with the articulated arm. Expensive but give the most flexibility. Too bad it’s not possible to replace the monitor’s stand.\n\nI tested the 13-inch M2 MacBook Air and tried to imagine what a 15-inch version would be. Not an easy thing to do. Speaking of MacBook, when I looked around on the MacBook table, they all look about the same; only the thickness makes it look slightly different, oh and the “colors”.\n\nI love the latest version of the iPhone display stands. Less dangling wires. Easy to grab and put back in place.\n\n![](https://cdn.uploads.micro.blog/6803/2023/5a1d71be62.jpg)\n\n![](https://cdn.uploads.micro.blog/6803/2023/08225cb910.jpg)\n\nIn the previous image, I am holding the iPhone 14 Pro Max. I was still testing the device’s overall size. This is my next. I mean, the 15 Pro Max (Ultra?).\n\nIt was the day Apple released their FY2023 Q2 results. The store was unusually quiet. The illuminated decorations on the walls are getting old. I never really liked them.\n\nI’m out after having spent twenty minutes there. \n\n",
+				"date_published": "2023-05-06T17:35:40-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/06/a-seemingly-mundane.html",
+				"tags": ["Apple","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/06/im-a-big.html",
+				
+				"content_html": "<p>I&rsquo;m a big fan of <strong>Raycast</strong>, and I cannot wait to get my hands on Raycast AI, but there is one thing that I cannot stand about it: the app icon. 🤢 I&rsquo;m wondering if <a href=\"https://micro.blog/mattbirchler\">@mattbirchler</a> has the same opinion here.</p>\n",
+				"content_text": "I'm a big fan of **Raycast**, and I cannot wait to get my hands on Raycast AI, but there is one thing that I cannot stand about it: the app icon. 🤢 I'm wondering if [@mattbirchler](https://micro.blog/mattbirchler) has the same opinion here. \n",
+				"date_published": "2023-05-06T07:58:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/06/im-a-big.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/05/another-yt-video.html",
+				
+				"content_html": "<p>Another YT video for the “Understanding Micro.blog” series coming soon. But, you know already what you need to know, right??</p>\n",
+				"content_text": "Another YT video for the “Understanding Micro.blog” series coming soon. But, you know already what you need to know, right??  \n",
+				"date_published": "2023-05-05T17:50:57-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/05/another-yt-video.html",
+				"tags": ["Apps  Services"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/05/05/im-going-to.html",
 				
 				"content_html": "<p>I’m going to Morocco this early summer for two weeks. I’ll bring my big camera gear but I wish I had the iPhone 14 Pro or better yet, the upcoming iPhone 15 Pro Max for this trip. The iPhone convenience is hard to beat and the big camera gear is heavy and the benefit from me getting this thing around is probably not much worth these days. It could be one of my last trip with the discreet camera. On my to do list: get my captor cleaned!</p>\n",
