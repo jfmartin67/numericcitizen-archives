@@ -1,11 +1,289 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Numeric Citizen Microblog",
+	"title": "Numeric Citizen Blog",
 	"icon": "https://micro.blog/numericcitizen/avatar.jpg",
 	"home_page_url": "https://blog.numericcitizen.me/",
 	"feed_url": "https://blog.numericcitizen.me/feed.json",
 	"items": [
 		
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/20/photomator-is-an.html",
+				
+				"content_html": "<blockquote>\n<p>Photomator is an alternative to Lightroom. Pixelmator Pro is an alternative to Photoshop. Source: <a href=\"https://birchtree.me/blog/the-difference-between-photomator-and-pixelmator-pro/\">The Difference Between Photomator and Pixelmator Pro</a></p>\n</blockquote>\n<p>That&rsquo;s probably the best way to understand the difference between Pixelmator Pro and Photomator. I&rsquo;m a big fan of the latter. I plan to use Photomator exclusively to process my iPhone photos for my upcoming trip to Morroco.</p>\n",
+				"content_text": "> Photomator is an alternative to Lightroom. Pixelmator Pro is an alternative to Photoshop. Source: [The Difference Between Photomator and Pixelmator Pro](https://birchtree.me/blog/the-difference-between-photomator-and-pixelmator-pro/)\r\n\r\nThat's probably the best way to understand the difference between Pixelmator Pro and Photomator. I'm a big fan of the latter. I plan to use Photomator exclusively to process my iPhone photos for my upcoming trip to Morroco.\n",
+				"date_published": "2023-05-20T08:56:18-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/20/photomator-is-an.html",
+				"tags": ["Photography","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/20/on-apple-stores.html",
+				"title": "On Apple Stores Evolution",
+				"content_html": "<blockquote>\n<p>After 22 Years, Apple&rsquo;s Very First Retail Store Is Reopening Its Doors in a New Location Source: <a href=\"https://www.inc.com/jason-aten/apple-tysons-corner-reopens-in-a-new-location-22-years-after-its-first-opening.html\">After 22 Years, Apple&rsquo;s Very First Retail Store Is Reopening Its Doors in a New Location | Inc.com</a></p>\n</blockquote>\n<p>I re-watched <a href=\"https://youtu.be/Exco_rEWwkc\">the video</a>, where Steve Jobs is touring the very first Apple Store. It&rsquo;s fascinating to see how things evolved over time. Software titles disappeared from shelves, thanks to the App Store. It&rsquo;s no longer possible to put all Apple products on a single table. Macs, iPads, iPhones, watches, HomePod, and device cases took over the place and then more. Thankfully, the Genius bar is still there in many stores because, you know, people still have questions and broken devices to get fixed.</p>\n",
+				"content_text": "> After 22 Years, Apple's Very First Retail Store Is Reopening Its Doors in a New Location Source: [After 22 Years, Apple's Very First Retail Store Is Reopening Its Doors in a New Location | Inc.com](https://www.inc.com/jason-aten/apple-tysons-corner-reopens-in-a-new-location-22-years-after-its-first-opening.html)\r\n\r\nI re-watched [the video](https://youtu.be/Exco_rEWwkc), where Steve Jobs is touring the very first Apple Store. It's fascinating to see how things evolved over time. Software titles disappeared from shelves, thanks to the App Store. It's no longer possible to put all Apple products on a single table. Macs, iPads, iPhones, watches, HomePod, and device cases took over the place and then more. Thankfully, the Genius bar is still there in many stores because, you know, people still have questions and broken devices to get fixed.\n",
+				"date_published": "2023-05-20T08:53:05-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/20/on-apple-stores.html",
+				"tags": ["Apple","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/19/being-full-of.html",
+				
+				"content_html": "<p>Being full of projects is being alive ™</p>\n",
+				"content_text": "Being full of projects is being alive ™ \n",
+				"date_published": "2023-05-19T18:50:55-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/19/being-full-of.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/19/heres-a-project.html",
+				
+				"content_html": "<p>Here’s a project (another 🤦🏻‍♂️😵‍💫) that I’d like to work on. I’m curious about the impacts of AI tools in our lives. In fact, I’m more fascinated by their impacts and the debates they generate than the power of the tools themselves. I’d like to spend time learning about these tools, document myself about them and forge my own take on them and their potential impacts on our lives. I’d like to work on it at the university-level research (not post-graduate, but bachelor degree-level would be a good challenge).</p>\n",
+				"content_text": "Here’s a project (another 🤦🏻‍♂️😵‍💫) that I’d like to work on. I’m curious about the impacts of AI tools in our lives. In fact, I’m more fascinated by their impacts and the debates they generate than the power of the tools themselves. I’d like to spend time learning about these tools, document myself about them and forge my own take on them and their potential impacts on our lives. I’d like to work on it at the university-level research (not post-graduate, but bachelor degree-level would be a good challenge). \n",
+				"date_published": "2023-05-19T18:36:17-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/19/heres-a-project.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/19/started-testing-omnivore.html",
+				
+				"content_html": "<p>Started testing Omnivore. 🫢</p>\n",
+				"content_text": "Started testing Omnivore. 🫢\n",
+				"date_published": "2023-05-19T09:58:35-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/19/started-testing-omnivore.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/18/we-used-to.html",
+				
+				"content_html": "<p>We used to be excited about new iOS releases, weren&rsquo;t we? Even for small bug fixes releases like iOS 16.5 today, we would be drooling about any small improvements or additions to what constitutes the logic that brings the iPhone experience to life! The excitement over the slow progress bar on a black screen he behind us.</p>\n",
+				"content_text": "We used to be excited about new iOS releases, weren't we? Even for small bug fixes releases like iOS 16.5 today, we would be drooling about any small improvements or additions to what constitutes the logic that brings the iPhone experience to life! The excitement over the slow progress bar on a black screen he behind us.\n",
+				"date_published": "2023-05-18T21:45:26-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/18/we-used-to.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/18/apples-headset-alarming.html",
+				"title": "Apple's Headset — Alarming or Not?",
+				"content_html": "<p>A recent report on Apple&rsquo;s upcoming headset:</p>\n<blockquote>\n<p>Key figures including software chief Craig Federighi have also kept their distance from the headset during its development and have seemed wary of it. Apple&rsquo;s senior vice president for hardware technologies, Johny Srouji, is believed to privately be a skeptic of the device, comparing it to a science project. He has warned that designing the high-performance chips that the headset requires could distract from new iPhone chips that drive more revenue. Source: <a href=\"https://www.macrumors.com/2023/05/18/report-apple-executives-cautious-of-headset/\">Report: Apple Executives Cautious of Mixed-Reality Headset Amid Compromises - MacRumors</a></p>\n</blockquote>\n<p>Everything will be fine, right? If Mr. Srouji is skeptical because the current product is too far from the original vision, I wouldn&rsquo;t call this alarming. But overall, the signals coming out of these reports aren&rsquo;t encouraging either. Is Apple headed in a bad direction?</p>\n",
+				"content_text": "A recent report on Apple's upcoming headset:\r\n> Key figures including software chief Craig Federighi have also kept their distance from the headset during its development and have seemed wary of it. Apple's senior vice president for hardware technologies, Johny Srouji, is believed to privately be a skeptic of the device, comparing it to a science project. He has warned that designing the high-performance chips that the headset requires could distract from new iPhone chips that drive more revenue. Source: [Report: Apple Executives Cautious of Mixed-Reality Headset Amid Compromises - MacRumors](https://www.macrumors.com/2023/05/18/report-apple-executives-cautious-of-headset/)\r\n\r\nEverything will be fine, right? If Mr. Srouji is skeptical because the current product is too far from the original vision, I wouldn't call this alarming. But overall, the signals coming out of these reports aren't encouraging either. Is Apple headed in a bad direction?\n",
+				"date_published": "2023-05-18T13:17:58-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/18/apples-headset-alarming.html",
+				"tags": ["Apple","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/18/on-android-switchers.html",
+				"title": "On Android Switchers Coming in Drove to the iPhone",
+				"content_html": "<p><a href=\"https://9to5mac.com/2023/05/17/android-switching-to-iphone-highest-level/\">Report reveals Android users switching to iPhone at 5-year high</a></p>\n<blockquote>\n<p>15% of new iPhone owners report having an Android device as their last smartphone. That’s a 4% increase from what CIRP saw last year, and 5% higher than the data seen in 2020 and 2021.</p>\n</blockquote>\n<blockquote>\n<p>The last time new Android switchers made up 15% of new iPhone buyers – according to CIRP – was back in 2018. The highest rate of switchers in the last nine years was 21% back in 2016.</p>\n</blockquote>\n<p>The market is full of previously-owned iPhones for sale. You can find used iPhones from 2 to 3 years ago at reasonable prices these days. People who were using an Android phone probably can now afford to buy an iPhone much cheaper than a brand-new one. Moreover, according to <a href=\"https://www.statista.com/chart/5824/ios-iphone-compatibility/\">this chart</a>, iPhones from the last few years can still run the latest releases of iOS with most of the features available. It&rsquo;s very tempting for switchers. This is how I would explain this phenomenon. The study covers the US market. The dynamics might be different in other parts of the world.</p>\n<p>One question: what percentage of iPhone owners who buy a new iPhone are returning their iPhone to Apple to get a credit instead of selling their iPhone themselves?</p>\n",
+				"content_text": "[Report reveals Android users switching to iPhone at 5-year high](https://9to5mac.com/2023/05/17/android-switching-to-iphone-highest-level/)\r\n\r\n> 15% of new iPhone owners report having an Android device as their last smartphone. That’s a 4% increase from what CIRP saw last year, and 5% higher than the data seen in 2020 and 2021.\r\n\r\n> The last time new Android switchers made up 15% of new iPhone buyers – according to CIRP – was back in 2018. The highest rate of switchers in the last nine years was 21% back in 2016.\r\n\r\nThe market is full of previously-owned iPhones for sale. You can find used iPhones from 2 to 3 years ago at reasonable prices these days. People who were using an Android phone probably can now afford to buy an iPhone much cheaper than a brand-new one. Moreover, according to [this chart](https://www.statista.com/chart/5824/ios-iphone-compatibility/), iPhones from the last few years can still run the latest releases of iOS with most of the features available. It's very tempting for switchers. This is how I would explain this phenomenon. The study covers the US market. The dynamics might be different in other parts of the world.\r\n\r\nOne question: what percentage of iPhone owners who buy a new iPhone are returning their iPhone to Apple to get a credit instead of selling their iPhone themselves?\n",
+				"date_published": "2023-05-18T07:09:25-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/18/on-android-switchers.html",
+				"tags": ["Apple","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/18/pockets-new-features.html",
+				
+				"content_html": "<p><a href=\"https://blog.mozilla.org/en/products/pockets-new-features-make-it-even-easier-to-discover-and-organize-content/\">Pocket’s new features make it even easier to discover and organize content | The Mozilla Blog</a>:</p>\n<blockquote>\n<p>Pocket is rolling out a new mobile and web experience so you can easily find the stories and topics you care about</p>\n</blockquote>\n<p>and</p>\n<blockquote>\n<p>Moving forward, Pocket on iOS will be updated every two weeks. In the next few months, we’ll be bringing back the ability to create and view highlights on your saved articles, improving the quality of the articles that we recommend to you, and bringing additional functionality to our Listen feature, through which you can listen to your saved articles.</p>\n</blockquote>\n<p>Is Pocket being &ldquo;rebooted&rdquo;? I recently closed my Pocket account because I didn&rsquo;t use it much. This renewed interest in its platform by its owner won&rsquo;t make a difference. <strong>Inoreader</strong> + <strong>Anybox</strong> are meeting my needs.</p>\n",
+				"content_text": "[Pocket’s new features make it even easier to discover and organize content | The Mozilla Blog](https://blog.mozilla.org/en/products/pockets-new-features-make-it-even-easier-to-discover-and-organize-content/):\r\n\r\n> Pocket is rolling out a new mobile and web experience so you can easily find the stories and topics you care about\r\n\r\nand\r\n\r\n> Moving forward, Pocket on iOS will be updated every two weeks. In the next few months, we’ll be bringing back the ability to create and view highlights on your saved articles, improving the quality of the articles that we recommend to you, and bringing additional functionality to our Listen feature, through which you can listen to your saved articles.\r\n\r\nIs Pocket being \"rebooted\"? I recently closed my Pocket account because I didn't use it much. This renewed interest in its platform by its owner won't make a difference. **Inoreader** + **Anybox** are meeting my needs.\n",
+				"date_published": "2023-05-18T06:50:34-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/18/pockets-new-features.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/17/the-case-for.html",
+				
+				"content_html": "<blockquote>\n<p>The case for Ethernet on Macs: Here’s how much speed you lose with WiFi Source: <a href=\"https://9to5mac.com/2023/05/17/ethernet-vs-wifi-speed-lost/\">Ethernet vs WiFi: How much speed is lost? - 9to5Mac</a></p>\n</blockquote>\n<p>At home, in my office room, my Macs are wired through 1GB Ethernet. It&rsquo;s been only recently that I cabled my office so that Macs get a direct connection to my router. No more Wifi. I never look back.</p>\n",
+				"content_text": "> The case for Ethernet on Macs: Here’s how much speed you lose with WiFi Source: [Ethernet vs WiFi: How much speed is lost? - 9to5Mac](https://9to5mac.com/2023/05/17/ethernet-vs-wifi-speed-lost/)\r\n\r\nAt home, in my office room, my Macs are wired through 1GB Ethernet. It's been only recently that I cabled my office so that Macs get a direct connection to my router. No more Wifi. I never look back. \n",
+				"date_published": "2023-05-17T19:57:10-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/17/the-case-for.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/17/ive-got-one.html",
+				
+				"content_html": "<p>I&rsquo;ve got one <strong>Bluesky</strong> invite available. Just saying. 🙂</p>\n",
+				"content_text": "I've got one **Bluesky** invite available. Just saying. 🙂\n",
+				"date_published": "2023-05-17T10:25:01-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/17/ive-got-one.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/17/on-photomator.html",
+				"title": "On Photomator 😍",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/07222d11d0.png\" alt=\"\"></p>\n<p>Currently using Photomator for a small project. I love this piece of software. I bought it for 99CAN$ for a lifetime purchase. I prefer Photomator design in general when editing a photo. It’s more approachable to me. Editing with masks is super easy to use, and it creates great results. The Mac version was the one last piece of the puzzle missing. Now we get the full picture (pun intended).</p>\n<p>It makes me wonder if I will ever get out of the Adobe subscription trap. The one missing piece from Photomator is the library management. I cannot rely on iCloud Photos Library for this.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/ed3e418b9e.png\" alt=\"\"></p>\n<p>This wasn’t a review, obviously. Just a glimpse of my enthusiasm for this great Mac app.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/07222d11d0.png)\n\nCurrently using Photomator for a small project. I love this piece of software. I bought it for 99CAN$ for a lifetime purchase. I prefer Photomator design in general when editing a photo. It’s more approachable to me. Editing with masks is super easy to use, and it creates great results. The Mac version was the one last piece of the puzzle missing. Now we get the full picture (pun intended).\n\nIt makes me wonder if I will ever get out of the Adobe subscription trap. The one missing piece from Photomator is the library management. I cannot rely on iCloud Photos Library for this.\n\n![](https://cdn.uploads.micro.blog/6803/2023/ed3e418b9e.png)\n\nThis wasn’t a review, obviously. Just a glimpse of my enthusiasm for this great Mac app. \n\n",
+				"date_published": "2023-05-17T07:44:48-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/17/on-photomator.html",
+				"tags": ["Photography","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/16/important-housekeeping-announcement.html",
+				"title": "Important Housekeeping Announcement",
+				"content_html": "<p>If you consume my work through RSS, read carefully. I&rsquo;ll be transitioning to <strong>FeedPress</strong> to act as the entry point for all my RSS feed publication needs. Consider updating your RSS client to use this new &ldquo;<a href=\"https://feeds.numericcitizen.me/\">superfeed</a>&rdquo;. Anything coming from <em>long articles</em> (Ghost), <em>blog posts</em> like this one (Micro.blog), <em>photos</em> (Glass) &amp; <em>videos</em> (YouTube) will appear on this feed. I call this rather convenient, don&rsquo;t you think? I&rsquo;ll share the individual feeds soon if you prefer to be selective when consuming content. What will happen to the native/original feeds? They won&rsquo;t go away, but in the future, If I decide to move to another publishing platform, you&rsquo;ll probably be impacted if you are not making the change now. That&rsquo;s the main reason why I&rsquo;m moving to FeedPress.</p>\n<p>Returning to normal programming. 🙂</p>\n",
+				"content_text": "If you consume my work through RSS, read carefully. I'll be transitioning to **FeedPress** to act as the entry point for all my RSS feed publication needs. Consider updating your RSS client to use this new \"[superfeed](https://feeds.numericcitizen.me/)\". Anything coming from _long articles_ (Ghost), _blog posts_ like this one (Micro.blog), _photos_ (Glass) & _videos_ (YouTube) will appear on this feed. I call this rather convenient, don't you think? I'll share the individual feeds soon if you prefer to be selective when consuming content. What will happen to the native/original feeds? They won't go away, but in the future, If I decide to move to another publishing platform, you'll probably be impacted if you are not making the change now. That's the main reason why I'm moving to FeedPress.\r\n\r\nReturning to normal programming. 🙂\n",
+				"date_published": "2023-05-16T18:22:44-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/16/important-housekeeping-announcement.html",
+				"tags": ["Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/16/i-wish-i.html",
+				
+				"content_html": "<p>I wish I had something interesting to share so I could be part of <a href=\"https://micro.camp\">Micro Camp</a> someday. Maybe next year? This is something I wanted to do last year, and yet&hellip; I won&rsquo;t be able to listen live either&hellip;  I cannot take off from work on Friday, so it leaves only Saturday, but I&rsquo;ll be on the move that day too. Oh well.</p>\n",
+				"content_text": "I wish I had something interesting to share so I could be part of [Micro Camp](https://micro.camp) someday. Maybe next year? This is something I wanted to do last year, and yet... I won't be able to listen live either...  I cannot take off from work on Friday, so it leaves only Saturday, but I'll be on the move that day too. Oh well. \n",
+				"date_published": "2023-05-16T17:54:18-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/16/i-wish-i.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/16/two-thoughts-on.html",
+				"title": "Two Thoughts On Apple’s New Upcoming Accessibility Features",
+				"content_html": "<p>Today, <a href=\"https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/\">Apple announced</a> upcoming features for people with critical disabilities. Here are some thoughts.</p>\n<p>First, Personal Voice is incredible! I can’t wait to try this out. I always feared being diagnosed with ALS, but I can see this new accessibility feature, coupled with Live Speech real game changer for people with ALS.</p>\n<p>Second, looking at some user interface samples, especially the iPhone with iMessage (see below), we can see the return of shadows, depth, and better contrast, compared to what we have now. So my question is: why not have these UI traits everywhere instead?</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/8194b1da07.png\" alt=\"\" title=\"iPhone showing an upcoming version of IOS with more accessibility features for visual impaired users. \"></p>\n",
+				"content_text": "Today, [Apple announced](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/) upcoming features for people with critical disabilities. Here are some thoughts. \n\nFirst, Personal Voice is incredible! I can’t wait to try this out. I always feared being diagnosed with ALS, but I can see this new accessibility feature, coupled with Live Speech real game changer for people with ALS. \n\nSecond, looking at some user interface samples, especially the iPhone with iMessage (see below), we can see the return of shadows, depth, and better contrast, compared to what we have now. So my question is: why not have these UI traits everywhere instead?\n\n![](https://cdn.uploads.micro.blog/6803/2023/8194b1da07.png \"iPhone showing an upcoming version of IOS with more accessibility features for visual impaired users. \")\n\n\n",
+				"date_published": "2023-05-16T13:00:45-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/16/two-thoughts-on.html",
+				"tags": ["Apple","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/16/thought-readlater-services.html",
+				
+				"content_html": "<p>Thought: <strong>read-later</strong> services should be called <strong>read-never</strong> because, for me, most of the time, I rarely come back to read my saved articles.</p>\n",
+				"content_text": "Thought: **read-later** services should be called **read-never** because, for me, most of the time, I rarely come back to read my saved articles.\n",
+				"date_published": "2023-05-16T08:00:00-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/16/thought-readlater-services.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/16/i-really-cant.html",
+				
+				"content_html": "<p>I really can&rsquo;t wait to see this <a href=\"https://youtu.be/OFJxFAyT7p8\">movie</a> about Apple&rsquo;s Lisa computer. <a href=\"https://numericcitizen.me/remembering-the-story-behind-every-apple-computers-i-ever-owned/\">My journey with computers</a> started with the Apple ][+, then came the //e, the Mac. But I do remember the Lisa&hellip; on paper, and I never had a chance to touch one.</p>\n",
+				"content_text": "I really can't wait to see this [movie](https://youtu.be/OFJxFAyT7p8) about Apple's Lisa computer. [My journey with computers](https://numericcitizen.me/remembering-the-story-behind-every-apple-computers-i-ever-owned/) started with the Apple ][+, then came the //e, the Mac. But I do remember the Lisa... on paper, and I never had a chance to touch one.\n",
+				"date_published": "2023-05-16T07:30:31-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/16/i-really-cant.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/16/i-finally-completed.html",
+				
+				"content_html": "<p>I finally completed and shared the last part of my story &ldquo;<a href=\"https://world.numericcitizen.io/migrating-from-wordpress-to-ghost\">Moving out of WordPress</a>&rdquo;, this time, it&rsquo;s the DNS side of the story, where I explain the process of moving out of GoDaddy to CloudFlare so that I can keep using my root domain <strong>numericcitizen.me</strong>. Go on my <a href=\"https://world.numericcitizen.io/meta\">Numeric Citizen I/O website</a> for all the details if you&rsquo;re curious.</p>\n",
+				"content_text": "I finally completed and shared the last part of my story \"[Moving out of WordPress](https://world.numericcitizen.io/migrating-from-wordpress-to-ghost)\", this time, it's the DNS side of the story, where I explain the process of moving out of GoDaddy to CloudFlare so that I can keep using my root domain **numericcitizen.me**. Go on my [Numeric Citizen I/O website](https://world.numericcitizen.io/meta) for all the details if you're curious.\n",
+				"date_published": "2023-05-16T07:13:52-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/16/i-finally-completed.html",
+				"tags": ["Misc","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/15/the-next-little.html",
+				
+				"content_html": "<p>The next little challenge related to FeedPress will be deciding if I want to share individual feeds also or only the merged one. What if someone is only interested in my photos or videos?</p>\n",
+				"content_text": "The next little challenge related to FeedPress will be deciding if I want to share individual feeds also or only the merged one. What if someone is only interested in my photos or videos? \n",
+				"date_published": "2023-05-15T22:33:31-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/15/the-next-little.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/15/played-with-feedpress.html",
+				
+				"content_html": "<p>Played with <strong>FeedPress</strong> this evening. The one thing that I like about it is the ability to merge many of my feeds into one and put it behind a custom domain. But at 10$ a month, it freaking expansive. Oh and I get analytics…. And yet…</p>\n",
+				"content_text": "Played with **FeedPress** this evening. The one thing that I like about it is the ability to merge many of my feeds into one and put it behind a custom domain. But at 10$ a month, it freaking expansive. Oh and I get analytics…. And yet…\n",
+				"date_published": "2023-05-15T22:19:10-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/15/played-with-feedpress.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/15/my-creative-goals.html",
+				
+				"content_html": "<p>My creative goals are all met, and it&rsquo;s Monday. 😅 Maybe I wasn&rsquo;t aiming high enough? 🤔</p>\n",
+				"content_text": "My creative goals are all met, and it's Monday. 😅 Maybe I wasn't aiming high enough? 🤔\n",
+				"date_published": "2023-05-15T18:40:59-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/15/my-creative-goals.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/15/thought-readlater-services.html",
+				
+				"content_html": "<p>Thought: Read-later services or applications are a consequence of too much content availability and a lack of time for consuming that content.</p>\n",
+				"content_text": "Thought: Read-later services or applications are a consequence of too much content availability and a lack of time for consuming that content. \n",
+				"date_published": "2023-05-15T18:19:39-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/15/thought-readlater-services.html",
+				"tags": ["Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/15/my-full-review.html",
+				
+				"content_html": "<p>My full review of <strong>Inoreader</strong> is finally out, <strong>with exclusive content</strong> for those who subscribe (free) to my website. I hope you find it useful. \n<a href=\"https://numericcitizen.me/empowering-my-reading-workflow-with-inoreader/\">Empowering My Reading Workflow With Inoreader</a>.</p>\n",
+				"content_text": "My full review of **Inoreader** is finally out, **with exclusive content** for those who subscribe (free) to my website. I hope you find it useful. \r\n[Empowering My Reading Workflow With Inoreader](https://numericcitizen.me/empowering-my-reading-workflow-with-inoreader/).\n",
+				"date_published": "2023-05-15T08:47:25-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/15/my-full-review.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/14/for-the-first.html",
+				
+				"content_html": "<p>For the first time in a long time, I&rsquo;m starting to think I&rsquo;m finally catching up to 90% of the things I wanted to write and share. It&rsquo;s a good sentiment to have a month before a two-week summer vacation. I know it&rsquo;s a bit of a cryptic post.</p>\n",
+				"content_text": "For the first time in a long time, I'm starting to think I'm finally catching up to 90% of the things I wanted to write and share. It's a good sentiment to have a month before a two-week summer vacation. I know it's a bit of a cryptic post.\n",
+				"date_published": "2023-05-14T21:09:44-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/14/for-the-first.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/14/i-wanted-to.html",
+				
+				"content_html": "<p>I wanted to publish my long post about Inoreader this weekend so much, but it&rsquo;s not ready yet. Tomorrow it&rsquo;s probably the day. Being patient and knowing when something is not ready is a virtue of the writer.</p>\n",
+				"content_text": "I wanted to publish my long post about Inoreader this weekend so much, but it's not ready yet. Tomorrow it's probably the day. Being patient and knowing when something is not ready is a virtue of the writer. \n",
+				"date_published": "2023-05-14T21:02:51-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/14/i-wanted-to.html",
+				"tags": ["Blogging","Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/14/in-my-last.html",
+				
+				"content_html": "<p>In my last two YouTube videos, I decided to stop using cross-fade between segments. It&rsquo;s a bit visually harsh (I&rsquo;m not getting used to that), but it seems like the general trend among YouTubers these days. Plus, when using bookmarks, thumbnails get a better preview.</p>\n",
+				"content_text": "In my last two YouTube videos, I decided to stop using cross-fade between segments. It's a bit visually harsh (I'm not getting used to that), but it seems like the general trend among YouTubers these days. Plus, when using bookmarks, thumbnails get a better preview. \n",
+				"date_published": "2023-05-14T14:26:12-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/14/in-my-last.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/14/thanks-to-some.html",
+				
+				"content_html": "<p>Thanks to some people on my timeline (they recognize themselves, I&rsquo;m sure 🙂), I&rsquo;m giving a shot at <a href=\"https://www.feedpress.com\">FeedPress</a>. The idea behind this experiment: have a way to consolidate all my RSS feeds into one tied to my custom domain. Let&rsquo;s see what happens with that. Feel free to subscribe to the feed here: <a href=\"https://feeds.numericcitizen.me\">https://feeds.numericcitizen.me</a>. You&rsquo;ll get  Long Posts, Blog Posts, Photos and Videos.</p>\n",
+				"content_text": "Thanks to some people on my timeline (they recognize themselves, I'm sure 🙂), I'm giving a shot at [FeedPress](https://www.feedpress.com). The idea behind this experiment: have a way to consolidate all my RSS feeds into one tied to my custom domain. Let's see what happens with that. Feel free to subscribe to the feed here: [https://feeds.numericcitizen.me](https://feeds.numericcitizen.me). You'll get  Long Posts, Blog Posts, Photos and Videos.\n",
+				"date_published": "2023-05-14T13:59:38-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/14/thanks-to-some.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/13/if-youre-on.html",
+				
+				"content_html": "<p>If you’re on Inoreader, this is a link to <a href=\"https://www.inoreader.com/u/NumericCitizen\">my profile page</a>. I’m not sure there are many subscribers here, but in any case, you can follow me there if you want!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/ea6a03d7bf.png\" alt=\"\"></p>\n",
+				"content_text": "If you’re on Inoreader, this is a link to [my profile page](https://www.inoreader.com/u/NumericCitizen). I’m not sure there are many subscribers here, but in any case, you can follow me there if you want!\n\n![](https://cdn.uploads.micro.blog/6803/2023/ea6a03d7bf.png)\n\n\n",
+				"date_published": "2023-05-13T08:16:40-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/13/if-youre-on.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/11/im-wondering-how.html",
+				
+				"content_html": "<p>I’m wondering how good MacWhisper will be at decoding my English with my accent. Will try for my next YouTube video ad I always wanted to add video captions.</p>\n",
+				"content_text": "I’m wondering how good MacWhisper will be at decoding my English with my accent. Will try for my next YouTube video ad I always wanted to add video captions. \n",
+				"date_published": "2023-05-11T19:29:15-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/11/im-wondering-how.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/11/cant-wait-for.html",
+				"title": "Can't Wait for the Upcoming Publishing Weekend",
+				"content_html": "<p>This weekend, I will publish a 6000 words thousand article about my migration to <strong>Inoreader</strong>. I&rsquo;ve been working on that one for at least three months. While doing so, for the first time, I used Ulysses' &ldquo;multi-sheets&rdquo; feature, where each sheet is a different section tied together as a long article that I can publish as a whole. Pretty handy stuff when working on very long articles. Thanks to Ghost&rsquo;s publishing feature, it will also be the first time that a portion of my article (the last three sections) will be made available to my subscribers only.</p>\n<p>I can&rsquo;t wait to share with my readers the long journey that led me to <strong>Inoreder</strong>. Watch <a href=\"https://numericcitizen.me\">this space</a>.</p>\n",
+				"content_text": "This weekend, I will publish a 6000 words thousand article about my migration to **Inoreader**. I've been working on that one for at least three months. While doing so, for the first time, I used Ulysses' \"multi-sheets\" feature, where each sheet is a different section tied together as a long article that I can publish as a whole. Pretty handy stuff when working on very long articles. Thanks to Ghost's publishing feature, it will also be the first time that a portion of my article (the last three sections) will be made available to my subscribers only.\r\n\r\nI can't wait to share with my readers the long journey that led me to **Inoreder**. Watch [this space](https://numericcitizen.me).\n",
+				"date_published": "2023-05-11T12:55:45-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/11/cant-wait-for.html",
+				"tags": ["Blogging","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/11/fun-and-interesting.html",
+				
+				"content_html": "<p>Fun and interesting fact: I have four times more followers on Bluesky than on Mastodon, even though the latter has much more users like in the millions instead of in the thousands for the former. 🤔</p>\n",
+				"content_text": "Fun and interesting fact: I have four times more followers on Bluesky than on Mastodon, even though the latter has much more users like in the millions instead of in the thousands for the former. 🤔\n",
+				"date_published": "2023-05-11T08:14:52-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/11/fun-and-interesting.html",
+				"tags": ["Misc"]
+			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/05/10/it-took-like.html",
 				
