@@ -7,6 +7,204 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/05/26/what-is-it.html",
+				
+				"content_html": "<p>What is it like to use the migration assistant on a Mac to move content &amp; settings from one machine to another? Is it as good as moving from one iPhone to another?</p>\n",
+				"content_text": "What is it like to use the migration assistant on a Mac to move content & settings from one machine to another? Is it as good as moving from one iPhone to another? \n",
+				"date_published": "2023-05-26T09:23:02-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/26/what-is-it.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/26/todays-thought-by.html",
+				
+				"content_html": "<p><strong>Today&rsquo;s thought</strong>: by accepting the idea that blogging is writing for myself, I would probably write more often.</p>\n",
+				"content_text": "**Today's thought**: by accepting the idea that blogging is writing for myself, I would probably write more often.\n",
+				"date_published": "2023-05-26T06:57:03-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/26/todays-thought-by.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/25/im-fascinated-by.html",
+				
+				"content_html": "<p>I&rsquo;m fascinated by the lack of visual updates to Gruber&rsquo;s Daring Fireball website. I mean, he has been using the same design like forever! And then I look at Micro.blog users here constantly trying themes or even building their own and tweaking it often. I&rsquo;m not particularly fond of his design choices but hey, who am I to judge! Content wins over form?</p>\n",
+				"content_text": "I'm fascinated by the lack of visual updates to Gruber's Daring Fireball website. I mean, he has been using the same design like forever! And then I look at Micro.blog users here constantly trying themes or even building their own and tweaking it often. I'm not particularly fond of his design choices but hey, who am I to judge! Content wins over form?\n",
+				"date_published": "2023-05-25T19:24:39-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/25/im-fascinated-by.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/25/some-housekeeping-this.html",
+				
+				"content_html": "<p>Some housekeeping this morning: I made some changes to the navigation bar on <a href=\"https://numericcitizen.me\">my website</a> so that <a href=\"https://feeds.numericcitizen.me\">FeedPress feeds</a> are more prominent. Removed is the link to the monthly newsletter tag as I&rsquo;m no longer publishing them.</p>\n",
+				"content_text": "Some housekeeping this morning: I made some changes to the navigation bar on [my website](https://numericcitizen.me) so that [FeedPress feeds](https://feeds.numericcitizen.me) are more prominent. Removed is the link to the monthly newsletter tag as I'm no longer publishing them.\n",
+				"date_published": "2023-05-25T07:40:14-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/25/some-housekeeping-this.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/24/as-a-fan.html",
+				
+				"content_html": "<p>As a fan of <strong>meteorology</strong>, I was fascinated today by this <a href=\"https://cloud.numericcitizen.me/vHyS2MDy\">visible satellite imagery sequence</a> of east North America. We can observe clouds at different levels in the atmosphere for the same geo area that travel in different directions. Just look at the cursor for where to observe the phenomena. This is not exceptional but it is fascinating nonetheless.</p>\n",
+				"content_text": "As a fan of **meteorology**, I was fascinated today by this [visible satellite imagery sequence](https://cloud.numericcitizen.me/vHyS2MDy) of east North America. We can observe clouds at different levels in the atmosphere for the same geo area that travel in different directions. Just look at the cursor for where to observe the phenomena. This is not exceptional but it is fascinating nonetheless.\n\n",
+				"date_published": "2023-05-24T13:38:01-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/24/as-a-fan.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/24/for-the-first.html",
+				
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/806d613907.png\" alt=\"\"></p>\n<p>For the first time in a long time, I’m satisfied with my online publishing setup. I don’t see changes in the future. This is relieving. This mean I can focus a writing projects. The only moving part around Mastodon/Bluesky clients. Nothing to call my (late) mother.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/806d613907.png)\n\nFor the first time in a long time, I’m satisfied with my online publishing setup. I don’t see changes in the future. This is relieving. This mean I can focus a writing projects. The only moving part around Mastodon/Bluesky clients. Nothing to call my (late) mother.\n\n",
+				"date_published": "2023-05-24T12:54:46-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/24/for-the-first.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/24/follow-up-to.html",
+				
+				"content_html": "<p>Follow up to my previous post.\nI&rsquo;ll probably keep Ivory and buy the bundle subscription: one app, for all Apple platforms. Also, It&rsquo;s a way to show support for their journey out of Twitter. I&rsquo;ll scrap Ice Cubes and Mammoth. \n<strong>Micro.blog, Ivory, Bluesky</strong> it will be. 😊 For now. 🫢</p>\n",
+				"content_text": "Follow up to my previous post.\r\nI'll probably keep Ivory and buy the bundle subscription: one app, for all Apple platforms. Also, It's a way to show support for their journey out of Twitter. I'll scrap Ice Cubes and Mammoth. \r\n**Micro.blog, Ivory, Bluesky** it will be. 😊 For now. 🫢\n",
+				"date_published": "2023-05-24T10:29:26-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/24/follow-up-to.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/24/eventually-ill-have.html",
+				
+				"content_html": "<p>Eventually I’ll have to make a few decisions … 🤔🤦🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Eventually I’ll have to make a few decisions … 🤔🤦🏻‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/d38f7238e9.jpg\" width=\"311\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-24T08:20:51-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/24/eventually-ill-have.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/24/if-they-are.html",
+				
+				"content_html": "<p>If they are serious about supporting the federated web, <a href=\"https://micro.blog/ivory@tapbots.social\">@ivory@tapbots.social</a> could add support for Micro.blog&hellip;</p>\n",
+				"content_text": "If they are serious about supporting the federated web, [@ivory@tapbots.social](https://micro.blog/ivory@tapbots.social) could add support for Micro.blog... \n",
+				"date_published": "2023-05-24T07:31:51-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/24/if-they-are.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/23/from-weekly-to.html",
+				"title": "From Weekly to Monthly Digest",
+				"content_html": "<p>Following <a href=\"https://news.micro.blog/2023/05/23/added-category-option.html\">the announcement</a> of the tweaked <strong>Micro.blog newsletter functionality</strong>, I&rsquo;m switching to a monthly digest instead with a specific category as the sole source for its content. Three reasons for this change: first, the digest will become a more intentional set of creative gestures instead of being the result of a weekly and automatic content spit out without any distinction. Second, monthly means less noisy than weekly. Third, less is more. Let&rsquo;s try that. 🙂</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Following [the announcement](https://news.micro.blog/2023/05/23/added-category-option.html) of the tweaked **Micro.blog newsletter functionality**, I'm switching to a monthly digest instead with a specific category as the sole source for its content. Three reasons for this change: first, the digest will become a more intentional set of creative gestures instead of being the result of a weekly and automatic content spit out without any distinction. Second, monthly means less noisy than weekly. Third, less is more. Let's try that. 🙂\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/2f6aae6011.png\" width=\"600\" height=\"359\" alt=\"\">\n",
+				"date_published": "2023-05-23T22:04:06-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/23/from-weekly-to.html",
+				"tags": ["Photography","Blogging","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/23/just-finished-watching.html",
+				
+				"content_html": "<p>Just finished watching a few videos about <strong>FinalCut Pro for iPad</strong>. One thing came to my mind: the iPad will probably continue to get bigger to accommodate the vision for FCP on the iPad. Even on the 12.9-inch iPad, FCP looked a bit cramped. I still don&rsquo;t know if I&rsquo;ll ever use it for my needs (when I upgrade my current and unsupported 11-inch 2018 iPad Pro. 🤨</p>\n",
+				"content_text": "Just finished watching a few videos about **FinalCut Pro for iPad**. One thing came to my mind: the iPad will probably continue to get bigger to accommodate the vision for FCP on the iPad. Even on the 12.9-inch iPad, FCP looked a bit cramped. I still don't know if I'll ever use it for my needs (when I upgrade my current and unsupported 11-inch 2018 iPad Pro. 🤨\n",
+				"date_published": "2023-05-23T20:37:23-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/23/just-finished-watching.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/23/exposure-asks-me.html",
+				
+				"content_html": "<p><a href=\"https://exposure.co/\">Exposure</a> asks me to upgrade to the business tier subscription to support Plausible analytics via custom HTML headers. Thanks but no thanks. My current subscription is already expensive enough, and I am barely able to justify the price. I&rsquo;m not going to support something that I think should be builtin, like Google Analytics. Plausible is an external service and would require minimal changes on Exposure part to implement. They are being greedy here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[Exposure](https://exposure.co/) asks me to upgrade to the business tier subscription to support Plausible analytics via custom HTML headers. Thanks but no thanks. My current subscription is already expensive enough, and I am barely able to justify the price. I'm not going to support something that I think should be builtin, like Google Analytics. Plausible is an external service and would require minimal changes on Exposure part to implement. They are being greedy here.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/c6602fa642.png\" width=\"600\" height=\"316\" alt=\"Exposure options for Google Analytics support.\">\n",
+				"date_published": "2023-05-23T07:23:43-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/23/exposure-asks-me.html",
+				"tags": ["Photography","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/22/thoughts-on-fcp.html",
+				"title": "Thoughts On FCP for iPad vs Screenflow",
+				"content_html": "<p>I&rsquo;m more inclined and attracted by the idea of testing (and actually using) FCP on iPad than the Mac version. Without being an iMovie on steroids (something that I don&rsquo;t want), I wish FCP for iPad to be a simpler (but not simplistic) version of FCP on the Mac.</p>\n<p>The problem: all my videos are all done with Screenflow for Mac because It&rsquo;s all about Mac screen recording. What value would bring another app like FCP for the iPad? I see a more complex workflow because I would need to &ldquo;export&rdquo; from Mac then import into FCP on iPad then do the actual montage on a less capable device (two different device paradigms, little added value).</p>\n<p>Thoughts?</p>\n<p>PS: My 2018 iPad Pro isn&rsquo;t capable enough for my 4K screen recordings. But let&rsquo;s imagine that I&rsquo;m on an M1 or M2 iPad Pro.</p>\n",
+				"content_text": "I'm more inclined and attracted by the idea of testing (and actually using) FCP on iPad than the Mac version. Without being an iMovie on steroids (something that I don't want), I wish FCP for iPad to be a simpler (but not simplistic) version of FCP on the Mac. \r\n\r\nThe problem: all my videos are all done with Screenflow for Mac because It's all about Mac screen recording. What value would bring another app like FCP for the iPad? I see a more complex workflow because I would need to \"export\" from Mac then import into FCP on iPad then do the actual montage on a less capable device (two different device paradigms, little added value). \r\n\r\nThoughts?\r\n\r\nPS: My 2018 iPad Pro isn't capable enough for my 4K screen recordings. But let's imagine that I'm on an M1 or M2 iPad Pro. \n",
+				"date_published": "2023-05-22T21:57:40-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/22/thoughts-on-fcp.html",
+				"tags": ["Longer posts","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/22/from-my-experience.html",
+				
+				"content_html": "<p>From my experience (today I shared a visual story named &ldquo;<a href=\"https://numericcitizen.exposure.co/cemeteries\">Cemeteries</a>&quot;), I don&rsquo;t get much exposure with Exposure, which I find highly ironic.</p>\n",
+				"content_text": "From my experience (today I shared a visual story named \"[Cemeteries](https://numericcitizen.exposure.co/cemeteries)\"), I don't get much exposure with Exposure, which I find highly ironic.\n",
+				"date_published": "2023-05-22T18:26:14-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/22/from-my-experience.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/22/on-mimestream-going.html",
+				"title": "On Mimestream Going 1.0 \u0026 Native Mac Apps",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/4a875578e6.jpg\" alt=\"\" title=\"Mimestream email client windows\"></p>\n<p><strong><a href=\"https://launch.mimestream.com/blog/mimestream-launches\">Mimestream</a></strong>, a native Gmail email client, is out of beta and looks quite good if <a href=\"https://youtu.be/evcds25C4Jc\">this video</a>, by Matt Birchler, is any indication. As a subscriber to HEY, I can only salivate when I see such great Mac apps being launched for such a mature category. The guys behind HEY brag a lot about having a unique take on email, but they seriously lack in their take on being native because their software is not and is one of their biggest problems IMHO. If only they had the guts to rebuild their client like Mimestream, it would be a real killer for me.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/4a875578e6.jpg \"Mimestream email client windows\")\n\n**[Mimestream](https://launch.mimestream.com/blog/mimestream-launches)**, a native Gmail email client, is out of beta and looks quite good if [this video](https://youtu.be/evcds25C4Jc), by Matt Birchler, is any indication. As a subscriber to HEY, I can only salivate when I see such great Mac apps being launched for such a mature category. The guys behind HEY brag a lot about having a unique take on email, but they seriously lack in their take on being native because their software is not and is one of their biggest problems IMHO. If only they had the guts to rebuild their client like Mimestream, it would be a real killer for me.\n\n",
+				"date_published": "2023-05-22T17:15:07-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/22/on-mimestream-going.html",
+				"tags": ["Longer posts","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/22/quick-followup-to.html",
+				
+				"content_html": "<p>Quick follow-up to my blog post earlier today about using Craft to create photo journals. Sometimes, I look too far to find the perfect solution when there is one in front of my eyes: <a href=\"https://stories.numericcitizen.photos\">Exposure</a>. I&rsquo;m already paying for a subscription! My next photo journal will be created on Exposure.</p>\n",
+				"content_text": "Quick follow-up to my blog post earlier today about using Craft to create photo journals. Sometimes, I look too far to find the perfect solution when there is one in front of my eyes: [Exposure](https://stories.numericcitizen.photos). I'm already paying for a subscription! My next photo journal will be created on Exposure.\n",
+				"date_published": "2023-05-22T16:49:46-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/22/quick-followup-to.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/22/i-bought-a.html",
+				
+				"content_html": "<p>I bought a Hookmark license recently, thinking it would play a big role in my creative workflow. It isn&rsquo;t so far. Sure, it works great but use cases are scarce.</p>\n",
+				"content_text": "I bought a Hookmark license recently, thinking it would play a big role in my creative workflow. It isn't so far. Sure, it works great but use cases are scarce.\n",
+				"date_published": "2023-05-22T15:13:01-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/22/i-bought-a.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/22/last-year-i.html",
+				
+				"content_html": "<p>Last year, I went to Italy for my three-week summer vacation. What a trip it was. I built <a href=\"https://crafted.numericcitizen.me/italy2022\">this travel journal with Craft</a> to test Craft&rsquo;s limitations. I concluded that Craft is great for building beautiful documents (and small websites), but for serious photography work: it’s far from perfect and needs big improvements. Can you imagine that nine months later, after so many releases, no single Craft release addressed any of my feedback? None!!! I’m going to Morocco in June. I guess I’ll look elsewhere for sharing a travel journal.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Last year, I went to Italy for my three-week summer vacation. What a trip it was. I built [this travel journal with Craft](https://crafted.numericcitizen.me/italy2022) to test Craft's limitations. I concluded that Craft is great for building beautiful documents (and small websites), but for serious photography work: it’s far from perfect and needs big improvements. Can you imagine that nine months later, after so many releases, no single Craft release addressed any of my feedback? None!!! I’m going to Morocco in June. I guess I’ll look elsewhere for sharing a travel journal.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/a564ad1018.png\" width=\"600\" height=\"405\" alt=\"\">\n",
+				"date_published": "2023-05-22T12:18:28-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/22/last-year-i.html",
+				"tags": ["Photography","Travels"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/22/time-for-another.html",
+				
+				"content_html": "<p>Time for another blog post category: <strong>Travels</strong>. Vacations are getting closer by the day.</p>\n",
+				"content_text": "Time for another blog post category: **Travels**. Vacations are getting closer by the day.\n",
+				"date_published": "2023-05-22T11:27:28-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/22/time-for-another.html",
+				"tags": ["Travels"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/21/im-looking-for.html",
+				
+				"content_html": "<p>I&rsquo;m looking for travel advice. I&rsquo;m going to Morocco in June. I&rsquo;m considering buying an eSIM for the first time for use in my iPhone 13 Pro. Any recommendations for me? When to buy? When to activate? What is it like when using an eSim on top of the physical SIM card? Thanks to all who will take the time to give me valuable insights!</p>\n",
+				"content_text": "I'm looking for travel advice. I'm going to Morocco in June. I'm considering buying an eSIM for the first time for use in my iPhone 13 Pro. Any recommendations for me? When to buy? When to activate? What is it like when using an eSim on top of the physical SIM card? Thanks to all who will take the time to give me valuable insights!\n",
+				"date_published": "2023-05-21T17:05:30-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/21/im-looking-for.html",
+				"tags": ["Travels"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/21/from-authenticity-to.html",
+				"title": "From Authenticity To Attention and Eventually to Connection",
+				"content_html": "<p>I recently heard the notion of blogging for ourselves as opposed to writing for other people to read. I like this idea a lot, and after giving it some thought, I think I know why. If I’m being honest with myself in life and decide to share something like a thought about something, my guess is that writing for ourselves helps a lot in being authentic. I think it’s one of the best ways to attract attention and, eventually, maybe, make a connection.</p>\n",
+				"content_text": "I recently heard the notion of blogging for ourselves as opposed to writing for other people to read. I like this idea a lot, and after giving it some thought, I think I know why. If I’m being honest with myself in life and decide to share something like a thought about something, my guess is that writing for ourselves helps a lot in being authentic. I think it’s one of the best ways to attract attention and, eventually, maybe, make a connection.\n\n",
+				"date_published": "2023-05-21T15:45:50-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/21/from-authenticity-to.html",
+				"tags": ["Blogging","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/05/21/i-visited-my.html",
+				
+				"content_html": "<p>I visited my university yesterday, where I studied computer science from 1987 to 1993 (B. Sc, M. Sc.). So it&rsquo;s been 30 years since my last visit there. What a strange feeling to be there after all those years. Lots of vivid memories popped up just by being there! I wish I could go back in time.</p>\n",
+				"content_text": "I visited my university yesterday, where I studied computer science from 1987 to 1993 (B. Sc, M. Sc.). So it's been 30 years since my last visit there. What a strange feeling to be there after all those years. Lots of vivid memories popped up just by being there! I wish I could go back in time. \n",
+				"date_published": "2023-05-21T08:36:04-04:00",
+				"url": "https://blog.numericcitizen.me/2023/05/21/i-visited-my.html",
+				"tags": ["Personal"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/05/20/photomator-is-an.html",
 				
 				"content_html": "<blockquote>\n<p>Photomator is an alternative to Lightroom. Pixelmator Pro is an alternative to Photoshop. Source: <a href=\"https://birchtree.me/blog/the-difference-between-photomator-and-pixelmator-pro/\">The Difference Between Photomator and Pixelmator Pro</a></p>\n</blockquote>\n<p>That&rsquo;s probably the best way to understand the difference between Pixelmator Pro and Photomator. I&rsquo;m a big fan of the latter. I plan to use Photomator exclusively to process my iPhone photos for my upcoming trip to Morroco.</p>\n",
