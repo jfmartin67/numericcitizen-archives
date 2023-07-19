@@ -7,6 +7,240 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/07/19/a-new-ad.html",
+				
+				"content_html": "<p>A new ad by Apple. I never share this but <a href=\"https://youtu.be/asKvPLmjxXY\">this one</a> made me smile many times. Very entertaining too. Interesting how Apple highlights many features of its products in s single ad. \n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/asKvPLmjxXY' frameborder='0' allowfullscreen></iframe></div></p>\n",
+				"content_text": "A new ad by Apple. I never share this but [this one](https://youtu.be/asKvPLmjxXY) made me smile many times. Very entertaining too. Interesting how Apple highlights many features of its products in s single ad. \r\n{{< yt \"asKvPLmjxXY\" >}}\n",
+				"date_published": "2023-07-19T07:36:21-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/19/a-new-ad.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/19/im-excited-and.html",
+				
+				"content_html": "<p>I&rsquo;m excited and upbeat about the upcoming weeks/months. I&rsquo;ll have a bunch of images to process (from my trips to Morocco &amp; Canary Islands). Plus the migration out of Smugmug to Pixelfed will keep me busy. Finally, the upgrade to the iPhone 15 Pro Max(Ultra?) will be an occasion for a few photowalk sessions. All contribute to a more photography-intensive fall. 🏞️🏙️📷</p>\n<p>I wrote that for myself. I always like comments! 😊</p>\n",
+				"content_text": "I'm excited and upbeat about the upcoming weeks/months. I'll have a bunch of images to process (from my trips to Morocco & Canary Islands). Plus the migration out of Smugmug to Pixelfed will keep me busy. Finally, the upgrade to the iPhone 15 Pro Max(Ultra?) will be an occasion for a few photowalk sessions. All contribute to a more photography-intensive fall. 🏞️🏙️📷\r\n\r\nI wrote that for myself. I always like comments! 😊\n",
+				"date_published": "2023-07-19T07:19:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/19/im-excited-and.html",
+				"tags": ["Photography","Travels","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/18/im-a-big.html",
+				
+				"content_html": "<p>I&rsquo;m a big fan of <strong>Inoreader</strong>. Make no mistake. But one quick comment. Consider the following screenshot where you can see the article-sharing option. You can see options like Blogger, Evernote, and Twitter. The first two options are dead horses. I mean, Blogger, really? Evernote is the next in line to die. The third is soon to be a dead horse, too. No other options are provided. I&rsquo;m surprised that we don&rsquo;t get to send an article by Fax, too.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm a big fan of **Inoreader**. Make no mistake. But one quick comment. Consider the following screenshot where you can see the article-sharing option. You can see options like Blogger, Evernote, and Twitter. The first two options are dead horses. I mean, Blogger, really? Evernote is the next in line to die. The third is soon to be a dead horse, too. No other options are provided. I'm surprised that we don't get to send an article by Fax, too. \n\n<img src=\"uploads/2023/firefox-15418-inoreaderglobal-pc-markets-ongoing-collapse-has-been-an-oppor.png\" width=\"600\" height=\"519\" alt=\"\">\n",
+				"date_published": "2023-07-18T22:00:00-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/18/im-a-big.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/18/this-is-the.html",
+				
+				"content_html": "<p>This is the <strong>Discover tab</strong> with the focus on “people to discover” on the <a href=\"https://micro.blog/pixelfed@mastodon.social\">@pixelfed@mastodon.social</a> official app (still in beta). The problem with this “selection”: how is this list built? The same can be said of Micro.blog discover feature. Why is the criteria never or rarely explained? Why is this list mostly static? The open web should be about absolute transparency too. Cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is the **Discover tab** with the focus on “people to discover” on the [@pixelfed@mastodon.social](https://micro.blog/pixelfed@mastodon.social) official app (still in beta). The problem with this “selection”: how is this list built? The same can be said of Micro.blog discover feature. Why is the criteria never or rarely explained? Why is this list mostly static? The open web should be about absolute transparency too. Cc [@manton](https://micro.blog/manton) \n\n<img src=\"uploads/2023/f3bdb53fa2.png\" width=\"311\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-18T19:03:01-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/18/this-is-the.html",
+				"tags": ["Photography","Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/18/notion-can-be.html",
+				"title": "Notion Can Be Impressive",
+				"content_html": "<p>I&rsquo;ve been working hard with <strong>Notion</strong> at work for a unique project. It&rsquo;s a 14-database setup containing 18 database relationships, many calculations as well as a place for knowledge management. I think I&rsquo;m pushing the boundaries of what Notion is all about. It&rsquo;s still manageable, and Notion still is speedy. I&rsquo;m really impressed by what this tool can help achieve. 🤩🤯</p>\n",
+				"content_text": "I've been working hard with **Notion** at work for a unique project. It's a 14-database setup containing 18 database relationships, many calculations as well as a place for knowledge management. I think I'm pushing the boundaries of what Notion is all about. It's still manageable, and Notion still is speedy. I'm really impressed by what this tool can help achieve. 🤩🤯\n",
+				"date_published": "2023-07-18T14:25:22-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/18/notion-can-be.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/18/hoping-for-a.html",
+				
+				"content_html": "<p>Hoping for a new beta (beta 4) today because it’s fun! 😂</p>\n",
+				"content_text": "Hoping for a new beta (beta 4) today because it’s fun! 😂\n",
+				"date_published": "2023-07-18T12:15:17-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/18/hoping-for-a.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/18/on-data-portability.html",
+				"title": "On Data Portability in the Modern Digital World",
+				"content_html": "<p>I recently read about the news that <strong>Evernote</strong> is currently downsizing its operations worldwide, especially in the US. It&rsquo;s not the first troubling episode for Evernote. I remember when they &ldquo;redesigned&rdquo; their app, which created a massive pushback from the community.</p>\n<p>I used Evernote in its early days and was appreciative of its capabilities. For some reason, I left for another solution. But for those who built massive data collections inside Evernote, now might be the time to think about going elsewhere. But there is a big gotcha: after searching for a way to export all the data, I discovered that it&rsquo;s not that easy. And people are angry. This brings me to the data portability of modern software and services. Evernote&rsquo;s ENEX export format was not a standard the last time I checked. A handful of apps can import ENEX files; Notion is one of them. HTML is also supported but is far from ideal. Options are limited and are seriously hindering the data portability of services like Evernote. Besides content, metadata is also critical (tags, dates, location, backlinks, etc.).</p>\n<p>Is <strong>Notion</strong> suffering from the same potential issues? PDF, CSV, and HTML are the supported formats. 🤔</p>\n",
+				"content_text": "I recently read about the news that **Evernote** is currently downsizing its operations worldwide, especially in the US. It's not the first troubling episode for Evernote. I remember when they \"redesigned\" their app, which created a massive pushback from the community.\r\n\r\nI used Evernote in its early days and was appreciative of its capabilities. For some reason, I left for another solution. But for those who built massive data collections inside Evernote, now might be the time to think about going elsewhere. But there is a big gotcha: after searching for a way to export all the data, I discovered that it's not that easy. And people are angry. This brings me to the data portability of modern software and services. Evernote's ENEX export format was not a standard the last time I checked. A handful of apps can import ENEX files; Notion is one of them. HTML is also supported but is far from ideal. Options are limited and are seriously hindering the data portability of services like Evernote. Besides content, metadata is also critical (tags, dates, location, backlinks, etc.).\r\n\r\nIs **Notion** suffering from the same potential issues? PDF, CSV, and HTML are the supported formats. 🤔\n",
+				"date_published": "2023-07-18T07:24:02-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/18/on-data-portability.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/18/when-i-decided.html",
+				
+				"content_html": "<p>When <a href=\"https://numericcitizen.me/my-experience-with-exposure-a-visual-storytelling-service/\">I decided to subscribe to <strong>Exposure</strong></a>, it was because I wanted to write short stories using my photos. I did share six of them so far (see my profile page <a href=\"https://numericcitizen.exposure.co\">here</a>). Now that I&rsquo;m on Pixelfed, I find myself writing more with each shared image than I did on Exposure. 🤷🏻‍♂️</p>\n",
+				"content_text": "When [I decided to subscribe to **Exposure**](https://numericcitizen.me/my-experience-with-exposure-a-visual-storytelling-service/), it was because I wanted to write short stories using my photos. I did share six of them so far (see my profile page [here](https://numericcitizen.exposure.co)). Now that I'm on Pixelfed, I find myself writing more with each shared image than I did on Exposure. 🤷🏻‍♂️\n",
+				"date_published": "2023-07-18T07:03:15-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/18/when-i-decided.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/18/github-offers-a.html",
+				"title": "Github Offers a Fascinating Look at Software Development",
+				"content_html": "<p>I learned to use GitHub for the repo of my <strong>Blot</strong> website last year (read more about my experience with Blot <a href=\"https://world.numericcitizen.io/meta\">here</a>). I didn&rsquo;t want to use Dropbox. I&rsquo;m no longer using Blot, but I&rsquo;m still visiting <strong>Github</strong> occasionally to keep track of project development like Plausible, but more recently for Pixelfed and a few plugins for Micro.blog. Peeking at change logs, commit comments, files changed, etc. offers an intimate look at software development. It&rsquo;s also a great way to learn something.</p>\n",
+				"content_text": "I learned to use GitHub for the repo of my **Blot** website last year (read more about my experience with Blot [here](https://world.numericcitizen.io/meta)). I didn't want to use Dropbox. I'm no longer using Blot, but I'm still visiting **Github** occasionally to keep track of project development like Plausible, but more recently for Pixelfed and a few plugins for Micro.blog. Peeking at change logs, commit comments, files changed, etc. offers an intimate look at software development. It's also a great way to learn something. \n",
+				"date_published": "2023-07-18T06:42:10-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/18/github-offers-a.html",
+				"tags": ["Misc","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/17/feeling-helpless-about.html",
+				"title": "Feeling Helpless About Climate",
+				"content_html": "<p>Due to Canada&rsquo;s forest fires and easterly winds, bad air quality is returning to my town for the next few days. With all the bad climate-related news coming up from everywhere on Earth, trying to understand what is happening is essential, so we can better adapt our lifestyle. I like to read many things on a subject that I find interesting, but climate change topic is utterly depressing. The planet is clearly slowly burning. All indicators are going in the wrong direction. How can we not feel helpless? It&rsquo;s hard to stay informed and keep faith in humanity. Prove me wrong.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Due to Canada's forest fires and easterly winds, bad air quality is returning to my town for the next few days. With all the bad climate-related news coming up from everywhere on Earth, trying to understand what is happening is essential, so we can better adapt our lifestyle. I like to read many things on a subject that I find interesting, but climate change topic is utterly depressing. The planet is clearly slowly burning. All indicators are going in the wrong direction. How can we not feel helpless? It's hard to stay informed and keep faith in humanity. Prove me wrong.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/eelco-bohtlingk-aktit9p9a-8-unsplash.jpg\" width=\"600\" height=\"417\" alt=\"\">\n",
+				"date_published": "2023-07-17T18:15:37-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/17/feeling-helpless-about.html",
+				"tags": ["Photography","Food for thought","Longer posts","Personal","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/17/george-monastiriakos-the.html",
+				
+				"content_html": "<p>George Monastiriakos: The only way to save Russia is to dismantle it:</p>\n<blockquote>\n<p>“To be clear: The Russian Federation is the third iteration of the Russian Empire. Spanning 11 time zones and comprising hundreds of ethnically, linguistically, religiously, and culturally distinct societies ruled by, from, and for the benefit of a small circle of kleptocrats primarily based in Saint Petersburg and Moscow, the Russian state has been unviable for centuries. Like empires of old, the only way to save Russia from itself is to dismantle it,“ writes George Monastiriakos, a fellow at the Geneva Centre for Security, in his recent op-ed.</p>\n</blockquote>\n<p>Photo: Getty Images</p>\n",
+				"content_text": "George Monastiriakos: The only way to save Russia is to dismantle it:\n\n> “To be clear: The Russian Federation is the third iteration of the Russian Empire. Spanning 11 time zones and comprising hundreds of ethnically, linguistically, religiously, and culturally distinct societies ruled by, from, and for the benefit of a small circle of kleptocrats primarily based in Saint Petersburg and Moscow, the Russian state has been unviable for centuries. Like empires of old, the only way to save Russia from itself is to dismantle it,“ writes George Monastiriakos, a fellow at the Geneva Centre for Security, in his recent op-ed. \n\nPhoto: Getty Images\n",
+				"date_published": "2023-07-17T10:32:15-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/17/george-monastiriakos-the.html",
+				"tags": ["UkraineWar","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/17/apparently-russian-officials.html",
+				
+				"content_html": "<p>Apparently, Russian officials are now banning iPhone because they believe there is an <a href=\"https://www.ft.com/content/6567e7f2-c5fb-4da4-bd95-bf7ceef54038\">espionage</a> ops using American tech. 🕺🏼</p>\n",
+				"content_text": "Apparently, Russian officials are now banning iPhone because they believe there is an [espionage](https://www.ft.com/content/6567e7f2-c5fb-4da4-bd95-bf7ceef54038) ops using American tech. 🕺🏼\n",
+				"date_published": "2023-07-17T08:06:54-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/17/apparently-russian-officials.html",
+				"tags": ["UkraineWar","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/17/for-those-interested.html",
+				
+				"content_html": "<p>For those interested in what others are using in their workflow, I spent some time this early morning updating <strong><a href=\"https://world.numericcitizen.io/meta-toolset\">My Complete Content Creator Toolset</a></strong>. Added <strong>Plausible</strong> + <strong>Tinylytics</strong>, among other things.</p>\n",
+				"content_text": "For those interested in what others are using in their workflow, I spent some time this early morning updating **[My Complete Content Creator Toolset](https://world.numericcitizen.io/meta-toolset)**. Added **Plausible** + **Tinylytics**, among other things.\n",
+				"date_published": "2023-07-17T07:16:25-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/17/for-those-interested.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/16/the-apple-vision.html",
+				"title": "The Apple Vision (Bible | Knowledge Base | Hub)?",
+				"content_html": "<p>I&rsquo;m thinking of building a central web portal gathering information and everything related to the Apple Vision (Pro). Think of this as something similar to a digital garden but targeted to a specific product line. I do maintain one about Apple rumors (the <a href=\"https://crafted.numericcitizen.me/apple-rumors-hub\">Apple Rumors Hub</a>). I have a few possible names in mind:</p>\n<p>The Apple Vision <em>Bible</em> / \nThe Apple Vision <em>Knowledge Base</em> /\nThe Apple Vision <em>Hub</em> /</p>\n<p>The concept of an &ldquo;information hub&rdquo; seems popular. Which one sounds better? What other name suffix could I use?</p>\n<p>Note: since it is clear that Apple will release a lower-end version of the headset, I won&rsquo;t include the &ldquo;Pro&rdquo; moniker, hence Apple Vision xxx.</p>\n",
+				"content_text": "I'm thinking of building a central web portal gathering information and everything related to the Apple Vision (Pro). Think of this as something similar to a digital garden but targeted to a specific product line. I do maintain one about Apple rumors (the [Apple Rumors Hub](https://crafted.numericcitizen.me/apple-rumors-hub)). I have a few possible names in mind: \r\n\r\nThe Apple Vision _Bible_ / \r\nThe Apple Vision _Knowledge Base_ /\r\nThe Apple Vision _Hub_ /\r\n\r\nThe concept of an \"information hub\" seems popular. Which one sounds better? What other name suffix could I use?\r\n\r\nNote: since it is clear that Apple will release a lower-end version of the headset, I won't include the \"Pro\" moniker, hence Apple Vision xxx.\n",
+				"date_published": "2023-07-16T20:58:09-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/16/the-apple-vision.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/16/its-funny-how.html",
+				
+				"content_html": "<p>It&rsquo;s funny how much effort I put into writing a small description for each image shared on <strong>Pixelfed</strong>. I did not do this while on Flickr, 500px and Smugmug. I&rsquo;m even writing an ALT description. It&rsquo;s great for reading in an RSS reader. Your thoughts?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It's funny how much effort I put into writing a small description for each image shared on **Pixelfed**. I did not do this while on Flickr, 500px and Smugmug. I'm even writing an ALT description. It's great for reading in an RSS reader. Your thoughts?\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/reeder-2023-07-1620.44.322x.png\" width=\"600\" height=\"470\" alt=\"\">\n",
+				"date_published": "2023-07-16T20:46:46-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/16/its-funny-how.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/16/my-weekend-so.html",
+				"title": "My week-end so far",
+				"content_html": "<p>Exploring <strong>Pixelfed</strong>✅. Producing a 60-minute <em>video</em> about Pixelfed✅. Writing an <em>article</em> about Pixelfed✅. Learning about <strong>Tinylytics</strong>✅. Learning about templates in Micro.blog and custom themes✅. Adding Tinylytics to my blog✅. Subscribing to Tinylytics. ✅</p>\n<p>Next up: going to see the latest <strong>Mission Impossible</strong>.</p>\n",
+				"content_text": "Exploring **Pixelfed**✅. Producing a 60-minute _video_ about Pixelfed✅. Writing an _article_ about Pixelfed✅. Learning about **Tinylytics**✅. Learning about templates in Micro.blog and custom themes✅. Adding Tinylytics to my blog✅. Subscribing to Tinylytics. ✅\r\n\r\nNext up: going to see the latest **Mission Impossible**. \n",
+				"date_published": "2023-07-16T14:34:48-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/16/my-weekend-so.html",
+				"tags": ["Blogging","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/16/even-as-a.html",
+				
+				"content_html": "<p>Even as a satisfied <strong>Plausible analytics</strong> subscriber (see <a href=\"https://plausible.io/numericcitizen.micro.blog\">current analytics</a>), I proudly support <strong>@tinylytics</strong> on my blog (see <a href=\"https://tinylytics.app/public/2MVJTA1asSqV4_REAjg_\">current analytics</a>). I paid for a year to show my support in a more concrete manner.</p>\n",
+				"content_text": "Even as a satisfied **Plausible analytics** subscriber (see [current analytics](https://plausible.io/numericcitizen.micro.blog)), I proudly support **@tinylytics** on my blog (see [current analytics](https://tinylytics.app/public/2MVJTA1asSqV4_REAjg_)). I paid for a year to show my support in a more concrete manner.\n",
+				"date_published": "2023-07-16T14:09:36-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/16/even-as-a.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/16/this-screenshot-is.html",
+				
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/safari-numeric-citizen-compulsive-digital-creator-patreon2023-07-1608.42.09.png\" alt=\"\"></p>\n<p>This screenshot is from <strong>Patreon</strong> about <a href=\"https://patreon.com/numericcitizen\">my profile page there</a>. You can share a page on social networks when creating a page there. It’s a common thing to do, right? I’m wondering when Facebook and Twitter will stop to be the only two options for sharing stuff on the web. Pinterest is nice but what about the open web like Mastodon? Or Bluesky…?</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/safari-numeric-citizen-compulsive-digital-creator-patreon2023-07-1608.42.09.png)\n\nThis screenshot is from **Patreon** about [my profile page there](https://patreon.com/numericcitizen). You can share a page on social networks when creating a page there. It’s a common thing to do, right? I’m wondering when Facebook and Twitter will stop to be the only two options for sharing stuff on the web. Pinterest is nice but what about the open web like Mastodon? Or Bluesky…?\n\n",
+				"date_published": "2023-07-16T08:51:46-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/16/this-screenshot-is.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/16/a-minute-video.html",
+				"title": "A 60-minute Video Tour of Pixelfed",
+				"content_html": "<p>I&rsquo;m finally ready to share <a href=\"https://youtu.be/NXn7MYFxbGU\">my 60-minute video tour</a> of <strong>Pixelfed</strong>. If you&rsquo;re contemplating the idea of creating your account on Pixelfed, I encourage you to do so, but after watching this video. You&rsquo;ll learn about Pixelfed&rsquo;s capabilities. It&rsquo;s not a comparison analysis with services like Flickr or Smugmug, though.\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/NXn7MYFxbGU' frameborder='0' allowfullscreen></iframe></div></p>\n",
+				"content_text": "I'm finally ready to share [my 60-minute video tour](https://youtu.be/NXn7MYFxbGU) of **Pixelfed**. If you're contemplating the idea of creating your account on Pixelfed, I encourage you to do so, but after watching this video. You'll learn about Pixelfed's capabilities. It's not a comparison analysis with services like Flickr or Smugmug, though.\r\n{{< youtube \"NXn7MYFxbGU\" >}}\n",
+				"date_published": "2023-07-16T07:16:16-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/16/a-minute-video.html",
+				"tags": ["Photography","Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/15/the-star-of.html",
+				
+				"content_html": "<p>The star of the <strong>iOS 17</strong> release is <strong>autocorrect</strong> and <strong>Siri dictation</strong>. Oh and text editing with the bigger and better design loupe. Wow. Apple finally corrected many wrongs here. 🤯</p>\n",
+				"content_text": "The star of the **iOS 17** release is **autocorrect** and **Siri dictation**. Oh and text editing with the bigger and better design loupe. Wow. Apple finally corrected many wrongs here. 🤯\n",
+				"date_published": "2023-07-15T14:24:09-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/15/the-star-of.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/15/my-first-and.html",
+				"title": "My First (And Unexpected) FaceTime Moment on My Apple TV!",
+				"content_html": "<p>I just had my first experience with FaceTime with one of my sons on my Apple TV. My son called me on FaceTime. I picked up the call. A few seconds later into the conversation, my iPhone suggested putting the call on my Apple TV. I really didn&rsquo;t expect that. The iPhone instructed me what to do with my iPhone so it could catch me on camera. It was such an &ldquo;Apple&rdquo; moment! Flawless. Barely no lags. 🤯</p>\n<p>My iPhone runs iOS 17 beta 3, and the Apple TV tvOS 17.0 beta 3.</p>\n",
+				"content_text": "I just had my first experience with FaceTime with one of my sons on my Apple TV. My son called me on FaceTime. I picked up the call. A few seconds later into the conversation, my iPhone suggested putting the call on my Apple TV. I really didn't expect that. The iPhone instructed me what to do with my iPhone so it could catch me on camera. It was such an \"Apple\" moment! Flawless. Barely no lags. 🤯\r\n\r\nMy iPhone runs iOS 17 beta 3, and the Apple TV tvOS 17.0 beta 3. \n",
+				"date_published": "2023-07-15T13:45:02-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/15/my-first-and.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/15/finished-recording-an.html",
+				
+				"content_html": "<p>Finished recording an hour-long video about <strong>Pixelfed</strong>. Yep. 60 minutes. If you are on the fence, that’s the one video that you should watch. Online soon.</p>\n",
+				"content_text": "Finished recording an hour-long video about **Pixelfed**. Yep. 60 minutes. If you are on the fence, that’s the one video that you should watch. Online soon. \n",
+				"date_published": "2023-07-15T12:18:35-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/15/finished-recording-an.html",
+				"tags": ["Photography","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/15/youtube-put-this.html",
+				
+				"content_html": "<p>YouTube put this video suggestion in my feed this morning. I was curious and watched it. Then, I realized that without knowing it, I&rsquo;m actually using the <a href=\"https://youtu.be/T6Mfl1OywM8\">PARA</a> approach in Craft. Now I&rsquo;m wondering if I should rearrange and rename a few things in there to better align with the <strong>PARA</strong> naming convention. 🤔\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/T6Mfl1OywM8' frameborder='0' allowfullscreen></iframe></div></p>\n",
+				"content_text": "YouTube put this video suggestion in my feed this morning. I was curious and watched it. Then, I realized that without knowing it, I'm actually using the [PARA](https://youtu.be/T6Mfl1OywM8) approach in Craft. Now I'm wondering if I should rearrange and rename a few things in there to better align with the **PARA** naming convention. 🤔\r\n{{< youtube \"T6Mfl1OywM8\" >}}\n",
+				"date_published": "2023-07-15T07:48:39-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/15/youtube-put-this.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/14/how-it-started.html",
+				
+				"content_html": "<p>How it started, how it ended. That was yesterday. 88mm of rain in two hours. Oh, and one tornado touchdown. Two others possible.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "How it started, how it ended. That was yesterday. 88mm of rain in two hours. Oh, and one tornado touchdown. Two others possible.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/fe256d8f08.jpg\" width=\"532\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-14T22:22:50-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/14/how-it-started.html",
+				"tags": ["Photography","Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/14/for-the-first.html",
+				
+				"content_html": "<p>For the first time, I’m installing a tvOS beta.</p>\n",
+				"content_text": "For the first time, I’m installing a tvOS beta. \n",
+				"date_published": "2023-07-14T19:36:39-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/14/for-the-first.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/14/battery-life-on.html",
+				
+				"content_html": "<p>Battery life on watchOS 10 &amp; Series 8&hellip; 🫠#notgood</p>\n",
+				"content_text": "Battery life on watchOS 10 & Series 8... 🫠#notgood\n",
+				"date_published": "2023-07-14T13:00:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/14/battery-life-on.html",
+				"tags": ["Apple"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/07/13/wow-we-are.html",
 				
 				"content_html": "<p>Wow, we are just in the last moments of a &ldquo;three-wave&rdquo; <strong>storm</strong> with heavy rain, winds and lighting. I guess we got between 50mm - 100mm of rain in three hours. Power failures all around are reported. One might say: well, it&rsquo;s summer; it is expected. Yeah, but when you look at the trend this summer, we got way too much rain, too fast compared to the average rainfall.</p>\n",
@@ -19,7 +253,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/07/13/what-is-the.html",
 				
 				"content_html": "<p>What is the motivation for Google to maintain this rather excellent photo processing app (<strong>Snapseed</strong>).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What is the motivation for Google to maintain this rather excellent photo processing app (**Snapseed**). \n\n<img src=\"uploads/2023/image.png\" width=\"311\" height=\"600\" alt=\"\">\n",
+				"content_text": "What is the motivation for Google to maintain this rather excellent photo processing app (**Snapseed**). \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/image.png\" width=\"311\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-13T15:57:54-04:00",
 				"url": "https://blog.numericcitizen.me/2023/07/13/what-is-the.html",
 				"tags": ["Photography"]
@@ -28,7 +262,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/07/13/tornado-warning-we.html",
 				
 				"content_html": "<p><strong>Tornado warning</strong>. We mostly never get those in our region. WTF?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Tornado warning**. We mostly never get those in our region. WTF? \n\n<img src=\"uploads/2023/24ef8583a5.jpg\" width=\"600\" height=\"435\" alt=\"\">\n",
+				"content_text": "**Tornado warning**. We mostly never get those in our region. WTF? \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/24ef8583a5.jpg\" width=\"600\" height=\"435\" alt=\"\">\n",
 				"date_published": "2023-07-13T15:42:45-04:00",
 				"url": "https://blog.numericcitizen.me/2023/07/13/tornado-warning-we.html",
 				"tags": ["Photography","Misc","Newsletter"]
