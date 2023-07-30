@@ -7,6 +7,182 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/07/30/thoughts-on-microblog.html",
+				"title": "Thoughts on Micro.blog Tags",
+				"content_html": "<p>I’ve been playing with Micro.blog’s new <strong>bookmark tags</strong>. At first, I thought the feature was underwhelming. I don&rsquo;t think there is a way to add more than one tag to a bookmark. This might be a good thing after all. Still undecided on this. Then, I discovered how you can select a tag to display associated bookmarks. Hoping for iOS app to receive an update soon. I updated a few dozens bookmarks to add a tag. I&rsquo;ll see if it makes a different. My bookmarks are not that many and many are deleted after a while.</p>\n",
+				"content_text": "I’ve been playing with Micro.blog’s new **bookmark tags**. At first, I thought the feature was underwhelming. I don't think there is a way to add more than one tag to a bookmark. This might be a good thing after all. Still undecided on this. Then, I discovered how you can select a tag to display associated bookmarks. Hoping for iOS app to receive an update soon. I updated a few dozens bookmarks to add a tag. I'll see if it makes a different. My bookmarks are not that many and many are deleted after a while. \n",
+				"date_published": "2023-07-30T08:37:31+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/30/thoughts-on-microblog.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/29/120733.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=28.052205,-16.605836&amp;ll=28.052205,-16.605836\">Location</a> check in 🗺 — And we have a touch down! 😅✈️</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=28.052205,-16.605836&ll=28.052205,-16.605836) check in 🗺 — And we have a touch down! 😅✈️\n",
+				"date_published": "2023-07-29T12:07:33+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/29/120733.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/29/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.469981,-0.488101&amp;ll=51.469981,-0.488101\">Location</a> check in 🗺 — We should be good to go now. Direction Tenerife! ✈️</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.469981,-0.488101&ll=51.469981,-0.488101) check in 🗺 — We should be good to go now. Direction Tenerife! ✈️\n",
+				"date_published": "2023-07-29T06:48:15+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/29/location-check-in.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/29/and-hope-we.html",
+				
+				"content_html": "<p>And hope we go to the airport. Hope this is the right time this time.</p>\n",
+				"content_text": "And hope we go to the airport. Hope this is the right time this time. \n",
+				"date_published": "2023-07-29T04:38:53+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/29/and-hope-we.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/28/my-next-macbook.html",
+				
+				"content_html": "<p>My next <strong>MacBook Air</strong> will have 16 GB of RAM (up from 8 GB), 1 TB of storage (of from 512 GB), all this in a 15 inch configuration. I decided to give my previous 2020 M1 MacBook Air to Apple for a 580 CAN$ credit, plus the 200$ credit for the “back to school” promotion. And… 1500 CAN$ of Apple Store credit, thanks to my job bonuses! This could be the cheapest upgrade ever!</p>\n",
+				"content_text": "My next **MacBook Air** will have 16 GB of RAM (up from 8 GB), 1 TB of storage (of from 512 GB), all this in a 15 inch configuration. I decided to give my previous 2020 M1 MacBook Air to Apple for a 580 CAN$ credit, plus the 200$ credit for the “back to school” promotion. And… 1500 CAN$ of Apple Store credit, thanks to my job bonuses! This could be the cheapest upgrade ever! \n",
+				"date_published": "2023-07-28T18:21:00+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/28/my-next-macbook.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/28/killing-some-time.html",
+				
+				"content_html": "<p>Killing some time while waiting for diner time by processing and posting my photos on <strong><a href=\"https://pixelfed.social/@numericcitizen\">Pixelfed</a></strong>. Too bad they don’t seem to show up in my timeline here on Micrp.blog. Doing all this from my aging <strong>2018 iPad Pro</strong>. That’s my traveling device, leaving the <strong>MacBook Air</strong> behind. Speaking of which, I ordered my 15-inch MBA yesterday and it should be ready just in time when I’m back home! 😎</p>\n",
+				"content_text": "Killing some time while waiting for diner time by processing and posting my photos on **[Pixelfed](https://pixelfed.social/@numericcitizen)**. Too bad they don’t seem to show up in my timeline here on Micrp.blog. Doing all this from my aging **2018 iPad Pro**. That’s my traveling device, leaving the **MacBook Air** behind. Speaking of which, I ordered my 15-inch MBA yesterday and it should be ready just in time when I’m back home! 😎\n",
+				"date_published": "2023-07-28T17:30:44+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/28/killing-some-time.html",
+				"tags": ["Travels","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/28/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.480961,-0.441004&amp;ll=51.480961,-0.441004\">Location</a> check in 🗺 — Hotel life until early morning tomorrow. Thanks to messy airports and bad airports.</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.480961,-0.441004&ll=51.480961,-0.441004) check in 🗺 — Hotel life until early morning tomorrow. Thanks to messy airports and bad airports.  \n",
+				"date_published": "2023-07-28T13:34:54+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/28/location-check-in.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/28/oh-nice-we.html",
+				
+				"content_html": "<p>Oh nice, we missed our connection flight to Tenerife🫤. We will have to spend the night in London. At the hotel. 😕</p>\n",
+				"content_text": "Oh nice, we missed our connection flight to Tenerife🫤. We will have to spend the night in London. At the hotel. 😕\n",
+				"date_published": "2023-07-28T09:06:12+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/28/oh-nice-we.html",
+				"tags": ["Travels","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/27/woah-bad-weather.html",
+				
+				"content_html": "<p>Woah. Bad weather northern US causes inbound flight postponed. We won’t make it to the next flight. Rebooked everything. Going to London instead of Newark. Then to Tenerife. All good now. 😅</p>\n",
+				"content_text": "Woah. Bad weather northern US causes inbound flight postponed. We won’t make it to the next flight. Rebooked everything. Going to London instead of Newark. Then to Tenerife. All good now. 😅\n",
+				"date_published": "2023-07-27T21:27:53+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/27/woah-bad-weather.html",
+				"tags": ["Travels","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/27/if-you-take.html",
+				
+				"content_html": "<p>If you take more than two flights per year, <strong>Flighty</strong> becomes a must-have, IMO. What a great app. So many things could be said about it. Not cheap, though. Quality and craftsmanship have a price.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If you take more than two flights per year, **Flighty** becomes a must-have, IMO. What a great app. So many things could be said about it. Not cheap, though. Quality and craftsmanship have a price.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/flighty-flighty2023-07-2707.49.502x.png\" width=\"600\" height=\"374\" alt=\"\">\n",
+				"date_published": "2023-07-27T12:53:13+01:00",
+				"url": "https://blog.numericcitizen.me/2023/07/27/if-you-take.html",
+				"tags": ["Photography","Travels","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/27/seems-a-good.html",
+				
+				"content_html": "<p>Seems a good time to fly! 😀</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Seems a good time to fly! 😀\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/536ca4aecf.png\" width=\"600\" height=\"566\" alt=\"\">\n",
+				"date_published": "2023-07-27T07:47:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/27/seems-a-good.html",
+				"tags": ["Photography","Travels","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/26/thought-of-the.html",
+				
+				"content_html": "<p>👉🏻 <strong>Thought of the day</strong>: when people put responsibility for solving the climate crisis and the like on the governments and big companies, it&rsquo;s a clever (or not so clever way) to NOT take responsibility as an individual. It&rsquo;s too easy.</p>\n<p>Governments &amp; companies are made of and operated by people, for god sake! No willingness by the people, individually or in a government, produces the exact same result: no action. But what action can we take as an individual, you might ask? Revisit your consumption habits might eventually help. Less consumption = less need for recycling. Simple.</p>\n<p>Meanwhile: the planet IS burning.</p>\n",
+				"content_text": "👉🏻 **Thought of the day**: when people put responsibility for solving the climate crisis and the like on the governments and big companies, it's a clever (or not so clever way) to NOT take responsibility as an individual. It's too easy. \r\n\r\nGovernments & companies are made of and operated by people, for god sake! No willingness by the people, individually or in a government, produces the exact same result: no action. But what action can we take as an individual, you might ask? Revisit your consumption habits might eventually help. Less consumption = less need for recycling. Simple. \r\n\r\nMeanwhile: the planet IS burning. \n",
+				"date_published": "2023-07-26T20:52:25-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/26/thought-of-the.html",
+				"tags": ["Food for thought","Personal"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/26/im-super-excited.html",
+				
+				"content_html": "<p>I&rsquo;m super excited about this upcoming trip to the <strong>Canary Islands</strong>. First time over there, for nine days. The weather is expected to be &ldquo;perfect&rdquo;. Once again, I&rsquo;ll use <strong>Day One</strong> to document my trip, as needed. I&rsquo;ll take a bunch of photos too! I&rsquo;ve been West Africa a month ago, in Morocco. The islands are close! But I couldn&rsquo;t combine those two trips, unfortunately.</p>\n",
+				"content_text": "I'm super excited about this upcoming trip to the **Canary Islands**. First time over there, for nine days. The weather is expected to be \"perfect\". Once again, I'll use **Day One** to document my trip, as needed. I'll take a bunch of photos too! I've been West Africa a month ago, in Morocco. The islands are close! But I couldn't combine those two trips, unfortunately.\n",
+				"date_published": "2023-07-26T13:24:05-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/26/im-super-excited.html",
+				"tags": ["Travels","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/26/pixelfed-is-way.html",
+				
+				"content_html": "<p><strong>Pixelfed</strong> is way more interactive and busier than <strong>Glass</strong>. My feeling is that the federative nature of Pixelfed helps be discovered. This is something Glass developers should consider if they want to expand their reach, IMHO.</p>\n",
+				"content_text": "**Pixelfed** is way more interactive and busier than **Glass**. My feeling is that the federative nature of Pixelfed helps be discovered. This is something Glass developers should consider if they want to expand their reach, IMHO.\n",
+				"date_published": "2023-07-26T07:24:00-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/26/pixelfed-is-way.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/25/is-anyone-looking.html",
+				
+				"content_html": "<p>Is anyone looking for <strong>Reddit</strong> alternatives? Is <a href=\"https://beehaw.org\">Beehaw</a> such a viable alternative?</p>\n",
+				"content_text": "Is anyone looking for **Reddit** alternatives? Is [Beehaw](https://beehaw.org) such a viable alternative? \n",
+				"date_published": "2023-07-25T21:29:04-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/25/is-anyone-looking.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/25/i-digg-ios.html",
+				
+				"content_html": "<p>I digg <strong>iOS 17 beta 4</strong>: much smoother. I&rsquo;m guessing we will start to get new betas weekly from now on or maybe from beta 5. I still have to test iPadOS 17 beta 4, though. Are you having a similar experience?</p>\n",
+				"content_text": "I digg **iOS 17 beta 4**: much smoother. I'm guessing we will start to get new betas weekly from now on or maybe from beta 5. I still have to test iPadOS 17 beta 4, though. Are you having a similar experience?\n",
+				"date_published": "2023-07-25T21:04:18-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/25/i-digg-ios.html",
+				"tags": ["Apple","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/25/205408.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>I decided to support <strong>Glass</strong> as a patron because I think these alternatives are important. They help create some sort of equilibrium. It&rsquo;s the same reason I&rsquo;m investing my time migrating 95% of my photos into <strong>Pixelfed</strong>. I believe in the open web and in honest alternatives like Glass. More than ever we need them.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Glass\" data-avatar=\"https://micro.blog/glass@mastodon.world/avatar.jpg\" cite=\"https://mastodon.world/@glass/110775586144279718\"><p>Introducing Patron! <a href=\"https://glass.photo/highlights/introducing-patron\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">glass.photo/highlights/introdu</span><span class=\"invisible\">cing-patron</span></a></p><p class=\"post_archived_links\">Reader: <a href=\"https://micro.blog/bookmarks/2162598\">mastodon.world</a> </p><footer>Glass <cite><a href=\"https://mastodon.world/@glass/110775586144279718\" class=\"u-in-reply-to\">https://mastodon.world/@glass/110775586144279718</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nI decided to support **Glass** as a patron because I think these alternatives are important. They help create some sort of equilibrium. It's the same reason I'm investing my time migrating 95% of my photos into **Pixelfed**. I believe in the open web and in honest alternatives like Glass. More than ever we need them. \n",
+				"date_published": "2023-07-25T20:54:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/25/205408.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/25/fun-fact-at.html",
+				
+				"content_html": "<p>Fun fact: &ldquo;at Threads&rdquo; is available on Micro.blog. 🤪</p>\n",
+				"content_text": "Fun fact: \"at Threads\" is available on Micro.blog. 🤪\n",
+				"date_published": "2023-07-25T18:00:58-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/25/fun-fact-at.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/25/my-analysis-of.html",
+				
+				"content_html": "<p><a href=\"https://crafted.numericcitizen.me/summer-2023-update\">My analysis</a> of <strong>Craft</strong>&rsquo;s latest announcements for the summer. They think they are announcing a roadmap. They don&rsquo;t. No words about eXtensions. No words for better automation support via Shortcuts. You must look at what isn&rsquo;t announced to get a real view of what they did.</p>\n",
+				"content_text": "[My analysis](https://crafted.numericcitizen.me/summer-2023-update) of **Craft**'s latest announcements for the summer. They think they are announcing a roadmap. They don't. No words about eXtensions. No words for better automation support via Shortcuts. You must look at what isn't announced to get a real view of what they did.\n",
+				"date_published": "2023-07-25T07:51:38-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/25/my-analysis-of.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/24/putting-the-final.html",
+				
+				"content_html": "<p>Putting the final touches on my analysis of today&rsquo;s announcements by <strong>Craft</strong>. I&rsquo;m not sure they will like my take. I tend to be very critical of them. I&rsquo;m still happy with Craft, but I&rsquo;m honest in my sentiments.</p>\n",
+				"content_text": "Putting the final touches on my analysis of today's announcements by **Craft**. I'm not sure they will like my take. I tend to be very critical of them. I'm still happy with Craft, but I'm honest in my sentiments. \n",
+				"date_published": "2023-07-24T21:06:14-04:00",
+				"url": "https://blog.numericcitizen.me/2023/07/24/putting-the-final.html",
+				"tags": ["Apps  Services"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/07/23/paying-billion-to.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>What else to add? And do all that in less than a year? 👏🏻 👏🏻 👏🏻 👏🏻 👏🏻</p>\n",
