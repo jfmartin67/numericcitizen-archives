@@ -7,10 +7,100 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/08/13/say-hello-to.html",
+				
+				"content_html": "<p>Say hello to <strong><a href=\"mailto:hello@numericcitizen.me\">hello@numericcitizen.me</a>!</strong>. Finally decided to spend some time making my <a href=\"mailto:hello@numericcitizen.me\">hello@numericcitizen.me</a> work using the iCloud+ Custom Mail domain. Works great so far. Come and say hi!</p>\n",
+				"content_text": "Say hello to **hello@numericcitizen.me!**. Finally decided to spend some time making my hello@numericcitizen.me work using the iCloud+ Custom Mail domain. Works great so far. Come and say hi!\n",
+				"date_published": "2023-08-13T20:25:10-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/13/say-hello-to.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/13/on-being-locked.html",
+				"title": "On Being Locked Out of an Apple ID Account",
+				"content_html": "<p>Being locked out of an Apple ID account is probably one of the worst nightmares I could imagine. This story (<a href=\"https://old.reddit.com/r/applehelp/comments/15gechw/apple_just_stole_hundreds_of_dollars_from_me/\">Reddit link</a>) makes me pause for a bit. If you spend some time reading the comments thread, it seems the original poster doesn&rsquo;t tell the whole story. There are some grey zones here. Nonetheless, the possibility of losing complete access to my previously purchased and subscribed content is really something that I wouldn&rsquo;t want. I would feel helpless.</p>\n<p>Mike Rockwell&rsquo;s <a href=\"https://initialcharge.net/2023/08/locked-out-apple-id/\">comment</a> on the subject:</p>\n<blockquote>\n<p>I hope we’re nearing a future where you can realistically use an iPhone without an Apple ID at all — replacing all of Apple’s services, including the App Store, with independent alternatives.</p>\n</blockquote>\n<p>Mike&rsquo;s wishes are not going to be fulfilled anytime soon. Even with alternative authentication mechanisms and third-party stores, the prospect of losing access to previously purchased content is real. Somehow I think the government should step in and ask companies to provide secure content recovery means.</p>\n",
+				"content_text": "Being locked out of an Apple ID account is probably one of the worst nightmares I could imagine. This story ([Reddit link](https://old.reddit.com/r/applehelp/comments/15gechw/apple_just_stole_hundreds_of_dollars_from_me/)) makes me pause for a bit. If you spend some time reading the comments thread, it seems the original poster doesn't tell the whole story. There are some grey zones here. Nonetheless, the possibility of losing complete access to my previously purchased and subscribed content is really something that I wouldn't want. I would feel helpless.\n\nMike Rockwell's [comment](https://initialcharge.net/2023/08/locked-out-apple-id/) on the subject:\n>I hope we’re nearing a future where you can realistically use an iPhone without an Apple ID at all — replacing all of Apple’s services, including the App Store, with independent alternatives.\n\nMike's wishes are not going to be fulfilled anytime soon. Even with alternative authentication mechanisms and third-party stores, the prospect of losing access to previously purchased content is real. Somehow I think the government should step in and ask companies to provide secure content recovery means.\n",
+				"date_published": "2023-08-13T17:52:38-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/13/on-being-locked.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/13/i-decided-to.html",
+				
+				"content_html": "<p>I decided to add a small collection of mini reviews that I read from time to time to <a href=\"https://crafted.numericcitizen.me/digitalgarden\">my digital garden</a>. The first two to make it to the collection: Matt Birchler’s comments about Ulysses and possible free and similar alternatives. The second is Manton’s comments on text editors for developers or other text manipulation.</p>\n",
+				"content_text": "I decided to add a small collection of mini reviews that I read from time to time to [my digital garden](https://crafted.numericcitizen.me/digitalgarden). The first two to make it to the collection: Matt Birchler’s comments about Ulysses and possible free and similar alternatives. The second is Manton’s comments on text editors for developers or other text manipulation.\n",
+				"date_published": "2023-08-13T10:26:35-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/13/i-decided-to.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/11/im-thinking-of.html",
+				
+				"content_html": "<p>I&rsquo;m thinking of creating an email address like <strong><a href=\"mailto:hello@numericcitizen.me\">hello@numericcitizen.me</a></strong> using iCloud+. I&rsquo;m not sure it&rsquo;s worth the hassle, though. I&rsquo;ll had to tweak the setup a bit for it to work with my current DNS settings at CloudFlare.</p>\n",
+				"content_text": "I'm thinking of creating an email address like **hello@numericcitizen.me** using iCloud+. I'm not sure it's worth the hassle, though. I'll had to tweak the setup a bit for it to work with my current DNS settings at CloudFlare. \n",
+				"date_published": "2023-08-11T08:17:30-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/11/im-thinking-of.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/10/i-dont-like.html",
+				
+				"content_html": "<p>I don&rsquo;t like these two &ldquo;disconnected&rdquo; visual elements: the menu bar from the dropdown menu. The highlighted portion of the menu bar and the menu itself. There, I said it. On a positive note: on recent MacBook Air like mine, I love the rounded screen corners.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I don't like these two \"disconnected\" visual elements: the menu bar from the dropdown menu. The highlighted portion of the menu bar and the menu itself. There, I said it. On a positive note: on recent MacBook Air like mine, I love the rounded screen corners. \n\n<img src=\"uploads/2023/cleanshot-cleanshot2023-08-1020.40.512x.png\" width=\"600\" height=\"389\" alt=\"\">\n",
+				"date_published": "2023-08-10T20:45:20-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/10/i-dont-like.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/10/every-single-day.html",
+				
+				"content_html": "<p>Every single day, I read a new post by <strong>Pixelfed</strong> about upcoming features, additions or redesign. The list is too long to write here (and to build!). All apps are in beta. It&rsquo;s a maturing platform / service for sure, but man, ship it already, stop the talk!</p>\n",
+				"content_text": "Every single day, I read a new post by **Pixelfed** about upcoming features, additions or redesign. The list is too long to write here (and to build!). All apps are in beta. It's a maturing platform / service for sure, but man, ship it already, stop the talk!\n",
+				"date_published": "2023-08-10T20:28:20-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/10/every-single-day.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/10/call-for-comments.html",
+				
+				"content_html": "<p>Call for comments: those with a recent MacBook with a <strong>notch</strong>, what utility are you using to make it &ldquo;disappear&rdquo;? <a href=\"https://topnotch.app\">TopNotch</a> doesn&rsquo;t work on the latest macOS release for me. I&rsquo;m unsure if this is because it conflicts with another utility (like Bartender).</p>\n",
+				"content_text": "Call for comments: those with a recent MacBook with a **notch**, what utility are you using to make it \"disappear\"? [TopNotch](https://topnotch.app) doesn't work on the latest macOS release for me. I'm unsure if this is because it conflicts with another utility (like Bartender). \n",
+				"date_published": "2023-08-10T06:51:09-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/10/call-for-comments.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/09/running-beta-of.html",
+				
+				"content_html": "<p>Running beta5 of <strong>Sonoma</strong> on my soon-to-be returned MacBook Air. I&rsquo;m not so sure this thing is quite ready yet. I&rsquo;ll wait a few more betas before installing Sonoma on my new MacBook Air.</p>\n",
+				"content_text": "Running beta5 of **Sonoma** on my soon-to-be returned MacBook Air. I'm not so sure this thing is quite ready yet. I'll wait a few more betas before installing Sonoma on my new MacBook Air. \n",
+				"date_published": "2023-08-09T21:49:38-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/09/running-beta-of.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/09/i-think-ill.html",
+				
+				"content_html": "<p>I think I&rsquo;ll use my previous MacBook Air to test <strong>Sonoma</strong> this week-end before returning it to Apple! Who knows what will break.</p>\n",
+				"content_text": "I think I'll use my previous MacBook Air to test **Sonoma** this week-end before returning it to Apple! Who knows what will break. \n",
+				"date_published": "2023-08-09T07:39:49-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/09/i-think-ill.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/09/i-just-enabled.html",
+				
+				"content_html": "<p>I just enabled cross-posting from Micro.blog to <a href=\"https://pixelfed.social/numericcitizen\">my Pixelfed account</a>. I&rsquo;m not sure I&rsquo;ll use it, simply because I don&rsquo;t post that many photos here. I prefer to use a dedicated service for photography. But who knows, it might come in handy at some point. Thanks, <a href=\"https://micro.blog/manton\">@manton</a>, for being so quick to add these features!</p>\n",
+				"content_text": "I just enabled cross-posting from Micro.blog to [my Pixelfed account](https://pixelfed.social/numericcitizen). I'm not sure I'll use it, simply because I don't post that many photos here. I prefer to use a dedicated service for photography. But who knows, it might come in handy at some point. Thanks, [@manton](https://micro.blog/manton), for being so quick to add these features!\n",
+				"date_published": "2023-08-09T07:32:41-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/09/i-just-enabled.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/08/09/on-apples-migration.html",
 				"title": "On Apple's Migration Assistant",
 				"content_html": "<p>Ok, can we agree that Apple&rsquo;s <strong>Migration Assistant</strong> is magical? 🤯 After the new Mac got updated, it was required to match the version of the source Mac. It took about 45 minutes to transfer 375GB of data (with a peak speed of 650MB/s over Thunderbolt 4 cable), and boom. Of course, I had all those required permissions to be set again. But, wow, writing this on my brand new 15-inch MacBook Air this morning. It was my first experience with this process of getting a new Mac set up. I already feel at home on this machine.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ok, can we agree that Apple's **Migration Assistant** is magical? 🤯 After the new Mac got updated, it was required to match the version of the source Mac. It took about 45 minutes to transfer 375GB of data (with a peak speed of 650MB/s over Thunderbolt 4 cable), and boom. Of course, I had all those required permissions to be set again. But, wow, writing this on my brand new 15-inch MacBook Air this morning. It was my first experience with this process of getting a new Mac set up. I already feel at home on this machine.\n\n<img src=\"uploads/2023/fecac81517.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Ok, can we agree that Apple's **Migration Assistant** is magical? 🤯 After the new Mac got updated, it was required to match the version of the source Mac. It took about 45 minutes to transfer 375GB of data (with a peak speed of 650MB/s over Thunderbolt 4 cable), and boom. Of course, I had all those required permissions to be set again. But, wow, writing this on my brand new 15-inch MacBook Air this morning. It was my first experience with this process of getting a new Mac set up. I already feel at home on this machine.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/fecac81517.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-08-09T07:01:48-04:00",
 				"url": "https://blog.numericcitizen.me/2023/08/09/on-apples-migration.html",
 				"tags": ["Photography","Longer posts","Apps  Services","Newsletter"]
@@ -19,7 +109,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/08/08/yep.html",
 				
 				"content_html": "<p>Yep. 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yep. 😎\n\n<img src=\"uploads/2023/e8adbfd9a2.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Yep. 😎\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/e8adbfd9a2.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-08-08T20:44:27-04:00",
 				"url": "https://blog.numericcitizen.me/2023/08/08/yep.html",
 				"tags": ["Apple","Photography","Newsletter"]
@@ -46,7 +136,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/08/08/on-my-last.html",
 				
 				"content_html": "<p>On my last flight heading back to Montreal. This is where, for me, the iPad shines. Hey <a href=\"https://micro.blog/manton\">@manton</a> look carefully at what is on my iPad screen&hellip; 👀 Ask <a href=\"https://micro.blog/jean\">@jean</a>, she will explain to you what I&rsquo;d like to do eventually with you.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On my last flight heading back to Montreal. This is where, for me, the iPad shines. Hey [@manton](https://micro.blog/manton) look carefully at what is on my iPad screen... 👀 Ask [@jean](https://micro.blog/jean), she will explain to you what I'd like to do eventually with you.\n\n<img src=\"uploads/2023/9176bf0b3a.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "On my last flight heading back to Montreal. This is where, for me, the iPad shines. Hey [@manton](https://micro.blog/manton) look carefully at what is on my iPad screen... 👀 Ask [@jean](https://micro.blog/jean), she will explain to you what I'd like to do eventually with you.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/9176bf0b3a.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-08-08T07:03:14-04:00",
 				"url": "https://blog.numericcitizen.me/2023/08/08/on-my-last.html",
 				"tags": ["Photography","Misc"]
