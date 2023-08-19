@@ -7,6 +7,132 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/08/19/today-marks-the.html",
+				
+				"content_html": "<p>Today marks the day I&rsquo;m returning to the regular schedule for <a href=\"https://www.youtube.com/c/numericcitizenvideos\">YouTube video production</a>. Next videos in the pipeline: an update about the lack of meaningful updates to Craft in recent months and what this could possibly mean for Craft users. Then, working with <strong>Categories</strong> and <strong>Tags</strong> in <strong>Micro.blog</strong>. Busy week-end. 😅</p>\n",
+				"content_text": "Today marks the day I'm returning to the regular schedule for [YouTube video production](https://www.youtube.com/c/numericcitizenvideos). Next videos in the pipeline: an update about the lack of meaningful updates to Craft in recent months and what this could possibly mean for Craft users. Then, working with **Categories** and **Tags** in **Micro.blog**. Busy week-end. 😅\n",
+				"date_published": "2023-08-19T08:54:52-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/19/today-marks-the.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/18/powerful-hurricane-hilary.html",
+				
+				"content_html": "<p>Powerful <strong>hurricane Hilary</strong> <a href=\"https://www.independent.co.uk/climate-change/news/hurricane-hilary-2023-california-b2395549.html\">headed toward the US southwest</a>. Always impressive to see this from space. Less interesting is getting hit by it if you&rsquo;re in this region.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Powerful **hurricane Hilary** [headed toward the US southwest](https://www.independent.co.uk/climate-change/news/hurricane-hilary-2023-california-b2395549.html). Always impressive to see this from space. Less interesting is getting hit by it if you're in this region. \n\n<img src=\"uploads/2023/safari-live-hurricane-trackernesdis2023-08-1814.13.482x.png\" width=\"600\" height=\"438\" alt=\"\">\n",
+				"date_published": "2023-08-18T14:19:37-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/18/powerful-hurricane-hilary.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/18/trying-to-figure.html",
+				
+				"content_html": "<p>Trying to figure out <strong>robots.txt</strong> file format using freely available robots.txt generators on the web. My goal is to exclude this blog from being crawled by <strong>YandexBot</strong>. Is this <a href=\"https://go.numericcitizen.me/BQ8nR8OO\">file</a> (safe link) achieving this? Seems counterintuitive in my mind. Oh, and do you think it&rsquo;s a bad idea to block Yandex from crawling? Seems to be feeding other search engines like <strong>DuckDuckGo</strong>&hellip; Thanks for your input!</p>\n",
+				"content_text": "Trying to figure out **robots.txt** file format using freely available robots.txt generators on the web. My goal is to exclude this blog from being crawled by **YandexBot**. Is this [file](https://go.numericcitizen.me/BQ8nR8OO) (safe link) achieving this? Seems counterintuitive in my mind. Oh, and do you think it's a bad idea to block Yandex from crawling? Seems to be feeding other search engines like **DuckDuckGo**... Thanks for your input!\n",
+				"date_published": "2023-08-18T07:25:22-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/18/trying-to-figure.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/18/trying-to-post.html",
+				
+				"content_html": "<p>Trying to post one or two or more of my pictures to <strong>Pixelfed</strong> every day so that I can move out of <a href=\"http://numericcitizen.smugmug.com\">Smugmug</a> by next year. It&rsquo;s tedious, but it&rsquo;s fun because I chose to add textual context to each image whenever possible. This wasn&rsquo;t possible on <strong>Smugmug</strong>. 😅</p>\n",
+				"content_text": "Trying to post one or two or more of my pictures to **Pixelfed** every day so that I can move out of [Smugmug](http://numericcitizen.smugmug.com) by next year. It's tedious, but it's fun because I chose to add textual context to each image whenever possible. This wasn't possible on **Smugmug**. 😅\n",
+				"date_published": "2023-08-18T06:58:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/18/trying-to-post.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/17/id-love-to.html",
+				
+				"content_html": "<p>I&rsquo;d love to buy one of these, simply because it&rsquo;s a great object of art and design.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'd love to buy one of these, simply because it's a great object of art and design.\n\n<img src=\"uploads/2023/the-new-imac-g4-feature.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-08-17T07:03:07-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/17/id-love-to.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/16/dear-original-imac.html",
+				"title": "Dear Original iMac, I Barely Knew You",
+				"content_html": "<p><a href=\"https://www.theverge.com/23808948/imac-twenty-five-visual-history-apple-design-models\">Happy 25th anniversary</a>, <strong>iMac</strong>! As I started documenting in my series about <a href=\"https://numericcitizen.me/remembering-the-story-behind-every-apple-computers-i-ever-owned/\">remembering every Mac I ever owned</a>, in 1998, I wasn&rsquo;t invested in Apple&rsquo;s ecosystem at all. I was a &ldquo;PC&rdquo; guy because of my job. Right before the iMac came out, I got rid of <a href=\"https://numericcitizen.me/remembering-my-story-of-owning-a-powermac-7100-1995-1996/\">my Power Mac 7100 in 1996</a>. I barely saw the iMac in stores or public spaces where a computer was made available for things like web surfing. What an iconic but somewhat weird-retro-style computer.</p>\n<p>Isn&rsquo;t the starting point of USB ports for the masses? Thanks, Apple.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[Happy 25th anniversary](https://www.theverge.com/23808948/imac-twenty-five-visual-history-apple-design-models), **iMac**! As I started documenting in my series about [remembering every Mac I ever owned](https://numericcitizen.me/remembering-the-story-behind-every-apple-computers-i-ever-owned/), in 1998, I wasn't invested in Apple's ecosystem at all. I was a \"PC\" guy because of my job. Right before the iMac came out, I got rid of [my Power Mac 7100 in 1996](https://numericcitizen.me/remembering-my-story-of-owning-a-powermac-7100-1995-1996/). I barely saw the iMac in stores or public spaces where a computer was made available for things like web surfing. What an iconic but somewhat weird-retro-style computer. \r\n\r\nIsn't the starting point of USB ports for the masses? Thanks, Apple. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/25935-36190-mac-imac-98-02-xl.jpg\" width=\"600\" height=\"446\" alt=\"\">\n",
+				"date_published": "2023-08-16T21:15:23-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/16/dear-original-imac.html",
+				"tags": ["Apple","Photography","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/16/finding-a-welldesigned.html",
+				
+				"content_html": "<p>Finding a well-designed, non-bulky, sturdy <strong>iPhone bike holder</strong> seems mission impossible. Searching this on Amazon is even harder, with all the paid sponsors/scammers filling all possible space. The one from Peak Design product seems great, but I will have to wait for the iPhone 15 Pro Max case to come out!</p>\n",
+				"content_text": "Finding a well-designed, non-bulky, sturdy **iPhone bike holder** seems mission impossible. Searching this on Amazon is even harder, with all the paid sponsors/scammers filling all possible space. The one from Peak Design product seems great, but I will have to wait for the iPhone 15 Pro Max case to come out!\n",
+				"date_published": "2023-08-16T21:02:17-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/16/finding-a-welldesigned.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/16/the-apple-way.html",
+				"title": "The Apple Way ",
+				"content_html": "<p>I just went through the complete process of an <strong>Apple Trade-In</strong> for the return of my &ldquo;old&rdquo; <strong>13-inch MacBook Air</strong> after getting my brand new <strong>15-inch MacBook Air</strong>. I&rsquo;m super impressed by the logistics behind all of it and how the user (me) is guided in the process.  The final step was to cancel the <strong>AppleCare+</strong> that I originally bought with my old device. Took a 5 min call from somewhere in Texas. The call was automatically initiated from a web form I filled out by selecting a few options. Got a confirmation email before the call and after stating the actual amount of the refund. All done. Great user experience. The next time will be for the replacement of my iPhone 13 Pro with the upcoming iPhone 15 Pro. 😃</p>\n",
+				"content_text": "I just went through the complete process of an **Apple Trade-In** for the return of my \"old\" **13-inch MacBook Air** after getting my brand new **15-inch MacBook Air**. I'm super impressed by the logistics behind all of it and how the user (me) is guided in the process.  The final step was to cancel the **AppleCare+** that I originally bought with my old device. Took a 5 min call from somewhere in Texas. The call was automatically initiated from a web form I filled out by selecting a few options. Got a confirmation email before the call and after stating the actual amount of the refund. All done. Great user experience. The next time will be for the replacement of my iPhone 13 Pro with the upcoming iPhone 15 Pro. 😃\n",
+				"date_published": "2023-08-16T12:57:09-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/16/the-apple-way.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/16/holy-hell-trump.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>The situation with Trump and his extensive use of Twitter and how Twitter responded to the search warrant/court order confirms that leaving Twitter was one of my best decision in a long time. Twitter&rsquo;s actions to protect Trump are disgusting (telling him that there is a search warrant targeting his use of the platform). I cannot, in good faith, be on such platforms.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Daring Fireball\" data-avatar=\"https://micro.blog/daringfireball@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@daringfireball/110897198691524215\"><p>★ Holy Hell, Trump Did Use Twitter Direct Messages, There Were ‘Many’ of Them, and the Special Counsel Now Has Them<br><a href=\"https://daringfireball.net/2023/08/holy_hell_trump_did_use_dms\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">daringfireball.net/2023/08/hol</span><span class=\"invisible\">y_hell_trump_did_use_dms</span></a></p><p class=\"post_archived_links\">Reader: <a href=\"https://micro.blog/bookmarks/2495471\">mastodon.social</a> <a href=\"https://micro.blog/bookmarks/2493443\">daringfireball.net</a> </p><footer>Daring Fireball <cite><a href=\"https://mastodon.social/@daringfireball/110897198691524215\" class=\"u-in-reply-to\">https://mastodon.social/@daringfireball/110897198691524215</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nThe situation with Trump and his extensive use of Twitter and how Twitter responded to the search warrant/court order confirms that leaving Twitter was one of my best decision in a long time. Twitter's actions to protect Trump are disgusting (telling him that there is a search warrant targeting his use of the platform). I cannot, in good faith, be on such platforms. \r\n",
+				"date_published": "2023-08-16T07:25:58-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/16/holy-hell-trump.html",
+				"tags": ["Privacy","Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/16/an-observation-about.html",
+				"title": "An Observation About the Photos From IPPAWARDS Winners of 2023",
+				"content_html": "<p>I forgot to linkpost to the <strong><a href=\"https://www.ippawards.com/2023-winning-photographers/\">IPPAWARDS winners of 2023</a></strong>. Lot&rsquo;s of great photos. Really. Twenty photos come from the iPhone 12 series (which came out in 2020). Five from the iPhone 13 series and another five from the iPhone 7 (which came out in 2016). Only four from the iPhone 14 series. What can we conclude from this? It doesn&rsquo;t matter which camera you&rsquo;ve got. The best one is the one you&rsquo;ve got with you at the right place and time. Period.</p>\n<p>In case you didn&rsquo;t know, the iPhone 15 is coming soon.</p>\n",
+				"content_text": "I forgot to linkpost to the **[IPPAWARDS winners of 2023](https://www.ippawards.com/2023-winning-photographers/)**. Lot's of great photos. Really. Twenty photos come from the iPhone 12 series (which came out in 2020). Five from the iPhone 13 series and another five from the iPhone 7 (which came out in 2016). Only four from the iPhone 14 series. What can we conclude from this? It doesn't matter which camera you've got. The best one is the one you've got with you at the right place and time. Period. \n\nIn case you didn't know, the iPhone 15 is coming soon.\n",
+				"date_published": "2023-08-16T06:57:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/16/an-observation-about.html",
+				"tags": ["Photography","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/15/if-us-legal.html",
+				
+				"content_html": "<p>If US legal institutions cannot take down Trump, then this country is in a dire situation.</p>\n",
+				"content_text": "If US legal institutions cannot take down Trump, then this country is in a dire situation. \n",
+				"date_published": "2023-08-15T22:06:13-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/15/if-us-legal.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/15/i-made-many.html",
+				
+				"content_html": "<p>I made many updates to <a href=\"https://world.numericcitizen.io/meta-toolset\">my Complete Content Creator Toolset</a> to reflect recent additions and removals. If you are curious about the apps and services that I&rsquo;m using, this is the place to watch!</p>\n",
+				"content_text": "I made many updates to [my Complete Content Creator Toolset](https://world.numericcitizen.io/meta-toolset) to reflect recent additions and removals. If you are curious about the apps and services that I'm using, this is the place to watch!\n",
+				"date_published": "2023-08-15T07:18:51-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/15/i-made-many.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/15/creating-a-custom.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Thanks to <a href=\"https://micro.blog/Mtt\">@Mtt</a>, I completed my version in about an hour.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Matt Langford\" data-avatar=\"https://micro.blog/Mtt/avatar.jpg\" cite=\"https://mattlangford.com/2023/07/27/creating-a-custom.html\">Creating a Custom Branded File Sharing Service for Free <a href=\"https://mattlangford.com/2023/07/27/creating-a-custom.html\">mattlangford.com</a><p class=\"post_archived_links\">Reader: <a href=\"https://micro.blog/bookmarks/2191522\">mattlangford.com</a> </p><footer>Matt Langford <cite><a href=\"https://mattlangford.com/2023/07/27/creating-a-custom.html\" class=\"u-in-reply-to\">https://mattlangford.com/2023/07/27/creating-a-custom.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nThanks to [@Mtt](https://micro.blog/Mtt), I completed my version in about an hour.\r\n",
+				"date_published": "2023-08-15T06:42:50-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/15/creating-a-custom.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/14/its-funny-and.html",
+				
+				"content_html": "<p>It&rsquo;s funny and cool how I&rsquo;m slowly but surely rebuilding my social graph with people who fled <strong>X</strong> to <strong>Mastodon</strong> and <strong>Pixelfed</strong>. I feel at home again.</p>\n",
+				"content_text": "It's funny and cool how I'm slowly but surely rebuilding my social graph with people who fled **X** to **Mastodon** and **Pixelfed**. I feel at home again. \n",
+				"date_published": "2023-08-14T21:17:37-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/14/its-funny-and.html",
+				"tags": ["Personal","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/08/13/say-hello-to.html",
 				
 				"content_html": "<p>Say hello to <strong><a href=\"mailto:hello@numericcitizen.me\">hello@numericcitizen.me</a>!</strong>. Finally decided to spend some time making my <a href=\"mailto:hello@numericcitizen.me\">hello@numericcitizen.me</a> work using the iCloud+ Custom Mail domain. Works great so far. Come and say hi!</p>\n",
@@ -46,7 +172,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/08/10/i-dont-like.html",
 				
 				"content_html": "<p>I don&rsquo;t like these two &ldquo;disconnected&rdquo; visual elements: the menu bar from the dropdown menu. The highlighted portion of the menu bar and the menu itself. There, I said it. On a positive note: on recent MacBook Air like mine, I love the rounded screen corners.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don't like these two \"disconnected\" visual elements: the menu bar from the dropdown menu. The highlighted portion of the menu bar and the menu itself. There, I said it. On a positive note: on recent MacBook Air like mine, I love the rounded screen corners. \n\n<img src=\"uploads/2023/cleanshot-cleanshot2023-08-1020.40.512x.png\" width=\"600\" height=\"389\" alt=\"\">\n",
+				"content_text": "I don't like these two \"disconnected\" visual elements: the menu bar from the dropdown menu. The highlighted portion of the menu bar and the menu itself. There, I said it. On a positive note: on recent MacBook Air like mine, I love the rounded screen corners. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/cleanshot-cleanshot2023-08-1020.40.512x.png\" width=\"600\" height=\"389\" alt=\"\">\n",
 				"date_published": "2023-08-10T20:45:20-04:00",
 				"url": "https://blog.numericcitizen.me/2023/08/10/i-dont-like.html",
 				"tags": ["Apple","Photography","Newsletter"]
