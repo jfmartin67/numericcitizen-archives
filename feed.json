@@ -7,6 +7,168 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/08/24/ive-been-working.html",
+				
+				"content_html": "<p>I’ve been working on this for my podcast. You can tell that I’m no graphic designer. 😆</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ve been working on this for my podcast. You can tell that I’m no graphic designer. 😆\n\n<img src=\"uploads/2023/4a5962ab94.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-24T08:40:18-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/24/ive-been-working.html",
+				"tags": ["Photography","Newsletter","Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/24/i-glanced-at.html",
+				
+				"content_html": "<p>I glanced at photographers and photos on <strong>Glass</strong> this morning and realized that most photographers are men. Is it reflective of the photographers' community in general? Photography is a men&rsquo;s world?? I&rsquo;d love to see more women because of their different sensibilities.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I glanced at photographers and photos on **Glass** this morning and realized that most photographers are men. Is it reflective of the photographers' community in general? Photography is a men's world?? I'd love to see more women because of their different sensibilities.\r\n\n\n<img src=\"uploads/2023/-numericcitizen-a-group-of-women-photographers-of-all-ages-with-482be6d9-72.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-24T06:45:45-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/24/i-glanced-at.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/23/learned-something-new.html",
+				"title": "Learned Something New Today",
+				"content_html": "<p>Today, while reading <a href=\"https://www.dandy.cat/2023/08/23/backblaze-a-company.html\">this blog post</a>, I found out that we could have a &ldquo;popup&rdquo; note inline in a blog post. I was curious and asked the author, who gladly responded with all the required information to do the same on my blog. A plugin is required, which I gladly installed in a snap<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. This blog post is a test of that feature<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. The day I learn something which in turn helps me improve one of my things, is a great day. 😊 I love this community so much! 🫶🏻</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>You can find it here, <a href=\"https://github.com/jsonbecker/plugin-bigfoot\">on Gitbub</a>.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>Thanks to <a href=\"https://micro.blog/dandycat\">@dandycat</a> for your help.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "Today, while reading [this blog post](https://www.dandy.cat/2023/08/23/backblaze-a-company.html), I found out that we could have a \"popup\" note inline in a blog post. I was curious and asked the author, who gladly responded with all the required information to do the same on my blog. A plugin is required, which I gladly installed in a snap[^1]. This blog post is a test of that feature[^2]. The day I learn something which in turn helps me improve one of my things, is a great day. 😊 I love this community so much! 🫶🏻\r\n[^1]: You can find it here, [on Gitbub](https://github.com/jsonbecker/plugin-bigfoot). \r\n[^2]: Thanks to [@dandycat](https://micro.blog/dandycat) for your help.\n",
+				"date_published": "2023-08-23T20:56:27-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/23/learned-something-new.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/23/at-age-we.html",
+				
+				"content_html": "<p>“At age 20, we worry about what others think of us. At age 40, we don&rsquo;t care what they think of us. At age 60, we discover they haven&rsquo;t been thinking of us at all.” — Ann Landers</p>\n",
+				"content_text": "“At age 20, we worry about what others think of us. At age 40, we don't care what they think of us. At age 60, we discover they haven't been thinking of us at all.” — Ann Landers\n",
+				"date_published": "2023-08-23T15:59:57-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/23/at-age-we.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/23/i-decided-to.html",
+				
+				"content_html": "<p>I decided to stop cross-posting my photos from <strong>Glass</strong> to my <strong>Mastodon</strong> account as I feel this is not the right community/instance for my photos. I prefer to enable cross-posting from Glass to <strong>Pixelfed</strong>, which I forgot to enable. Now, all is good. 📷</p>\n",
+				"content_text": "I decided to stop cross-posting my photos from **Glass** to my **Mastodon** account as I feel this is not the right community/instance for my photos. I prefer to enable cross-posting from Glass to **Pixelfed**, which I forgot to enable. Now, all is good. 📷\n",
+				"date_published": "2023-08-23T15:36:21-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/23/i-decided-to.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/23/these-transcript-links.html",
+				
+				"content_html": "<p>These transcript links give 404. Is this normal? Editing works fine, though. cc <a href=\"https://micro.blog/help\">@help</a> <a href=\"https://micro.blog/manton\">@manton</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "These transcript links give 404. Is this normal? Editing works fine, though. cc [@help](https://micro.blog/help) [@manton](https://micro.blog/manton) \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/safari-micro.blog2023-08-2307.52.482x.png\" width=\"600\" height=\"267\" alt=\"\">\n",
+				"date_published": "2023-08-23T07:54:50-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/23/these-transcript-links.html",
+				"tags": ["Photography","Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/22/craft-docs-vs.html",
+				
+				"content_html": "<p><strong>Craft Docs</strong> vs <strong>CleanShot</strong>: two different apps in different categories and two philosophies of asking for user feedback. Craft is closed, and opaque while CleanShot is outgoing and openly asks for &ldquo;what we should work on next&rdquo;. I&rsquo;m a subscriber of CleanShot Cloud, and yes, I want a few improvements. If only Craft would change their mind&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "**Craft Docs** vs **CleanShot**: two different apps in different categories and two philosophies of asking for user feedback. Craft is closed, and opaque while CleanShot is outgoing and openly asks for \"what we should work on next\". I'm a subscriber of CleanShot Cloud, and yes, I want a few improvements. If only Craft would change their mind... \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/heyvote-on-new-cleanshot-cloud-features2023-08-2221.55.522x.png\" width=\"530\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-22T22:01:54-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/22/craft-docs-vs.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/22/mmmm-for-some.html",
+				
+				"content_html": "<p>Mmmm, 🤔 for some reason, my Microblog RSS feeds are not updated to reflect my latest posts&hellip; Trying to rebuild the whole site. Any ideas <a href=\"https://micro.blog/manton\">@manton</a> <a href=\"https://micro.blog/help\">@help</a> ?</p>\n",
+				"content_text": "Mmmm, 🤔 for some reason, my Microblog RSS feeds are not updated to reflect my latest posts... Trying to rebuild the whole site. Any ideas [@manton](https://micro.blog/manton) [@help](https://micro.blog/help) ?\n",
+				"date_published": "2023-08-22T21:27:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/22/mmmm-for-some.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/22/pilot-episode-testing.html",
+				"title": "Pilot Episode #2 — Testing, Testing, Testing, 1-2-3",
+				"content_html": "<p>This is the second pilot episode of my brand-new podcast (“<strong>Thoughts &amp; Tribulations of a compulsive creator</strong>”). I made many changes to the recording setup. I like the results. 😊 My support templates are ready (one in Screenflow, Things and Craft) for the first real episode that should be coming soon. One last note: I discovered yesterday that Microblog will automatically generate a transcript of each episode. This is so cool! 🤯</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "This is the second pilot episode of my brand-new podcast (“**Thoughts & Tribulations of a compulsive creator**”). I made many changes to the recording setup. I like the results. 😊 My support templates are ready (one in Screenflow, Things and Craft) for the first real episode that should be coming soon. One last note: I discovered yesterday that Microblog will automatically generate a transcript of each episode. This is so cool! 🤯\n\n<audio controls=\"controls\" src=\"https://blog.numericcitizen.me/uploads/2023/tttc-00.mp3\" preload=\"metadata\"><p><a href=\"https://blog.numericcitizen.me/transcripts/2023/08/22/422.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2023-08-22T21:04:49-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/22/pilot-episode-testing.html",
+				"tags": ["Longer posts","Apps  Services","Hashtags","Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/22/tempted-to-install.html",
+				
+				"content_html": "<p>Tempted to install <strong>macOS Sonoma Beta 6</strong> on my shiny new 15-inch MacBook Air&hellip; I like to be at the cutting edge of software releases&hellip; on iPhone, iPad, Watch and Apple TV, betas have been rock solid for me so far (the worst is the iPad). Any advice here besides &ldquo;you&rsquo;re mileage may vary&rdquo;, &ldquo;go ahead at your own risk&rdquo;, etc.?</p>\n",
+				"content_text": "Tempted to install **macOS Sonoma Beta 6** on my shiny new 15-inch MacBook Air... I like to be at the cutting edge of software releases... on iPhone, iPad, Watch and Apple TV, betas have been rock solid for me so far (the worst is the iPad). Any advice here besides \"you're mileage may vary\", \"go ahead at your own risk\", etc.?\n",
+				"date_published": "2023-08-22T14:56:26-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/22/tempted-to-install.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/22/it-was-fun.html",
+				
+				"content_html": "<p>It was fun but a bit more challenging to record and share <strong>my first podcast episode</strong> yesterday. Editing in Ferrite is hard on the iPhone. It would be much better on the iPad or the Mac. For some reason, talking to a microphone feels less natural than recording myself on camera for a YouTube video. 🤷🏻‍♂️When I shared this thought with my wife yesterday, she responded: recording yourself on camera, then delete the video track! 😳🤯 I like her.</p>\n",
+				"content_text": "It was fun but a bit more challenging to record and share **my first podcast episode** yesterday. Editing in Ferrite is hard on the iPhone. It would be much better on the iPad or the Mac. For some reason, talking to a microphone feels less natural than recording myself on camera for a YouTube video. 🤷🏻‍♂️When I shared this thought with my wife yesterday, she responded: recording yourself on camera, then delete the video track! 😳🤯 I like her. \n",
+				"date_published": "2023-08-22T06:27:43-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/22/it-was-fun.html",
+				"tags": ["Newsletter","Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/21/introducing-the-thoughts.html",
+				"title": "Introducing the Thoughts \u0026 Tribulations of a Compulsive Creator Podcast",
+				"content_html": "<p>I’m excited to <strong>introduce</strong> something new: <strong>a podcast</strong>. 🎙️Something short &amp; sweet. At least, it is one of my goals. I don’t have a grand plan, just a desire to share my thoughts and tribulations of the creator that I am in a different medium: audio. Nothing fancy. It’s done with modest technical means and a dead simple workflow. The end product: something approachable. I want to keep it that way. This is a pilot episode. Listen to learn more. Your feedback is welcome. 😊</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "I’m excited to **introduce** something new: **a podcast**. 🎙️Something short & sweet. At least, it is one of my goals. I don’t have a grand plan, just a desire to share my thoughts and tribulations of the creator that I am in a different medium: audio. Nothing fancy. It’s done with modest technical means and a dead simple workflow. The end product: something approachable. I want to keep it that way. This is a pilot episode. Listen to learn more. Your feedback is welcome. 😊\n\n<audio controls=\"controls\" src=\"https://blog.numericcitizen.me/uploads/2023/ttcc-minus1.mp3\" preload=\"metadata\"><p><a href=\"https://blog.numericcitizen.me/transcripts/2023/08/21/419.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2023-08-21T22:00:24-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/21/introducing-the-thoughts.html",
+				"tags": ["Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/21/this-week-i.html",
+				
+				"content_html": "<p>This week, I am getting an appointment for a <strong>screen replacement</strong> on my iPhone 13 Pro (under my paid <strong>AppleCare</strong> warranty). Three highly visible scratches are bugging me big time: the trade-in value is reduced by 485 CAN$ (at the worst timing possible: iPhone 15 Ultra is approaching😩), and I always focus on the scratches when looking at my iPhone screen. 🫣 AppleCare can be a good investment.</p>\n",
+				"content_text": "This week, I am getting an appointment for a **screen replacement** on my iPhone 13 Pro (under my paid **AppleCare** warranty). Three highly visible scratches are bugging me big time: the trade-in value is reduced by 485 CAN$ (at the worst timing possible: iPhone 15 Ultra is approaching😩), and I always focus on the scratches when looking at my iPhone screen. 🫣 AppleCare can be a good investment. \n",
+				"date_published": "2023-08-21T14:29:21-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/21/this-week-i.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/21/made-some-visual.html",
+				
+				"content_html": "<p>Made some visual tweaks to the blog visuals: added tags to the list of bookmarks on the bookmarks page and made the blockquote blue instead of yellow. Eventually, this is going to be exactly how I like it.</p>\n",
+				"content_text": "Made some visual tweaks to the blog visuals: added tags to the list of bookmarks on the bookmarks page and made the blockquote blue instead of yellow. Eventually, this is going to be exactly how I like it.\n",
+				"date_published": "2023-08-21T07:41:11-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/21/made-some-visual.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/20/as-a-subscriber.html",
+				
+				"content_html": "<p>As a subscriber to <strong>Pocket Cast</strong>, I would love to be able to use the iPad version on my Apple Silicon Mac. It&rsquo;s currently not possible. Yes, there is a web version, but an app is much better. Overcast,  a very popular alternative, is available for the Mac but is not native. But I&rsquo;m ok with that; it&rsquo;s better than nothing.  How much effort does it require to make an iPad app available on the Mac without having to depend on Catalyst? 🤔</p>\n",
+				"content_text": "As a subscriber to **Pocket Cast**, I would love to be able to use the iPad version on my Apple Silicon Mac. It's currently not possible. Yes, there is a web version, but an app is much better. Overcast,  a very popular alternative, is available for the Mac but is not native. But I'm ok with that; it's better than nothing.  How much effort does it require to make an iPad app available on the Mac without having to depend on Catalyst? 🤔\n",
+				"date_published": "2023-08-20T20:20:02-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/20/as-a-subscriber.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/20/glass-questions-at.html",
+				
+				"content_html": "<p><a href=\"https://www.manton.org/2023/08/18/glass-questions-at.html\">Glass questions at 2 years</a></p>\n<blockquote>\n<p>There are effectively no success stories for Glass’s current business model. Small clones of Instagram and Twitter usually fail. To break out, there has to be something fundamentally different. For Micro.blog, the answer is simple: we are a social network but our business is blog hosting, a proven model. For Glass, the answer is less clear: they care deeply about photography, community, and design. I think the founders deserve a lot of credit for creating something beautiful. Is that enough?</p>\n</blockquote>\n<p>My recent enthusiasm for <strong>Pixelfed</strong> comes down to being a good alternative to Instagram, open and not afflicted by a toxic business model. It might become a good alternative to Glass too if the latter doesn&rsquo;t open up a little bit more to the modern world, post Meta-as-we-know-it.</p>\n",
+				"content_text": " [Glass questions at 2 years](https://www.manton.org/2023/08/18/glass-questions-at.html)\r\n\r\n> There are effectively no success stories for Glass’s current business model. Small clones of Instagram and Twitter usually fail. To break out, there has to be something fundamentally different. For Micro.blog, the answer is simple: we are a social network but our business is blog hosting, a proven model. For Glass, the answer is less clear: they care deeply about photography, community, and design. I think the founders deserve a lot of credit for creating something beautiful. Is that enough?\r\n\r\nMy recent enthusiasm for **Pixelfed** comes down to being a good alternative to Instagram, open and not afflicted by a toxic business model. It might become a good alternative to Glass too if the latter doesn't open up a little bit more to the modern world, post Meta-as-we-know-it. \n",
+				"date_published": "2023-08-20T20:05:56-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/20/glass-questions-at.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/20/im-back-with.html",
+				
+				"content_html": "<p>I&rsquo;m back with a new video about <strong>Micro.blog</strong>. This time, I explore the use of <strong>Categories</strong> and <strong>Tags</strong>. I hope you find it useful to better make use of Micro.blog features. Enjoy. Comments welcome, here or on <a href=\"https://www.youtube.com/c/numericcitizenvideos\">my YouTube channel</a>. Next up, something about&hellip; podcasts 👀. Stay tuned. 😀\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/7CBuyup9M6Q' frameborder='0' allowfullscreen></iframe></div></p>\n",
+				"content_text": "I'm back with a new video about **Micro.blog**. This time, I explore the use of **Categories** and **Tags**. I hope you find it useful to better make use of Micro.blog features. Enjoy. Comments welcome, here or on [my YouTube channel](https://www.youtube.com/c/numericcitizenvideos). Next up, something about... podcasts 👀. Stay tuned. 😀\r\n{{< youtube \"7CBuyup9M6Q\" >}}\r\n",
+				"date_published": "2023-08-20T13:32:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/20/im-back-with.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/20/a-commentary-video.html",
+				
+				"content_html": "<p>A commentary video about <strong>Craft</strong> updates while waiting for the next wow moments for Craft. An update is supposedly coming out this week. My expectations are low. \n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/jvOnh-YAOhs' frameborder='0' allowfullscreen></iframe></div></p>\n",
+				"content_text": "A commentary video about **Craft** updates while waiting for the next wow moments for Craft. An update is supposedly coming out this week. My expectations are low. \r\n{{< youtube \"jvOnh-YAOhs\" >}}\n",
+				"date_published": "2023-08-20T07:50:50-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/20/a-commentary-video.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/08/19/today-marks-the.html",
 				
 				"content_html": "<p>Today marks the day I&rsquo;m returning to the regular schedule for <a href=\"https://www.youtube.com/c/numericcitizenvideos\">YouTube video production</a>. Next videos in the pipeline: an update about the lack of meaningful updates to Craft in recent months and what this could possibly mean for Craft users. Then, working with <strong>Categories</strong> and <strong>Tags</strong> in <strong>Micro.blog</strong>. Busy week-end. 😅</p>\n",
@@ -19,10 +181,10 @@
 				"id": "http://numericcitizen.micro.blog/2023/08/18/powerful-hurricane-hilary.html",
 				
 				"content_html": "<p>Powerful <strong>hurricane Hilary</strong> <a href=\"https://www.independent.co.uk/climate-change/news/hurricane-hilary-2023-california-b2395549.html\">headed toward the US southwest</a>. Always impressive to see this from space. Less interesting is getting hit by it if you&rsquo;re in this region.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Powerful **hurricane Hilary** [headed toward the US southwest](https://www.independent.co.uk/climate-change/news/hurricane-hilary-2023-california-b2395549.html). Always impressive to see this from space. Less interesting is getting hit by it if you're in this region. \n\n<img src=\"uploads/2023/safari-live-hurricane-trackernesdis2023-08-1814.13.482x.png\" width=\"600\" height=\"438\" alt=\"\">\n",
+				"content_text": "Powerful **hurricane Hilary** [headed toward the US southwest](https://www.independent.co.uk/climate-change/news/hurricane-hilary-2023-california-b2395549.html). Always impressive to see this from space. Less interesting is getting hit by it if you're in this region. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/safari-live-hurricane-trackernesdis2023-08-1814.13.482x.png\" width=\"600\" height=\"438\" alt=\"\">\n",
 				"date_published": "2023-08-18T14:19:37-04:00",
 				"url": "https://blog.numericcitizen.me/2023/08/18/powerful-hurricane-hilary.html",
-				"tags": ["Photography","Newsletter"]
+				"tags": ["Photography","Newsletter","Climate"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/08/18/trying-to-figure.html",
@@ -46,7 +208,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/08/17/id-love-to.html",
 				
 				"content_html": "<p>I&rsquo;d love to buy one of these, simply because it&rsquo;s a great object of art and design.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'd love to buy one of these, simply because it's a great object of art and design.\n\n<img src=\"uploads/2023/the-new-imac-g4-feature.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "I'd love to buy one of these, simply because it's a great object of art and design.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/the-new-imac-g4-feature.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-08-17T07:03:07-04:00",
 				"url": "https://blog.numericcitizen.me/2023/08/17/id-love-to.html",
 				"tags": ["Apple","Photography","Newsletter"]
