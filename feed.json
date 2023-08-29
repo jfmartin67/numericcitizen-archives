@@ -7,10 +7,172 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/08/29/waiting-for-the.html",
+				"title": "Waiting for the iPhone 15 Ultra",
+				"content_html": "<p>I’m really looking forward to the <strong>iPhone 15 Ultra</strong>👀. Coming from the iPhone 13 Pro, I skipped the 14 Pro<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>; I expect the camera improvements to be tangible. The telephoto lens could see the most significant improvements driving sales of the Ultra to new territories<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. Using a periscope architecture, telephoto could jump from 3x to 6x or more. This could be the last thing that makes me sell my Nikon D750<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup>. The softer and rounder edges and titanium finish might make this iPhone the best design of all time<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup>. And, finally, USB-C will certainly simplify charging the damn thing! I wonder if I’ll still be able to use my Lightning Lavalier microphone using a Lightning-to-USB-C adaptor.🤔</p>\n<p>It will be my first “Max” iPhone. Apparently, I’m on a stretch of going for the bigger screens<sup id=\"fnref:5\"><a href=\"#fn:5\" class=\"footnote-ref\" role=\"doc-noteref\">5</a></sup>.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I skip a generation to limit my consumerism habits. It’s an environmental issue here.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>Kuo’s <a href=\"https://appleinsider.com/articles/23/08/29/iphone-15-pro-max-periscope-camera-to-be-major-selling-point-says-kuo\">rumors</a> about periscope lens.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\" role=\"doc-endnote\">\n<p>I depend on a 70-200mm zoom on my Nikon which is very useful on a trip.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\" role=\"doc-endnote\">\n<p>I still thing the best design was the matte black iPhone 7.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:5\" role=\"doc-endnote\">\n<p>I recently upgraded from the 13-inch MacBook Air to a 15-inch version.&#160;<a href=\"#fnref:5\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "I’m really looking forward to the **iPhone 15 Ultra**👀. Coming from the iPhone 13 Pro, I skipped the 14 Pro[^1]; I expect the camera improvements to be tangible. The telephoto lens could see the most significant improvements driving sales of the Ultra to new territories[^2]. Using a periscope architecture, telephoto could jump from 3x to 6x or more. This could be the last thing that makes me sell my Nikon D750[^3]. The softer and rounder edges and titanium finish might make this iPhone the best design of all time[^4]. And, finally, USB-C will certainly simplify charging the damn thing! I wonder if I’ll still be able to use my Lightning Lavalier microphone using a Lightning-to-USB-C adaptor.🤔\n\nIt will be my first “Max” iPhone. Apparently, I’m on a stretch of going for the bigger screens[^5].\n\n[^1]:\tI skip a generation to limit my consumerism habits. It’s an environmental issue here. \n\n[^2]:\tKuo’s [rumors](https://appleinsider.com/articles/23/08/29/iphone-15-pro-max-periscope-camera-to-be-major-selling-point-says-kuo) about periscope lens. \n\n[^3]:\tI depend on a 70-200mm zoom on my Nikon which is very useful on a trip.\n\n[^4]:\tI still thing the best design was the matte black iPhone 7. \n\n[^5]:\tI recently upgraded from the 13-inch MacBook Air to a 15-inch version. \n",
+				"date_published": "2023-08-29T07:51:08-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/29/waiting-for-the.html",
+				"tags": ["Apple","Photography","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/28/finally-settled-on.html",
+				"title": "Finally Settled on Blog Post Visual Attributes",
+				"content_html": "<p>After so many years of <strong>blogging</strong>, I think I have finally settled on the <strong>styling</strong> of each <strong>blog post</strong>. 😅 I like to emphasize key words with <strong>bold</strong>, making it easier to detect what this post is all about. Next is the use of emojis to make things a bit less serious and more approachable.🙂 Next is the selective use of Micro.blog’s post title for longer and more significant posts.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> 😜 More recently, I started using footnotes because they add another dimension to the reading experience and are displayed in a nice popup on the site.<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup></p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>This blog post is such an example of using a title.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>Footnotes are far easier to create in Ulysses than in the web interface, tough.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "After so many years of **blogging**, I think I have finally settled on the **styling** of each **blog post**. 😅 I like to emphasize key words with **bold**, making it easier to detect what this post is all about. Next is the use of emojis to make things a bit less serious and more approachable.🙂 Next is the selective use of Micro.blog’s post title for longer and more significant posts.[^1] 😜 More recently, I started using footnotes because they add another dimension to the reading experience and are displayed in a nice popup on the site.[^2]\n\n[^1]:\tThis blog post is such an example of using a title.\n\n[^2]:\tFootnotes are far easier to create in Ulysses than in the web interface, tough. \n",
+				"date_published": "2023-08-28T07:00:53-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/28/finally-settled-on.html",
+				"tags": ["Blogging","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/27/i-played-with.html",
+				
+				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2023/maps-morocco2023-08-2720.43.422x.png\" alt=\"\"></p>\n<p>I played with Apple’s Maps Places feature, as shown in <a href=\"https://youtu.be/i4fuAVWE55I?si=07Bq3diduMP43j0O\">the following video</a>. It’s nice, but it’s not exactly intuitive. There are many missing features, like setting a path between places and adding photos to a place within the guide, from the Photos.app for example to name a few. Also, it’s not clear if a shared guide gets updated if new places are added, or places are removed.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/07Bq3diduMP43j0O' frameborder='0' allowfullscreen></iframe></div>\n",
+				"content_text": "![](https://blog.numericcitizen.me/uploads/2023/maps-morocco2023-08-2720.43.422x.png)\n\nI played with Apple’s Maps Places feature, as shown in [the following video](https://youtu.be/i4fuAVWE55I?si=07Bq3diduMP43j0O). It’s nice, but it’s not exactly intuitive. There are many missing features, like setting a path between places and adding photos to a place within the guide, from the Photos.app for example to name a few. Also, it’s not clear if a shared guide gets updated if new places are added, or places are removed.\n\n{{< youtube \"07Bq3diduMP43j0O\" >}}\n",
+				"date_published": "2023-08-27T20:45:47-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/27/i-played-with.html",
+				"tags": ["Apps  Services","Travels","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/27/in-a-world.html",
+				
+				"content_html": "<blockquote>\n<p>In a world where we all struggle with how much we use our devices (let’s be real, we mean our phones), I think it’s kinda nice to have some places that just give up and tell us, “my dude, you’ve read it all, go do something else.” Source: <a href=\"https://birchtree.me/blog/let-the-internet-run-out/\">Let the internet run out</a></p>\n</blockquote>\n<p>I relate to this thought so much. Sometimes, enough is just&hellip; enough.</p>\n",
+				"content_text": "> In a world where we all struggle with how much we use our devices (let’s be real, we mean our phones), I think it’s kinda nice to have some places that just give up and tell us, “my dude, you’ve read it all, go do something else.” Source: [Let the internet run out](https://birchtree.me/blog/let-the-internet-run-out/)\r\n\r\nI relate to this thought so much. Sometimes, enough is just... enough. \n",
+				"date_published": "2023-08-27T18:03:38-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/27/in-a-world.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/27/this-morning-i.html",
+				
+				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2023/safari-about-numeric-citizen2023-08-2710.25.412x.png\" alt=\"My About Me page as seen on the web\" title=\"My About Me page as seen on the web\"></p>\n<p>This morning, I updated <a href=\"https://crafted.numericcitizen.me/about\">my online About page</a><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, taking some ideas from Brian Lovin’s <a href=\"https://brianlovin.com/\">website</a>. The page was built entirely with Craft’s shared document and custom domain name<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. I wonder if this is something that Micro.blog should expand on and be added to the premium subscription. Cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I probably have too many about page. Another one can be found on Linktr.ee. 🤦🏻‍♂️&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>I should probably do a new YouTube video explaining the process.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "![My About Me page as seen on the web](https://blog.numericcitizen.me/uploads/2023/safari-about-numeric-citizen2023-08-2710.25.412x.png \"My About Me page as seen on the web\")\n\nThis morning, I updated [my online About page](https://crafted.numericcitizen.me/about)[^1], taking some ideas from Brian Lovin’s [website](https://brianlovin.com/). The page was built entirely with Craft’s shared document and custom domain name[^2]. I wonder if this is something that Micro.blog should expand on and be added to the premium subscription. Cc [@manton](https://micro.blog/manton)\n\n[^1]:\tI probably have too many about page. Another one can be found on Linktr.ee. 🤦🏻‍♂️\n\n[^2]:\tI should probably do a new YouTube video explaining the process. \n",
+				"date_published": "2023-08-27T10:27:49-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/27/this-morning-i.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/26/i-updated-my.html",
+				
+				"content_html": "<p>I updated <a href=\"https://world.numericcitizen.io/meta-toolset\">my toolset website</a> today<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> with three additions under consideration: <strong>Digest</strong><sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>, <strong>Lazy</strong><sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup> and <strong>Heptabase</strong><sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup>. The statuses of my current projects were also updated. Thanks for paying a visit.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Use the table of content at the top of the site to locate the right section. Convenient, heh?&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>To replace Mailbrew.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\" role=\"doc-endnote\">\n<p>A super-charged “save-for-later” service. Could replace Omnivore or complement it. I put myself on their waiting list.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\" role=\"doc-endnote\">\n<p>A hard-to-define service / apps for supporting research. Could complement Craft. Or not. Another subscription. Gush.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "I updated [my toolset website](https://world.numericcitizen.io/meta-toolset) today[^1] with three additions under consideration: **Digest**[^2], **Lazy**[^3] and **Heptabase**[^4]. The statuses of my current projects were also updated. Thanks for paying a visit.\n\n[^1]:\tUse the table of content at the top of the site to locate the right section. Convenient, heh?\n\n[^2]:\tTo replace Mailbrew.\n\n[^3]:\tA super-charged “save-for-later” service. Could replace Omnivore or complement it. I put myself on their waiting list.\n\n[^4]:\tA hard-to-define service / apps for supporting research. Could complement Craft. Or not. Another subscription. Gush. \n",
+				"date_published": "2023-08-26T13:15:37-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/26/i-updated-my.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/26/one-podcast-three.html",
+				"title": "One Podcast, Three Looks",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/saturday-26-aug-2023-11-52-24.png\" alt=\"From left to right: Overcast, Pocket Cast, Apple Podcast\" title=\"Three ways to display a podcast episode with three different apps: Overcast, Pocket Cast and Apple Podcast\"></p>\n<p>I always subscribe to my own content distribution channels for quality control purposes <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I’m using <strong>Overcast</strong>, <strong>Pocket Cast</strong> and <strong>Apple Podcast</strong> to display my latest podcast episode. In these screenshots, I selected the info button to display the episode details. I’m a paid subscriber of Pocket Cast. I prefer the Pocket Cast display, but it has a caching issue as it doesn’t get the latest podcast artwork, but the other two do<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. Bold text is missing on Apple Podcast for some reason. The overcast look is… mildly ugly.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>This blog post looks like a mini-plug for my podcast. It is.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>The artwork display issue is also present on the web version of the Pocket Cast player.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "![From left to right: Overcast, Pocket Cast, Apple Podcast](https://cdn.uploads.micro.blog/6803/2023/saturday-26-aug-2023-11-52-24.png \"Three ways to display a podcast episode with three different apps: Overcast, Pocket Cast and Apple Podcast\")\n\nI always subscribe to my own content distribution channels for quality control purposes [^1]. I’m using **Overcast**, **Pocket Cast** and **Apple Podcast** to display my latest podcast episode. In these screenshots, I selected the info button to display the episode details. I’m a paid subscriber of Pocket Cast. I prefer the Pocket Cast display, but it has a caching issue as it doesn’t get the latest podcast artwork, but the other two do[^2]. Bold text is missing on Apple Podcast for some reason. The overcast look is… mildly ugly.\n\n[^1]:\tThis blog post looks like a mini-plug for my podcast. It is. \n\n[^2]:\tThe artwork display issue is also present on the web version of the Pocket Cast player. \n",
+				"date_published": "2023-08-26T12:34:04-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/26/one-podcast-three.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter","Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/26/episode-this-is.html",
+				"title": "Episode 01 — This Is Not a Drill!",
+				"content_html": "<p>Bad weather 🌧️ means time to the <strong>coffee shop for creative work</strong> ☕ 👨🏻‍💻 on <a href=\"https://www.youtube.com/c/numericcitizenvideos\">my next YouTube video</a> about Craft <strong>YouTube Integration</strong>. I paid a visit to the Apple Store to get my <strong>iPhone screen replaced 🛠️</strong>. I came out without a replacement; learn why in this episode <a href=\"https://podcasts.apple.com/us/podcast/thoughts-and-tribulations-of-a-compulsive-creator/id1703770016\">available on Apple&rsquo;s Podcast</a>. 👀</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Bad weather 🌧️ means time to the **coffee shop for creative work** ☕ 👨🏻‍💻 on [my next YouTube video](https://www.youtube.com/c/numericcitizenvideos) about Craft **YouTube Integration**. I paid a visit to the Apple Store to get my **iPhone screen replaced 🛠️**. I came out without a replacement; learn why in this episode [available on Apple's Podcast](https://podcasts.apple.com/us/podcast/thoughts-and-tribulations-of-a-compulsive-creator/id1703770016). 👀\n\n<audio controls=\"controls\" src=\"https://blog.numericcitizen.me/uploads/2023/ttcc-01-this-is-not-a-drill-with-tags.mp3\" preload=\"metadata\"><p><a href=\"https://blog.numericcitizen.me/transcripts/2023/08/26/432.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2023-08-26T09:47:07-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/26/episode-this-is.html",
+				"tags": ["Apple","Longer posts","Apps  Services","Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/26/poll-iphone-ultra.html",
+				
+				"content_html": "<p><strong>Poll</strong>: 1️⃣ iPhone 15 Ultra or 2️⃣ iPhone 15 Pro Ultra? <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup><!-- raw HTML omitted -->\nMy gut feeling is that if Apple really is going to use the Ultra, it would be tied to the Pro moniker, otherwise this would create confusion.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I Wish there was a poll feature on Micro.blog 🥺&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "**Poll**: 1️⃣ iPhone 15 Ultra or 2️⃣ iPhone 15 Pro Ultra? [^1]<p>\nMy gut feeling is that if Apple really is going to use the Ultra, it would be tied to the Pro moniker, otherwise this would create confusion. \n[^1]: I Wish there was a poll feature on Micro.blog 🥺\n",
+				"date_published": "2023-08-26T08:07:42-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/26/poll-iphone-ultra.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/25/snell-gruber-birchler.html",
+				
+				"content_html": "<p><a href=\"https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/\">Snell</a>, <a href=\"https://daringfireball.net/linked/2023/08/25/ipad-only-travel-dream\">Gruber</a>, <a href=\"https://birchtree.me/blog/jason-snell-travel-and-the-ipad/\">Birchler</a>, and I all agree about the iPad&rsquo;s limits. When we hit one of its limits, it becomes a reason to reconsider. <a href=\"https://numericcitizen.me/coming-out-of-a-rabbit-hole-and-buying-two-macbook-air/\">When I started using the MacBook Air</a>, it was when I accepted the simple fact that I would be more productive on the Mac than on the iPad. I love the iPad. This is the device I bring with me <a href=\"https://crafted.numericcitizen.me/italy2022\">on travel</a>, but I do know perfectly that some tasks will need to wait until I return home.</p>\n",
+				"content_text": "[Snell](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/), [Gruber](https://daringfireball.net/linked/2023/08/25/ipad-only-travel-dream), [Birchler](https://birchtree.me/blog/jason-snell-travel-and-the-ipad/), and I all agree about the iPad's limits. When we hit one of its limits, it becomes a reason to reconsider. [When I started using the MacBook Air](https://numericcitizen.me/coming-out-of-a-rabbit-hole-and-buying-two-macbook-air/), it was when I accepted the simple fact that I would be more productive on the Mac than on the iPad. I love the iPad. This is the device I bring with me [on travel](https://crafted.numericcitizen.me/italy2022), but I do know perfectly that some tasks will need to wait until I return home.\n",
+				"date_published": "2023-08-25T20:15:56-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/25/snell-gruber-birchler.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/25/on-dark-sky.html",
+				"title": "On Dark Sky and Apple's Weather",
+				"content_html": "<p><a href=\"https://nightingaledvs.com/dark-sky-weather-data-viz/\">A Eulogy for Dark Sky, a Data Visualization Masterpiece</a></p>\n<blockquote>\n<p>The design of Dark Sky was so wonderful that I could understand the shape of the weather at a glance, even from a zoomed out view of the app.</p>\n</blockquote>\n<p>Great analysis of the now-defunct <strong>Dark Sky</strong> weather app. I&rsquo;m a bit late on that one. I don&rsquo;t remember using Dark Sky because I think it wasn&rsquo;t working in Canada. I&rsquo;m not sure about this. Once Apple took over and brought the redesigned weather app with iOS 16, we could visually feel the Dark Sky&rsquo;s influence on it. But Apple being Apple, they dropped a few things here and there and made a few things their own. I tend to use <strong>Carrot Weather</strong> more, but recently, I deep-dived into Apple&rsquo;s Weather, and frankly, they did a good job. Yet, there was something unique in Dark Sky that I don&rsquo;t feel in Apple&rsquo;s offerings. Is it too close to the <strong>Yahoo Weather</strong> look &amp; feel? Maybe.</p>\n",
+				"content_text": " [A Eulogy for Dark Sky, a Data Visualization Masterpiece](https://nightingaledvs.com/dark-sky-weather-data-viz/)\r\n\r\n> The design of Dark Sky was so wonderful that I could understand the shape of the weather at a glance, even from a zoomed out view of the app.\r\n\r\nGreat analysis of the now-defunct **Dark Sky** weather app. I'm a bit late on that one. I don't remember using Dark Sky because I think it wasn't working in Canada. I'm not sure about this. Once Apple took over and brought the redesigned weather app with iOS 16, we could visually feel the Dark Sky's influence on it. But Apple being Apple, they dropped a few things here and there and made a few things their own. I tend to use **Carrot Weather** more, but recently, I deep-dived into Apple's Weather, and frankly, they did a good job. Yet, there was something unique in Dark Sky that I don't feel in Apple's offerings. Is it too close to the **Yahoo Weather** look & feel? Maybe. \n",
+				"date_published": "2023-08-25T19:23:28-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/25/on-dark-sky.html",
+				"tags": ["Apple","Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/25/were-truly-honoured.html",
+				
+				"content_html": "<blockquote>\n<p>We’re truly honoured to be able to announce that we have taken over development of Toolbox Pro, Logger for Shortcuts, and Nautomate. Source: <a href=\"https://snailedit.dev/2023/08/25/alex-hay-apps.html\">Toolbox Pro, Logger for Shortcuts, and Nautomate | Snailed It Development Ltd</a></p>\n</blockquote>\n<p>It is good to know that there is a future for this nifty utility. I plan to use it for a project involving <strong>Plausible analytics</strong> API consumption to display graphs using <strong>Charty</strong>on my iPhone.</p>\n",
+				"content_text": "> We’re truly honoured to be able to announce that we have taken over development of Toolbox Pro, Logger for Shortcuts, and Nautomate. Source: [Toolbox Pro, Logger for Shortcuts, and Nautomate | Snailed It Development Ltd](https://snailedit.dev/2023/08/25/alex-hay-apps.html)\r\n\r\nIt is good to know that there is a future for this nifty utility. I plan to use it for a project involving **Plausible analytics** API consumption to display graphs using **Charty**on my iPhone.\n",
+				"date_published": "2023-08-25T19:02:51-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/25/were-truly-honoured.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/25/im-a-big.html",
+				
+				"content_html": "<p>I&rsquo;m a big fan of <strong>AnyBox</strong> (<a href=\"https://youtu.be/I6CFHFOH7mc\">YouTube video</a>) and in the latest update (v1.27), information density increased a bit. I love it. 😍</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm a big fan of **AnyBox** ([YouTube video](https://youtu.be/I6CFHFOH7mc)) and in the latest update (v1.27), information density increased a bit. I love it. 😍\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/anybox-useful-tools2023-08-2220.04.442x.png\" width=\"600\" height=\"351\" alt=\"\">\n",
+				"date_published": "2023-08-25T19:00:00-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/25/im-a-big.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/25/getting-ready-for.html",
+				
+				"content_html": "<p>Getting ready for the <strong>next podcast edition</strong>, episode number uno! Fun or not-fun fact: Apple&rsquo;s Podcast Connect doesn&rsquo;t support &ldquo;Sign in with Apple&rdquo;. Weird.</p>\n",
+				"content_text": "Getting ready for the **next podcast edition**, episode number uno! Fun or not-fun fact: Apple's Podcast Connect doesn't support \"Sign in with Apple\". Weird. \n",
+				"date_published": "2023-08-25T07:45:33-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/25/getting-ready-for.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/24/am-i-alone.html",
+				
+				"content_html": "<p>Am I alone who happens to get the iPhone keyboard displayed on the iPad instead of the full-size keyboard? My wife experienced the same thing many times. We don&rsquo;t know how to make this thing revert to the normal size keyboard. Easy to make it disappear, but when it comes back, it&rsquo;s still the small version. Very annoying to type on this.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Am I alone who happens to get the iPhone keyboard displayed on the iPad instead of the full-size keyboard? My wife experienced the same thing many times. We don't know how to make this thing revert to the normal size keyboard. Easy to make it disappear, but when it comes back, it's still the small version. Very annoying to type on this. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-8891.jpeg\" width=\"600\" height=\"468\" alt=\"\">\n",
+				"date_published": "2023-08-24T21:39:09-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/24/am-i-alone.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/24/im-probably-the.html",
+				
+				"content_html": "<p>I&rsquo;m probably the only one, but I liked the <strong>Touch Bar</strong> on my <strong>2017 MacBook Pro</strong> at work. 🤷🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm probably the only one, but I liked the **Touch Bar** on my **2017 MacBook Pro** at work. 🤷🏻‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-8542.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-08-24T21:29:41-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/24/im-probably-the.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/24/at-the-food.html",
+				
+				"content_html": "<p>At the food court. The guy beside me is listening to some cheap TV show on his cheap-no-name Android speakerphone. Can you imagine if we all did the same? Even if he were using a top-of-the-line iPhone, I would judge him. 🤦🏻‍♂️🙉  Humans…</p>\n",
+				"content_text": "At the food court. The guy beside me is listening to some cheap TV show on his cheap-no-name Android speakerphone. Can you imagine if we all did the same? Even if he were using a top-of-the-line iPhone, I would judge him. 🤦🏻‍♂️🙉  Humans… \n",
+				"date_published": "2023-08-24T12:20:46-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/24/at-the-food.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/08/24/working-at-the.html",
+				
+				"content_html": "<p>Working at the office today. Summer vacations are still ongoing hence so few people here. It’s always a reminder of the covid pandemic. This place used to be much more lively. Everything still feels different. 😒 We will never get back to pre-2020 world.</p>\n",
+				"content_text": "Working at the office today. Summer vacations are still ongoing hence so few people here. It’s always a reminder of the covid pandemic. This place used to be much more lively. Everything still feels different. 😒 We will never get back to pre-2020 world. \n",
+				"date_published": "2023-08-24T11:54:29-04:00",
+				"url": "https://blog.numericcitizen.me/2023/08/24/working-at-the.html",
+				"tags": ["Personal","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/08/24/ive-been-working.html",
 				
 				"content_html": "<p>I’ve been working on this for my podcast. You can tell that I’m no graphic designer. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’ve been working on this for my podcast. You can tell that I’m no graphic designer. 😆\n\n<img src=\"uploads/2023/4a5962ab94.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I’ve been working on this for my podcast. You can tell that I’m no graphic designer. 😆\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/4a5962ab94.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-24T08:40:18-04:00",
 				"url": "https://blog.numericcitizen.me/2023/08/24/ive-been-working.html",
 				"tags": ["Photography","Newsletter","Podcast"]
@@ -19,7 +181,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/08/24/i-glanced-at.html",
 				
 				"content_html": "<p>I glanced at photographers and photos on <strong>Glass</strong> this morning and realized that most photographers are men. Is it reflective of the photographers' community in general? Photography is a men&rsquo;s world?? I&rsquo;d love to see more women because of their different sensibilities.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I glanced at photographers and photos on **Glass** this morning and realized that most photographers are men. Is it reflective of the photographers' community in general? Photography is a men's world?? I'd love to see more women because of their different sensibilities.\r\n\n\n<img src=\"uploads/2023/-numericcitizen-a-group-of-women-photographers-of-all-ages-with-482be6d9-72.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I glanced at photographers and photos on **Glass** this morning and realized that most photographers are men. Is it reflective of the photographers' community in general? Photography is a men's world?? I'd love to see more women because of their different sensibilities.\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/-numericcitizen-a-group-of-women-photographers-of-all-ages-with-482be6d9-72.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-24T06:45:45-04:00",
 				"url": "https://blog.numericcitizen.me/2023/08/24/i-glanced-at.html",
 				"tags": ["Photography","Newsletter"]
