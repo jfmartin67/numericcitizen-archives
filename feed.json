@@ -7,6 +7,302 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/09/25/i-read-in.html",
+				
+				"content_html": "<p>I read in recent days that the <strong>Craft</strong> team is supposedly very interested and invested in <strong>AI for Craft</strong>. I&rsquo;m not sure if this is good news. Notes and document-writing apps should focus on the core experience and capabilities to support the writing process. Today, I don&rsquo;t see AI at the core for most people (yet). AI should be a complementary feature. There are so many things to be improves and fixed in Craft; I&rsquo;m afraid they spend too much time on the AI stuff while neglecting the bugs and highly requested basic features, again.😔</p>\n",
+				"content_text": "I read in recent days that the **Craft** team is supposedly very interested and invested in **AI for Craft**. I'm not sure if this is good news. Notes and document-writing apps should focus on the core experience and capabilities to support the writing process. Today, I don't see AI at the core for most people (yet). AI should be a complementary feature. There are so many things to be improves and fixed in Craft; I'm afraid they spend too much time on the AI stuff while neglecting the bugs and highly requested basic features, again.😔\n",
+				"date_published": "2023-09-25T13:01:58-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/25/i-read-in.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/25/one-of-the.html",
+				
+				"content_html": "<p>One of the most confusing parts of iOS and iPadOS UI: configuring <strong>the share sheet options</strong>. The ⊕ sign and the toggle meaning are utterly confusing each time I visit this portion of the UI. The fact that some non-favourite items can be toggled on or off is probably part of the explanation for my confusion. I&rsquo;m confused about my confusion. I must be getting old. 👴🏻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One of the most confusing parts of iOS and iPadOS UI: configuring **the share sheet options**. The ⊕ sign and the toggle meaning are utterly confusing each time I visit this portion of the UI. The fact that some non-favourite items can be toggled on or off is probably part of the explanation for my confusion. I'm confused about my confusion. I must be getting old. 👴🏻\n\n<img src=\"uploads/2023/sunday-24-sep-2023-100331.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-25T07:20:39-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/25/one-of-the.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/25/the-usefulness-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>I do exactly the same but for a subject that I don&rsquo;t really know. I&rsquo;m curious to know if Google&rsquo;s traffic is affected by this change of behaviour.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Drew McCormack\" data-avatar=\"https://micro.blog/drewmccormack@mastodon.cloud/avatar.jpg\" cite=\"https://mastodon.cloud/@drewmccormack/111124631941983536\"><p>The usefulness of ChatGPT for me is as a replacement for using Google when I have to learn something new (eg an API). Formerly, I would have Googled, and then visited a bunch of results, and learnt a little on each page until I had built up an answer for myself. </p><p>I see ChatGPT as a Google mashup. It takes those Google results, and mixes them up to give me a more direct answer to my question. Previously, my own brain would have to do that mashup.</p><footer>Drew McCormack <cite><a href=\"https://mastodon.cloud/@drewmccormack/111124631941983536\" class=\"u-in-reply-to\">https://mastodon.cloud/@drewmccormack/111124631941983536</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nI do exactly the same but for a subject that I don't really know. I'm curious to know if Google's traffic is affected by this change of behaviour. \r\n",
+				"date_published": "2023-09-25T07:15:54-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/25/the-usefulness-of.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/24/shot-on-iphone.html",
+				
+				"content_html": "<p><strong>Shot on iPhone 15 Pro Max</strong> with the telephoto lens, at 25x digital zoom. The best I could do with a lot of post-processing tweaks (tweaked the saturation, highlight, contrast, sharpening, noise reduction, etc.) 😅</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "**Shot on iPhone 15 Pro Max** with the telephoto lens, at 25x digital zoom. The best I could do with a lot of post-processing tweaks (tweaked the saturation, highlight, contrast, sharpening, noise reduction, etc.) 😅\n\n<img src=\"uploads/2023/img-8987.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-24T19:31:47-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/24/shot-on-iphone.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/24/i-finally-found.html",
+				
+				"content_html": "<p>I finally found THE use case for the <strong>Action Button</strong>: running a shortcut<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> to 1) take a screen capture and 2) run the <strong>Apple Frame</strong> shortcut. It&rsquo;s super handy. The camera already has a button on the screen that is easier to grab when I want to take a picture.</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Haptly named &ldquo;Action Button&rdquo;.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I finally found THE use case for the **Action Button**: running a shortcut[^1] to 1) take a screen capture and 2) run the **Apple Frame** shortcut. It's super handy. The camera already has a button on the screen that is easier to grab when I want to take a picture.\r\n[^1]: Haptly named \"Action Button\". \n\n<img src=\"uploads/2023/sunday-24-sep-2023-172622.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-24T17:28:19-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/24/i-finally-found.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/24/i-am-trying.html",
+				
+				"content_html": "<p>I am trying to figure out a new sound recording setup using voice isolation with my iPhone 15 Pro Max connected to my Mac mini with USB-C<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. Tell me what you think. Sample <a href=\"https://go.numericcitizen.me/fsBL1twA\">here</a>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>My Finch Lavalier microphone with Lightning connector is now useless.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I am trying to figure out a new sound recording setup using voice isolation with my iPhone 15 Pro Max connected to my Mac mini with USB-C[^1]. Tell me what you think. Sample [here](https://go.numericcitizen.me/fsBL1twA).\r\n\r\n[^1]: My Finch Lavalier microphone with Lightning connector is now useless.\n",
+				"date_published": "2023-09-24T15:13:47-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/24/i-am-trying.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/24/here-is-my.html",
+				
+				"content_html": "<p>Here is <a href=\"https://crafted.numericcitizen.me/creative-summary-2023-38\">my weekly creative summary newsletter for 2023/38</a>, in Craft format. Website and newsletter coming up soon. 😅👨🏻‍💻</p>\n",
+				"content_text": "Here is [my weekly creative summary newsletter for 2023/38](https://crafted.numericcitizen.me/creative-summary-2023-38), in Craft format. Website and newsletter coming up soon. 😅👨🏻‍💻\n",
+				"date_published": "2023-09-24T14:07:21-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/24/here-is-my.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/24/my-interview-with.html",
+				"title": "My Interview with Manton Reece of Micro.blog",
+				"content_html": "<p>I had the chance to spend some time with Manton Reece and ask him a few questions about <a href=\"https://cultmtl.com/2023/08/best-poutine-restaurants-in-montreal-2023-best-of-mtl-la-banquise-ma-poule-mouillee-la-belle-province-patati-patata-poutineville/\">Montreal’s poutine</a>, Apple’s power and the App Store, Twitter<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> and the future of Micro.blog. I hope you enjoy <a href=\"https://youtu.be/vSssU-2LBUk\">the interview</a> as much as I did doing it.😊</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/vSssU-2LBUk' frameborder='0' allowfullscreen></iframe></div>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I refuse to name this otherwise.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I had the chance to spend some time with Manton Reece and ask him a few questions about [Montreal’s poutine](https://cultmtl.com/2023/08/best-poutine-restaurants-in-montreal-2023-best-of-mtl-la-banquise-ma-poule-mouillee-la-belle-province-patati-patata-poutineville/), Apple’s power and the App Store, Twitter[^1] and the future of Micro.blog. I hope you enjoy [the interview](https://youtu.be/vSssU-2LBUk) as much as I did doing it.😊\n\n{{<youtube \"vSssU-2LBUk\">}}\n\n<div class=\"subscribe-form\" style=\"border: 2px solid var(--link); padding: 0 20px 20px 20px; border-radius: 5px; margin-bottom: 20px;\">\n\n<h3>Subscribe</h3>\n\n<p>Signup to receive monthly digest email on the first day of the month in your inbox. Optionally, you can also<a href=\"https://feedpress.me/numericcitizen-blog.xml\">subscribe via RSS</a>.</p>\n\n<form method=\"POST\" action=\"[micro.blog/users/sub...](https://micro.blog/users/subscribe/6803)\">\n\n <input type=\"text\" name=\"email\" size=\"30\" placeholder=\"Your email address\" />\n\n <input type=\"submit\" value=\"Subscribe\" />\n\n</form>\n\n</div>\n\n[^1]:\tI refuse to name this otherwise.\n",
+				"date_published": "2023-09-24T07:00:05-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/24/my-interview-with.html",
+				"tags": ["Misc","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/23/the-first-few.html",
+				
+				"content_html": "<p>The first few iPhone 15 Pro Max images <a href=\"https://glass.photo/explore/cameras/apple/iphone-15-pro-max\">are making their way onto Glass</a>. Mine included. 👈🏻</p>\n",
+				"content_text": "The first few iPhone 15 Pro Max images [are making their way onto Glass](https://glass.photo/explore/cameras/apple/iphone-15-pro-max). Mine included. 👈🏻\n",
+				"date_published": "2023-09-23T20:35:45-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/23/the-first-few.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/23/testing-iphone-pro.html",
+				
+				"content_html": "<p>Testing iPhone 15 Pro Max telephoto lens. No processing. Shot in HEIF.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Testing iPhone 15 Pro Max telephoto lens. No processing. Shot in HEIF. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/e70efa0a1e.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-23T14:46:01-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/23/testing-iphone-pro.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/23/im-about-to.html",
+				
+				"content_html": "<p>😏 I&rsquo;m about to begin something special that I can&rsquo;t wait to share with you before the end of the week-end. I hope everything works fine<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. 👀</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Wish me luck. Or, wish &ldquo;us&rdquo; look would be more appropriate!&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "😏 I'm about to begin something special that I can't wait to share with you before the end of the week-end. I hope everything works fine[^1]. 👀\n\n[^1]: Wish me luck. Or, wish \"us\" look would be more appropriate! \n",
+				"date_published": "2023-09-23T09:36:10-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/23/im-about-to.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/23/now-its-confirmed.html",
+				
+				"content_html": "<p>Now it&rsquo;s confirmed: my <strong>Finch Lavalier microphone</strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> doesn&rsquo;t work with Apple&rsquo;s <strong>USB-C to Lightning adaptor</strong> with the iPhone 15 Pro USB-C post. I repeat: it doesn&rsquo;t work. It&rsquo;s the first official and confirmed victim of the transition to USB-C. I&rsquo;ll have to figure out a new solution for my podcast and YouTube video recording<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. 😡</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>a third-party review <a href=\"https://www.mbreviews.com/pixel-finch-lavalier-microphone-review/\">here</a>&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>the iPhone&rsquo;s microphone with voice isolation could be enough.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Now it's confirmed: my **Finch Lavalier microphone**[^1] doesn't work with Apple's **USB-C to Lightning adaptor** with the iPhone 15 Pro USB-C post. I repeat: it doesn't work. It's the first official and confirmed victim of the transition to USB-C. I'll have to figure out a new solution for my podcast and YouTube video recording[^2]. 😡\r\n\r\n[^1]: a third-party review [here](https://www.mbreviews.com/pixel-finch-lavalier-microphone-review/)\r\n[^2]: the iPhone's microphone with voice isolation could be enough. \n",
+				"date_published": "2023-09-23T06:46:25-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/23/now-its-confirmed.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/23/well-now-one.html",
+				
+				"content_html": "<p>Well, now one of my Apple Watch<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> won’t pair with my new iPhone since the migration was completed yesterday. It’s the one that I wasn’t wearing. Rebooting the watch doesn’t help. Rebooting the phone doesn’t help. Now what? 🤔</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I’ve got two: a Series 6 for the night, a Series 8 for the day.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Well, now one of my Apple Watch[^1] won’t pair with my new iPhone since the migration was completed yesterday. It’s the one that I wasn’t wearing. Rebooting the watch doesn’t help. Rebooting the phone doesn’t help. Now what? 🤔\n\n[^1]:\tI’ve got two: a Series 6 for the night, a Series 8 for the day. \n",
+				"date_published": "2023-09-23T06:33:23-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/23/well-now-one.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/22/iphone-pro-max.html",
+				"title": "iPhone 15 Pro Max - First Impressions",
+				"content_html": "<p>It feels great in hand, similar in fact to the weight of my iPhone 13 Pro (not the Max), which is great. The back is darker than my iPhone 11 Pro, and I love it. I&rsquo;m quite happy with the darker black. It&rsquo;s a bit darker than I thought. It&rsquo;s definitively a finger magnet.  It’s very soft to the touch. Rounded contours are really making a difference. The device feels more approachable. The screen is so nice. The setup process is superbly executed. An update to iOS was required before transferring the content from my iPhone 13 Pro. Yet, there were many apps which required reentering my credentials. Data transfer was estimated at one hour<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. The data transfer took about 45 minutes. The Always On display is&hellip; always on. 😳 I don&rsquo;t know if I&rsquo;ll keep that option&hellip; on.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>At that point, the WiFi logo disappeared and I started wondering if the data was going through 5G instead. That was curious. It&rsquo;s not possible because my new phone didn&rsquo;t have the SIM call installed yet.  Or maybe it was going through Bluetooth or through a point-to-point WiFi connection?&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "It feels great in hand, similar in fact to the weight of my iPhone 13 Pro (not the Max), which is great. The back is darker than my iPhone 11 Pro, and I love it. I'm quite happy with the darker black. It's a bit darker than I thought. It's definitively a finger magnet.  It’s very soft to the touch. Rounded contours are really making a difference. The device feels more approachable. The screen is so nice. The setup process is superbly executed. An update to iOS was required before transferring the content from my iPhone 13 Pro. Yet, there were many apps which required reentering my credentials. Data transfer was estimated at one hour[^1]. The data transfer took about 45 minutes. The Always On display is... always on. 😳 I don't know if I'll keep that option... on.\r\n[^1]:  At that point, the WiFi logo disappeared and I started wondering if the data was going through 5G instead. That was curious. It's not possible because my new phone didn't have the SIM call installed yet.  Or maybe it was going through Bluetooth or through a point-to-point WiFi connection? \n",
+				"date_published": "2023-09-22T22:07:36-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/22/iphone-pro-max.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/22/here-is-a.html",
+				
+				"content_html": "<p>Here is a weird one: I&rsquo;m using <strong>iCloud+ Custom Domain</strong> with an email address (<a href=\"mailto:hello@numericcitizen.me\">hello@numericcitizen.me</a>). Mail on iOS 17 doesn&rsquo;t allow me to set the &ldquo;From:&rdquo; as the email address for this custom domain. It&rsquo;s only possible on iCloud.com. Am I missing something?</p>\n",
+				"content_text": "Here is a weird one: I'm using **iCloud+ Custom Domain** with an email address (hello@numericcitizen.me). Mail on iOS 17 doesn't allow me to set the \"From:\" as the email address for this custom domain. It's only possible on iCloud.com. Am I missing something? \n",
+				"date_published": "2023-09-22T15:42:26-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/22/here-is-a.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/22/when-journalists-arent.html",
+				"title": "When Journalists Aren't Any Better Than ChatGPT",
+				"content_html": "<p>In the <strong>&ldquo;Craptacular Is More Like It&rdquo;</strong> <a href=\"https://daringfireball.net/2023/09/craptacular_is_more_like_it\">article</a>, this is <a href=\"https://micro.blog/gruber@mastodon.social\">@gruber@mastodon.social</a> at its best. I read the original article earlier this week and concluded that Apple had difficult times ahead with its modem development. This morning, in my usual reading routine, I read the article from Mr. Gruber, and I think it succeeds in demonstrating this: the original article wasn&rsquo;t any better than any ChatGPT-generated content.</p>\n<p>Now I feel that I was deceived by the journalist who tried to fill me with unverified and barely possible facts tied together based on thin air. And you would think journalists can do better than AI-generated work? Not always. Thanks to Mr. Gruber for that one.</p>\n",
+				"content_text": "In the **\"Craptacular Is More Like It\"** [article](https://daringfireball.net/2023/09/craptacular_is_more_like_it), this is [@gruber@mastodon.social](https://micro.blog/gruber@mastodon.social) at its best. I read the original article earlier this week and concluded that Apple had difficult times ahead with its modem development. This morning, in my usual reading routine, I read the article from Mr. Gruber, and I think it succeeds in demonstrating this: the original article wasn't any better than any ChatGPT-generated content.\r\n\r\nNow I feel that I was deceived by the journalist who tried to fill me with unverified and barely possible facts tied together based on thin air. And you would think journalists can do better than AI-generated work? Not always. Thanks to Mr. Gruber for that one.\n",
+				"date_published": "2023-09-22T07:20:48-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/22/when-journalists-arent.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/21/a-better-title.html",
+				
+				"content_html": "<p>A better title for episode 4 could have been <strong>&ldquo;The Day I Met John Gruber&rdquo;</strong>. Oh well. I&rsquo;ll ask ChatGPT the next time.</p>\n",
+				"content_text": "A better title for episode 4 could have been **\"The Day I Met John Gruber\"**. Oh well. I'll ask ChatGPT the next time.\n",
+				"date_published": "2023-09-21T20:40:00-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/21/a-better-title.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/21/it-took-way.html",
+				
+				"content_html": "<p>It took way too long to record, process and publish <strong>my latest podcast episode</strong>. I must tweak my workflow ASAP. It was supposed to be a &ldquo;quick and easy thing&rdquo;, but it isn&rsquo;t. It is unsustainable. 😑 Why is everything so hard for me.. grrr. 😒</p>\n",
+				"content_text": "It took way too long to record, process and publish **my latest podcast episode**. I must tweak my workflow ASAP. It was supposed to be a \"quick and easy thing\", but it isn't. It is unsustainable. 😑 Why is everything so hard for me.. grrr. 😒\n",
+				"date_published": "2023-09-21T20:24:43-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/21/it-took-way.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/21/201423.html",
+				"title": "Episode 04 — Did You Know?",
+				"content_html": "<p>Inspired by a recent podcast episode where <strong>Martin Feld</strong> interviewed <strong>John Gruber</strong>, for this fourth podcast episode, I decided to talk about my early years as a blogger.</p>\n<p><strong>Links</strong>:</p>\n<ul>\n<li>Really Specific Stories podcast: <a href=\"https://pca.st/pcp6rwjs\">https://pca.st/pcp6rwjs</a></li>\n<li>Interview with John Gruber episode: <a href=\"https://pca.st/i0xdkxfh\">https://pca.st/i0xdkxfh</a>, his announcement on his blog: <a href=\"https://daringfireball.net/linked/2023/09/20/really-specific-stories-yours-truly\">https://daringfireball.net/linked/2023/09/20/really-specific-stories-yours-truly</a></li>\n<li>A reply to John Gruber about his interview: <a href=\"https://micro.blog/numericcitizen/23822941\">https://micro.blog/numericcitizen/23822941</a></li>\n<li>Search for the “BuildingiPhoneApps” keyword on <a href=\"https://web.archive.org/web/20100412141407/http://www.buildingiphoneapps.com/\">the internet archive</a> for a glimpse of my very first blog, and locate 2010 and beyond on the timeline.</li>\n</ul>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Inspired by a recent podcast episode where **Martin Feld** interviewed **John Gruber**, for this fourth podcast episode, I decided to talk about my early years as a blogger.\r\n\r\n**Links**:\r\n\r\n- Really Specific Stories podcast: [https://pca.st/pcp6rwjs](https://pca.st/pcp6rwjs)\r\n- Interview with John Gruber episode: [https://pca.st/i0xdkxfh](https://pca.st/i0xdkxfh), his announcement on his blog: [https://daringfireball.net/linked/2023/09/20/really-specific-stories-yours-truly](https://daringfireball.net/linked/2023/09/20/really-specific-stories-yours-truly)\r\n- A reply to John Gruber about his interview: [https://micro.blog/numericcitizen/23822941](https://micro.blog/numericcitizen/23822941)\r\n- Search for the “BuildingiPhoneApps” keyword on [the internet archive](https://web.archive.org/web/20100412141407/http://www.buildingiphoneapps.com/) for a glimpse of my very first blog, and locate 2010 and beyond on the timeline.\n\n<audio controls=\"controls\" src=\"https://blog.numericcitizen.me/uploads/2023/ttc04-did-you-know.mp3\" preload=\"metadata\"><p><a href=\"https://blog.numericcitizen.me/transcripts/2023/09/21/504.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2023-09-21T20:14:23-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/21/201423.html",
+				"tags": ["Blogging","Longer posts","Newsletter","Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/21/my-expectations-for.html",
+				
+				"content_html": "<p>My expectations for the <strong>iPhone 15 Pro Max</strong> fit and finish and how it feels in my hands are very high. I&rsquo;m looking for something similar to the iPhone 4s, iPhone 5 and iPhone 7 feelings&hellip; those never were matched by subsequent iPhones.</p>\n",
+				"content_text": "My expectations for the **iPhone 15 Pro Max** fit and finish and how it feels in my hands are very high. I'm looking for something similar to the iPhone 4s, iPhone 5 and iPhone 7 feelings... those never were matched by subsequent iPhones.\n",
+				"date_published": "2023-09-21T14:50:25-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/21/my-expectations-for.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/21/my-iphone-pro.html",
+				
+				"content_html": "<p>My <strong>iPhone 15 Pro Max</strong> is still in “Preparing to ship” state. Delivery is scheduled for tomorrow. I’m guessing the device is waiting in a warehouse somewhere near Toronto or in Canada. 🙏🏻🤓</p>\n",
+				"content_text": "My **iPhone 15 Pro Max** is still in “Preparing to ship” state. Delivery is scheduled for tomorrow. I’m guessing the device is waiting in a warehouse somewhere near Toronto or in Canada. 🙏🏻🤓\n",
+				"date_published": "2023-09-21T07:10:37-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/21/my-iphone-pro.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/21/i-rarely-visit.html",
+				"title": "I Rarely Visit the App Store",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/app-store-ios17-2023.png\" alt=\"\"></p>\n<p>I opened the <strong>App Store</strong> this Monday to see how Apple would promote new app releases supporting iOS 17. Then I realized that I rarely open the App Store except to go and get app updates. When was the last time I went to browse the productivity category? When did I last browse the store for popular photography apps or new utilities? I can’t even remember when I last bought an app discovered in the App Store<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I wonder if this is only me or reflects a more general trend.🤔</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I usually make my discoveries by external reference.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2023/app-store-ios17-2023.png)\n\nI opened the **App Store** this Monday to see how Apple would promote new app releases supporting iOS 17. Then I realized that I rarely open the App Store except to go and get app updates. When was the last time I went to browse the productivity category? When did I last browse the store for popular photography apps or new utilities? I can’t even remember when I last bought an app discovered in the App Store[^1]. I wonder if this is only me or reflects a more general trend.🤔\n\n[^1]:\tI usually make my discoveries by external reference.\n",
+				"date_published": "2023-09-21T06:38:15-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/21/i-rarely-visit.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/20/wheres-the-magic.html",
+				"title": "Where's The Magic in Adaptive Audio?",
+				"content_html": "<p><a href=\"https://birchtree.me/blog/adaptive-audio-and-conversation-awareness-dont-click-for-me/\">Adaptive Audio and Conversation Awareness don&rsquo;t click for me</a></p>\n<blockquote>\n<p>I&rsquo;ve been using Apple&rsquo;s new AirPods features for the past week, and I&rsquo;m sad to say that I don&rsquo;t really understand either of them</p>\n</blockquote>\n<p>I&rsquo;m with Matt here. I fail to find the magic here. I&rsquo;ve read Gruber&rsquo;s take on the AirPods Pro 2 with USB-C, and I&rsquo;m afraid I don&rsquo;t feel anything magical about <strong>Adaptive Audio</strong>. When activated, I hear too much from the surroundings; I prefer noise cancellation. Can we get adaptive noise cancellation instead? 🤔</p>\n<p>I feel that Apple&rsquo;s engineers couldn&rsquo;t figure out which new audio profiles to include and couldn&rsquo;t decide, and they suggested including both. Then, the marketing guys came in and named these profiles Adaptive Audio and Conversation Awareness. Boom. I&rsquo;m half-joking here.</p>\n<p>I&rsquo;ll keep trying in the next few days to find the magic.</p>\n",
+				"content_text": " [Adaptive Audio and Conversation Awareness don't click for me](https://birchtree.me/blog/adaptive-audio-and-conversation-awareness-dont-click-for-me/)\r\n\r\n> I've been using Apple's new AirPods features for the past week, and I'm sad to say that I don't really understand either of them\r\n\r\nI'm with Matt here. I fail to find the magic here. I've read Gruber's take on the AirPods Pro 2 with USB-C, and I'm afraid I don't feel anything magical about **Adaptive Audio**. When activated, I hear too much from the surroundings; I prefer noise cancellation. Can we get adaptive noise cancellation instead? 🤔\r\n\r\nI feel that Apple's engineers couldn't figure out which new audio profiles to include and couldn't decide, and they suggested including both. Then, the marketing guys came in and named these profiles Adaptive Audio and Conversation Awareness. Boom. I'm half-joking here.\r\n\r\nI'll keep trying in the next few days to find the magic. \n",
+				"date_published": "2023-09-20T20:10:53-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/20/wheres-the-magic.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/20/how-i-automatically.html",
+				
+				"content_html": "<p><a href=\"https://heydingus.net/blog/2023/9/how-i-automatically-include-a-blog-description-in-my-rss-feed\">How I Automatically Include a Blog Description in My RSS Feed</a></p>\n<blockquote>\n<p>I’ve been asked a couple of times how I get this short site description to be included in every entry of my RSS feed.</p>\n</blockquote>\n<p>I&rsquo;m one of those curious who asked the question. Wondering if this could be addressed via a new plugin by <a href=\"https://micro.blog/Mtt\">@Mtt</a> or by <a href=\"https://micro.blog/manton\">@manton</a> Micro.blog base service.</p>\n",
+				"content_text": " [How I Automatically Include a Blog Description in My RSS Feed](https://heydingus.net/blog/2023/9/how-i-automatically-include-a-blog-description-in-my-rss-feed)\r\n\r\n> I’ve been asked a couple of times how I get this short site description to be included in every entry of my RSS feed.\r\n\r\nI'm one of those curious who asked the question. Wondering if this could be addressed via a new plugin by [@Mtt](https://micro.blog/Mtt) or by [@manton](https://micro.blog/manton) Micro.blog base service. \n",
+				"date_published": "2023-09-20T07:51:05-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/20/how-i-automatically.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/19/review-of-reviews.html",
+				"title": "Review of Reviews: Great Updates to Already Great iPhone but...",
+				"content_html": "<p>Today, I read many <strong>iPhone 15 Pro reviews</strong> and watched many YouTube videos too. For some reason, I get the feeling of a slight deception mood across many reviewers. Those are great upgrades, but since they are compared to last year&rsquo;s iPhone, the improvements are dimmed as mostly minor. A mentioned the superiority of the iPhone in the video recording field, but in the photography field, it&rsquo;s less clear. Sharpening seems a tad less aggressive with more natural tones. The 24MP resolution by default is a welcomed addition, and yet&hellip; it&rsquo;s not a home run. Device physical tweaks are unanimously welcomed, though. Maybe tomorrow, my interpretation will be different. 🤷🏻‍♂️</p>\n",
+				"content_text": "Today, I read many **iPhone 15 Pro reviews** and watched many YouTube videos too. For some reason, I get the feeling of a slight deception mood across many reviewers. Those are great upgrades, but since they are compared to last year's iPhone, the improvements are dimmed as mostly minor. A mentioned the superiority of the iPhone in the video recording field, but in the photography field, it's less clear. Sharpening seems a tad less aggressive with more natural tones. The 24MP resolution by default is a welcomed addition, and yet... it's not a home run. Device physical tweaks are unanimously welcomed, though. Maybe tomorrow, my interpretation will be different. 🤷🏻‍♂️\n",
+				"date_published": "2023-09-19T22:05:04-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/19/review-of-reviews.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/19/its-going-to.html",
+				
+				"content_html": "<p>It&rsquo;s going to be a big phone. Got my <strong>Peak Design iPhone case</strong> yesterday😃. I like it. Great design<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> and nice feeling to the touch.</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I worry a bit about the effectiveness of the case buttons when pressed against the iPhone&rsquo;s buttons. Lack of &ldquo;travel&rdquo; will diminish the pressing effect.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "It's going to be a big phone. Got my **Peak Design iPhone case** yesterday😃. I like it. Great design[^1] and nice feeling to the touch.\r\n[^1]: I worry a bit about the effectiveness of the case buttons when pressed against the iPhone's buttons. Lack of \"travel\" will diminish the pressing effect. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-8898.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-19T09:11:36-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/19/its-going-to.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/18/playing-with-recently.html",
+				
+				"content_html": "<p>Playing with recently updated apps and their respective <strong>interactive widgets</strong>. They all come out to their default view. Rebooting the iPhone is mandatory to fix this issue. Adding another widget and again defaults to the blank screen.🤦🏻‍♂️ <strong>iOS 17.0.1</strong>, I guess, will help fix this.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Playing with recently updated apps and their respective **interactive widgets**. They all come out to their default view. Rebooting the iPhone is mandatory to fix this issue. Adding another widget and again defaults to the blank screen.🤦🏻‍♂️ **iOS 17.0.1**, I guess, will help fix this.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/monday-18-sep-2023-114344.png\" width=\"311\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-18T13:06:04-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/18/playing-with-recently.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/18/some-thoughts-about.html",
+				"title": "Some Thoughts About Apps Support of StandBy Mode and Interactive Widgets",
+				"content_html": "<p>Many apps are getting updates today and this week. Yes! 😃 But, so far, I have found some bugs in iOS 17 to display <strong>interactive widget</strong> content once they are added. They often stay blank with a white background. Rebooting doesn&rsquo;t help. I don&rsquo;t know if it is an iOS 17 bug or an issue with the app. 🤔 One design issue: if an app supports the <strong>StandBy mode</strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, it should also support the landscape orientation, not only the portrait orientation. Tapping a widget to launch the app and the app comes up in portrait mode. It&rsquo;s bad. WaterMinder is such an example, and&hellip; Apple&rsquo;s Stocks app! The latter is inexcusable. In general, StandBy mode seems a work-in-press, to be honest.<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>this is how the StandBy mode is triggered on the iPhone.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Make no mistake, I do like it a lot, though.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Many apps are getting updates today and this week. Yes! 😃 But, so far, I have found some bugs in iOS 17 to display **interactive widget** content once they are added. They often stay blank with a white background. Rebooting doesn't help. I don't know if it is an iOS 17 bug or an issue with the app. 🤔 One design issue: if an app supports the **StandBy mode**[^1], it should also support the landscape orientation, not only the portrait orientation. Tapping a widget to launch the app and the app comes up in portrait mode. It's bad. WaterMinder is such an example, and... Apple's Stocks app! The latter is inexcusable. In general, StandBy mode seems a work-in-press, to be honest.[^2]\r\n[^1]: this is how the StandBy mode is triggered on the iPhone.\r\n[^2]: Make no mistake, I do like it a lot, though. \n",
+				"date_published": "2023-09-18T10:21:24-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/18/some-thoughts-about.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/17/after-three-years.html",
+				
+				"content_html": "<p>After three years of availability, I experienced the first <strong>App Clips</strong> case today. I was close to a Dairy Queen-type so I was presented with an App Clips allowing ordering from my iPhone. There aren&rsquo;t a lot of App Clips, apparently.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "After three years of availability, I experienced the first **App Clips** case today. I was close to a Dairy Queen-type so I was presented with an App Clips allowing ordering from my iPhone. There aren't a lot of App Clips, apparently. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/sunday-17-sep-2023-133647.png\" width=\"600\" height=\"566\" alt=\"\">\n",
+				"date_published": "2023-09-17T21:16:29-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/17/after-three-years.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/17/whos-reading-my.html",
+				
+				"content_html": "<p>Who’s reading my weekly creative summary? Do you like? If not, why? I’m genuinely curious. 🧐</p>\n",
+				"content_text": "Who’s reading my weekly creative summary? Do you like? If not, why? I’m genuinely curious. 🧐\n",
+				"date_published": "2023-09-17T19:17:52-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/17/whos-reading-my.html",
+				"tags": ["Blogging","Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/16/this-is-how.html",
+				
+				"content_html": "<p>This is how much forests burned so far this summer in Canada. ☹️ There are still close to a thousand fires still in action. This is freaking bad for so many reasons. First, we need forests to remove CO2. In a sense, removing trees diminishes the capacity of nature to limit climate change. We lose this capability.  Second, all that burning created a lot of CO2. Third, it will take half a century to regain those lost forests.😔 It&rsquo;s really hard to feel positive about our future.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is how much forests burned so far this summer in Canada. ☹️ There are still close to a thousand fires still in action. This is freaking bad for so many reasons. First, we need forests to remove CO2. In a sense, removing trees diminishes the capacity of nature to limit climate change. We lose this capability.  Second, all that burning created a lot of CO2. Third, it will take half a century to regain those lost forests.😔 It's really hard to feel positive about our future. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/safari-plus-de-17-millions-dhectares-de-fort-brle-a-ressemble--quoiradio-ca.png\" width=\"600\" height=\"278\" alt=\"\">\n",
+				"date_published": "2023-09-16T08:30:36-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/16/this-is-how.html",
+				"tags": ["Photography","Newsletter","Climate"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/15/testing-apples-usbc.html",
+				"title": "Testing Apple's USB-C to Lightning Adaptor with iPad Pro",
+				"content_html": "<p>I wanted to follow up a <a href=\"https://blog.numericcitizen.me/2023/09/11/first-world-problem.html\">previous post of mine</a> about using my Lightning-based Lavalier microphone with a USB-C device, like my 2018 iPad Pro<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I ordered the USB-C to Lightning adaptor on the day of the Apple keynote. I got it this morning. If you are wondering if it works with Ferrite and Apple&rsquo;s Voice Memos on my iPad Pro? No, it doesn&rsquo;t.😔</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>A positive conclusion would have been a good sign on the prospect of making it work with the upcoming iPhone 15 Pro Max. Now, it&rsquo;s not sure at all.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I wanted to follow up a [previous post of mine](https://blog.numericcitizen.me/2023/09/11/first-world-problem.html) about using my Lightning-based Lavalier microphone with a USB-C device, like my 2018 iPad Pro[^1]. I ordered the USB-C to Lightning adaptor on the day of the Apple keynote. I got it this morning. If you are wondering if it works with Ferrite and Apple's Voice Memos on my iPad Pro? No, it doesn't.😔\r\n\r\n[^1]: A positive conclusion would have been a good sign on the prospect of making it work with the upcoming iPhone 15 Pro Max. Now, it's not sure at all. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-8759.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-09-15T13:17:49-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/15/testing-apples-usbc.html",
+				"tags": ["Apple","Photography","Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/15/ordered-ill-wait.html",
+				
+				"content_html": "<p>Ordered. I’ll wait before buying a case from Apple because I’m not sure about the new FineWoven texture and durability. Some YouTubers said the feeling to the touch is similar to suede and I’m not a fan. #iphone15pro #iphone15promax</p>\n",
+				"content_text": "Ordered. I’ll wait before buying a case from Apple because I’m not sure about the new FineWoven texture and durability. Some YouTubers said the feeling to the touch is similar to suede and I’m not a fan. #iphone15pro #iphone15promax\n",
+				"date_published": "2023-09-15T12:12:43-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/15/ordered-ill-wait.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/09/15/an-update-about.html",
 				"title": "An Update About My New Quest of Leaving Adobe Lightroom",
 				"content_html": "<p>Yesterday night, I spent nearly an hour reading articles and forum posts about the implications of closing my <strong>Adobe Photography subscription</strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. The implications and how to recover my photos differ for <strong>Lightroom Classic</strong> and <strong>Lightroom CC</strong>. It’s not that hard, but it will be a tedious process if I want to keep some organization that the Lightroom catalog currently provides. I’ll put this project on my list of things to do in 2024. This will give me some time to plan for the migration<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I subscribe to the photography plan which gives me 2TB of storage, which is currently used at 110GB.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Or change my mind. 🤦🏻‍♂️&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
