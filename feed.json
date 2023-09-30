@@ -7,6 +7,159 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/09/30/why-doesnt-the.html",
+				
+				"content_html": "<p>Why doesn&rsquo;t the &ldquo;Switch To Profile&rdquo; menu item always appear in Safari 17.0? I can&rsquo;t understand what triggers this option to show up. Is this a bug?</p>\n",
+				"content_text": "Why doesn't the \"Switch To Profile\" menu item always appear in Safari 17.0? I can't understand what triggers this option to show up. Is this a bug?\n",
+				"date_published": "2023-09-30T13:43:52-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/30/why-doesnt-the.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/30/peak-design-case.html",
+				"title": "Peak Design Case Issue With iPhone 15 Pro Action Button",
+				"content_html": "<p>For those looking to buy a <strong>Peak Design</strong> case for the <strong>iPhone 15 Pro Max</strong>, just like I did. I love the case but&hellip; here&rsquo;s the kicker; the action button is really hard to press with this case, the cutout should have a button instead which would press the action button, just like for the other buttons integrated into the case. They plan to fix this. Check out <a href=\"https://youtu.be/Qjc7InZ7D-I?si=uWMc0YabCzqia8IS\">this video</a> to learn more.</p>\n<p>Update: The way the company is handling this issue is a prime example of how customer satisfaction should be handled. Bravo.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "For those looking to buy a **Peak Design** case for the **iPhone 15 Pro Max**, just like I did. I love the case but... here's the kicker; the action button is really hard to press with this case, the cutout should have a button instead which would press the action button, just like for the other buttons integrated into the case. They plan to fix this. Check out [this video](https://youtu.be/Qjc7InZ7D-I?si=uWMc0YabCzqia8IS) to learn more.\n\nUpdate: The way the company is handling this issue is a prime example of how customer satisfaction should be handled. Bravo.\n\n<img src=\"uploads/2023/img-8784.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-09-30T10:22:34-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/30/peak-design-case.html",
+				"tags": ["Photography","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/29/what-a-strange.html",
+				"title": "What a Strange iCloud Drive Bug!",
+				"content_html": "<p>I have a folder named &ldquo;Noto&rdquo; in my iCloud Drive folder that keeps populating empty folders inside of it, on all my devices. <a href=\"https://www.macstories.net/reviews/noto-review-beautifully-modern-and-versatile-note-taking/\">Noto</a> is a note-taking app that I tried in Feb. 2020. Today, I found out that I had more than 30K empty folders sitting there. I deleted the folders from my Mac mini, and it came back. Same with the MacBook Air. It came back. I visited all my devices to see if Noto was still installed. Nope. I reinstalled it on the iPad to see if it would populate something. Nope. I went on Files.app on the iPad to delete the root folder. Still re-appearing. On all my devices, I reinstalled Noto, to disable iCloud sync. I visited the iCloud storage section within Settings on the iPhone. The Noto folder isn&rsquo;t there. But, on the iPad, it was there. I deleted the item from iCloud storage management. Yet, the folder keeps coming back. What a strange bug. Help.</p>\n<p>Update: the issue went away after rebooting my M2 MacBook Air to fix an issue with Screenflow screen recording permission request. I went back to the iCloud Drive folder and sure enough, the Noto folder didn&rsquo;t come back. I guess the issue is resolved.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have a folder named \"Noto\" in my iCloud Drive folder that keeps populating empty folders inside of it, on all my devices. [Noto](https://www.macstories.net/reviews/noto-review-beautifully-modern-and-versatile-note-taking/) is a note-taking app that I tried in Feb. 2020. Today, I found out that I had more than 30K empty folders sitting there. I deleted the folders from my Mac mini, and it came back. Same with the MacBook Air. It came back. I visited all my devices to see if Noto was still installed. Nope. I reinstalled it on the iPad to see if it would populate something. Nope. I went on Files.app on the iPad to delete the root folder. Still re-appearing. On all my devices, I reinstalled Noto, to disable iCloud sync. I visited the iCloud storage section within Settings on the iPhone. The Noto folder isn't there. But, on the iPad, it was there. I deleted the item from iCloud storage management. Yet, the folder keeps coming back. What a strange bug. Help. \n\nUpdate: the issue went away after rebooting my M2 MacBook Air to fix an issue with Screenflow screen recording permission request. I went back to the iCloud Drive folder and sure enough, the Noto folder didn't come back. I guess the issue is resolved. \n\n<img src=\"uploads/2023/finder-noto2023-09-2916.02.372x.png\" width=\"600\" height=\"328\" alt=\"\">\n",
+				"date_published": "2023-09-29T16:28:24-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/29/what-a-strange.html",
+				"tags": ["Photography","Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/29/currently-testing-safari.html",
+				
+				"content_html": "<p>Currently testing <strong>Safari profiles</strong>. I kind of like it so far. Still exploring. Currently devising work from personal life. I will probably create one for my YouTube video recording sessions too. Are you using Safari profiles? Are you using Safari at all, I might ask?</p>\n",
+				"content_text": "Currently testing **Safari profiles**. I kind of like it so far. Still exploring. Currently devising work from personal life. I will probably create one for my YouTube video recording sessions too. Are you using Safari profiles? Are you using Safari at all, I might ask?\n",
+				"date_published": "2023-09-29T10:22:04-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/29/currently-testing-safari.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/29/ive-been-working.html",
+				
+				"content_html": "<p>I&rsquo;ve been working on <strong>my reading workflow</strong> for many months. I&rsquo;m very close to publishing an article about it. While waiting for it, along the way, I created a comparison of the following read-later services:</p>\n<!-- raw HTML omitted -->\n<p>You can download it here: <a href=\"https://go.numericcitizen.me/pFscoL0x\">https://go.numericcitizen.me/pFscoL0x</a>. Any comments, suggestions?</p>\n",
+				"content_text": "I've been working on **my reading workflow** for many months. I'm very close to publishing an article about it. While waiting for it, along the way, I created a comparison of the following read-later services:\n\n<ul>\n<li>Matter</li>\n<li>Pocket</li>\n<li>Raindrop.io</li>\n<li>Readwise Reader</li>\n<li>Omnivore</li>\n</ul>\n\n\nYou can download it here: [https://go.numericcitizen.me/pFscoL0x](https://go.numericcitizen.me/pFscoL0x). Any comments, suggestions?\n",
+				"date_published": "2023-09-29T07:06:11-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/29/ive-been-working.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/29/when-adding-widgets.html",
+				
+				"content_html": "<p>When adding <strong>widgets on macOS Sonoma</strong>, there should be a visual cue telling me which widgets are coming from the iPhone vs from installed apps on my Mac. This screenshot shows two Dayone instances, and Fitness Totals is on my iPhone.☝🏻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When adding **widgets on macOS Sonoma**, there should be a visual cue telling me which widgets are coming from the iPhone vs from installed apps on my Mac. This screenshot shows two Dayone instances, and Fitness Totals is on my iPhone.☝🏻\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/cleanshot-cleanshot2023-09-2906.27.292x.png\" width=\"600\" height=\"323\" alt=\"\">\n",
+				"date_published": "2023-09-29T06:30:46-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/29/when-adding-widgets.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/28/rewind-is-nice.html",
+				
+				"content_html": "<p><strong>Rewind</strong> is nice, but this is such a resource hog. Battery life is miserable since I run this thing on my MacBook Air. Is it worth it, just for a few possible queries a month?<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I fail to see more than 2-3 use cases so far.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "**Rewind** is nice, but this is such a resource hog. Battery life is miserable since I run this thing on my MacBook Air. Is it worth it, just for a few possible queries a month?[^1]\r\n[^1]: I fail to see more than 2-3 use cases so far. \n",
+				"date_published": "2023-09-28T21:57:55-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/28/rewind-is-nice.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/28/what-happens-when.html",
+				
+				"content_html": "<p>What happens when you run Micro.blog.app and the web app side by side? Here is a peek at Activity Monitor on the memory consumption tab. There&rsquo;s the native app. Fine. But, for each web app, Sonoma seems to spin three other processes (Graphics, Networking, and some root process using the web app URL name). Fascinating. Native apps don&rsquo;t consume as much memory.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What happens when you run Micro.blog.app and the web app side by side? Here is a peek at Activity Monitor on the memory consumption tab. There's the native app. Fine. But, for each web app, Sonoma seems to spin three other processes (Graphics, Networking, and some root process using the web app URL name). Fascinating. Native apps don't consume as much memory. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/activity-monitor-activity-monitor2023-09-2821.40.212x.png\" width=\"600\" height=\"99\" alt=\"\">\n",
+				"date_published": "2023-09-28T21:45:15-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/28/what-happens-when.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/28/already-at-four.html",
+				"title": "Already at Four Web Apps in My Dock, and You?",
+				"content_html": "<p>So far, I have created four web apps on my Dock in Sonoma: Micro.blog<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, Pixelfed<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>, Tinylytics, and Omnivore. I like this a lot<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup>. For Omnivore, the web app provides a better experience than the &ldquo;native&rdquo; app, which is probably not really native<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup>. What other apps could I set in my Dock now?🤔</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>For Micro.blog, it doesn&rsquo;t make too much sense as there is a native Mac app already.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>It&rsquo;s better than having a Safari tab for that. It&rsquo;s fast and feels native.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>I know, it&rsquo;s already possible on Windows.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\">\n<p>It feels like an iPad app on the Mac.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "So far, I have created four web apps on my Dock in Sonoma: Micro.blog[^1], Pixelfed[^2], Tinylytics, and Omnivore. I like this a lot[^3]. For Omnivore, the web app provides a better experience than the \"native\" app, which is probably not really native[^4]. What other apps could I set in my Dock now?🤔\r\n[^1]: For Micro.blog, it doesn't make too much sense as there is a native Mac app already.\r\n[^2]: It's better than having a Safari tab for that. It's fast and feels native. \r\n[^3]: I know, it's already possible on Windows. \r\n[^4]: It feels like an iPad app on the Mac. \n",
+				"date_published": "2023-09-28T21:21:49-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/28/already-at-four.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/28/testing-a-post.html",
+				
+				"content_html": "<p>Testing a post from Micro.blog as a web app <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> running on macOS Sonoma.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Is this how we should call a web page saved in the macOS Dock?&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Testing a post from Micro.blog as a web app [^1] running on macOS Sonoma. \r\n[^1]: Is this how we should call a web page saved in the macOS Dock?\n",
+				"date_published": "2023-09-28T21:00:45-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/28/testing-a-post.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/28/im-weak.html",
+				
+				"content_html": "<p>I&rsquo;m weak. 🤦🏻‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm weak. 🤦🏻‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/system-settings-software-update2023-09-2815.46.302x.png\" width=\"600\" height=\"91\" alt=\"\">\n",
+				"date_published": "2023-09-28T15:48:16-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/28/im-weak.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/28/finewoven-casegate-titaniumscratchgate.html",
+				
+				"content_html": "<p>FineWoven case-gate. Titanium-scratch-gate. Overheating-gate. What&rsquo;s next for the <strong>iPhone 15 Pro</strong>?<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>so far, no issue with the Max!&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "FineWoven case-gate. Titanium-scratch-gate. Overheating-gate. What's next for the **iPhone 15 Pro**?[^1]\r\n\r\n[^1]: so far, no issue with the Max! \n",
+				"date_published": "2023-09-28T13:20:22-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/28/finewoven-casegate-titaniumscratchgate.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/28/my-iphone-pro.html",
+				
+				"content_html": "<p>My iPhone 15 Pro Max is not overheating. But I find those reports, as reported <a href=\"https://9to5mac.com/2023/09/27/new-iphone-15-pro-design-overheat/\">here</a>, a bit worrying. Could Apple fix or mitigate these occurrences with a software update or a new configuration toggle in the Settings.app? Did you experience overheating issues?</p>\n",
+				"content_text": "My iPhone 15 Pro Max is not overheating. But I find those reports, as reported [here](https://9to5mac.com/2023/09/27/new-iphone-15-pro-design-overheat/), a bit worrying. Could Apple fix or mitigate these occurrences with a software update or a new configuration toggle in the Settings.app? Did you experience overheating issues?\n",
+				"date_published": "2023-09-28T07:12:36-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/28/my-iphone-pro.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/27/thought-of-the.html",
+				
+				"content_html": "<p>💡Thought of the day: I don’t have a thing like a <strong>second brain</strong> 🧠 using a dedicated app. It’s a popular concept nowadays to build a second brain utilizing an app like Craft, Obsidian or anything else. I don’t believe in the idea of having a second brain. But let’s suppose I believed in this concept; I would argue that my second brain is inside my MacBook Air, spread in different apps, fulfilling a specific task in supporting this idea of the second brain. ☝🏻</p>\n",
+				"content_text": "💡Thought of the day: I don’t have a thing like a **second brain** 🧠 using a dedicated app. It’s a popular concept nowadays to build a second brain utilizing an app like Craft, Obsidian or anything else. I don’t believe in the idea of having a second brain. But let’s suppose I believed in this concept; I would argue that my second brain is inside my MacBook Air, spread in different apps, fulfilling a specific task in supporting this idea of the second brain. ☝🏻\n",
+				"date_published": "2023-09-27T06:51:56-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/27/thought-of-the.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/26/the-mac-is.html",
+				
+				"content_html": "<p>The Mac is the last platform to get my trust for an upgrade of <strong>macOS</strong>. I do iPhone and iPad in a heartbeat, but the Mac, no. I wait a few weeks so that my must-have apps receive updates. I don&rsquo;t want to ruin anything by upgrading to <strong>Sonoma</strong> so soon. I&rsquo;ll probably wait until November.</p>\n",
+				"content_text": "The Mac is the last platform to get my trust for an upgrade of **macOS**. I do iPhone and iPad in a heartbeat, but the Mac, no. I wait a few weeks so that my must-have apps receive updates. I don't want to ruin anything by upgrading to **Sonoma** so soon. I'll probably wait until November.\n",
+				"date_published": "2023-09-26T21:59:31-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/26/the-mac-is.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/26/ive-recently-been.html",
+				
+				"content_html": "<p>I&rsquo;ve recently been using <strong>Apple&rsquo;s Freeform</strong> for different articles I&rsquo;m working on. I&rsquo;m really falling in love with this app. It&rsquo;s a sleeper hit for me. Its apparent simplicity shouldn&rsquo;t put you off. Freeform is capable of supporting the creation of rather sophisticated diagrams. I really feel Apple&rsquo;s designers brought all their craftsmanship and attention to detail here. Everything feels in the right place.</p>\n",
+				"content_text": "I've recently been using **Apple's Freeform** for different articles I'm working on. I'm really falling in love with this app. It's a sleeper hit for me. Its apparent simplicity shouldn't put you off. Freeform is capable of supporting the creation of rather sophisticated diagrams. I really feel Apple's designers brought all their craftsmanship and attention to detail here. Everything feels in the right place. \n",
+				"date_published": "2023-09-26T07:13:27-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/26/ive-recently-been.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/09/25/why-do-i.html",
+				
+				"content_html": "<p>Why do I always feel nervous when changing my Apple ID password? 😨</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Why do I always feel nervous when changing my Apple ID password? 😨\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/safari-manage-your-apple-id2023-09-2513.07.532x.png\" width=\"600\" height=\"376\" alt=\"\">\n",
+				"date_published": "2023-09-25T13:21:26-04:00",
+				"url": "https://blog.numericcitizen.me/2023/09/25/why-do-i.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/09/25/i-read-in.html",
 				
 				"content_html": "<p>I read in recent days that the <strong>Craft</strong> team is supposedly very interested and invested in <strong>AI for Craft</strong>. I&rsquo;m not sure if this is good news. Notes and document-writing apps should focus on the core experience and capabilities to support the writing process. Today, I don&rsquo;t see AI at the core for most people (yet). AI should be a complementary feature. There are so many things to be improves and fixed in Craft; I&rsquo;m afraid they spend too much time on the AI stuff while neglecting the bugs and highly requested basic features, again.😔</p>\n",
@@ -19,7 +172,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/09/25/one-of-the.html",
 				
 				"content_html": "<p>One of the most confusing parts of iOS and iPadOS UI: configuring <strong>the share sheet options</strong>. The ⊕ sign and the toggle meaning are utterly confusing each time I visit this portion of the UI. The fact that some non-favourite items can be toggled on or off is probably part of the explanation for my confusion. I&rsquo;m confused about my confusion. I must be getting old. 👴🏻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of the most confusing parts of iOS and iPadOS UI: configuring **the share sheet options**. The ⊕ sign and the toggle meaning are utterly confusing each time I visit this portion of the UI. The fact that some non-favourite items can be toggled on or off is probably part of the explanation for my confusion. I'm confused about my confusion. I must be getting old. 👴🏻\n\n<img src=\"uploads/2023/sunday-24-sep-2023-100331.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"content_text": "One of the most confusing parts of iOS and iPadOS UI: configuring **the share sheet options**. The ⊕ sign and the toggle meaning are utterly confusing each time I visit this portion of the UI. The fact that some non-favourite items can be toggled on or off is probably part of the explanation for my confusion. I'm confused about my confusion. I must be getting old. 👴🏻\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/sunday-24-sep-2023-100331.png\" width=\"296\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-25T07:20:39-04:00",
 				"url": "https://blog.numericcitizen.me/2023/09/25/one-of-the.html",
 				"tags": ["Photography"]
@@ -37,7 +190,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/09/24/shot-on-iphone.html",
 				
 				"content_html": "<p><strong>Shot on iPhone 15 Pro Max</strong> with the telephoto lens, at 25x digital zoom. The best I could do with a lot of post-processing tweaks (tweaked the saturation, highlight, contrast, sharpening, noise reduction, etc.) 😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Shot on iPhone 15 Pro Max** with the telephoto lens, at 25x digital zoom. The best I could do with a lot of post-processing tweaks (tweaked the saturation, highlight, contrast, sharpening, noise reduction, etc.) 😅\n\n<img src=\"uploads/2023/img-8987.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "**Shot on iPhone 15 Pro Max** with the telephoto lens, at 25x digital zoom. The best I could do with a lot of post-processing tweaks (tweaked the saturation, highlight, contrast, sharpening, noise reduction, etc.) 😅\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-8987.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-24T19:31:47-04:00",
 				"url": "https://blog.numericcitizen.me/2023/09/24/shot-on-iphone.html",
 				"tags": ["Photography","Newsletter"]
@@ -46,7 +199,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/09/24/i-finally-found.html",
 				
 				"content_html": "<p>I finally found THE use case for the <strong>Action Button</strong>: running a shortcut<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> to 1) take a screen capture and 2) run the <strong>Apple Frame</strong> shortcut. It&rsquo;s super handy. The camera already has a button on the screen that is easier to grab when I want to take a picture.</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Haptly named &ldquo;Action Button&rdquo;.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
-				"content_text": "I finally found THE use case for the **Action Button**: running a shortcut[^1] to 1) take a screen capture and 2) run the **Apple Frame** shortcut. It's super handy. The camera already has a button on the screen that is easier to grab when I want to take a picture.\r\n[^1]: Haptly named \"Action Button\". \n\n<img src=\"uploads/2023/sunday-24-sep-2023-172622.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"content_text": "I finally found THE use case for the **Action Button**: running a shortcut[^1] to 1) take a screen capture and 2) run the **Apple Frame** shortcut. It's super handy. The camera already has a button on the screen that is easier to grab when I want to take a picture.\r\n[^1]: Haptly named \"Action Button\". \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/sunday-24-sep-2023-172622.png\" width=\"296\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-24T17:28:19-04:00",
 				"url": "https://blog.numericcitizen.me/2023/09/24/i-finally-found.html",
 				"tags": ["Photography","Apps  Services","Newsletter"]
