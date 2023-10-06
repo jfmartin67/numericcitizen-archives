@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/10/05/im-going-to.html",
+				
+				"content_html": "<p>I&rsquo;m going to the office by bike today. 🚴🏻‍♂️ With this splendid weather<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, probably the last such beautiful and warm day of this fall, I&rsquo;m really looking forward to this half-hour ride downtown Montreal.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>We&rsquo;ve been in a very long streak of warm and sunny weather, something like 10 days of sunshine.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I'm going to the office by bike today. 🚴🏻‍♂️ With this splendid weather[^1], probably the last such beautiful and warm day of this fall, I'm really looking forward to this half-hour ride downtown Montreal.\r\n[^1]: We've been in a very long streak of warm and sunny weather, something like 10 days of sunshine.\n",
+				"date_published": "2023-10-05T07:21:37-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/05/im-going-to.html",
+				"tags": ["Personal","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/04/im-ready-to.html",
+				
+				"content_html": "<p>👉🏻 I&rsquo;m ready to share my first digital product: a Craft template to support the process of research and writing on a specific subject. See <a href=\"https://numericcitizen.gumroad.com/p/hello-world-c341a801-1a23-4552-ac76-609d6521f668\">the introduction post</a> on <strong>Gumroad</strong>. Special introductory price: 5$ or about the price of a latte at Starbucks. Think about it! 🤣</p>\n",
+				"content_text": "👉🏻 I'm ready to share my first digital product: a Craft template to support the process of research and writing on a specific subject. See [the introduction post](https://numericcitizen.gumroad.com/p/hello-world-c341a801-1a23-4552-ac76-609d6521f668) on **Gumroad**. Special introductory price: 5$ or about the price of a latte at Starbucks. Think about it! 🤣\n",
+				"date_published": "2023-10-04T20:16:27-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/04/im-ready-to.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/04/i-spent-the.html",
+				
+				"content_html": "<p>I spent the early morning on <strong>Gumroad</strong> to set up <a href=\"https://numericcitizen.gumroad.com\">something</a>&hellip; 👀</p>\n",
+				"content_text": "I spent the early morning on **Gumroad** to set up [something](https://numericcitizen.gumroad.com)... 👀\n",
+				"date_published": "2023-10-04T07:37:32-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/04/i-spent-the.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/03/got-an-email.html",
+				
+				"content_html": "<p>Got an email this morning from <strong>Mailbrew</strong> about an issue (resolved since then) of logging into the service. So, there is life, apparently! They said they have a &ldquo;team&rdquo; working on the next features&hellip; 🤔 I would love to see this service thrive instead of being an abandonware. 🙏🏻</p>\n",
+				"content_text": "Got an email this morning from **Mailbrew** about an issue (resolved since then) of logging into the service. So, there is life, apparently! They said they have a \"team\" working on the next features... 🤔 I would love to see this service thrive instead of being an abandonware. 🙏🏻\n",
+				"date_published": "2023-10-03T12:57:29-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/03/got-an-email.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/03/i-just-realized.html",
+				
+				"content_html": "<p>I just realized the upcoming weekend is a long one. I should have enough free time to produce another podcast! And a YouTube video about my Craft super-template for research and writing.</p>\n",
+				"content_text": "I just realized the upcoming weekend is a long one. I should have enough free time to produce another podcast! And a YouTube video about my Craft super-template for research and writing. \n",
+				"date_published": "2023-10-03T07:23:06-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/03/i-just-realized.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/02/my-really-short.html",
+				"title": "My (Really) Short Experience With a RODE NT-USB Microphone",
+				"content_html": "<p>Objective: find a replacement for my lightning-based Finch Lavalier microphone<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. Did my research for a USB-C microphone. RODE microphones came up quite often. They received good reviews. I ordered the NT-USB model. It was hard to see which type of USB port it came with—I got the microphone<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. It comes with USB-A. Shit. It was tested on my Mac mini. Background noises are too easily picked up. Screenflow cannot use voice isolation<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup>. It was tested on my iPhone 15 Pro Max with a USB-A to USB-C adaptor and Ferrite. Voice isolation isn’t possible, either. Not good. I tried to use the RODE companion app for Mac so I could adjust the microphone operating parameters. I downloaded and installed it but didn’t recognize the microphone when plugged in. Not good. It’s an expansive microphone, barely better than my Blue Yeti. Not good. After testing Screenflow, my iPhone connected via USB-C to my Mac, and with voice isolation￼ activated once again<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup>, I decided to return the product. It’s way better, close to what I had with my Finch microphone. Problem solved.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>No longer works with my iPhone 15 Pro Max USB-C port.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>I couldn’t confirm it from the spec sheet on Amazon nor could I on the RODE website.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>I opened a support case with Telestream. It’s a known issue, still being investigated.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\">\n<p>This configuration works, but not with a USB-C microphone only. It seems the iPhone with voice isolation one is the only configuration that works with Screenflow. Really strange.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Objective: find a replacement for my lightning-based Finch Lavalier microphone[^1]. Did my research for a USB-C microphone. RODE microphones came up quite often. They received good reviews. I ordered the NT-USB model. It was hard to see which type of USB port it came with—I got the microphone[^2]. It comes with USB-A. Shit. It was tested on my Mac mini. Background noises are too easily picked up. Screenflow cannot use voice isolation[^3]. It was tested on my iPhone 15 Pro Max with a USB-A to USB-C adaptor and Ferrite. Voice isolation isn’t possible, either. Not good. I tried to use the RODE companion app for Mac so I could adjust the microphone operating parameters. I downloaded and installed it but didn’t recognize the microphone when plugged in. Not good. It’s an expansive microphone, barely better than my Blue Yeti. Not good. After testing Screenflow, my iPhone connected via USB-C to my Mac, and with voice isolation￼ activated once again[^4], I decided to return the product. It’s way better, close to what I had with my Finch microphone. Problem solved.\n\n[^1]:\tNo longer works with my iPhone 15 Pro Max USB-C port.\n\n[^2]:\tI couldn’t confirm it from the spec sheet on Amazon nor could I on the RODE website.\n\n[^3]:\tI opened a support case with Telestream. It’s a known issue, still being investigated. \n\n[^4]:\tThis configuration works, but not with a USB-C microphone only. It seems the iPhone with voice isolation one is the only configuration that works with Screenflow. Really strange.\n",
+				"date_published": "2023-10-02T19:46:36-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/02/my-really-short.html",
+				"tags": ["Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/01/its-sunday-and.html",
+				
+				"content_html": "<p>It&rsquo;s Sunday, and it&rsquo;s time for <a href=\"https://crafted.numericcitizen.me/creative-summary-2023-39\">the new edition of my weekly creative summary</a>, available now directly from Craft, later by email, for those who subscribe. Enjoy the ride.</p>\n",
+				"content_text": "It's Sunday, and it's time for [the new edition of my weekly creative summary](https://crafted.numericcitizen.me/creative-summary-2023-39), available now directly from Craft, later by email, for those who subscribe. Enjoy the ride. \n",
+				"date_published": "2023-10-01T19:17:45-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/01/its-sunday-and.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/01/wish-of-the.html",
+				
+				"content_html": "<p>Wish of the day: I would love to have a canonical URL pointing to my published newsletters hosted on Micro.blog so I could refer to them in other blog posts. cc <a href=\"https://micro.blog/manton\">@manton</a> 🙏🏻</p>\n",
+				"content_text": "Wish of the day: I would love to have a canonical URL pointing to my published newsletters hosted on Micro.blog so I could refer to them in other blog posts. cc [@manton](https://micro.blog/manton) 🙏🏻\n",
+				"date_published": "2023-10-01T10:00:06-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/01/wish-of-the.html",
+				"tags": ["Blogging","Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/01/announcing-my-reading.html",
+				"title": "Announcing \"My Reading Workflow Explained\"",
+				"content_html": "<p>I&rsquo;m finally publishing the details surrounding my reading workflow. It&rsquo;s been long in the making. More than a year. The reason? Because this workflow was full of moving parts. One example: is the read-later service. First, it was Pocket, then came Matter, Readwise, to finally settle on <strong>Omnivore</strong>. All the details are <a href=\"https://world.numericcitizen.io/my-reading-workflow-as-of-2023-10-01\">here</a> on the <strong>Numeric Citizen I/O metablog</strong>. Feel free to comment or ask questions! 😊</p>\n",
+				"content_text": "I'm finally publishing the details surrounding my reading workflow. It's been long in the making. More than a year. The reason? Because this workflow was full of moving parts. One example: is the read-later service. First, it was Pocket, then came Matter, Readwise, to finally settle on **Omnivore**. All the details are [here](https://world.numericcitizen.io/my-reading-workflow-as-of-2023-10-01) on the **Numeric Citizen I/O metablog**. Feel free to comment or ask questions! 😊\n",
+				"date_published": "2023-10-01T07:46:30-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/01/announcing-my-reading.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/09/30/why-doesnt-the.html",
 				
 				"content_html": "<p>Why doesn&rsquo;t the &ldquo;Switch To Profile&rdquo; menu item always appear in Safari 17.0? I can&rsquo;t understand what triggers this option to show up. Is this a bug?</p>\n",
@@ -19,7 +100,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/09/30/peak-design-case.html",
 				"title": "Peak Design Case Issue With iPhone 15 Pro Action Button",
 				"content_html": "<p>For those looking to buy a <strong>Peak Design</strong> case for the <strong>iPhone 15 Pro Max</strong>, just like I did. I love the case but&hellip; here&rsquo;s the kicker; the action button is really hard to press with this case, the cutout should have a button instead which would press the action button, just like for the other buttons integrated into the case. They plan to fix this. Check out <a href=\"https://youtu.be/Qjc7InZ7D-I?si=uWMc0YabCzqia8IS\">this video</a> to learn more.</p>\n<p>Update: The way the company is handling this issue is a prime example of how customer satisfaction should be handled. Bravo.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "For those looking to buy a **Peak Design** case for the **iPhone 15 Pro Max**, just like I did. I love the case but... here's the kicker; the action button is really hard to press with this case, the cutout should have a button instead which would press the action button, just like for the other buttons integrated into the case. They plan to fix this. Check out [this video](https://youtu.be/Qjc7InZ7D-I?si=uWMc0YabCzqia8IS) to learn more.\n\nUpdate: The way the company is handling this issue is a prime example of how customer satisfaction should be handled. Bravo.\n\n<img src=\"uploads/2023/img-8784.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "For those looking to buy a **Peak Design** case for the **iPhone 15 Pro Max**, just like I did. I love the case but... here's the kicker; the action button is really hard to press with this case, the cutout should have a button instead which would press the action button, just like for the other buttons integrated into the case. They plan to fix this. Check out [this video](https://youtu.be/Qjc7InZ7D-I?si=uWMc0YabCzqia8IS) to learn more.\n\nUpdate: The way the company is handling this issue is a prime example of how customer satisfaction should be handled. Bravo.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-8784.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-09-30T10:22:34-04:00",
 				"url": "https://blog.numericcitizen.me/2023/09/30/peak-design-case.html",
 				"tags": ["Photography","Longer posts"]
@@ -28,7 +109,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/09/29/what-a-strange.html",
 				"title": "What a Strange iCloud Drive Bug!",
 				"content_html": "<p>I have a folder named &ldquo;Noto&rdquo; in my iCloud Drive folder that keeps populating empty folders inside of it, on all my devices. <a href=\"https://www.macstories.net/reviews/noto-review-beautifully-modern-and-versatile-note-taking/\">Noto</a> is a note-taking app that I tried in Feb. 2020. Today, I found out that I had more than 30K empty folders sitting there. I deleted the folders from my Mac mini, and it came back. Same with the MacBook Air. It came back. I visited all my devices to see if Noto was still installed. Nope. I reinstalled it on the iPad to see if it would populate something. Nope. I went on Files.app on the iPad to delete the root folder. Still re-appearing. On all my devices, I reinstalled Noto, to disable iCloud sync. I visited the iCloud storage section within Settings on the iPhone. The Noto folder isn&rsquo;t there. But, on the iPad, it was there. I deleted the item from iCloud storage management. Yet, the folder keeps coming back. What a strange bug. Help.</p>\n<p>Update: the issue went away after rebooting my M2 MacBook Air to fix an issue with Screenflow screen recording permission request. I went back to the iCloud Drive folder and sure enough, the Noto folder didn&rsquo;t come back. I guess the issue is resolved.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have a folder named \"Noto\" in my iCloud Drive folder that keeps populating empty folders inside of it, on all my devices. [Noto](https://www.macstories.net/reviews/noto-review-beautifully-modern-and-versatile-note-taking/) is a note-taking app that I tried in Feb. 2020. Today, I found out that I had more than 30K empty folders sitting there. I deleted the folders from my Mac mini, and it came back. Same with the MacBook Air. It came back. I visited all my devices to see if Noto was still installed. Nope. I reinstalled it on the iPad to see if it would populate something. Nope. I went on Files.app on the iPad to delete the root folder. Still re-appearing. On all my devices, I reinstalled Noto, to disable iCloud sync. I visited the iCloud storage section within Settings on the iPhone. The Noto folder isn't there. But, on the iPad, it was there. I deleted the item from iCloud storage management. Yet, the folder keeps coming back. What a strange bug. Help. \n\nUpdate: the issue went away after rebooting my M2 MacBook Air to fix an issue with Screenflow screen recording permission request. I went back to the iCloud Drive folder and sure enough, the Noto folder didn't come back. I guess the issue is resolved. \n\n<img src=\"uploads/2023/finder-noto2023-09-2916.02.372x.png\" width=\"600\" height=\"328\" alt=\"\">\n",
+				"content_text": "I have a folder named \"Noto\" in my iCloud Drive folder that keeps populating empty folders inside of it, on all my devices. [Noto](https://www.macstories.net/reviews/noto-review-beautifully-modern-and-versatile-note-taking/) is a note-taking app that I tried in Feb. 2020. Today, I found out that I had more than 30K empty folders sitting there. I deleted the folders from my Mac mini, and it came back. Same with the MacBook Air. It came back. I visited all my devices to see if Noto was still installed. Nope. I reinstalled it on the iPad to see if it would populate something. Nope. I went on Files.app on the iPad to delete the root folder. Still re-appearing. On all my devices, I reinstalled Noto, to disable iCloud sync. I visited the iCloud storage section within Settings on the iPhone. The Noto folder isn't there. But, on the iPad, it was there. I deleted the item from iCloud storage management. Yet, the folder keeps coming back. What a strange bug. Help. \n\nUpdate: the issue went away after rebooting my M2 MacBook Air to fix an issue with Screenflow screen recording permission request. I went back to the iCloud Drive folder and sure enough, the Noto folder didn't come back. I guess the issue is resolved. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/finder-noto2023-09-2916.02.372x.png\" width=\"600\" height=\"328\" alt=\"\">\n",
 				"date_published": "2023-09-29T16:28:24-04:00",
 				"url": "https://blog.numericcitizen.me/2023/09/29/what-a-strange.html",
 				"tags": ["Photography","Longer posts","Apps  Services","Newsletter"]
