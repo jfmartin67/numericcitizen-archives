@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/10/15/if-apple-is.html",
+				
+				"content_html": "<p>If Apple is indeed close to releasing the <strong>third-generation Apple Pencil</strong> with a magnetic pencil tip, I can see that coming with some new trick, enabled with iPadOS 17.1, probably to be launched before October 21st<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. What else could this new pencil do? Include an electronic erasure on the other end of the pencil? 👀</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>The date was apparently leaked by a French government agency about the reduction of radiation from the iPhone 12, which Apple would indeed fix no later than October 21st.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "If Apple is indeed close to releasing the **third-generation Apple Pencil** with a magnetic pencil tip, I can see that coming with some new trick, enabled with iPadOS 17.1, probably to be launched before October 21st[^1]. What else could this new pencil do? Include an electronic erasure on the other end of the pencil? 👀\r\n[^1]: The date was apparently leaked by a French government agency about the reduction of radiation from the iPhone 12, which Apple would indeed fix no later than October 21st.\n",
+				"date_published": "2023-10-15T17:39:46-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/15/if-apple-is.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/15/a-definitive-solution.html",
+				"title": "A Definitive Solution to a Simple Problem",
+				"content_html": "<p>I finally found the right setup to definitively fix my audio record quality. The problem triggering this endless trial-and-error journey is that the <strong>Blue Yeti microphone</strong> can be too sensitive and pick up too much background noise<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. On paper, the <strong>macOS Voice Isolation</strong> recording should fix this. However, <strong>ScreenFlow 10.0.9</strong> has issues with audio recording from a USB microphone while Voice Isolation is active<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>.</p>\n<p>The solution? Use <strong>Audio Highjack</strong><sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup> to record from the USB microphone with Voice Isolation active and output to the ScreenFlow audio capture driver. When recording, I start the Audio Hijack session, then switch to ScreenFlow and hit record. Voilà. I do use <strong>Adobe Podcast Audio Enhancer</strong> too. The results are quite good! You can hear it in my latest podcast episode. A screenshot of my Audio Hijack workflow is included so you can look at it<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup>.</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>People in the house don&rsquo;t always pay attention when I&rsquo;m recording my stuff. We could hear them quite easily.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>The sound is highly distorted. It&rsquo;s a known issue, apparently.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>Audio Hijack is a superb piece of software if you ask me.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\">\n<p>More tiles are included so I can make sure there are no lingering background noises after Voice Isolation makes its magic.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I finally found the right setup to definitively fix my audio record quality. The problem triggering this endless trial-and-error journey is that the **Blue Yeti microphone** can be too sensitive and pick up too much background noise[^1]. On paper, the **macOS Voice Isolation** recording should fix this. However, **ScreenFlow 10.0.9** has issues with audio recording from a USB microphone while Voice Isolation is active[^2].\r\n\r\nThe solution? Use **Audio Highjack**[^3] to record from the USB microphone with Voice Isolation active and output to the ScreenFlow audio capture driver. When recording, I start the Audio Hijack session, then switch to ScreenFlow and hit record. Voilà. I do use **Adobe Podcast Audio Enhancer** too. The results are quite good! You can hear it in my latest podcast episode. A screenshot of my Audio Hijack workflow is included so you can look at it[^4].\r\n\r\n[^1]: People in the house don't always pay attention when I'm recording my stuff. We could hear them quite easily.\r\n[^2]: The sound is highly distorted. It's a known issue, apparently. \r\n[^3]: Audio Hijack is a superb piece of software if you ask me.\r\n[^4]: More tiles are included so I can make sure there are no lingering background noises after Voice Isolation makes its magic.\n\n<img src=\"uploads/2023/audio-hijack-for-audio-recording-with-finch-pixel-mic2023-10-1516.23.312x.p.png\" width=\"600\" height=\"198\" alt=\"\">\n",
+				"date_published": "2023-10-15T17:33:58-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/15/a-definitive-solution.html",
+				"tags": ["Photography","Longer posts","Apps  Services","Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/15/episode-sometimes-its.html",
+				"title": "Episode 05 — Sometimes It’s Better to Say No",
+				"content_html": "<p>The timing was right, and the target was well-defined, but the potential traction was far from guaranteed. Would this project be worth all the effort? Someone said: for every yes, there are a thousand no. After many weeks of thought and pondering, I decided against doing a unique project.</p>\n<p><strong>Link</strong>:\nThe <a href=\"https://crafted.numericcitizen.me/apple-rumors-hub\">Apple Rumors Hub</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "The timing was right, and the target was well-defined, but the potential traction was far from guaranteed. Would this project be worth all the effort? Someone said: for every yes, there are a thousand no. After many weeks of thought and pondering, I decided against doing a unique project. \r\n\r\n**Link**:\r\nThe [Apple Rumors Hub](https://crafted.numericcitizen.me/apple-rumors-hub)\r\n\n\n<audio controls=\"controls\" src=\"https://blog.numericcitizen.me/uploads/2023/tagmp3-ttc05-just-say-no.mp3\" preload=\"metadata\"><p><a href=\"https://blog.numericcitizen.me/transcripts/2023/10/15/573.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2023-10-15T16:55:55-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/15/episode-sometimes-its.html",
+				"tags": ["Apple","Blogging","Longer posts","Podcast"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/15/whos-reading-my.html",
+				
+				"content_html": "<p>Who’s reading <strong>my weekly creative summary</strong>? How could I improve it?</p>\n",
+				"content_text": "Who’s reading **my weekly creative summary**? How could I improve it? \n",
+				"date_published": "2023-10-15T13:52:11-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/15/whos-reading-my.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/15/apparently-apple-is.html",
+				
+				"content_html": "<p>Apparently, Apple is working on a way to upgrade iOS on iPhone still in their box at the Apple Store. This would prevent issues where there is a bug in the final release of iOS that could hinder the upgrade experience of new buyers. I&rsquo;m still wondering how the GM of iOS is installed at the factory and how long it takes to be installed. Is the USB-C port helping make the operation faster? 🤔</p>\n",
+				"content_text": "Apparently, Apple is working on a way to upgrade iOS on iPhone still in their box at the Apple Store. This would prevent issues where there is a bug in the final release of iOS that could hinder the upgrade experience of new buyers. I'm still wondering how the GM of iOS is installed at the factory and how long it takes to be installed. Is the USB-C port helping make the operation faster? 🤔\n",
+				"date_published": "2023-10-15T11:54:48-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/15/apparently-apple-is.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/15/its-sunday-its.html",
+				
+				"content_html": "<p>It&rsquo;s Sunday, it&rsquo;s the time of the week for another <strong>creative summary</strong>. Here&rsquo;s <strong><a href=\"https://crafted.numericcitizen.me/creative-summary-2023-41\">another edition of my weekly creative summary</a></strong> directly from my Craft workspace. It&rsquo;s the seventh edition already! 😅 The email version is coming up later today for my subscribers!</p>\n",
+				"content_text": "It's Sunday, it's the time of the week for another **creative summary**. Here's **[another edition of my weekly creative summary](https://crafted.numericcitizen.me/creative-summary-2023-41)** directly from my Craft workspace. It's the seventh edition already! 😅 The email version is coming up later today for my subscribers!\n",
+				"date_published": "2023-10-15T09:14:46-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/15/its-sunday-its.html",
+				"tags": ["Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/14/im-getting-an.html",
+				
+				"content_html": "<p>I’m getting an issue with <strong>Short.io</strong> where domain name cloaking is no longer available. It used to be just fine. Something has changed recently. To get it back, I have to subscribe to the personal plan costing 250$. Looking for alternatives. Cc <a href=\"https://micro.blog/Mtt\">@Mtt</a> who uses the same setup as mine.</p>\n",
+				"content_text": "I’m getting an issue with **Short.io** where domain name cloaking is no longer available. It used to be just fine. Something has changed recently. To get it back, I have to subscribe to the personal plan costing 250$. Looking for alternatives. Cc [@Mtt](https://micro.blog/Mtt) who uses the same setup as mine. \n",
+				"date_published": "2023-10-14T14:53:40-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/14/im-getting-an.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/13/discovery-of-the.html",
+				
+				"content_html": "<p>Discovery of the day: I can use <strong>Audio Hijack</strong> with <strong>ScreenFlow</strong> to record the Mac audio from the <strong>Finch Pixel USB-C</strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>,<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup> mic and the Mac screen. Why use Audio Hijack? Well, so that it can use the macOS Voice Isolation feature and output the results to the Mac audio, which the special audio driver of ScreenFlow, in turn, picks up. Without this, ScreenFlow 10.0.9, with direct voice isolation, creates distorted sound.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>With the Lightning version, I had no issues with the iPhone 13 Pro, macOS Voice Isolation and Screenflow. The problems come from using USB (A or C) microphone devices. It&rsquo;s a known issue, apparently—no fix in sight.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>I spent way too much time and money trying to fix the sound quality for my recordings.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Discovery of the day: I can use **Audio Hijack** with **ScreenFlow** to record the Mac audio from the **Finch Pixel USB-C**[^1],[^2] mic and the Mac screen. Why use Audio Hijack? Well, so that it can use the macOS Voice Isolation feature and output the results to the Mac audio, which the special audio driver of ScreenFlow, in turn, picks up. Without this, ScreenFlow 10.0.9, with direct voice isolation, creates distorted sound.\r\n\r\n[^1]: With the Lightning version, I had no issues with the iPhone 13 Pro, macOS Voice Isolation and Screenflow. The problems come from using USB (A or C) microphone devices. It's a known issue, apparently—no fix in sight.\r\n[^2]: I spent way too much time and money trying to fix the sound quality for my recordings. \n",
+				"date_published": "2023-10-13T14:51:50-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/13/discovery-of-the.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/13/i-went-to.html",
+				
+				"content_html": "<p>I went to the <strong>Apple Store</strong> yesterday. Surprisingly, in the front of the store only has letters printed on the front windows. Pretty lame. I spent some time looking at other shades for the 15 Pro line. The natural titanium definitively reminds me of the <strong>iPhone 4 contour design</strong>, which I love very much. I&rsquo;m still happy with my black iPhone 15 Pro Max, but&hellip;</p>\n",
+				"content_text": "I went to the **Apple Store** yesterday. Surprisingly, in the front of the store only has letters printed on the front windows. Pretty lame. I spent some time looking at other shades for the 15 Pro line. The natural titanium definitively reminds me of the **iPhone 4 contour design**, which I love very much. I'm still happy with my black iPhone 15 Pro Max, but... \n",
+				"date_published": "2023-10-13T08:58:17-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/13/i-went-to.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/12/hey-bloggers-and.html",
+				
+				"content_html": "<p>hey, <strong>bloggers and writers on WordPress</strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, enable the Fediverse plugin and share your blog “handle” with the world so we can follow you right from here! Can’t wait!</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I left WordPress.com a while back, but I’m happy to see them adopt Fediverse!&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "hey, **bloggers and writers on WordPress**[^1], enable the Fediverse plugin and share your blog “handle” with the world so we can follow you right from here! Can’t wait! \n\n[^1]: I left WordPress.com a while back, but I’m happy to see them adopt Fediverse!\n",
+				"date_published": "2023-10-12T15:40:24-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/12/hey-bloggers-and.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/10/11/i-just-received.html",
+				
+				"content_html": "<p>I just received my <strong>Nomad leather case</strong> for my iPhone 15 Pro Max. Best case I ever used on an iPhone. Better than Apple&rsquo;s leather case. It complements the <strong>Peak Design</strong> one for use with my bike. Another great case, btw. Not cheap but well worth it. 👌🏻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I just received my **Nomad leather case** for my iPhone 15 Pro Max. Best case I ever used on an iPhone. Better than Apple's leather case. It complements the **Peak Design** one for use with my bike. Another great case, btw. Not cheap but well worth it. 👌🏻\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-9250.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-10-11T18:48:47-04:00",
+				"url": "https://blog.numericcitizen.me/2023/10/11/i-just-received.html",
+				"tags": ["Photography","Misc","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/10/10/thought-of-the.html",
 				
 				"content_html": "<p>Thought of the day: <strong>read-later services</strong> or applications are a consequence of facing or having too much content available and a lack of time for consuming that content in a timely matter. ☝🏻</p>\n",
@@ -46,7 +145,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/10/08/who-remembers-this.html",
 				
 				"content_html": "<p>Who remembers this? Countless moments were spent looking at this back in 1984 and 1985. It&rsquo;s one of Apple&rsquo;s best and most timeless designs, even if it&rsquo;s beige<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Taken out of a copy of an Apple Dealer Guide circa 1985.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
-				"content_text": "Who remembers this? Countless moments were spent looking at this back in 1984 and 1985. It's one of Apple's best and most timeless designs, even if it's beige[^1].\r\n[^1]: Taken out of a copy of an Apple Dealer Guide circa 1985.\n\n<img src=\"uploads/2023/translucid-mac.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Who remembers this? Countless moments were spent looking at this back in 1984 and 1985. It's one of Apple's best and most timeless designs, even if it's beige[^1].\r\n[^1]: Taken out of a copy of an Apple Dealer Guide circa 1985.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/translucid-mac.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2023-10-08T10:25:23-04:00",
 				"url": "https://blog.numericcitizen.me/2023/10/08/who-remembers-this.html",
 				"tags": ["Apple","Photography","Newsletter"]
