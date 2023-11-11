@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/11/11/what-happened-to.html",
+				"title": "What Happened to the Shortcuts Editor?",
+				"content_html": "<p>I&rsquo;ve been working with <strong>Apple Shortcuts</strong> editor recently<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, on my iPhone and on my iPad, and boy, what a shocking experience! This editor is nearly unworkable, thanks to scrolling sluggishness, object ordering bugs, object variables becoming empty, constant freezes, keyboard masking input fields, changes not being saved and plain and simple editor crashes. 😤 What is happening with this, Apple?<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup> I can&rsquo;t believe Viticci is able to endure this for all his work around shortcuts.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I&rsquo;m working on something new, involving Plausible APIs, Charty for iPhone, and Apple Shortcuts. Stay tuned for that one.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>I don&rsquo;t expect a response from Apple, of course.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I've been working with **Apple Shortcuts** editor recently[^1], on my iPhone and on my iPad, and boy, what a shocking experience! This editor is nearly unworkable, thanks to scrolling sluggishness, object ordering bugs, object variables becoming empty, constant freezes, keyboard masking input fields, changes not being saved and plain and simple editor crashes. 😤 What is happening with this, Apple?[^2] I can't believe Viticci is able to endure this for all his work around shortcuts.\r\n\r\n[^1]: I'm working on something new, involving Plausible APIs, Charty for iPhone, and Apple Shortcuts. Stay tuned for that one. \r\n[^2]: I don't expect a response from Apple, of course.\n",
+				"date_published": "2023-11-11T08:43:02-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/11/what-happened-to.html",
+				"tags": ["Apple","Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/09/my-theory-about.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Sounds like a plan.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Ben Sandofsky\" data-avatar=\"https://micro.blog/sandofsky@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@sandofsky/111383368562341707\"><p>My theory about what happened at Humane…</p><p>Founders pitch investors on a hand laser thing when it’s a napkin sketch. They raise too much money, hire too many people.</p><p>They build a prototype, but too late. Turns out the laser UI sucks and eats too much battery.</p><p>“Hmm. Investors are shopping for AI companies now… voice uses less power… pivot to AI!”</p><p>Suddenly tech has a downturn. Can’t raise another round of funding. They launch an alpha.</p><p>They know it’s doomed. It’s an advertisement for acquirers.</p><footer>Ben Sandofsky <cite><a href=\"https://mastodon.social/@sandofsky/111383368562341707\" class=\"u-in-reply-to\">https://mastodon.social/@sandofsky/111383368562341707</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nSounds like a plan.\r\n",
+				"date_published": "2023-11-09T21:17:06-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/09/my-theory-about.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/08/these-are-my.html",
+				"title": "These Are My Entry Points to AI Usage",
+				"content_html": "<p>I&rsquo;m working on something related to using AI in my creative work. I came up with this.\nAI is used through these front-end clients within my creative workflows:</p>\n<pre><code>- ChatGPT website\n- Raycast AI Chat\n- MidJourney\n- Whisper\n- Micro.blog podcast episode transcription\n- Audio Hijack Transcription block\n- Kagi Summarize Results, Summary Document, Ask Questions\n- Craft Assistant\n- Grammarly\n</code></pre>\n<p>And I expect this list to grow in the coming months.</p>\n",
+				"content_text": "I'm working on something related to using AI in my creative work. I came up with this.\nAI is used through these front-end clients within my creative workflows:\n\n\t- ChatGPT website\n\t- Raycast AI Chat\n\t- MidJourney\n\t- Whisper\n\t- Micro.blog podcast episode transcription\n\t- Audio Hijack Transcription block\n\t- Kagi Summarize Results, Summary Document, Ask Questions\n\t- Craft Assistant\n\t- Grammarly\n\nAnd I expect this list to grow in the coming months. \n",
+				"date_published": "2023-11-08T06:40:34-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/08/these-are-my.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/06/one-quick-question.html",
+				
+				"content_html": "<p>👉🏻 One quick question for my followers or readers: for those using AI (often or not), did you think of any usage rules that could form your ethical view on AI in your work or personal life? Would you mind sharing those rules with me? I&rsquo;ll start with one of mine: <em>Use AI on non-controversial subjects</em>.</p>\n",
+				"content_text": "👉🏻 One quick question for my followers or readers: for those using AI (often or not), did you think of any usage rules that could form your ethical view on AI in your work or personal life? Would you mind sharing those rules with me? I'll start with one of mine: _Use AI on non-controversial subjects_.\n",
+				"date_published": "2023-11-06T07:07:43-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/06/one-quick-question.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/11/06/nsuserdefaults-defaults-nsuserdefaults.html",
 				"title": "NSUserDefaults defaults = [NSUserDefaults NumericCitizenDefaults];",
 				"content_html": "<p>Following the episode (#097) of <a href=\"https://listen.hemisphericviews.com/097\">Hemispheric Views</a>, it’s my turn, I guess, with a little twist for the post title. 😜</p>\n<ul>\n<li>✉️ <strong>Mail Client</strong>: HEY mail</li>\n<li>📨 <strong>Mail Server</strong>: HEY mail + iCloud Custom Email Domain</li>\n<li>📝 <strong>Notes</strong>: Craft + Apple Notes</li>\n<li>✅ <strong>To-Do</strong>: Things 3</li>\n<li>📷 <strong>iPhone Photo Shooting</strong>: Camera.app + Halide.app (for travel)</li>\n<li>📚 <strong>Photo Management</strong>: Photos.app + Adobe Cloud</li>\n<li>🗓️ <strong>Calendar</strong>: Calendar.app (Personal Life) + Fantastical.app (Work Life)</li>\n<li>🗄️ <strong>Cloud file storage</strong>: iCloud</li>\n<li>📰 <strong>RSS</strong>: Reeder connected to Inoreader</li>\n<li>📇 <strong>Contacts</strong>: Contacts</li>\n<li>🕸️ <strong>Browser</strong>: Safari (more and more using Kagi for searching)</li>\n<li>💬 <strong>Chat</strong>: iMessage (WhatsApp when abroad)</li>\n<li>🔖 <strong>Bookmarks</strong>: AnyBox</li>\n<li>👓 <strong>Read It Later</strong>: Omnivore</li>\n<li>📜 <strong>Word Processing</strong>: Ulysses</li>\n<li>📊 <strong>Spreadsheets</strong>: Numbers</li>\n<li>🛝 <strong>Presentations</strong>: Keynote</li>\n<li>🛒 <strong>Shopping Lists</strong>: Reminders</li>\n<li>🧑‍🍳 <strong>Meal Planning</strong>: None</li>\n<li>💰 <strong>Budgeting &amp; Personal Finance</strong>: Numbers</li>\n<li>🗞️ <strong>News</strong>: La Presse (Apple News for English news)</li>\n<li>🎶 <strong>Music</strong>: Apple Music</li>\n<li>🎧 <strong>Podcasts</strong>: PocketCast</li>\n<li>🔐 <strong>Password Management</strong>: iCloud Keychain (also 1Password, I should merge with default)</li>\n</ul>\n",
@@ -19,7 +55,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/11/05/ok-i-may.html",
 				
 				"content_html": "<p>Ok, I may be late to the Mac automation party, but <strong>Keyboard Maestro</strong> is really nice and powerful. And approachable. It&rsquo;s an almost instant buy me! <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> It&rsquo;s super handy to automate portions of my newsletter creation and many tasks in Craft, too!</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>And it&rsquo;s a one-time purchase! No subscription!&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
-				"content_text": "Ok, I may be late to the Mac automation party, but **Keyboard Maestro** is really nice and powerful. And approachable. It's an almost instant buy me! [^1] It's super handy to automate portions of my newsletter creation and many tasks in Craft, too! \r\n[^1]: And it's a one-time purchase! No subscription!\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/keyboard-maestro-keyboard-maestro-editor--ulysses-creative-summary-process-.png\" width=\"600\" height=\"327\" alt=\"\">\n",
+				"content_text": "Ok, I may be late to the Mac automation party, but **Keyboard Maestro** is really nice and powerful. And approachable. It's an almost instant buy me! [^1] It's super handy to automate portions of my newsletter creation and many tasks in Craft, too! \r\n[^1]: And it's a one-time purchase! No subscription!\r\n\n\n<img src=\"uploads/2023/keyboard-maestro-keyboard-maestro-editor--ulysses-creative-summary-process-.png\" width=\"600\" height=\"327\" alt=\"\">\n",
 				"date_published": "2023-11-05T15:26:45-05:00",
 				"url": "https://blog.numericcitizen.me/2023/11/05/ok-i-may.html",
 				"tags": ["Photography","Apps  Services","Newsletter"]
