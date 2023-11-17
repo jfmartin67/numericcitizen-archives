@@ -7,6 +7,114 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/11/16/the-more-testing.html",
+				
+				"content_html": "<p>The more testing and experimenting I do with <strong>ChatGPT</strong>, the more I feel we are at an inflection point like <strong>Netscape</strong> or the <strong>iPhone</strong> was. We live in exciting and challenging times.</p>\n",
+				"content_text": "The more testing and experimenting I do with **ChatGPT**, the more I feel we are at an inflection point like **Netscape** or the **iPhone** was. We live in exciting and challenging times. \n",
+				"date_published": "2023-11-16T08:28:13-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/16/the-more-testing.html",
+				"tags": ["Food for thought","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/16/i-made-this.html",
+				
+				"content_html": "<p>I made <a href=\"https://chat.openai.com/g/g-7AnO8rnLg-describe-this-photo\">this</a>. It is very handy to write an ALT description for an image posted on <strong>Pixelfed</strong>.</p>\n",
+				"content_text": "I made [this](https://chat.openai.com/g/g-7AnO8rnLg-describe-this-photo). It is very handy to write an ALT description for an image posted on **Pixelfed**.\n",
+				"date_published": "2023-11-16T07:01:19-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/16/i-made-this.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/15/according-to-grammarly.html",
+				
+				"content_html": "<p>According to <strong>Grammarly</strong>, <strong>ChatGPT</strong> is really bad at English.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Or is it Grammarly that is really bad? 🤔&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "According to **Grammarly**, **ChatGPT** is really bad at English.[^1]\r\n[^1]: Or is it Grammarly that is really bad? 🤔\n",
+				"date_published": "2023-11-15T19:01:06-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/15/according-to-grammarly.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/15/apples-siri-ai.html",
+				"title": "Apple’s Siri, AI and Next’s Year’s OS Releases",
+				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2023/c011a589b9.jpg\" alt=\"\"></p>\n<p>I don’t know if Apple is working on LLM stuff; they probably do, they probably do work on improving Siri, too, if such a thing is possible in the current incarnation of its fundamentals. But, judging by the rapidity of other companies introducing AI features mainly based on LLM models, I don’t expect it would be so hard for Apple to do the same with Siri. But only if Apple accepts to work with CharGPT-back end for a short-term solution. This could be a transitory path in my mind. Because Apple being Apple, they probably would want to put their twist on this: better privacy protection, for example. They like to control the whole stack. That’s perhaps why they are, apparently, investing massively in their one training infrastructure, which would be they accept the fact that on-device training is too limited, even with powerful Apple silicon. It could prove to be a long journey. I don’t expect too much for next year’s OSes. It will be interesting to see where Apple is headed with this AI thing next year.</p>\n<p>Meanwhile, when I’m asking Siri queries today, I cannot help but feel the tech is antiquated compared to what we can do with Whisper and the like today.</p>\n<p>Image: Dall-E.</p>\n",
+				"content_text": "![](https://blog.numericcitizen.me/uploads/2023/c011a589b9.jpg)\n\nI don’t know if Apple is working on LLM stuff; they probably do, they probably do work on improving Siri, too, if such a thing is possible in the current incarnation of its fundamentals. But, judging by the rapidity of other companies introducing AI features mainly based on LLM models, I don’t expect it would be so hard for Apple to do the same with Siri. But only if Apple accepts to work with CharGPT-back end for a short-term solution. This could be a transitory path in my mind. Because Apple being Apple, they probably would want to put their twist on this: better privacy protection, for example. They like to control the whole stack. That’s perhaps why they are, apparently, investing massively in their one training infrastructure, which would be they accept the fact that on-device training is too limited, even with powerful Apple silicon. It could prove to be a long journey. I don’t expect too much for next year’s OSes. It will be interesting to see where Apple is headed with this AI thing next year. \n\nMeanwhile, when I’m asking Siri queries today, I cannot help but feel the tech is antiquated compared to what we can do with Whisper and the like today.\n\nImage: Dall-E. \n\n",
+				"date_published": "2023-11-15T18:20:41-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/15/apples-siri-ai.html",
+				"tags": ["Apple","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/15/raycast-is-cool.html",
+				
+				"content_html": "<p><strong>Raycast</strong> is cool. I&rsquo;m cool. And because we&rsquo;re cool, here is a <a href=\"https://raycast.com/hey/17f74f8b\">rebate</a>. One month free of the Raycast Pro. <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>But the app icon is really ugly! 🤮&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "**Raycast** is cool. I'm cool. And because we're cool, here is a [rebate](https://raycast.com/hey/17f74f8b). One month free of the Raycast Pro. [^1]\r\n\r\n[^1]: But the app icon is really ugly! 🤮\n",
+				"date_published": "2023-11-15T15:41:09-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/15/raycast-is-cool.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/15/so-how-is.html",
+				
+				"content_html": "<p>So, how is** iOS 17.2 beta3** going? Stable? I&rsquo;m asking for a friend.🤭</p>\n",
+				"content_text": "So, how is** iOS 17.2 beta3** going? Stable? I'm asking for a friend.🤭\n",
+				"date_published": "2023-11-15T11:20:42-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/15/so-how-is.html",
+				"tags": ["Misc","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/14/this-foreseeably-the.html",
+				
+				"content_html": "<p>This:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This:\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Oliver Reichenstein\" data-avatar=\"https://micro.blog/reichenstein@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/users/reichenstein/statuses/111409113783598045\"><p>Foreseeably, the next step in AI integration will happen on an OS level. </p><p>In the mean time, your app will always run an inferior version compared to whatever Microsoft's sells. If having ChatGPT is your sales point, you have no sales point. You only have a very volatile, very expensive ticking time bomb dependency. </p><p>On top of that, you corner yourself into dishonesty if you sell ChatGPT as your own AI. It's bullshit and you know it.</p><footer>Oliver Reichenstein <cite><a href=\"https://mastodon.social/users/reichenstein/statuses/111409113783598045\" class=\"u-in-reply-to\">https://mastodon.social/users/reichenstein/statuses/111409113783598045</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\nThe proliferation of ChatGPT entry points. The race to some sort of singularity?\r\n",
+				"date_published": "2023-11-14T08:29:11-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/14/this-foreseeably-the.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/13/i-dont-know.html",
+				
+				"content_html": "<p>I don&rsquo;t know about you guys, but <strong>watchOS 10.1.1</strong> is still killing battery life… 😔</p>\n",
+				"content_text": "I don't know about you guys, but **watchOS 10.1.1** is still killing battery life… 😔\n",
+				"date_published": "2023-11-13T15:45:37-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/13/i-dont-know.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/12/musing-of-the.html",
+				
+				"content_html": "<p><strong>Musing of the day</strong>: Which is worse from an environmental point of view, burning the planet with NFTs / blockchains s*** or with AI with LLM models training and queries to ChatGPT?<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> 🤔</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>It&rsquo;s a serious question.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "**Musing of the day**: Which is worse from an environmental point of view, burning the planet with NFTs / blockchains s*** or with AI with LLM models training and queries to ChatGPT?[^1] 🤔\r\n\r\n[^1]: It's a serious question. \n",
+				"date_published": "2023-11-12T21:05:21-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/12/musing-of-the.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/12/its-sunday-and.html",
+				
+				"content_html": "<p>It&rsquo;s Sunday😃, and it&rsquo;s time for my new edition of <a href=\"https://crafted.numericcitizen.me/creative-summary-2023-45\">my Weekly Creative Summary, the 2023/45 edition</a>! Mail version coming out later today for <a href=\"https://numericcitizen.me\">my website</a> subscribers!<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>If you don&rsquo;t subscribe already, what are you waiting for??&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "It's Sunday😃, and it's time for my new edition of [my Weekly Creative Summary, the 2023/45 edition](https://crafted.numericcitizen.me/creative-summary-2023-45)! Mail version coming out later today for [my website](https://numericcitizen.me) subscribers![^1]\n\n[^1]: If you don't subscribe already, what are you waiting for??\n",
+				"date_published": "2023-11-12T10:54:18-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/12/its-sunday-and.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/12/i-started-subscribing.html",
+				
+				"content_html": "<p>I started subscribing to <strong>ChatGPT</strong> today so that I could experiment with <strong>Dall-E</strong> and <strong>GPT-4</strong>. I&rsquo;ll probably cancel my <strong>MidJourney</strong> account if all goes well with ChatGPT. I like the idea of having one place to do many things.</p>\n",
+				"content_text": "I started subscribing to **ChatGPT** today so that I could experiment with **Dall-E** and **GPT-4**. I'll probably cancel my **MidJourney** account if all goes well with ChatGPT. I like the idea of having one place to do many things.\n",
+				"date_published": "2023-11-12T08:42:58-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/12/i-started-subscribing.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/11/one-of-my.html",
+				
+				"content_html": "<p>One of my first-gen HomePods is slowly dying.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>😔</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>It spits bad &ldquo;spark&rdquo;-like sounds after listening to music for some time.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "One of my first-gen HomePods is slowly dying.[^1]😔\r\n[^1]: It spits bad \"spark\"-like sounds after listening to music for some time.\n",
+				"date_published": "2023-11-11T16:16:12-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/11/one-of-my.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/11/11/what-happened-to.html",
 				"title": "What Happened to the Shortcuts Editor?",
 				"content_html": "<p>I&rsquo;ve been working with <strong>Apple Shortcuts</strong> editor recently<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, on my iPhone and on my iPad, and boy, what a shocking experience! This editor is nearly unworkable, thanks to scrolling sluggishness, object ordering bugs, object variables becoming empty, constant freezes, keyboard masking input fields, changes not being saved and plain and simple editor crashes. 😤 What is happening with this, Apple?<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup> I can&rsquo;t believe Viticci is able to endure this for all his work around shortcuts.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I&rsquo;m working on something new, involving Plausible APIs, Charty for iPhone, and Apple Shortcuts. Stay tuned for that one.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>I don&rsquo;t expect a response from Apple, of course.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
