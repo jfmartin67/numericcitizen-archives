@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/12/01/there-is-so.html",
+				
+				"content_html": "<p>There is so much buzz around the Internet about the newly released <strong>Ubiquiti Unify Express</strong> router. To me, it seems to be a capable router at a reasonable price. Man, I wish Apple was still in this market<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I know Apple&rsquo;s version wouldn&rsquo;t be as features rich as Ubiquiti&rsquo;s, but&hellip;&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "There is so much buzz around the Internet about the newly released **Ubiquiti Unify Express** router. To me, it seems to be a capable router at a reasonable price. Man, I wish Apple was still in this market[^1].\r\n\r\n[^1]: I know Apple's version wouldn't be as features rich as Ubiquiti's, but...\n",
+				"date_published": "2023-12-01T15:10:21-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/01/there-is-so.html",
+				"tags": ["Apple","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/30/happy-with-ulysses.html",
+				
+				"content_html": "<p>Happy with Ulysses. 😊 #iawriter7</p>\n",
+				"content_text": "Happy with Ulysses. 😊 #iawriter7\n",
+				"date_published": "2023-11-30T19:06:35-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/30/happy-with-ulysses.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/27/i-finished-watching.html",
+				
+				"content_html": "<p>I finished watching this video today while waiting for my car at the garage. Andrej Karpathy gives a great talk explaining Gen AI and how the whole process works, and then some more explanations about the possible future around AI. It&rsquo;s a must-see.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/zjkBMFhNj_g' frameborder='0' allowfullscreen></iframe></div>\n",
+				"content_text": "I finished watching this video today while waiting for my car at the garage. Andrej Karpathy gives a great talk explaining Gen AI and how the whole process works, and then some more explanations about the possible future around AI. It's a must-see. \r\n\r\n{{< youtube \"zjkBMFhNj_g\" >}}\n",
+				"date_published": "2023-11-27T21:30:34-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/27/i-finished-watching.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/27/while-on-my.html",
+				
+				"content_html": "<p>While on my desk, I want to use my <strong>iPad Pro over Ethernet @ 1 GbE</strong> (much faster than wifi) while keeping it charging. Also, it seems that it&rsquo;s not possible to prioritize Ethernet over Wireless (like we can on the Mac)<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. Am I missing something? Am I the only one on earth who prefers Ethernet? Any suggestion?</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>It seems that Wifi needs to be disabled.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "While on my desk, I want to use my **iPad Pro over Ethernet @ 1 GbE** (much faster than wifi) while keeping it charging. Also, it seems that it's not possible to prioritize Ethernet over Wireless (like we can on the Mac)[^1]. Am I missing something? Am I the only one on earth who prefers Ethernet? Any suggestion?\r\n\r\n[^1]: It seems that Wifi needs to be disabled. \n",
+				"date_published": "2023-11-27T10:04:49-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/27/while-on-my.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/27/im-generally-unfazed.html",
+				
+				"content_html": "<p>I&rsquo;m generally unfazed by <strong>black Friday sales</strong>&hellip; I buy things when I need them, not because of any deals. But, this morning, I bought a <strong>Kodak slides scanner</strong> because I have hundreds of old family slides sitting in boxes. I feel sad not to spend the time to put a new life in those memories. So there you go, a new slide scanner. I&rsquo;ll probably write an extensive review of it.</p>\n",
+				"content_text": "I'm generally unfazed by **black Friday sales**... I buy things when I need them, not because of any deals. But, this morning, I bought a **Kodak slides scanner** because I have hundreds of old family slides sitting in boxes. I feel sad not to spend the time to put a new life in those memories. So there you go, a new slide scanner. I'll probably write an extensive review of it. \n",
+				"date_published": "2023-11-27T07:14:24-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/27/im-generally-unfazed.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/11/27/if-you-dont.html",
+				
+				"content_html": "<p>If you don&rsquo;t know me, but especially the places where I&rsquo;m sharing and for what purpose, that is the video to watch.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/Rc0j5jBuXZM' frameborder='0' allowfullscreen></iframe></div>\n",
+				"content_text": "If you don't know me, but especially the places where I'm sharing and for what purpose, that is the video to watch. \r\n\r\n{{< youtube \"Rc0j5jBuXZM\" >}}\n",
+				"date_published": "2023-11-27T06:54:07-05:00",
+				"url": "https://blog.numericcitizen.me/2023/11/27/if-you-dont.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/11/26/with-a-bit.html",
 				
 				"content_html": "<p>With a bit of a delay, here is <a href=\"https://crafted.numericcitizen.me/creative-summary-2023-47\">my weekly creative summary</a> for week 2023/47. Coming a bit later for my subscribers! 😅</p>\n",
