@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/12/11/why-does-logging.html",
+				
+				"content_html": "<p>Why does logging in <strong>Slack</strong> have to be so unfriendly? I&rsquo;m not exactly sure which email I used for which space. I&rsquo;m lousy at keeping track of this information, I know… but…</p>\n",
+				"content_text": "Why does logging in **Slack** have to be so unfriendly? I'm not exactly sure which email I used for which space. I'm lousy at keeping track of this information, I know… but… \n",
+				"date_published": "2023-12-11T17:20:57-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/11/why-does-logging.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/11/apple-releases-watchos.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p><strong>Swipe to Change Watch Face</strong> option is BACK baby!</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"MacRumors.com\" data-avatar=\"https://micro.blog/macrumors@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@macrumors/111563102881382545\"><p>Apple Releases watchOS 10.2 With Health Data Support for Siri, Swipe to Change Watch Face Option and More <a href=\"https://www.macrumors.com/2023/12/11/apple-releases-watchos-10-2/?utm_source=dlvr.it&amp;utm_medium=mastodon\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">macrumors.com/2023/12/11/apple</span><span class=\"invisible\">-releases-watchos-10-2/?utm_source=dlvr.it&amp;utm_medium=mastodon</span></a></p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Ffiles.mastodon.social%2Fmedia_attachments%2Ffiles%2F111%2F563%2F102%2F829%2F845%2F174%2Foriginal%2Ffca07eca64ca5a12.jpeg\" alt=\"\" loading=\"lazy\"></p><footer>MacRumors.com <cite><a href=\"https://mastodon.social/@macrumors/111563102881382545\" class=\"u-in-reply-to\">https://mastodon.social/@macrumors/111563102881382545</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\n**Swipe to Change Watch Face** option is BACK baby!\r\n",
+				"date_published": "2023-12-11T13:41:32-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/11/apple-releases-watchos.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/11/ios-is-now.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>The scale at which Apple releases new software is still mind-blowing for me.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Stephen Robles\" data-avatar=\"https://micro.blog/stephenrobles@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@stephenrobles/111563142345839538\"><p>iOS 17.2 is now out for everyone! macOS, iPadOS, watchOS, and tvOS too!</p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Ffiles.mastodon.social%2Fmedia_attachments%2Ffiles%2F111%2F563%2F142%2F073%2F341%2F292%2Foriginal%2F4096190287829f5b.png\" alt=\"\" loading=\"lazy\"></p><footer>Stephen Robles <cite><a href=\"https://mastodon.social/@stephenrobles/111563142345839538\" class=\"u-in-reply-to\">https://mastodon.social/@stephenrobles/111563142345839538</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nThe scale at which Apple releases new software is still mind-blowing for me. \r\n",
+				"date_published": "2023-12-11T13:37:25-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/11/ios-is-now.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/11/just-two-hours.html",
+				
+				"content_html": "<p>Just two hours in the work day and I have already used <strong>ChatGPT</strong> three times to better understand two different concepts in IT<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. Last year, these prompts would have required many Google searches and much more reading. I&rsquo;m curious to see how ChatGPT and <strong>Gen AI</strong> are influencing Google&rsquo;s market share.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>CCaaS, TLC, QLC.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Just two hours in the work day and I have already used **ChatGPT** three times to better understand two different concepts in IT[^1]. Last year, these prompts would have required many Google searches and much more reading. I'm curious to see how ChatGPT and **Gen AI** are influencing Google's market share. \r\n\r\n[^1]: CCaaS, TLC, QLC. \n",
+				"date_published": "2023-12-11T09:41:14-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/11/just-two-hours.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/11/i-wish-ghostorg.html",
+				
+				"content_html": "<p>I wish <strong>Ghost.org</strong> provided an easy way to directly respond to users&rsquo; comments from the dashboard. I need to log in to my own site to respond, but I can&rsquo;t because of this two-step process where I don&rsquo;t receive the email for logging in. Grr. 🤷🏻‍♂️</p>\n",
+				"content_text": "I wish **Ghost.org** provided an easy way to directly respond to users' comments from the dashboard. I need to log in to my own site to respond, but I can't because of this two-step process where I don't receive the email for logging in. Grr. 🤷🏻‍♂️\n",
+				"date_published": "2023-12-11T09:16:21-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/11/i-wish-ghostorg.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/11/being-a-compulsive.html",
+				
+				"content_html": "<p>Being a compulsive creator is not always easy. There are good days and bad days. Yesterday was a bad one. Early today started on a sour note too, but thanks to the supporting comments I got, it turning into a better day now. 💙</p>\n",
+				"content_text": "Being a compulsive creator is not always easy. There are good days and bad days. Yesterday was a bad one. Early today started on a sour note too, but thanks to the supporting comments I got, it turning into a better day now. 💙\n",
+				"date_published": "2023-12-11T08:43:44-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/11/being-a-compulsive.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/10/and-here-we.html",
+				
+				"content_html": "<p>And here we go for the week: the <strong>weekly creative summary for 2023/49</strong> is <a href=\"https://crafted.numericcitizen.me/creative-summary-2023-49\">out</a>! The newsletter version coming up soon for my dear subscribers! I hope you enjoy this week&rsquo;s edition!</p>\n",
+				"content_text": "And here we go for the week: the **weekly creative summary for 2023/49** is [out](https://crafted.numericcitizen.me/creative-summary-2023-49)! The newsletter version coming up soon for my dear subscribers! I hope you enjoy this week's edition! \n",
+				"date_published": "2023-12-10T13:01:31-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/10/and-here-we.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/10/it-seems-that.html",
+				
+				"content_html": "<p>It seems that at the current rate, 2023 will be my second-most active year on Micro.blog, after 2020. Ref. <a href=\"https://blog.numericcitizen.me/stats/\">Blog stats</a>.</p>\n",
+				"content_text": "It seems that at the current rate, 2023 will be my second-most active year on Micro.blog, after 2020. Ref. [Blog stats](https://blog.numericcitizen.me/stats/).\n",
+				"date_published": "2023-12-10T09:48:06-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/10/it-seems-that.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/10/strike-one.html",
+				"title": "Strike One",
+				"content_html": "<p>After publishing more than 70 YouTube videos on <a href=\"https://www.youtube.com/c/numericcitizenvideos\">my channel</a>, today I got my first content violation warning for sharing a review about Play 2.0, a video manager for YouTube that facilitates downloading YouTube content for free. Oopsy.🫥 I did the highly recommended training by Google.</p>\n<p>If you are a serious YouTube video consumer, consider using <strong>Play 2.0</strong>. That is all.🤫<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I wonder if I could make my video available elsewhere&hellip;🤔&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "After publishing more than 70 YouTube videos on [my channel](https://www.youtube.com/c/numericcitizenvideos), today I got my first content violation warning for sharing a review about Play 2.0, a video manager for YouTube that facilitates downloading YouTube content for free. Oopsy.🫥 I did the highly recommended training by Google.\r\n\r\nIf you are a serious YouTube video consumer, consider using **Play 2.0**. That is all.🤫[^1]\r\n\r\n[^1]: I wonder if I could make my video available elsewhere...🤔\n",
+				"date_published": "2023-12-10T08:26:05-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/10/strike-one.html",
+				"tags": ["Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/09/i-created-the.html",
+				
+				"content_html": "<p>I created <a href=\"https://craft-feature-request-board.canny.io/changelog/the-craft-feature-request-board-is-now-officially-launched\">the Craft Feature Request Board</a> on Canny.io, because the Craft team doesn&rsquo;t want to do it themselves, apparently. If you are a Craft user with feature requests, file yours!</p>\n",
+				"content_text": "I created [the Craft Feature Request Board](https://craft-feature-request-board.canny.io/changelog/the-craft-feature-request-board-is-now-officially-launched) on Canny.io, because the Craft team doesn't want to do it themselves, apparently. If you are a Craft user with feature requests, file yours! \n",
+				"date_published": "2023-12-09T09:03:20-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/09/i-created-the.html",
+				"tags": ["Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/07/if-apples-iphone.html",
+				
+				"content_html": "<p>If <a href=\"https://www.macrumors.com/2023/12/07/apple-iphone-16-microphone-upgrade-siri-ai/\">Apple&rsquo;s iPhone 16 brings Siri / Gen AI exclusivity</a>, I don&rsquo;t see that enough for me to consider upgrading. Some tech pundits will probably say that Siri needs much more than an upgraded microphone for a better experience. <a href=\"https://numericcitizen.me/upgrading-from-the-iphone-13-pro-to-the-iphone-15-pro-max-bigger-faster-even-more-possibilities/\">Photography enhancements are what make me upgrade for the most part</a>.</p>\n",
+				"content_text": "If [Apple's iPhone 16 brings Siri / Gen AI exclusivity](https://www.macrumors.com/2023/12/07/apple-iphone-16-microphone-upgrade-siri-ai/), I don't see that enough for me to consider upgrading. Some tech pundits will probably say that Siri needs much more than an upgraded microphone for a better experience. [Photography enhancements are what make me upgrade for the most part](https://numericcitizen.me/upgrading-from-the-iphone-13-pro-to-the-iphone-15-pro-max-bigger-faster-even-more-possibilities/).\n",
+				"date_published": "2023-12-07T06:45:22-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/07/if-apples-iphone.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/12/06/if-apple-were.html",
 				
 				"content_html": "<p>If <a href=\"https://www.macrumors.com/2023/12/06/macbook-air-march-2024/\">Apple were to release an M3 MacBook Air early in 2024</a>, I would be pissed off<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I bought an M2 15-inch MacBook Air last August.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
