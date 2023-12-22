@@ -7,6 +7,123 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/12/22/some-possible-microblog.html",
+				
+				"content_html": "<p>Some possible Micro.blog marketing taglines. Add you own.</p>\n<p>Micro.blog means Macro Power. <!-- raw HTML omitted -->\nMicro.blog means Macro Flexibility. <!-- raw HTML omitted -->\nMicro.blog means Macro Openness. <!-- raw HTML omitted -->\nMicro.blog means Macro Privacy. <!-- raw HTML omitted -->\nMicro.blog means Macro Connectivity. <!-- raw HTML omitted -->\nMicro.blog means Macro <em>your take here</em>  <!-- raw HTML omitted -->\nMicro.blog means nothing but Macro. <!-- raw HTML omitted --></p>\n<p>cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
+				"content_text": "Some possible Micro.blog marketing taglines. Add you own.\r\n\r\nMicro.blog means Macro Power. <p>\r\nMicro.blog means Macro Flexibility. <p>\r\nMicro.blog means Macro Openness. <p>\r\nMicro.blog means Macro Privacy. <p>\r\nMicro.blog means Macro Connectivity. <p>\r\nMicro.blog means Macro _your take here_  <p>\r\nMicro.blog means nothing but Macro. <p>\r\n\r\ncc [@manton](https://micro.blog/manton) \n",
+				"date_published": "2023-12-22T07:32:05-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/22/some-possible-microblog.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/21/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if this QR code could be my next avatar.🤔</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I wonder if this QR code could be my next avatar.🤔\n\n<img src=\"uploads/2023/qrcode.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-21T21:57:40-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/21/i-wonder-if.html",
+				"tags": ["Photography","Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/21/llm-on-my.html",
+				
+				"content_html": "<p><strong><a href=\"https://www.macrumors.com/2023/12/21/apple-ai-researchers-run-llms-iphones/\">LLM on my iPhone</a></strong>? That sounds like a super interesting development. Suddenly, an iPhone with 1TB of storage might seem like a good buying decision, albeit expansive.</p>\n",
+				"content_text": "**[LLM on my iPhone](https://www.macrumors.com/2023/12/21/apple-ai-researchers-run-llms-iphones/)**? That sounds like a super interesting development. Suddenly, an iPhone with 1TB of storage might seem like a good buying decision, albeit expansive. \n",
+				"date_published": "2023-12-21T06:48:05-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/21/llm-on-my.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/20/im-happy-to.html",
+				
+				"content_html": "<p>I’m happy to see <strong>Zavala</strong> is still being updated. 😊</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m happy to see **Zavala** is still being updated. 😊\n\n<img src=\"uploads/2023/183cde7e55.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-20T08:10:57-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/20/im-happy-to.html",
+				"tags": ["Photography","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/19/i-sometimes-miss.html",
+				
+				"content_html": "<p>I sometimes miss this type of user interface.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I sometimes miss this type of user interface. \n\n<img src=\"uploads/2023/a2487ac11c.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-19T17:06:38-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/19/i-sometimes-miss.html",
+				"tags": ["Apple","Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/18/apple-working-on.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Honestly, the blood oxygen sensor on the Apple Watch isn&rsquo;t very useful because of a lack of precision. I wouldn&rsquo;t mind having it removed entirely.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"MacRumors.com\" data-avatar=\"https://micro.blog/macrumors@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@macrumors/111604236893222090\"><p>Apple Working on Software Fix to Avoid U.S. Apple Watch Import Ban <a href=\"https://www.macrumors.com/2023/12/18/apple-watch-import-ban-software-fix/?utm_source=dlvr.it&amp;utm_medium=mastodon\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">macrumors.com/2023/12/18/apple</span><span class=\"invisible\">-watch-import-ban-software-fix/?utm_source=dlvr.it&amp;utm_medium=mastodon</span></a></p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Ffiles.mastodon.social%2Fmedia_attachments%2Ffiles%2F111%2F604%2F236%2F840%2F489%2F619%2Foriginal%2F7e5d3c1e2adefe12.jpeg\" alt=\"\" loading=\"lazy\"></p><footer>MacRumors.com <cite><a href=\"https://mastodon.social/@macrumors/111604236893222090\" class=\"u-in-reply-to\">https://mastodon.social/@macrumors/111604236893222090</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nHonestly, the blood oxygen sensor on the Apple Watch isn't very useful because of a lack of precision. I wouldn't mind having it removed entirely. \r\n",
+				"date_published": "2023-12-18T20:00:32-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/18/apple-working-on.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/18/there-is-also.html",
+				
+				"content_html": "<blockquote>\n<p>There is also a chance that the ‌MagSafe‌ charging for the ‌iPad‌ that we&rsquo;re hearing about refers to a Mac-like magnetic charger rather than an iPhone-style magnetic charger. Apple is working on a more Mac-like aluminum Magic Keyboard for the 2024 ‌iPad Pro‌ launch, and the new iPads will also use the same M3 chips that are in the MacBook Pro. Source: <a href=\"https://www.macrumors.com/2023/12/18/ipad-pro-magsafe-charging/\">Next iPad Pro Might Support MagSafe Charging - MacRumors</a></p>\n</blockquote>\n<p>The next-gen iPad Pro looks more and more enticing by the day. A Mac-like MagSafe connector makes more sense to me. But I have a feeling this thing will be pricey!</p>\n",
+				"content_text": "> There is also a chance that the ‌MagSafe‌ charging for the ‌iPad‌ that we're hearing about refers to a Mac-like magnetic charger rather than an iPhone-style magnetic charger. Apple is working on a more Mac-like aluminum Magic Keyboard for the 2024 ‌iPad Pro‌ launch, and the new iPads will also use the same M3 chips that are in the MacBook Pro. Source: [Next iPad Pro Might Support MagSafe Charging - MacRumors](https://www.macrumors.com/2023/12/18/ipad-pro-magsafe-charging/)\r\n\r\nThe next-gen iPad Pro looks more and more enticing by the day. A Mac-like MagSafe connector makes more sense to me. But I have a feeling this thing will be pricey!\n",
+				"date_published": "2023-12-18T15:14:26-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/18/there-is-also.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/18/contingent-pricing-for.html",
+				
+				"content_html": "<blockquote>\n<p>Contingent pricing for subscriptions on the App Store — a new feature that helps you attract and retain subscribers — lets you give customers a discounted subscription price as long as they’re actively subscribed to a different subscription.</p>\n</blockquote>\n<p>It&rsquo;s often better to <a href=\"https://9to5mac.com/2023/12/18/third-party-app-stores-apple-response/\">change something</a> in a position of strength, not weakness. That is a good preemptive move by <strong>Apple</strong>, IMO.</p>\n",
+				"content_text": "> Contingent pricing for subscriptions on the App Store — a new feature that helps you attract and retain subscribers — lets you give customers a discounted subscription price as long as they’re actively subscribed to a different subscription.\r\n\r\nIt's often better to [change something](https://9to5mac.com/2023/12/18/third-party-app-stores-apple-response/) in a position of strength, not weakness. That is a good preemptive move by **Apple**, IMO.\n",
+				"date_published": "2023-12-18T14:57:31-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/18/contingent-pricing-for.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/18/apple-pausing-sales.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Massive blow. We don&rsquo;t get to see Apple stopping selling a product often.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"MacRumors.com\" data-avatar=\"https://micro.blog/macrumors@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@macrumors/111601838273362581\"><p>Apple Pausing Sales of Apple Watch Series 9 and Ultra 2 in U.S. Due to Patent Dispute <a href=\"https://www.macrumors.com/2023/12/18/apple-pausing-series-9-ultra-2-sales-in-us/?utm_source=dlvr.it&amp;utm_medium=mastodon\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">macrumors.com/2023/12/18/apple</span><span class=\"invisible\">-pausing-series-9-ultra-2-sales-in-us/?utm_source=dlvr.it&amp;utm_medium=mastodon</span></a></p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Ffiles.mastodon.social%2Fmedia_attachments%2Ffiles%2F111%2F601%2F838%2F215%2F091%2F846%2Foriginal%2F891e6340015af295.jpeg\" alt=\"\" loading=\"lazy\"></p><footer>MacRumors.com <cite><a href=\"https://mastodon.social/@macrumors/111601838273362581\" class=\"u-in-reply-to\">https://mastodon.social/@macrumors/111601838273362581</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nMassive blow. We don't get to see Apple stopping selling a product often. \r\n",
+				"date_published": "2023-12-18T09:37:16-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/18/apple-pausing-sales.html",
+				"tags": ["Apple","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/18/that-could-be.html",
+				
+				"content_html": "<p>That could be a clever tool for developers to attract new customers and subscribers with <a href=\"https://www.macrumors.com/2023/12/18/apple-app-store-bundle-subscription-discounts/\">the following change</a> to the App Store. I&rsquo;m all for it.</p>\n",
+				"content_text": "That could be a clever tool for developers to attract new customers and subscribers with [the following change](https://www.macrumors.com/2023/12/18/apple-app-store-bundle-subscription-discounts/) to the App Store. I'm all for it. \n",
+				"date_published": "2023-12-18T07:26:36-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/18/that-could-be.html",
+				"tags": ["Apple","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/17/thought-of-the.html",
+				
+				"content_html": "<p>Thought of the day: 500 years from now, when someone discovers a piece of plastic with a <strong>QRCode</strong> on it, intact and readable, I wonder what they will think of it and if they&rsquo;ll try to &ldquo;decode&rdquo; the thing.</p>\n",
+				"content_text": "Thought of the day: 500 years from now, when someone discovers a piece of plastic with a **QRCode** on it, intact and readable, I wonder what they will think of it and if they'll try to \"decode\" the thing. \n",
+				"date_published": "2023-12-17T16:20:13-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/17/thought-of-the.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/17/its-sunday-its.html",
+				
+				"content_html": "<p>It&rsquo;s Sunday; it&rsquo;s time for the next weekly creative summary! <a href=\"https://crafted.numericcitizen.me/creative-summary-2023-50\">Edition 2023-50</a> will be my last one… until 2024!<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> The email version is coming up later today for my lovely subscribers! Expect some improvements in 2024! Stay tuned!</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Were you afraid that it would be my last edition like forever? 😌&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "It's Sunday; it's time for the next weekly creative summary! [Edition 2023-50](https://crafted.numericcitizen.me/creative-summary-2023-50) will be my last one… until 2024![^1] The email version is coming up later today for my lovely subscribers! Expect some improvements in 2024! Stay tuned!\r\n\r\n[^1]: Were you afraid that it would be my last edition like forever? 😌\n",
+				"date_published": "2023-12-17T12:14:51-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/17/its-sunday-its.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/17/time-for-a.html",
+				
+				"content_html": "<p>Time for a shameless promotion. To #Craft users out there looking for a great calendar year template for 2024, head to Gumroad (<a href=\"https://numericcitizen.gumroad.com/l/craft-tmpl-2024-calendar-v1\">link</a>). Only 5$. Starting in January, the price will go up. End of the shameless ad.</p>\n",
+				"content_text": "Time for a shameless promotion. To #Craft users out there looking for a great calendar year template for 2024, head to Gumroad ([link](https://numericcitizen.gumroad.com/l/craft-tmpl-2024-calendar-v1)). Only 5$. Starting in January, the price will go up. End of the shameless ad.\n",
+				"date_published": "2023-12-17T10:04:31-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/17/time-for-a.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/12/16/im-considering-replacingupgrading.html",
 				
 				"content_html": "<p>I&rsquo;m considering replacing/upgrading from an M1 Mac mini to the <strong>Mac Studio</strong>🤑. Upon looking at Apple&rsquo;s Mac Studio website, I was surprised that the Mac Studio wasn&rsquo;t yet updated to the M3 processor yet🤨. For some reason, I thought it was updated with the MacBook Pro this fall. I should have known better. 🤷🏻‍♂️ I&rsquo;ll wait for the next update.</p>\n",
@@ -19,7 +136,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/12/16/just-finished-creating.html",
 				
 				"content_html": "<p>Just finished creating my 25-minute mix! I&rsquo;m slowly getting there! I&rsquo;m super excited for this. For those who might ask, I&rsquo;m using <strong>Djay</strong> with a <strong>Pioneer DDJ-400</strong>. #techno #technomelodic 🎧🎶🕺🏻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just finished creating my 25-minute mix! I'm slowly getting there! I'm super excited for this. For those who might ask, I'm using **Djay** with a **Pioneer DDJ-400**. #techno #technomelodic 🎧🎶🕺🏻\r\n\n\n<img src=\"uploads/2023/img-9740.jpeg\" width=\"583\" height=\"600\" alt=\"\">\n",
+				"content_text": "Just finished creating my 25-minute mix! I'm slowly getting there! I'm super excited for this. For those who might ask, I'm using **Djay** with a **Pioneer DDJ-400**. #techno #technomelodic 🎧🎶🕺🏻\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-9740.jpeg\" width=\"583\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-16T14:11:03-05:00",
 				"url": "https://blog.numericcitizen.me/2023/12/16/just-finished-creating.html",
 				"tags": ["Photography","Misc","Newsletter"]
@@ -37,7 +154,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/12/16/coffee-shop-time.html",
 				
 				"content_html": "<p><strong>Coffee shop</strong> time! 😃 For some reason, I always test their Wifi service each place I visit. Always<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. 🤷🏻‍♂️</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>The same goes for hotels while I travel.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
-				"content_text": "**Coffee shop** time! 😃 For some reason, I always test their Wifi service each place I visit. Always[^1]. 🤷🏻‍♂️\r\n\r\n[^1]: The same goes for hotels while I travel.\n\n<img src=\"uploads/2023/craft-2023.12.172023-12-1611.36.542x.png\" width=\"600\" height=\"379\" alt=\"\">\n",
+				"content_text": "**Coffee shop** time! 😃 For some reason, I always test their Wifi service each place I visit. Always[^1]. 🤷🏻‍♂️\r\n\r\n[^1]: The same goes for hotels while I travel.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/craft-2023.12.172023-12-1611.36.542x.png\" width=\"600\" height=\"379\" alt=\"\">\n",
 				"date_published": "2023-12-16T11:38:59-05:00",
 				"url": "https://blog.numericcitizen.me/2023/12/16/coffee-shop-time.html",
 				"tags": ["Photography","Misc","Newsletter"]
