@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2023/12/26/is-genai-a.html",
+				"title": "Is GenAI a Product or a Feature?",
+				"content_html": "<p>Just like Steve Jobs once said that Dropbox is not a product but a feature, I wonder if the way we consume GenAI today makes it look like a product, but it&rsquo;s actually a feature. Don&rsquo;t get me wrong, GenAI is utterly important and a game changer, but I feel that in the future, there will be something bigger that will encompass GenAI that will actually be THE product.</p>\n",
+				"content_text": "Just like Steve Jobs once said that Dropbox is not a product but a feature, I wonder if the way we consume GenAI today makes it look like a product, but it's actually a feature. Don't get me wrong, GenAI is utterly important and a game changer, but I feel that in the future, there will be something bigger that will encompass GenAI that will actually be THE product.\n",
+				"date_published": "2023-12-26T20:58:44-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/26/is-genai-a.html",
+				"tags": ["Food for thought","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/26/if-i-post.html",
+				
+				"content_html": "<p>If I post a photo on Pixelfed that is marked as an NSFW image <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, the image is still cross-posted on Micro.blog without any restriction. Can Micro.blog distinguish the post on Pixelfed and do something different based on that? cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>No sexually explicit content, but it could contain references to some partial nudity.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "If I post a photo on Pixelfed that is marked as an NSFW image [^1], the image is still cross-posted on Micro.blog without any restriction. Can Micro.blog distinguish the post on Pixelfed and do something different based on that? cc [@manton](https://micro.blog/manton)\r\n\r\n[^1]: No sexually explicit content, but it could contain references to some partial nudity.\n",
+				"date_published": "2023-12-26T07:21:24-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/26/if-i-post.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/25/im-so-much.html",
+				
+				"content_html": "<p>I’m so much closer than I thought to being able to close my Adobe creative cloud subscription. I love the holidays for the time it provides to do special projects like this.</p>\n",
+				"content_text": "I’m so much closer than I thought to being able to close my Adobe creative cloud subscription. I love the holidays for the time it provides to do special projects like this. \n",
+				"date_published": "2023-12-25T19:45:03-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/25/im-so-much.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/25/synology-photos-as.html",
+				
+				"content_html": "<p><strong>Synology Photos</strong> as a webapp on macOS Sonoma is 👌🏻</p>\n",
+				"content_text": "**Synology Photos** as a webapp on macOS Sonoma is 👌🏻\n",
+				"date_published": "2023-12-25T13:01:11-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/25/synology-photos-as.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/25/merry-christmas-to.html",
+				
+				"content_html": "<p>Merry Christmas to all my followers! 🎅🏻 In other news, I fell into a rabbit hole when I started looking at my <strong>Adobe Creative Cloud migration</strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. The process is far easier than I thought but it takes a little while to move files around. I could complete it before my next scheduled payment on January 8th. That is one of my 2024 goals!</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I&rsquo;ll be moving out of it so that I can focus on the Photomator / Pixelmator duo instead.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Merry Christmas to all my followers! 🎅🏻 In other news, I fell into a rabbit hole when I started looking at my **Adobe Creative Cloud migration**[^1]. The process is far easier than I thought but it takes a little while to move files around. I could complete it before my next scheduled payment on January 8th. That is one of my 2024 goals! \r\n\r\n[^1]: I'll be moving out of it so that I can focus on the Photomator / Pixelmator duo instead. \n",
+				"date_published": "2023-12-25T09:49:47-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/25/merry-christmas-to.html",
+				"tags": ["Photography","Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/24/playing-christmas-music.html",
+				
+				"content_html": "<p>Playing Christmas music everywhere in the house using HomePods and AirPlay is quite cool. You cannot escape Christmas! 🎅🏻🎶🦌</p>\n",
+				"content_text": "Playing Christmas music everywhere in the house using HomePods and AirPlay is quite cool. You cannot escape Christmas! 🎅🏻🎶🦌\n",
+				"date_published": "2023-12-24T11:42:45-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/24/playing-christmas-music.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/23/about-blognumericcitizenme-visitors.html",
+				"title": "About blog.numericcitizen.me visitors for 2023",
+				"content_html": "<p>Visitors to <a href=\"https://blog.numericcitizen.me\">blog.numericcitizen.me</a> increased significantly compared to the previous year. Leaving Twitter at the end of 2022 probably explains why. <a href=\"https://blog.numericcitizen.me/2023/11/18/the-danger-of.html\">Embracing the POSSE model</a> and my adoption of Mastodon and Bluesky also explains why more people visited my blog. It&rsquo;s been a great year on Micro.blog, and I&rsquo;m really looking forward to 2024!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Visitors to [blog.numericcitizen.me](https://blog.numericcitizen.me) increased significantly compared to the previous year. Leaving Twitter at the end of 2022 probably explains why. [Embracing the POSSE model](https://blog.numericcitizen.me/2023/11/18/the-danger-of.html) and my adoption of Mastodon and Bluesky also explains why more people visited my blog. It's been a great year on Micro.blog, and I'm really looking forward to 2024!\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/safari-personal-default--plausible--numericcitizen.micro.blog2023-12-2309.1.png\" width=\"600\" height=\"305\" alt=\"\">\n",
+				"date_published": "2023-12-23T09:24:36-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/23/about-blognumericcitizenme-visitors.html",
+				"tags": ["Photography","Blogging","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/23/about-numericcitizenme-visitors.html",
+				"title": "About numericcitizen.me visitors for 2023",
+				"content_html": "<p>My <a href=\"https://numericcitizen.me\">main blog</a> stats show a slight increase in visitors, especially in the last three months of 2023<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. The switch from WordPress.com to Ghost.org positively influenced the trend. The next post will be about the &ldquo;blog.numericcitizen.me&rdquo; site where the story is quite different.</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>It&rsquo;s related to the launch of my weekly creative summary.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "My [main blog](https://numericcitizen.me) stats show a slight increase in visitors, especially in the last three months of 2023[^1]. The switch from WordPress.com to Ghost.org positively influenced the trend. The next post will be about the \"blog.numericcitizen.me\" site where the story is quite different. \r\n\r\n[^1]: It's related to the launch of my weekly creative summary.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/safari-personal-default--plausible--numeric-citizen-introspection.ghost.io2.png\" width=\"600\" height=\"268\" alt=\"\">\n",
+				"date_published": "2023-12-23T09:17:05-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/23/about-numericcitizenme-visitors.html",
+				"tags": ["Photography","Blogging","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/23/here-are-my.html",
+				
+				"content_html": "<p>Here are my five goals for 2024, as posted on <a href=\"https://crafted.numericcitizen.me/about\">my personal landing page</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Here are my five goals for 2024, as posted on [my personal landing page](https://crafted.numericcitizen.me/about).\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/craft-about-numeric-citizen2023-12-2308.36.152x.png\" width=\"600\" height=\"193\" alt=\"\">\n",
+				"date_published": "2023-12-23T08:37:57-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/23/here-are-my.html",
+				"tags": ["Photography","Personal","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/22/going-to-my.html",
+				
+				"content_html": "<p>Going to my sister’s house tomorrow for holidays celebration. She got a new MacBook that she wants me to configure   🤓</p>\n",
+				"content_text": "Going to my sister’s house tomorrow for holidays celebration. She got a new MacBook that she wants me to configure   🤓\n",
+				"date_published": "2023-12-22T19:04:10-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/22/going-to-my.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/22/in-montreal-city.html",
+				
+				"content_html": "<p>In Montreal city, two days before Christmas, there is no snow. No precipitation is expected either until maybe Dec 27th at the earliest. This is so different from what I experienced as a kid.</p>\n",
+				"content_text": "In Montreal city, two days before Christmas, there is no snow. No precipitation is expected either until maybe Dec 27th at the earliest. This is so different from what I experienced as a kid.\n",
+				"date_published": "2023-12-22T15:23:09-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/22/in-montreal-city.html",
+				"tags": ["Newsletter","Climate"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/12/22/some-possible-microblog.html",
 				
 				"content_html": "<p>Some possible Micro.blog marketing taglines. Add you own.</p>\n<p>Micro.blog means Macro Power. <!-- raw HTML omitted -->\nMicro.blog means Macro Flexibility. <!-- raw HTML omitted -->\nMicro.blog means Macro Openness. <!-- raw HTML omitted -->\nMicro.blog means Macro Privacy. <!-- raw HTML omitted -->\nMicro.blog means Macro Connectivity. <!-- raw HTML omitted -->\nMicro.blog means Macro <em>your take here</em>  <!-- raw HTML omitted -->\nMicro.blog means nothing but Macro. <!-- raw HTML omitted --></p>\n<p>cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
@@ -19,7 +118,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/12/21/i-wonder-if.html",
 				
 				"content_html": "<p>I wonder if this QR code could be my next avatar.🤔</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wonder if this QR code could be my next avatar.🤔\n\n<img src=\"uploads/2023/qrcode.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I wonder if this QR code could be my next avatar.🤔\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/qrcode.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-21T21:57:40-05:00",
 				"url": "https://blog.numericcitizen.me/2023/12/21/i-wonder-if.html",
 				"tags": ["Photography","Misc","Newsletter"]
@@ -37,7 +136,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/12/20/im-happy-to.html",
 				
 				"content_html": "<p>I’m happy to see <strong>Zavala</strong> is still being updated. 😊</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m happy to see **Zavala** is still being updated. 😊\n\n<img src=\"uploads/2023/183cde7e55.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"content_text": "I’m happy to see **Zavala** is still being updated. 😊\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/183cde7e55.png\" width=\"296\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-20T08:10:57-05:00",
 				"url": "https://blog.numericcitizen.me/2023/12/20/im-happy-to.html",
 				"tags": ["Photography","Apps  Services","Newsletter"]
@@ -46,7 +145,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/12/19/i-sometimes-miss.html",
 				
 				"content_html": "<p>I sometimes miss this type of user interface.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I sometimes miss this type of user interface. \n\n<img src=\"uploads/2023/a2487ac11c.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"content_text": "I sometimes miss this type of user interface. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/a2487ac11c.png\" width=\"296\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-19T17:06:38-05:00",
 				"url": "https://blog.numericcitizen.me/2023/12/19/i-sometimes-miss.html",
 				"tags": ["Apple","Photography"]
