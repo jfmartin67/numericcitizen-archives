@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/01/01/just-finished-going.html",
+				
+				"content_html": "<p>Just finished going through my monthly newsletter come out of Micro.blog. 😳 It’s long and feels a bit messy. 🤨 For 2024, I decided to be more selective of the posts that will make it to the gate each month. Not everything is worth being summarized.</p>\n",
+				"content_text": "Just finished going through my monthly newsletter come out of Micro.blog. 😳 It’s long and feels a bit messy. 🤨 For 2024, I decided to be more selective of the posts that will make it to the gate each month. Not everything is worth being summarized. \n",
+				"date_published": "2024-01-01T09:09:19-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/01/just-finished-going.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/01/its-the-time.html",
+				
+				"content_html": "<p>It’s the time of the year where the page is white, everything feels possible and in its place. It’s up to me to decide how 2024 will unroll as a creator.</p>\n",
+				"content_text": "It’s the time of the year where the page is white, everything feels possible and in its place. It’s up to me to decide how 2024 will unroll as a creator. \n",
+				"date_published": "2024-01-01T08:54:02-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/01/its-the-time.html",
+				"tags": ["Personal","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/31/i-wish-you.html",
+				
+				"content_html": "<p>I wish you all a happy new year! May 2024 be a better one than what 2023 was. It shouldn&rsquo;t be that hard. Peace.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I wish you all a happy new year! May 2024 be a better one than what 2023 was. It shouldn't be that hard. Peace. \n\n<img src=\"uploads/2023/img-5641.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-31T17:00:00-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/31/i-wish-you.html",
+				"tags": ["Photography","Personal","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/27/each-year-at.html",
+				
+				"content_html": "<p>Each year, at about the same period, I always feel a return of my desire for photography. It is as if photography is always the thing I drop first when I&rsquo;m busy in life, preferring to keep the rest (writing, blogging). I hope this will change a bit in 2024.</p>\n",
+				"content_text": "Each year, at about the same period, I always feel a return of my desire for photography. It is as if photography is always the thing I drop first when I'm busy in life, preferring to keep the rest (writing, blogging). I hope this will change a bit in 2024.\n",
+				"date_published": "2023-12-27T15:39:38-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/27/each-year-at.html",
+				"tags": ["Photography","Personal","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/12/27/writing-about-leaving.html",
+				
+				"content_html": "<p>Writing about leaving Adobe ecosystem and embracing once and for all the <strong>Photomator</strong> / <strong>Pixelmator</strong> combo: 1500 words and counting. 👨🏻‍💻😅</p>\n",
+				"content_text": "Writing about leaving Adobe ecosystem and embracing once and for all the **Photomator** / **Pixelmator** combo: 1500 words and counting. 👨🏻‍💻😅\n",
+				"date_published": "2023-12-27T14:21:27-05:00",
+				"url": "https://blog.numericcitizen.me/2023/12/27/writing-about-leaving.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/12/26/is-genai-a.html",
 				"title": "Is GenAI a Product or a Feature?",
 				"content_html": "<p>Just like Steve Jobs once said that Dropbox is not a product but a feature, I wonder if the way we consume GenAI today makes it look like a product, but it&rsquo;s actually a feature. Don&rsquo;t get me wrong, GenAI is utterly important and a game changer, but I feel that in the future, there will be something bigger that will encompass GenAI that will actually be THE product.</p>\n",
