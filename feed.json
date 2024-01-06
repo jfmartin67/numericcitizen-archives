@@ -7,6 +7,95 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/01/06/finally-cancelled-my.html",
+				
+				"content_html": "<p>Finally cancelled my <strong>Adobe photography subscription</strong> plan. Next to cancel: <strong>CleanShot Cloud</strong>. Just updated <a href=\"https://crafted.numericcitizen.me/current-subscriptions\">my subscriptions page</a>.</p>\n",
+				"content_text": "Finally cancelled my **Adobe photography subscription** plan. Next to cancel: **CleanShot Cloud**. Just updated [my subscriptions page](https://crafted.numericcitizen.me/current-subscriptions).\n",
+				"date_published": "2024-01-06T09:19:35-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/06/finally-cancelled-my.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/05/a-great-documentary.html",
+				
+				"content_html": "<p>A great <a href=\"https://youtu.be/38XMIMrIg_g?si=xdFUvMRAAqs3NL_t\">documentary</a> about Tim Cook. Must watch.</p>\n",
+				"content_text": "A great [documentary](https://youtu.be/38XMIMrIg_g?si=xdFUvMRAAqs3NL_t) about Tim Cook. Must watch.\n",
+				"date_published": "2024-01-05T21:38:44-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/05/a-great-documentary.html",
+				"tags": ["Apple"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/05/hey-calendar-first.html",
+				"title": "Hey Calendar First Impressions",
+				"content_html": "<p><strong>HEY Calendar</strong> is being rolled out to a limited set of users. It will be <strong>free</strong>, and a separate app will be released for the Calendar in the near future. It&rsquo;s not as controversial a take as the email counterpart. Day view and week view only, by design<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I&rsquo;m not sure if this is a deal-breaker for many.</p>\n<p><strong>Time tracking</strong> seems limited and cannot replace Toggl / Timery in my workflow. Data can be exported as a CSV file. I wonder if it can be really useful in its current form. The jury is still out on that one.</p>\n<p>Interesting <strong>habit tracking</strong> support: simple enough to be useful. Limited icon selection, though. No iOS app just yet, only web and desktop. No Microsoft Office 365 support yet. iCloud calendars can be integrated, but they must be made public to get an iCal URL that HEY Calender subscribes to. Same for Google calendars. Some tasks are managed as things to do eventually in the week, appear at the bottom, and move to the next week if not completed.</p>\n<p>My initial impressions of HEY Calendar are neutral. That&rsquo;s it for now.</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>This could be controversial.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "**HEY Calendar** is being rolled out to a limited set of users. It will be **free**, and a separate app will be released for the Calendar in the near future. It's not as controversial a take as the email counterpart. Day view and week view only, by design[^1]. I'm not sure if this is a deal-breaker for many.\r\n\r\n**Time tracking** seems limited and cannot replace Toggl / Timery in my workflow. Data can be exported as a CSV file. I wonder if it can be really useful in its current form. The jury is still out on that one.\r\n\r\nInteresting **habit tracking** support: simple enough to be useful. Limited icon selection, though. No iOS app just yet, only web and desktop. No Microsoft Office 365 support yet. iCloud calendars can be integrated, but they must be made public to get an iCal URL that HEY Calender subscribes to. Same for Google calendars. Some tasks are managed as things to do eventually in the week, appear at the bottom, and move to the next week if not completed. \r\n\r\nMy initial impressions of HEY Calendar are neutral. That's it for now. \r\n\r\n[^1]: This could be controversial.\n\n<img src=\"uploads/2024/safari-personal-default--hey-calendar2024-01-0508.16.332x.png\" width=\"600\" height=\"370\" alt=\"\">\n",
+				"date_published": "2024-01-05T08:41:27-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/05/hey-calendar-first.html",
+				"tags": ["Photography","Longer posts","Apps  Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/04/this-year-my.html",
+				
+				"content_html": "<p>This year, my writing habits will be impacted by my desire to spend more time interacting with the community here. Reaching out and connecting might lead to new opportunities and writing triggers.</p>\n",
+				"content_text": "This year, my writing habits will be impacted by my desire to spend more time interacting with the community here. Reaching out and connecting might lead to new opportunities and writing triggers. \n",
+				"date_published": "2024-01-04T11:30:26-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/04/this-year-my.html",
+				"tags": ["Personal","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/04/im-getting-a.html",
+				
+				"content_html": "<p>I’m getting a few more days of vacation and looking forward to practicing my DJ skills to conclude my breakaway from my usual creative activities.</p>\n",
+				"content_text": "I’m getting a few more days of vacation and looking forward to practicing my DJ skills to conclude my breakaway from my usual creative activities.\n",
+				"date_published": "2024-01-04T08:23:32-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/04/im-getting-a.html",
+				"tags": ["Personal"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/04/now-that-hey.html",
+				
+				"content_html": "<p>Now that <strong>HEY calendar</strong> is officially rolling out, I’m curious about the time and habits tracking it comes with. Could they replace <strong>Toggl</strong> (very pricey subscription) and <strong>Timery</strong>? Who got the new calendar feature enabled?</p>\n",
+				"content_text": "Now that **HEY calendar** is officially rolling out, I’m curious about the time and habits tracking it comes with. Could they replace **Toggl** (very pricey subscription) and **Timery**? Who got the new calendar feature enabled? \n",
+				"date_published": "2024-01-04T08:15:05-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/04/now-that-hey.html",
+				"tags": ["Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/03/why-do-we.html",
+				
+				"content_html": "<p>Why do we stilll get <strong>blank widgets on iOS 17.2</strong>? Who’s to blame? Apple? The developers? A combination of both? How do we fix these?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Why do we stilll get **blank widgets on iOS 17.2**? Who’s to blame? Apple? The developers? A combination of both? How do we fix these?\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2024/102ef5b46d.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-01-03T13:40:51-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/03/why-do-we.html",
+				"tags": ["Photography","Apps  Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/02/create-more-consume.html",
+				
+				"content_html": "<p><a href=\"https://manuelmoreale.com/create-more-consume-less\">Create more. Consume less. – Manu</a>\nI want to do the opposite: consume a bit more and create a bit less. For me: consuming is often a content creation trigger. Seems contradictory. But consuming more often means better quality of content creation as a source of nourishment.</p>\n",
+				"content_text": "[Create more. Consume less. – Manu](https://manuelmoreale.com/create-more-consume-less)\nI want to do the opposite: consume a bit more and create a bit less. For me: consuming is often a content creation trigger. Seems contradictory. But consuming more often means better quality of content creation as a source of nourishment.  \n",
+				"date_published": "2024-01-02T11:36:24-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/02/create-more-consume.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/01/subscribers-goal-achieved.html",
+				
+				"content_html": "<p>1000 subscribers goal achieved! Six month later than I would have hoped. Better late than never!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "1000 subscribers goal achieved! Six month later than I would have hoped. Better late than never! \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2024/a6da10faa5.png\" width=\"296\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-01-01T14:38:30-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/01/subscribers-goal-achieved.html",
+				"tags": ["Photography","Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/01/i-still-struggle.html",
+				
+				"content_html": "<p>I still struggle with the idea of writing posts directly on <strong>Mastodon</strong> or <strong>Bluesky</strong>. Replying to others who write to me directly there is ok, though, if I can’t reply from Micro.blog.</p>\n",
+				"content_text": "I still struggle with the idea of writing posts directly on **Mastodon** or **Bluesky**. Replying to others who write to me directly there is ok, though, if I can’t reply from Micro.blog. \n",
+				"date_published": "2024-01-01T12:58:09-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/01/i-still-struggle.html",
+				"tags": ["Blogging","Misc"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2024/01/01/just-finished-going.html",
 				
 				"content_html": "<p>Just finished going through my monthly newsletter come out of Micro.blog. 😳 It’s long and feels a bit messy. 🤨 For 2024, I decided to be more selective of the posts that will make it to the gate each month. Not everything is worth being summarized.</p>\n",
@@ -28,7 +117,7 @@
 				"id": "http://numericcitizen.micro.blog/2023/12/31/i-wish-you.html",
 				
 				"content_html": "<p>I wish you all a happy new year! May 2024 be a better one than what 2023 was. It shouldn&rsquo;t be that hard. Peace.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wish you all a happy new year! May 2024 be a better one than what 2023 was. It shouldn't be that hard. Peace. \n\n<img src=\"uploads/2023/img-5641.png\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "I wish you all a happy new year! May 2024 be a better one than what 2023 was. It shouldn't be that hard. Peace. \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2023/img-5641.png\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-31T17:00:00-05:00",
 				"url": "https://blog.numericcitizen.me/2023/12/31/i-wish-you.html",
 				"tags": ["Photography","Personal","Newsletter"]
