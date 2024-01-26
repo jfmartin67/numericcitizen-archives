@@ -7,6 +7,167 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/01/26/a-stepbystep-guide.html",
+				"title": "A Step-by-Step Guide to Creating a One-Page Site on Micro.blog",
+				"content_html": "<ol>\n<li>Choose your subdomain name<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. 2) Create a CNAME pointing to it<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. 3) Switch to your full custom domain. 4) Write content<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup>. 5) Install a few plugins<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup>. 6) Create pages in the navigation structure to organize content<sup id=\"fnref:5\"><a href=\"#fn:5\" class=\"footnote-ref\" role=\"doc-noteref\">5</a></sup>. 7) Create page footer<sup id=\"fnref:6\"><a href=\"#fn:6\" class=\"footnote-ref\" role=\"doc-noteref\">6</a></sup>. Voilà. 🔥</li>\n</ol>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>abc.micro.blog (must be unique to Micro.blog).&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Done on your Domain name provider, not on Micro.blog. Must point to abc.micro.blog.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>Markdown supported. Insert images using Uploads and “Copy HTML” option, then paste into page.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\">\n<p>Visual theme plugin (optional, if you don’t like the default theme), Analytics (Plausible, Tinylytics, etc.).&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:5\">\n<p>Optional but is a great addition.&#160;<a href=\"#fnref:5\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:6\">\n<p>Optional. Use footer editor to insert your content.&#160;<a href=\"#fnref:6\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "1) Choose your subdomain name[^1]. 2) Create a CNAME pointing to it[^2]. 3) Switch to your full custom domain. 4) Write content[^3]. 5) Install a few plugins[^4]. 6) Create pages in the navigation structure to organize content[^5]. 7) Create page footer[^6]. Voilà. 🔥\n\n[^1]:\tabc.micro.blog (must be unique to Micro.blog).\n\n[^2]:\tDone on your Domain name provider, not on Micro.blog. Must point to abc.micro.blog.\n\n[^3]:\tMarkdown supported. Insert images using Uploads and “Copy HTML” option, then paste into page.\n\n[^4]:\tVisual theme plugin (optional, if you don’t like the default theme), Analytics (Plausible, Tinylytics, etc.).\n\n[^5]:\tOptional but is a great addition.\n\n[^6]:\tOptional. Use footer editor to insert your content.\n",
+				"date_published": "2024-01-26T07:33:45-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/26/a-stepbystep-guide.html",
+				"tags": ["Misc","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/25/apple-generative-ai.html",
+				"title": "Apple, Generative AI and the iPhone Revenues",
+				"content_html": "<p>Numerous applications and services now incorporate AI features. For instance, consider Notion Q&amp;A or Raycast AI. Companies view this as an opportunity to boost revenue by offering these additional features for a fee. However, I recently pondered the possibility that if Apple integrates generative AI into Siri, as rumored for iOS 18, they may not charge for it. This could give Apple a significant advantage, as the revenue from iPhone sales could cover the associated costs. This could become an enormous advantage for Apple.</p>\n",
+				"content_text": "Numerous applications and services now incorporate AI features. For instance, consider Notion Q&A or Raycast AI. Companies view this as an opportunity to boost revenue by offering these additional features for a fee. However, I recently pondered the possibility that if Apple integrates generative AI into Siri, as rumored for iOS 18, they may not charge for it. This could give Apple a significant advantage, as the revenue from iPhone sales could cover the associated costs. This could become an enormous advantage for Apple. \n\n",
+				"date_published": "2024-01-25T21:04:12-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/25/apple-generative-ai.html",
+				"tags": ["Apple \u0026 Tech","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/25/introducing-the-numeric.html",
+				
+				"content_html": "<p>Introducing the <strong><a href=\"https://hub.numericcitizen.me\">Numeric Citizen Hub</a></strong>, a brand new landing page<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. Thanks to the recently introduced “One-page website” feature on Micro.blog, you can now learn about the places I share my creativity right from a single place<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. Enjoy.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>It will replace my Linktr.ee page once my subscription ends, in December of 2024. 🙂&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>I know that some of you might think: well, another website from Numeric Citizen! 😃&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Introducing the **[Numeric Citizen Hub](https://hub.numericcitizen.me)**, a brand new landing page[^1]. Thanks to the recently introduced “One-page website” feature on Micro.blog, you can now learn about the places I share my creativity right from a single place[^2]. Enjoy.\n\n[^1]:\tIt will replace my Linktr.ee page once my subscription ends, in December of 2024. 🙂\n\n[^2]:\tI know that some of you might think: well, another website from Numeric Citizen! 😃\n",
+				"date_published": "2024-01-25T20:24:05-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/25/introducing-the-numeric.html",
+				"tags": ["Misc","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/25/this-is-how.html",
+				
+				"content_html": "<p>This is how my current avatar <a href=\"https://blog.numericcitizen.me/uploads/2024/my-avatar-morphing.gif\">came to be</a>. 👀</p>\n",
+				"content_text": "This is how my current avatar [came to be](https://blog.numericcitizen.me/uploads/2024/my-avatar-morphing.gif). 👀\n",
+				"date_published": "2024-01-25T07:10:48-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/25/this-is-how.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/24/im-unsure-if.html",
+				
+				"content_html": "<p>I&rsquo;m unsure if I ever posted this image of me circa 1986 with my fat Mac<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. The image was created with a MacVision Koala digitizer connected to the Mac serial port and a close-circuit black &amp; white video camera. It was impressive at that time.</p>\n<!-- raw HTML omitted -->\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>A Mac with 512K of RAM. That one was an original Macintosh 128K that was upgraded with an updated logic board kit from Apple.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I'm unsure if I ever posted this image of me circa 1986 with my fat Mac[^1]. The image was created with a MacVision Koala digitizer connected to the Mac serial port and a close-circuit black & white video camera. It was impressive at that time. \r\n\r\n[^1]: A Mac with 512K of RAM. That one was an original Macintosh 128K that was upgraded with an updated logic board kit from Apple. \n\n<img src=\"uploads/2024/656691370.895365.jpeg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-01-24T21:11:57-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/24/im-unsure-if.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/24/an-original-mac.html",
+				
+				"content_html": "<p>An original Mac. #MyFirstMac.\n<a href=\"https://numericcitizen.me/remembering-my-story-of-owning-the-original-macintosh-128k-1985/\">numericcitizen.me/rememberi&hellip;</a></p>\n",
+				"content_text": "An original Mac. #MyFirstMac.\n[numericcitizen.me/rememberi...](https://numericcitizen.me/remembering-my-story-of-owning-the-original-macintosh-128k-1985/)\n",
+				"date_published": "2024-01-24T12:39:41-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/24/an-original-mac.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/22/x-traffic-spike.html",
+				
+				"content_html": "<p>5x traffic spike on Gumroad for <a href=\"https://thecraftbible.com\">The Craft Bible</a>. Saturday, I bought a dedicated domain name for this subscription on Gumroad. Coincidence? 🤔 I&rsquo;ll have to see the coming days to make a final judgment.</p>\n",
+				"content_text": "5x traffic spike on Gumroad for [The Craft Bible](https://thecraftbible.com). Saturday, I bought a dedicated domain name for this subscription on Gumroad. Coincidence? 🤔 I'll have to see the coming days to make a final judgment. \n",
+				"date_published": "2024-01-22T18:04:52-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/22/x-traffic-spike.html",
+				"tags": ["Misc","Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/22/sometimes-writing-is.html",
+				
+				"content_html": "<p>Sometimes, writing is like swimming against the current. Today, ideas were fuzzy, and I could not clarify them and put them in the right order. Those days are never easy, especially when it&rsquo;s a day where writing intelligent texts is absolutely essential. People are depending on me. That was a bad day. Sign-off. 😑</p>\n",
+				"content_text": "Sometimes, writing is like swimming against the current. Today, ideas were fuzzy, and I could not clarify them and put them in the right order. Those days are never easy, especially when it's a day where writing intelligent texts is absolutely essential. People are depending on me. That was a bad day. Sign-off. 😑\n",
+				"date_published": "2024-01-22T17:07:54-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/22/sometimes-writing-is.html",
+				"tags": ["Work"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/22/reuters-report-us.html",
+				
+				"content_html": "<p>Reuters report:</p>\n<blockquote>\n<p>U.S. tech giant Apple (AAPL.O), opens new tab has paid a Russian fine of 1.2 billion roubles ($13.65 million), imposed over the company&rsquo;s alleged abuse of its dominant market position concerning in-app payments, Russia&rsquo;s FAS antitrust agency said on Monday. Source: <a href=\"https://www.reuters.com/technology/apple-pays-137-mln-russian-fine-antitrust-agency-says-2024-01-22/\">Apple pays $13.7 mln Russian fine, antitrust agency says | Reuters</a></p>\n</blockquote>\n<p>It&rsquo;s like paying a fine to an organized crime group. Utterly shocking that the West still helps this criminal government in its war efforts in Ukraine. I can&rsquo;t wait to see Trump licking their butt when he&rsquo;s back.</p>\n",
+				"content_text": "Reuters report: \r\n> U.S. tech giant Apple (AAPL.O), opens new tab has paid a Russian fine of 1.2 billion roubles ($13.65 million), imposed over the company's alleged abuse of its dominant market position concerning in-app payments, Russia's FAS antitrust agency said on Monday. Source: [Apple pays $13.7 mln Russian fine, antitrust agency says | Reuters](https://www.reuters.com/technology/apple-pays-137-mln-russian-fine-antitrust-agency-says-2024-01-22/)\r\n\r\nIt's like paying a fine to an organized crime group. Utterly shocking that the West still helps this criminal government in its war efforts in Ukraine. I can't wait to see Trump licking their butt when he's back.\n",
+				"date_published": "2024-01-22T15:37:49-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/22/reuters-report-us.html",
+				"tags": ["Apple \u0026 Tech","UkraineWar","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/22/inoreader-is-on.html",
+				
+				"content_html": "<p><strong>Inoreader</strong> is on a roll so far this year: <a href=\"https://www.inoreader.com/blog/2024/01/manage-shared-feeds-with-new-team-folders.html\">Team folders</a>,  <a href=\"https://www.inoreader.com/blog/2024/01/stay-in-the-know-with-monitoring-feeds.html\">monitored feeds</a>, and now the ability to <a href=\"https://www.inoreader.com/blog/2024/01/follow-bluesky-rss-feeds-in-inoreader.html\">follow Bluesky users</a>! These are all welcomed additions.</p>\n<p>Now, if only they could give some love to their mobile apps<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>My preferred client is Reeder, yet I wish the Inoreader app would receive a refreshed look from Inoreader developers.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "**Inoreader** is on a roll so far this year: [Team folders](https://www.inoreader.com/blog/2024/01/manage-shared-feeds-with-new-team-folders.html),  [monitored feeds](https://www.inoreader.com/blog/2024/01/stay-in-the-know-with-monitoring-feeds.html), and now the ability to [follow Bluesky users](https://www.inoreader.com/blog/2024/01/follow-bluesky-rss-feeds-in-inoreader.html)! These are all welcomed additions. \r\n\r\nNow, if only they could give some love to their mobile apps[^1].\r\n\r\n[^1]: My preferred client is Reeder, yet I wish the Inoreader app would receive a refreshed look from Inoreader developers. \n",
+				"date_published": "2024-01-22T13:20:16-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/22/inoreader-is-on.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/22/om-malik-linkposting.html",
+				
+				"content_html": "<p>Om Malik link-posting on his blog:</p>\n<blockquote>\n<p>David Mills, the creator of Network Time Protocol (NTP), which is fundamental to the functioning of networks. Mills, nicknamed the Internet’s Time Lord by his peers, passed away on January 17 at the age of 85. His contributions to the development and evolution of the Internet are numerous and far-reaching. We are quietly losing a generation that has helped build the network we often take for granted. Source: <a href=\"https://om.co/2024/01/19/rip-internets-time-lord/\">RIP, Internet’s Time Lord – On my Om</a></p>\n</blockquote>\n<p>I do deal with NTP protocol from time to time at my job as a solution architect. The fathers (and mothers) of the modern computing era are dying.</p>\n",
+				"content_text": "Om Malik link-posting on his blog: \r\n\r\n>  David Mills, the creator of Network Time Protocol (NTP), which is fundamental to the functioning of networks. Mills, nicknamed the Internet’s Time Lord by his peers, passed away on January 17 at the age of 85. His contributions to the development and evolution of the Internet are numerous and far-reaching. We are quietly losing a generation that has helped build the network we often take for granted. Source: [RIP, Internet’s Time Lord – On my Om](https://om.co/2024/01/19/rip-internets-time-lord/)\r\n\r\nI do deal with NTP protocol from time to time at my job as a solution architect. The fathers (and mothers) of the modern computing era are dying. \n",
+				"date_published": "2024-01-22T13:15:20-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/22/om-malik-linkposting.html",
+				"tags": ["Work"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/22/avoiding-vendors-lockin.html",
+				"title": "Avoiding Vendors Lock-in",
+				"content_html": "<p>The notion of &ldquo;avoiding vendors lock-in&rdquo; in information technology is interesting. I would argue that it&rsquo;s impossible to completely be without some sort of vendor lock-in<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. At some point, there is always a required commitment level. You commit to open-source software. You commit to a cloud vendor. You commit to a platform. I often give the example of a company building an application internally with a team of developers. In that scenario, the company is committing to something: the application, the data tied to it and its operational model. Applications are hard to replace in many environments. When you decide to invest in software development, you commit to the end product for many years, if not decades, until the organization decides it&rsquo;s time to transform the application into something else<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. There is this concept of &ldquo;security by design&rdquo; and of &ldquo;portable by design,&rdquo; which should apply to any technical or application architecture. The rest is marketing nonsense.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I do understand data portability concepts and loose coupling principles, though.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>When it&rsquo;s time to adopt new architecture paradigms like the cloud is imposing.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "The notion of \"avoiding vendors lock-in\" in information technology is interesting. I would argue that it's impossible to completely be without some sort of vendor lock-in[^1]. At some point, there is always a required commitment level. You commit to open-source software. You commit to a cloud vendor. You commit to a platform. I often give the example of a company building an application internally with a team of developers. In that scenario, the company is committing to something: the application, the data tied to it and its operational model. Applications are hard to replace in many environments. When you decide to invest in software development, you commit to the end product for many years, if not decades, until the organization decides it's time to transform the application into something else[^2]. There is this concept of \"security by design\" and of \"portable by design,\" which should apply to any technical or application architecture. The rest is marketing nonsense.\r\n\r\n[^1]: I do understand data portability concepts and loose coupling principles, though.\r\n[^2]: When it's time to adopt new architecture paradigms like the cloud is imposing. \n",
+				"date_published": "2024-01-22T11:14:05-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/22/avoiding-vendors-lockin.html",
+				"tags": ["Food for thought","Longer posts","Work"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/22/confession-of-the.html",
+				
+				"content_html": "<p>Confession of the day: I hate being confined to the world of <strong>Microsoft 365</strong> for my work, knowing that there are much cooler tools out there. <strong>Notion</strong> is one example, <strong>Basecamp</strong> is another one, Monday, etc, even though it might be a controversial opinion. And don&rsquo;t get me started about the Microsoft Visio; there are dozens of much better alternatives<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Draw.io, LucidChart, etc.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Confession of the day: I hate being confined to the world of **Microsoft 365** for my work, knowing that there are much cooler tools out there. **Notion** is one example, **Basecamp** is another one, Monday, etc, even though it might be a controversial opinion. And don't get me started about the Microsoft Visio; there are dozens of much better alternatives[^1].\r\n\r\n[^1]: Draw.io, LucidChart, etc.\n",
+				"date_published": "2024-01-22T09:12:54-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/22/confession-of-the.html",
+				"tags": ["Work"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/22/i-just-realized.html",
+				
+				"content_html": "<p>I just realized that I could (and should) use <strong>Raycast AI</strong> to summarize articles saved into <strong>Omnivore</strong> and save the summary into the article notes. Then, I could finish up the metadata with appropriate tags. I used to do that within <strong>Craft</strong> before, but the Craft AI assistant uses GPT 3.5, limits the length of the input into the summarize request and doesn&rsquo;t support &ldquo;real tags&rdquo; like in Omnivore.</p>\n",
+				"content_text": "I just realized that I could (and should) use **Raycast AI** to summarize articles saved into **Omnivore** and save the summary into the article notes. Then, I could finish up the metadata with appropriate tags. I used to do that within **Craft** before, but the Craft AI assistant uses GPT 3.5, limits the length of the input into the summarize request and doesn't support \"real tags\" like in Omnivore.\n",
+				"date_published": "2024-01-22T07:43:52-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/22/i-just-realized.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/21/each-week-on.html",
+				
+				"content_html": "<p>Each week, on Sundays, I select a bunch of my photos that I plan to share on <a href=\"https://pixelfed.social/numericcitizen\">my Pixelfed profile</a> during the week. Next Sunday, early in the morning, I look for the one that received the most likes, shares and comments and use it as the header image of <a href=\"https://numericcitizen.me/tag/creative-summary/\">my weekly creative summary newsletter</a>. This process is like a disguised poll. 🙂 It is a way to share only the best of my work with my dear readers.</p>\n",
+				"content_text": "Each week, on Sundays, I select a bunch of my photos that I plan to share on [my Pixelfed profile](https://pixelfed.social/numericcitizen) during the week. Next Sunday, early in the morning, I look for the one that received the most likes, shares and comments and use it as the header image of [my weekly creative summary newsletter](https://numericcitizen.me/tag/creative-summary/). This process is like a disguised poll. 🙂 It is a way to share only the best of my work with my dear readers. \n",
+				"date_published": "2024-01-21T18:57:38-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/21/each-week-on.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/21/so-i-made.html",
+				
+				"content_html": "<p>So, I made the decision: **<a href=\"https://write.as/numericcitizen/from-write-as-to-micro-blog-this-blog-content-is-moving\">Bye-bye Write.as</a>**👋🏻. It&rsquo;s fun to move things around on the internet, but I pay the price for being too impulsive and not intentional in some of my decisions. It was an impulsive decision to subscribe to Write.as. There was something seductive in the post editor, and being open source is the way to go. But I have to admit that it was a diversion. Now, focusing on Micro.blog. 😊</p>\n<p>Sidenote: I find great satisfaction in simplification. This reminds me of when I was an indie iOS developer: I remember the instants of removing lines of code and making things leaner. It procured a lot of satisfaction.</p>\n",
+				"content_text": "So, I made the decision: **[Bye-bye Write.as](https://write.as/numericcitizen/from-write-as-to-micro-blog-this-blog-content-is-moving)**👋🏻. It's fun to move things around on the internet, but I pay the price for being too impulsive and not intentional in some of my decisions. It was an impulsive decision to subscribe to Write.as. There was something seductive in the post editor, and being open source is the way to go. But I have to admit that it was a diversion. Now, focusing on Micro.blog. 😊\r\n\r\nSidenote: I find great satisfaction in simplification. This reminds me of when I was an indie iOS developer: I remember the instants of removing lines of code and making things leaner. It procured a lot of satisfaction.\n",
+				"date_published": "2024-01-21T15:42:06-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/21/so-i-made.html",
+				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/21/quick-nonscientific-poll.html",
+				
+				"content_html": "<p>Quick non-scientific poll: <a href=\"https://micro.blog/Manton\">@Manton</a> releases quite a few updates (mostly small<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>) to Micro.blog during the year and posts the info on <a href=\"https://micro.blog/news\">@news</a>. Would it be cool if someone created a &ldquo;<strong>What&rsquo;s New on Micro.blog</strong>&rdquo; series demonstrating these changes and tweaks in action? I know some people prefer to see things in action, not just read a small description. Is there an interest in this?<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I know Manton is working on bigger updates, but they are less frequent and could require a separate video for this.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Even without significant interest, I&rsquo;ll do these videos anyway because I like to create videos for YouTube! 😂&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Quick non-scientific poll: [@Manton](https://micro.blog/Manton) releases quite a few updates (mostly small[^1]) to Micro.blog during the year and posts the info on [@news](https://micro.blog/news). Would it be cool if someone created a \"**What's New on Micro.blog**\" series demonstrating these changes and tweaks in action? I know some people prefer to see things in action, not just read a small description. Is there an interest in this?[^2]\r\n\r\n[^1]: I know Manton is working on bigger updates, but they are less frequent and could require a separate video for this. \r\n[^2]: Even without significant interest, I'll do these videos anyway because I like to create videos for YouTube! 😂\n",
+				"date_published": "2024-01-21T14:34:27-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/21/quick-nonscientific-poll.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/21/im-thinking-of.html",
+				
+				"content_html": "<p>I&rsquo;m thinking of leaving <strong>Write.as</strong>. Last year, I purchased a 5-year subscription during a promotion, intending to use it extensively. However, I haven&rsquo;t used it as much as I anticipated. My main focus was writing about the <strong>Ukraine war</strong>. I could migrate this to Micro.blog. Yet, I&rsquo;m concerned that my views on the conflict might offend some people here, as not everyone is interested in politics. 🤔🧐</p>\n",
+				"content_text": "I'm thinking of leaving **Write.as**. Last year, I purchased a 5-year subscription during a promotion, intending to use it extensively. However, I haven't used it as much as I anticipated. My main focus was writing about the **Ukraine war**. I could migrate this to Micro.blog. Yet, I'm concerned that my views on the conflict might offend some people here, as not everyone is interested in politics. 🤔🧐\n",
+				"date_published": "2024-01-21T11:47:39-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/21/im-thinking-of.html",
+				"tags": ["Blogging","Misc","UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2024/01/21/its-sunday-and.html",
 				
 				"content_html": "<p>🌞It&rsquo;s Sunday, and it&rsquo;s time for <a href=\"https://crafted.numericcitizen.me/creative-summary-2024-02\">the second edition</a> of the <strong>weekly creative summary newsletter</strong>! I was late working on this edition and wasn&rsquo;t sure how it would come out. I&rsquo;m pretty satisfied with this week&rsquo;s edition.😀 I&rsquo;m seeing more and more people heading to the Craft edition of this newsletter, and I&rsquo;m highly grateful for the interest that this newsletter generates.</p>\n",
@@ -19,7 +180,7 @@
 				"id": "http://numericcitizen.micro.blog/2024/01/20/hello-madonna-i.html",
 				
 				"content_html": "<p>Hello Madonna! I don’t go often to see shows like this one. Can’t wait! #montreal</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hello Madonna! I don’t go often to see shows like this one. Can’t wait! #montreal \n\n<img src=\"uploads/2024/e59bfdb85f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hello Madonna! I don’t go often to see shows like this one. Can’t wait! #montreal \n\n<img src=\"https://cdn.uploads.micro.blog/6803/2024/e59bfdb85f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-01-20T21:28:37-05:00",
 				"url": "https://blog.numericcitizen.me/2024/01/20/hello-madonna-i.html",
 				"tags": ["Photography","Misc"]
@@ -3232,6 +3393,15 @@
 				"tags": ["Photography","Newsletter"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2023/08/23/sorry-but-no.html",
+				"title": "Sorry But No Sympathy for Russian",
+				"content_html": "<p>From a lunar rover to a plane (probably, to be confirmed) carrying the head of the infamous Wagner group (plus a few of his “friends”), they all crash and burn in hell. I don’t care about the root causes, I have no sympathy at all for Russian failures. The more, the better. Eventually, some will wake up and make a revolution.</p>\n",
+				"content_text": "From a lunar rover to a plane (probably, to be confirmed) carrying the head of the infamous Wagner group (plus a few of his “friends”), they all crash and burn in hell. I don’t care about the root causes, I have no sympathy at all for Russian failures. The more, the better. Eventually, some will wake up and make a revolution.\n",
+				"date_published": "2023-08-23T13:34:55-05:00",
+				"url": "https://blog.numericcitizen.me/2023/08/23/sorry-but-no.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/08/23/these-transcript-links.html",
 				
 				"content_html": "<p>These transcript links give 404. Is this normal? Editing works fine, though. cc <a href=\"https://micro.blog/help\">@help</a> <a href=\"https://micro.blog/manton\">@manton</a></p>\n<!-- raw HTML omitted -->\n",
@@ -4566,6 +4736,15 @@
 				"date_published": "2023-07-11T21:09:57-05:00",
 				"url": "https://blog.numericcitizen.me/2023/07/11/the-next-time.html",
 				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/07/11/a-simple-message.html",
+				"title": "A Simple Message to NATO",
+				"content_html": "<p>The world is watching. Don’t waste your second chance.</p>\n",
+				"content_text": "The world is watching. Don’t waste your second chance.\n",
+				"date_published": "2023-07-11T11:08:08-05:00",
+				"url": "https://blog.numericcitizen.me/2023/07/11/a-simple-message.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/07/11/my-experience-with.html",
@@ -5966,6 +6145,15 @@
 				"tags": ["Apps \u0026 Services"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2023/05/17/is-nato-prolonging.html",
+				"title": "Is NATO Prolonging War in Ukraine?",
+				"content_html": "<p>Found on Reddit:</p>\n<blockquote>\n<p>NATO has always pandered to Putin, says former officer Samantha de Bendern. &ldquo;<em>If we&rsquo;re gonna help Ukraine, we have to go in and help them with as much as we can as fast as we can. Drip feeding weapons is what&rsquo;s prolonging the war</em>&rdquo;</p>\n</blockquote>\n<p>Indeed. I cannot see how, today, NATO could be more involved in the Ukrainian conflict. Politically it’s a big challenge to put boots on the ground.</p>\n",
+				"content_text": "Found on Reddit:\n\n> NATO has always pandered to Putin, says former officer Samantha de Bendern. \"_If we're gonna help Ukraine, we have to go in and help them with as much as we can as fast as we can. Drip feeding weapons is what's prolonging the war_\"\n\nIndeed. I cannot see how, today, NATO could be more involved in the Ukrainian conflict. Politically it’s a big challenge to put boots on the ground.\n",
+				"date_published": "2023-05-17T20:20:59-05:00",
+				"url": "https://blog.numericcitizen.me/2023/05/17/is-nato-prolonging.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/05/17/the-case-for.html",
 				
 				"content_html": "<blockquote>\n<p>The case for Ethernet on Macs: Here’s how much speed you lose with WiFi Source: <a href=\"https://9to5mac.com/2023/05/17/ethernet-vs-wifi-speed-lost/\">Ethernet vs WiFi: How much speed is lost? - 9to5Mac</a></p>\n</blockquote>\n<p>At home, in my office room, my Macs are wired through 1GB Ethernet. It&rsquo;s been only recently that I cabled my office so that Macs get a direct connection to my router. No more Wifi. I never look back.</p>\n",
@@ -6596,6 +6784,24 @@
 				"tags": ["Photography","Misc","Personal"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2023/04/07/what-i-should.html",
+				"title": "What I Should Have Done Earlier",
+				"content_html": "<p>I’ve been following the war in Ukraine on a daily basis since the very beginning. It’s an enduring journey, to say the least. Imanyo has many sad and ugly stories and so many images from this conflict. Some of them are powerful symbols of any war&rsquo;s ugly side. What I should have done was to collect images so I can remember what Ukrainians went (and are still) going through. Historic moments are being played right before our eyes; we should pay attention as they will define the next decades of international relations.</p>\n",
+				"content_text": "I’ve been following the war in Ukraine on a daily basis since the very beginning. It’s an enduring journey, to say the least. Imanyo has many sad and ugly stories and so many images from this conflict. Some of them are powerful symbols of any war's ugly side. What I should have done was to collect images so I can remember what Ukrainians went (and are still) going through. Historic moments are being played right before our eyes; we should pay attention as they will define the next decades of international relations. \n",
+				"date_published": "2023-04-07T09:33:30-05:00",
+				"url": "https://blog.numericcitizen.me/2023/04/07/what-i-should.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/04/07/brazils-stupid-suggestion.html",
+				"title": "Brazil's Stupid Suggestion to End Ukrainian War",
+				"content_html": "<p>As <a href=\"https://kyivindependent.com/brazil-says-ukraine-should-cede-crimea-to-russia-to-end-war-kyiv-says-no/\">reported by The Kyiv Independent</a>, Brazil’s proposal to get a peaceful resolution between Russia and Ukraine:</p>\n<blockquote>\n<p>“Brazil’s President Luiz Inácio Lula da Silva suggested that Ukraine should be open to the idea of giving up Crimea in exchange for peace with Russia.” — Luiz Inácio Lula da Silva</p>\n</blockquote>\n<p>Wow. That’s quite a suggestion. How can a sound man be so sure and trust Russia to bring peace by giving up a piece of land? Who do they think Putin’s Russia is? They already had Crimea, for god’s sake!!! It didn’t stop them from invading the rest of the country! Putin and Russia cannot be trusted, now and in the future. I find this proposal utterly irresponsible and lacking any sense of realism. What a clown.</p>\n",
+				"content_text": "As [reported by The Kyiv Independent](https://kyivindependent.com/brazil-says-ukraine-should-cede-crimea-to-russia-to-end-war-kyiv-says-no/), Brazil’s proposal to get a peaceful resolution between Russia and Ukraine:\n\n> “Brazil’s President Luiz Inácio Lula da Silva suggested that Ukraine should be open to the idea of giving up Crimea in exchange for peace with Russia.” — Luiz Inácio Lula da Silva\n\nWow. That’s quite a suggestion. How can a sound man be so sure and trust Russia to bring peace by giving up a piece of land? Who do they think Putin’s Russia is? They already had Crimea, for god’s sake!!! It didn’t stop them from invading the rest of the country! Putin and Russia cannot be trusted, now and in the future. I find this proposal utterly irresponsible and lacking any sense of realism. What a clown. \n",
+				"date_published": "2023-04-07T09:23:12-05:00",
+				"url": "https://blog.numericcitizen.me/2023/04/07/brazils-stupid-suggestion.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/04/07/when-ai-failed.html",
 				"title": "When AI Failed to Inspire Me",
 				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/ef4d7d0c13.png\" alt=\"\"></p>\n<p>I was looking for inspiration all week to write my next <a href=\"https://numericcitizen.me/tag/friday-notes-series/\">Friday Notes</a> edition. Early morning yesterday, I was still unsure if I could make it, but at lunchtime, I tried ChatGPT with “Give me some blog post ideas about the positive effects on creativity of going on vacation for a week”. It came back with phrases that looked taken from a travel agency ad. I tried again with different variations of my question. It failed to impress and to inspire me. I’ll pass this week’s edition.</p>\n",
@@ -6603,6 +6809,15 @@
 				"date_published": "2023-04-07T06:13:07-05:00",
 				"url": "https://blog.numericcitizen.me/2023/04/07/when-ai-failed.html",
 				"tags": ["Blogging","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/04/06/the-trees-of.html",
+				"title": "The Trees of Death",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2024/54a5ffa0bb.jpg\" alt=\"\">These are the trees of death. This is what I call them. This scene was taken from a video in a combat zone near Bakmut. They all look the same; only the base trunk is standing, and the rest is pulverized with repetitive bombing and shelling. These skeletons of what used to be trees with thinner branches, leaves, and life are now dead in a vegetative expression.  It’s all gone now. it will take a generation or two before it comes back. So sad.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2024/54a5ffa0bb.jpg)These are the trees of death. This is what I call them. This scene was taken from a video in a combat zone near Bakmut. They all look the same; only the base trunk is standing, and the rest is pulverized with repetitive bombing and shelling. These skeletons of what used to be trees with thinner branches, leaves, and life are now dead in a vegetative expression.  It’s all gone now. it will take a generation or two before it comes back. So sad.\n",
+				"date_published": "2023-04-06T16:29:41-05:00",
+				"url": "https://blog.numericcitizen.me/2023/04/06/the-trees-of.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/04/06/im-currently-testing.html",
@@ -7523,6 +7738,15 @@
 				"tags": ["Longer posts","Apps \u0026 Services"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2023/02/22/days.html",
+				"title": "365 Days...",
+				"content_html": "<p>365 days of destruction.</p>\n<p>365 days of murdering.</p>\n<p>365 days of looting.</p>\n<p>365 days of terror.</p>\n<p>365 days of raping.</p>\n<p>365 days of horror.</p>\n<p>365 days of lies.</p>\n<p>365 days of absolute nonsense because of one man’s ego.</p>\n",
+				"content_text": "365 days of destruction.\n\n365 days of murdering.\n\n365 days of looting.\n\n365 days of terror.\n\n365 days of raping. \n\n365 days of horror.\n\n365 days of lies. \n\n365 days of absolute nonsense because of one man’s ego. \n",
+				"date_published": "2023-02-22T22:16:11-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/22/days.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/02/22/day-one-now.html",
 				
 				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2023/bc786c548c.jpg\" alt=\"\"></p>\n<p>👉🏻 Day One, <a href=\"https://dayoneapp.com/web/\">now available on the web</a>. Woah! This is cool.</p>\n<p>I’m a big fan of Day One. I use it 99% of time for documenting my numeric life (details <a href=\"https://numericcitizen.me/2018/12/22/documenting-your-numeric-life/\">here</a> if you are curious). When Automattic bought them a while back, I was curious to see how it would influence its future. Now we get a much better idea. The web access maybe was an obvious “next step”, but they did a superb job of transposing most of the Day One experience on the web.</p>\n<p>What could be the next step for Day One? Well, what about being able to blog from Day One? A dedicated “public” journal could be created and any entry saved into that journal would go online. Boom.</p>\n<p>Now, if only I could spend more time writing personal thoughts in it.😒</p>\n",
@@ -7557,6 +7781,15 @@
 				"date_published": "2023-02-21T19:59:50-05:00",
 				"url": "https://blog.numericcitizen.me/2023/02/21/attorney-general-ashley.html",
 				"tags": ["Apple \u0026 Tech","Food for thought"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/19/what-comes-after.html",
+				"title": "What Comes After Missiles and Fighter Jets?",
+				"content_html": "<p>I walked today with my dear wife and quickly chatted about the Ukraine war. My wife asked me a question I didn’t expect: what if Western countries who had already sent armaments to Ukraine were sending soldiers with a promise not to attack Russia on their territory? Is this what should happen after sending fighter jets if we ever get there? I don’t recall Zelensky asking for boots on the ground. Will he eventually get there? How is this going to be perceived by the clowns in the Kremlin?</p>\n",
+				"content_text": "I walked today with my dear wife and quickly chatted about the Ukraine war. My wife asked me a question I didn’t expect: what if Western countries who had already sent armaments to Ukraine were sending soldiers with a promise not to attack Russia on their territory? Is this what should happen after sending fighter jets if we ever get there? I don’t recall Zelensky asking for boots on the ground. Will he eventually get there? How is this going to be perceived by the clowns in the Kremlin?\n",
+				"date_published": "2023-02-19T17:47:24-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/19/what-comes-after.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/02/19/im-still-pondering.html",
@@ -7755,6 +7988,15 @@
 				"date_published": "2023-02-07T07:35:25-05:00",
 				"url": "https://blog.numericcitizen.me/2023/02/07/matt-makes-a.html",
 				"tags": ["Apple \u0026 Tech"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/02/07/no-olympic-games.html",
+				"title": "No Olympic Games for Russians — Here's Why",
+				"content_html": "<p>Should Russians be allowed to participate in the Olympic Games in Paris, France, next year? The question is out, and the debate is already raging. For me, the answer is simple and unequivocal: no. My reasons are multiple. Here are a few of them.</p>\n<p>First of all, we cannot pretend that Olympic Games are apolitical. Participation or non-participation in games can also have a political character. History has shown it on several occasions. In addition, the symbolism behind the Olympic Games and sports, in general, is not compatible with the behaviour of Russia internationally. The Russians are doing anything but show fraternity towards other countries like Ukraine.</p>\n<p>Cases are well documented that local Olympic organizations are often close to the government, especially in countries like Russia and China. Governments jump at the opportunity of hosting or participating in games to promote political agendas, to make propaganda tacitly or explicitly. We cannot provide them with this opportunity.</p>\n<p>Furthermore, we cannot contribute militarily, financially and humanly to the legitimate defence of Ukraine and, on the other hand, allow Russian athletes to come and strut as if nothing had happened alongside Ukrainian athletes. This is nonsense and an insult to Ukrainian athletes.</p>\n<p>Some will say that it is not the role of the International Olympic Committee to act as a police officer. However, it is not about that but about a moral question that goes beyond the committee&rsquo;s mission. The respective countries will be responsible for demonstrating their coherence with their actions towards Ukraine by abstaining from presenting themselves at the Olympic Games, if appropriate. I count on the Canadian government to show consistency and courage equal to that of the Ukrainians.</p>\n<p>Finally, the question of the athletes themselves arises. Some will say that we must not unduly hinder athletes from participating in the games after so many efforts and sacrifices. Do I need to remind you that thousands of Ukrainian civilians are making the ultimate sacrifice of their own lives? Russian athletes can stay home and suffer a little bit. Besides, isn&rsquo;t this one of the objectives of international sanctions against Russia, to make the government and its people suffer? Otherwise, what good is it?</p>\n<p>I say it, I repeat it, it would be immoral to allow Russians to participate in the Olympic Games next year, and even in any other sporting competition, as long as the war is raging and Russia has not paid reparations.</p>\n",
+				"content_text": "Should Russians be allowed to participate in the Olympic Games in Paris, France, next year? The question is out, and the debate is already raging. For me, the answer is simple and unequivocal: no. My reasons are multiple. Here are a few of them.\n\nFirst of all, we cannot pretend that Olympic Games are apolitical. Participation or non-participation in games can also have a political character. History has shown it on several occasions. In addition, the symbolism behind the Olympic Games and sports, in general, is not compatible with the behaviour of Russia internationally. The Russians are doing anything but show fraternity towards other countries like Ukraine.\n\nCases are well documented that local Olympic organizations are often close to the government, especially in countries like Russia and China. Governments jump at the opportunity of hosting or participating in games to promote political agendas, to make propaganda tacitly or explicitly. We cannot provide them with this opportunity.\n\nFurthermore, we cannot contribute militarily, financially and humanly to the legitimate defence of Ukraine and, on the other hand, allow Russian athletes to come and strut as if nothing had happened alongside Ukrainian athletes. This is nonsense and an insult to Ukrainian athletes.\n\nSome will say that it is not the role of the International Olympic Committee to act as a police officer. However, it is not about that but about a moral question that goes beyond the committee's mission. The respective countries will be responsible for demonstrating their coherence with their actions towards Ukraine by abstaining from presenting themselves at the Olympic Games, if appropriate. I count on the Canadian government to show consistency and courage equal to that of the Ukrainians.\n\nFinally, the question of the athletes themselves arises. Some will say that we must not unduly hinder athletes from participating in the games after so many efforts and sacrifices. Do I need to remind you that thousands of Ukrainian civilians are making the ultimate sacrifice of their own lives? Russian athletes can stay home and suffer a little bit. Besides, isn't this one of the objectives of international sanctions against Russia, to make the government and its people suffer? Otherwise, what good is it?\n\nI say it, I repeat it, it would be immoral to allow Russians to participate in the Olympic Games next year, and even in any other sporting competition, as long as the war is raging and Russia has not paid reparations.\n",
+				"date_published": "2023-02-07T06:41:01-05:00",
+				"url": "https://blog.numericcitizen.me/2023/02/07/no-olympic-games.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/02/06/microsoft-authenticator-for.html",
@@ -7991,6 +8233,15 @@
 				"tags": ["Misc"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2023/01/25/much-more-than.html",
+				"title": "Much More Than Tanks Will Be Needed",
+				"content_html": "<p>I’m super happy to see so many countries contributing to the war efforts. Kyiv has been asking for tanks for a long time. Finally, the last roadblock to a significant contribution has been lifted thanks to the German government, who seemingly found the light and made the right decision. Now for serious questions…</p>\n<p>Will those tanks, a few hundred of them, of all sizes, models and with various capabilities, really reverse the tide in favour of the Ukrainians? I’m afraid we will have to face reality sooner than later. Much more will be needed to put Russia’s army on its knees and force them to retreat or be defeated. Fighter jets are next. But again, I don’t see that as being enough. Remember when Iraq invaded Kuwait? We had to send people on the ground, not just boats, tanks or fighter jets.</p>\n<p>I guess that, collectively, the west is not ready to accept this fatality. The time will come.</p>\n",
+				"content_text": "I’m super happy to see so many countries contributing to the war efforts. Kyiv has been asking for tanks for a long time. Finally, the last roadblock to a significant contribution has been lifted thanks to the German government, who seemingly found the light and made the right decision. Now for serious questions…\n\nWill those tanks, a few hundred of them, of all sizes, models and with various capabilities, really reverse the tide in favour of the Ukrainians? I’m afraid we will have to face reality sooner than later. Much more will be needed to put Russia’s army on its knees and force them to retreat or be defeated. Fighter jets are next. But again, I don’t see that as being enough. Remember when Iraq invaded Kuwait? We had to send people on the ground, not just boats, tanks or fighter jets.\n\nI guess that, collectively, the west is not ready to accept this fatality. The time will come.\n",
+				"date_published": "2023-01-25T21:49:13-05:00",
+				"url": "https://blog.numericcitizen.me/2023/01/25/much-more-than.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2023/01/25/well-well-well.html",
 				
 				"content_html": "<p>Well well well, 15-25cm approaching. Winds should be under 60 KM/h. Some blowing snow is expected, more expected along the river. Very mild but snowy winter so far. <a href=\"https://numericcitizen.me/2021/02/03/great-weather-apps-for-weather-enthusiasts/\">I&rsquo;m a weather enthusiast</a>, as you can tell. The map is from <a href=\"https://www.ventusky.com/?p=45.0;-63.5;5&amp;l=rain-3h&amp;w=0QQAAQkxA\">Ventusky</a>.</p>\n<!-- raw HTML omitted -->\n",
@@ -8142,6 +8393,15 @@
 				"date_published": "2023-01-21T11:56:15-05:00",
 				"url": "https://blog.numericcitizen.me/2023/01/21/integrating-adobe-enhance.html",
 				"tags": ["Longer posts","Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/01/21/genuine-questions-about.html",
+				"title": "Genuine Questions About The War in Ukraine",
+				"content_html": "<p>Here are a few questions that pop up in my mind when reading the news about the war in Ukraine.</p>\n<ol>\n<li>\n<p>How do they estimate Russian casualties? They are around 500-800 KIA per day. That’s a lot. Is this number inflated for propaganda purposes?</p>\n</li>\n<li>\n<p>Why is Putin not saying, “Any country sending arms to help Ukraine is, in fact, a declaration of war against Russia”? What would be the implications of such a declaration? Putin looks like a low-profile leader. So why is Putin not more vocal against the west?</p>\n</li>\n<li>\n<p>Why is the west not sending military aid to Modlova to put pressure on the 1200 Russian soldiers in Transnistria? How is this possible for Russia to feed them with the required resources?</p>\n</li>\n<li>\n<p>Why are tanks so much needed as opposed to other types of weapons? Are fighter planes effective? What is the aviation role in Ukraine? Are they making a difference?</p>\n</li>\n<li>\n<p>How many Ukrainian soldiers are killed each day? Why don’t we get these numbers as much as the Russian KIA?</p>\n</li>\n</ol>\n<p>So many unanswered questions.</p>\n",
+				"content_text": "Here are a few questions that pop up in my mind when reading the news about the war in Ukraine.\n\n1. How do they estimate Russian casualties? They are around 500-800 KIA per day. That’s a lot. Is this number inflated for propaganda purposes?\n\n2. Why is Putin not saying, “Any country sending arms to help Ukraine is, in fact, a declaration of war against Russia”? What would be the implications of such a declaration? Putin looks like a low-profile leader. So why is Putin not more vocal against the west?\n\n3. Why is the west not sending military aid to Modlova to put pressure on the 1200 Russian soldiers in Transnistria? How is this possible for Russia to feed them with the required resources?\n\n4. Why are tanks so much needed as opposed to other types of weapons? Are fighter planes effective? What is the aviation role in Ukraine? Are they making a difference?\n\n5. How many Ukrainian soldiers are killed each day? Why don’t we get these numbers as much as the Russian KIA?\n\nSo many unanswered questions. \n",
+				"date_published": "2023-01-21T10:34:50-05:00",
+				"url": "https://blog.numericcitizen.me/2023/01/21/genuine-questions-about.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/01/21/googles-official-announcement.html",
@@ -8420,6 +8680,15 @@
 				"date_published": "2023-01-15T10:04:16-05:00",
 				"url": "https://blog.numericcitizen.me/2023/01/15/today-for-some.html",
 				"tags": ["Photography","Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2023/01/14/heres-what-i.html",
+				"title": "Here's What I Would Do After Winning $1.35 Billion Jackpot",
+				"content_html": "<p>After I told my wife that <a href=\"https://www.cnn.com/2023/01/13/us/mega-millions-jackpot-drawing-numbers-friday/index.html\">the second-biggest jackpot had been won</a>, she asked me what I would do with all that money. So here’s what I would do.</p>\n<p>First, after the usual and probably mandatory press conference, I would get home and patiently wait for the deposit. Once received, I would call my bank to set aside a few million for my personal needs (and for my immediate family, of course).</p>\n<p>Then the fun would begin.</p>\n<p>Second, I would reach the highest Canadian Government representative, telling him I wanted to meet with Zelensky from Ukraine. The sooner, the better, and I would make sure he gets the message that he should accept my request and wouldn’t regret any minutes of this meeting.</p>\n<p>Once in Ukraine, I would ask to meet with the government’s and army’s top lieutenants. My question for them: I have more than $1 billion at your disposal; what do you need the most? I would make sure they get what they are asking for.</p>\n<p>After my meeting, I would ask for a joint press conference with Zelensky, telling the world about our agreement and explaining what will happen with all my money spent on helping this country and its people. Next, I would read a message aloud to the wealthiest people in the world and ask them to move their butt and make something out of their money to help Ukraine. Third, and lastly, I would read another special message, this time directed at Putin: “now is the time to put me on the ‘banned from Russia list’” and I would conclude with, “you can go fuck yourself.”</p>\n<p>This is what I would do after winning a $1.35 Billion Jackpot. Thank you.</p>\n",
+				"content_text": "After I told my wife that [the second-biggest jackpot had been won](https://www.cnn.com/2023/01/13/us/mega-millions-jackpot-drawing-numbers-friday/index.html), she asked me what I would do with all that money. So here’s what I would do.\n\nFirst, after the usual and probably mandatory press conference, I would get home and patiently wait for the deposit. Once received, I would call my bank to set aside a few million for my personal needs (and for my immediate family, of course).\n\nThen the fun would begin.\n\nSecond, I would reach the highest Canadian Government representative, telling him I wanted to meet with Zelensky from Ukraine. The sooner, the better, and I would make sure he gets the message that he should accept my request and wouldn’t regret any minutes of this meeting.\n\nOnce in Ukraine, I would ask to meet with the government’s and army’s top lieutenants. My question for them: I have more than $1 billion at your disposal; what do you need the most? I would make sure they get what they are asking for.\n\nAfter my meeting, I would ask for a joint press conference with Zelensky, telling the world about our agreement and explaining what will happen with all my money spent on helping this country and its people. Next, I would read a message aloud to the wealthiest people in the world and ask them to move their butt and make something out of their money to help Ukraine. Third, and lastly, I would read another special message, this time directed at Putin: “now is the time to put me on the ‘banned from Russia list’” and I would conclude with, “you can go fuck yourself.”\n\nThis is what I would do after winning a $1.35 Billion Jackpot. Thank you.\n",
+				"date_published": "2023-01-14T21:34:55-05:00",
+				"url": "https://blog.numericcitizen.me/2023/01/14/heres-what-i.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2023/01/14/i-just-finished.html",
@@ -8890,6 +9159,15 @@
 				"tags": ["Apple \u0026 Tech","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/12/26/putin-is-complaining.html",
+				"title": "🇺🇦 Putin is Complaining Again",
+				"content_html": "<p>Poor Putin, now he complains that <a href=\"https://www.bbc.com/news/world-europe-64092183\">Ukraine is sending drones to their military bases</a> to destroy military assets and make it hard for planes to take off in the direction of Ukraine to commit crimes on civilians. Poor little boy. Fuck him. He’ll wait forever for any kind of <a href=\"https://kyivindependent.com/national/putin-claims-readiness-for-negotiations-blames-west-for-refusing-to-talk\">negotiation</a> if you ask me.</p>\n",
+				"content_text": "Poor Putin, now he complains that [Ukraine is sending drones to their military bases](https://www.bbc.com/news/world-europe-64092183) to destroy military assets and make it hard for planes to take off in the direction of Ukraine to commit crimes on civilians. Poor little boy. Fuck him. He’ll wait forever for any kind of [negotiation](https://kyivindependent.com/national/putin-claims-readiness-for-negotiations-blames-west-for-refusing-to-talk) if you ask me. \n",
+				"date_published": "2022-12-26T10:50:16-05:00",
+				"url": "https://blog.numericcitizen.me/2022/12/26/putin-is-complaining.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/12/26/years-of-platforms.html",
 				"title": "30 Years of Platforms Learning",
 				"content_html": "<!-- raw HTML omitted -->\n<p>I never bought PCalc but for as long I&rsquo;ve been following the Apple story, PCalc always was somewhere to be seen in a magazine, on the web or an App Store. What a great way to learn, explore over the years.</p>\n",
@@ -9016,6 +9294,15 @@
 				"tags": ["Photography","Misc"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/12/23/i-wish-them.html",
+				"title": "🇺🇦 I Wish Them Happy Holidays But...",
+				"content_html": "<p>We’re close to Christmas and getting closer to new years eve. I hope Ukrainians can get a small break during the holidays. News about increased military activities by Russia in Belarus, north of Ukraine, close to the frontier, isn’t encouraging. It’s like when Russia was preparing to break Ukrainian borders last February. Who knows what they’re up to? We shouldn’t trust them. Are these military exercises like they said? My fingers are crossed.</p>\n<p>If Russia tries to take Kyiv a second time, I hope the Ukrainian army is ready. They are probably exhausted by months of defensive combats on the south and eastern sides. How will the international community react if Belarus is again used to attack Ukraine?</p>\n",
+				"content_text": "We’re close to Christmas and getting closer to new years eve. I hope Ukrainians can get a small break during the holidays. News about increased military activities by Russia in Belarus, north of Ukraine, close to the frontier, isn’t encouraging. It’s like when Russia was preparing to break Ukrainian borders last February. Who knows what they’re up to? We shouldn’t trust them. Are these military exercises like they said? My fingers are crossed. \n\nIf Russia tries to take Kyiv a second time, I hope the Ukrainian army is ready. They are probably exhausted by months of defensive combats on the south and eastern sides. How will the international community react if Belarus is again used to attack Ukraine? \n",
+				"date_published": "2022-12-23T15:08:38-05:00",
+				"url": "https://blog.numericcitizen.me/2022/12/23/i-wish-them.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/12/23/getting-ready-for.html",
 				"title": "Getting Ready for the Holidays and my Next Trip",
 				"content_html": "<p>Closing out my working session with my office for the holidays. What a year it was. Now is the time to finally get ready for Christmas and everything that comes with it. Next, on December 26th, we&rsquo;re leaving Canada for Brasil and our first cruise trip in five years! 😅</p>\n",
@@ -9059,6 +9346,15 @@
 				"date_published": "2022-12-22T14:04:53-05:00",
 				"url": "https://blog.numericcitizen.me/2022/12/22/sometimes-i-wish.html",
 				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/12/22/who-should-be.html",
+				"title": "Who Should Be Complaining Again?",
+				"content_html": "<p>🇺🇦Russian’s top brass are complaining that Zelensky and Biden didn’t have a single word about Russia’s demands and their “quest for peace”. Ukrainians continuously ask for more weapons to defend themselves against the invaders. They complain that it’s not enough.</p>\n<p>Who started the war? Who’s hitting civilian structures 95% of the time? Who’s raping who? Who is stealing who? You tell me then I’ll make up my mind about who’s right to be complaining.</p>\n",
+				"content_text": "🇺🇦Russian’s top brass are complaining that Zelensky and Biden didn’t have a single word about Russia’s demands and their “quest for peace”. Ukrainians continuously ask for more weapons to defend themselves against the invaders. They complain that it’s not enough.\n\nWho started the war? Who’s hitting civilian structures 95% of the time? Who’s raping who? Who is stealing who? You tell me then I’ll make up my mind about who’s right to be complaining.\n",
+				"date_published": "2022-12-22T13:25:20-05:00",
+				"url": "https://blog.numericcitizen.me/2022/12/22/who-should-be.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/12/22/starting-from-now.html",
@@ -9844,6 +10140,15 @@
 				"tags": ["Blogging","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/06/27/how-much-is.html",
+				"title": "How Much is Too Much?",
+				"content_html": "<p>🇺🇦 When reading about the war raging in Ukraine, there is so much to read, see and… digest. As it has become the focus of my attention from a news consumption perspective since the start of the invasion, I tend to talk about it with my surroundings. I think they are starting to feel the war fatigue. They look at me with rolling eyes 🙄, wondering why I focus so much on what’s happening in Ukraine. Now, here’s the question: who’s at fault here? 🧐</p>\n<p>I feel sad about our reactions to this mess. It’s a major issue that will occupy the political, economic and world hungriness for quite some time. Most of these will have some sort of impact on us, individually. We should care and stop turning this war into just another war we don’t have control over. We do.</p>\n",
+				"content_text": "🇺🇦 When reading about the war raging in Ukraine, there is so much to read, see and… digest. As it has become the focus of my attention from a news consumption perspective since the start of the invasion, I tend to talk about it with my surroundings. I think they are starting to feel the war fatigue. They look at me with rolling eyes 🙄, wondering why I focus so much on what’s happening in Ukraine. Now, here’s the question: who’s at fault here? 🧐\n\nI feel sad about our reactions to this mess. It’s a major issue that will occupy the political, economic and world hungriness for quite some time. Most of these will have some sort of impact on us, individually. We should care and stop turning this war into just another war we don’t have control over. We do. \n",
+				"date_published": "2022-06-27T20:18:54-05:00",
+				"url": "https://blog.numericcitizen.me/2022/06/27/how-much-is.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/06/24/as-much-as.html",
 				
 				"content_html": "<p>As much as I like #Ghost as a hosting service for my monthly and weekly newsletters, the lack of community, commenting, and recommendations by other readers make me wonder if I made the right move when I left #Substack.</p>\n",
@@ -9860,6 +10165,24 @@
 				"date_published": "2022-06-24T05:18:29-05:00",
 				"url": "https://blog.numericcitizen.me/2022/06/24/is-there-any.html",
 				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/06/24/sievierodonetsk-down-sad.html",
+				"title": "Sievierodonetsk down. Sad day. Again. ",
+				"content_html": "<p>🇺🇦 I feel sad for Ukraine which has been fighting hell for so long and having to retreat from <strong>Sievierodonetsk</strong>. It’s probably the best decision from a military perspective. Yet, I feel sad for them. For all of us because we can’t stop the criminals from territory gains. Is there an end to this nightmare? 😞</p>\n",
+				"content_text": "🇺🇦 I feel sad for Ukraine which has been fighting hell for so long and having to retreat from **Sievierodonetsk**. It’s probably the best decision from a military perspective. Yet, I feel sad for them. For all of us because we can’t stop the criminals from territory gains. Is there an end to this nightmare? 😞\n",
+				"date_published": "2022-06-24T05:14:22-05:00",
+				"url": "https://blog.numericcitizen.me/2022/06/24/sievierodonetsk-down-sad.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/06/19/a-more-healthy.html",
+				"title": "A More Healthy Attitude",
+				"content_html": "<p>Dear (few readers), in case you were wondering, I’m still staying informed about the war in Ukraine. Over the weeks, I’ve taken a more distanced view of the conflict. I try not to make it too personal. I’m still horrified by what Russian criminals are capable of. I still wish we, the west, get even more involved to help Ukraine fight against the invader. I guess things take time; we must be patient. Eventually, Ukraine will prevail. Summer will see hot combats, and I wish the army of Ukraine will start to kick Russia out of occupied regions.</p>\n",
+				"content_text": "Dear (few readers), in case you were wondering, I’m still staying informed about the war in Ukraine. Over the weeks, I’ve taken a more distanced view of the conflict. I try not to make it too personal. I’m still horrified by what Russian criminals are capable of. I still wish we, the west, get even more involved to help Ukraine fight against the invader. I guess things take time; we must be patient. Eventually, Ukraine will prevail. Summer will see hot combats, and I wish the army of Ukraine will start to kick Russia out of occupied regions. \n",
+				"date_published": "2022-06-19T07:57:41-05:00",
+				"url": "https://blog.numericcitizen.me/2022/06/19/a-more-healthy.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/06/18/theres-no-such.html",
@@ -9889,6 +10212,15 @@
 				"tags": ["Photography"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/05/26/appeasing-russia-are.html",
+				"title": "Appeasing Russia, Are You Kidding Me?",
+				"content_html": "<p>After more than 90 days of this nonsense, this criminal invasion by the Russian, are we starting to hear voices that ask for some appeasement toward Russia? It seems so if you read <a href=\"https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html\">the story</a> about Henry Kessinger suggesting Ukraine should concede some piece of its territory. What. The. Fuck? Can’t we look back at history, <a href=\"https://en.wikipedia.org/wiki/Appeasement\">in 1938 to be precise</a>, for god’s sake?</p>\n",
+				"content_text": "After more than 90 days of this nonsense, this criminal invasion by the Russian, are we starting to hear voices that ask for some appeasement toward Russia? It seems so if you read [the story](https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html) about Henry Kessinger suggesting Ukraine should concede some piece of its territory. What. The. Fuck? Can’t we look back at history, [in 1938 to be precise](https://en.wikipedia.org/wiki/Appeasement), for god’s sake?\n",
+				"date_published": "2022-05-26T06:16:48-05:00",
+				"url": "https://blog.numericcitizen.me/2022/05/26/appeasing-russia-are.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/05/26/on-the-myth.html",
 				"title": "On The Myth of Lack of Mac Management Tools",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/04d3f7b58b.jpg\" alt=\"\"></p>\n<p>Recently, during a discussion in a meeting at work, a colleague of mine was expressing his frustration about the fact that one of our customers was using Macs in its business. He went on saying the Mac is such a pain to manage and is an immature platform in the business world compared to Windows PC. I couldn&rsquo;t help myself to tell him he couldn&rsquo;t be farther than the truth.</p>\n<p>Here’s the thing: of course, management tools and services are aplenty on the Windows platform. Why is that? Well, because it needs so much attention, so they can keep working! Just think of security-related software needed to keep hackers away from your machine full of security holes, thanks to Windows.</p>\n<p>It was a “🙄” moment for sure. I think I’m on earth on a mission: to debunk false perceptions about the Mac.</p>\n",
@@ -9915,6 +10247,14 @@
 				"url": "https://blog.numericcitizen.me/2022/05/22/for-those-looking.html"
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/05/20/a-typical-friday.html",
+				"title": "A Typical Friday Morning",
+				"content_html": "<p>If you’re curious about my Friday morning routine. There you have it.</p>\n<p>#writer #meta</p>\n<p><!-- raw HTML omitted -->Discuss&hellip;<!-- raw HTML omitted --></p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2024/d7da1e64ef.jpg\" alt=\"\"></p>\n",
+				"content_text": "If you’re curious about my Friday morning routine. There you have it.\n\n#writer #meta \n\n<a href=\"https://remark.as/p/numericcitizen/a-typical-friday-morning\">Discuss...</a>\n\n![](https://cdn.uploads.micro.blog/6803/2024/d7da1e64ef.jpg)\n",
+				"date_published": "2022-05-20T06:26:46-05:00",
+				"url": "https://blog.numericcitizen.me/2022/05/20/a-typical-friday.html"
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/05/20/a-week-of.html",
 				"title": "A Week of Software Releases in Review",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/29a0d72e5f.png\" alt=\"\" title=\"Numeric Citizen I/O Proof of concept with Craft\"></p>\n<p>Some weeks are busier than others for software or service updates. This week saw meaningful updates to many applications that I used daily.</p>\n<ul>\n<li><strong>Craft</strong> version got bumped to 2.2, a controversial update. Using the updated Share Page feature, <a href=\"https://www.craft.do/s/dxwb0SsrGtPF47\">my Craft wish list</a> was completely reworked. According to the Craft community channels on Slack, people would rather prefer to see the core experience to be refined and straighten up. I&rsquo;m one of them. It seems to me that there are many unfinished core features within Craft that are in need of attention. For example, the Share Page is super useful but we still miss the use of custom domain names or notifications from people who post comments. It&rsquo;s not a deal-breaker but it is annoying and frustrating.</li>\n<li><strong>Matter</strong>, the new kid on the block in the read-later service space was updated too. The team behind Matter made a decision to focus more the product by dropping the social portion of it. Good move. The new update makes a lot of sense and is a joy to use on all Apple platforms.</li>\n<li><strong>Microsoft</strong> updated the beta version of <strong>Teams</strong> for Apple Silicon, latest public build May, 19th. Previous release provided a very buggy in-conference experience. According to people on Reddit, it seems to be fixed. I didn’t try it yet.</li>\n<li><strong>Apple’s platforms</strong> received a slew of updates. I was eagerly awaiting the <strong>Studio Display 15.5 firmware</strong>. I did a comparison of the image quality that I <a href=\"https://twitter.com/apple_observer/status/1526523351304269826?s=20&amp;t=lomkGe8c7I3n9z4aPiNDTg\">posted on Twitter</a>. It’s not perfect but it’s a noticeable upgrade. Some <a href=\"https://appleinsider.com/articles/22/05/19/studio-display-155-update-minimally-improves-camera-and-performance\">more detailed video</a> on the update.</li>\n<li>Finally, I wanted to mention something about <strong>Glass</strong>. It wasn’t updated this week, but I had a chance to sit with the team behind Glass in a Zoom Q&amp;A session. It was a nice talk. We had a chance to voice our delights or wishes for where the product should go next.</li>\n</ul>\n",
@@ -9933,6 +10273,15 @@
 				"tags": ["Blogging","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/05/12/dont-call-them.html",
+				"title": "Don't Call Them Soldiers",
+				"content_html": "<p>Each time I get news from the war in Ukraine, and I read or hear the expression “<em><strong>Russian soldiers</strong></em>,” I want to puke. These guys aren’t soldiers; they aren’t part of an army but a gang. They are criminals, rapists, cowards, looters, stealers, hypocrites, dumb, and stupid, to name a few adjectives. They are everything but soldiers or, even worse, humans.</p>\n",
+				"content_text": "Each time I get news from the war in Ukraine, and I read or hear the expression “_**Russian soldiers**_,” I want to puke. These guys aren’t soldiers; they aren’t part of an army but a gang. They are criminals, rapists, cowards, looters, stealers, hypocrites, dumb, and stupid, to name a few adjectives. They are everything but soldiers or, even worse, humans.\n",
+				"date_published": "2022-05-12T19:44:40-05:00",
+				"url": "https://blog.numericcitizen.me/2022/05/12/dont-call-them.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/05/10/today-was-a.html",
 				
 				"content_html": "<p>Today was a special day. So many memories.</p>\n<!-- raw HTML omitted -->\n",
@@ -9942,6 +10291,15 @@
 				"tags": ["Apple \u0026 Tech","Photography"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/05/09/smoke-mirrors.html",
+				"title": "Smoke \u0026 Mirrors",
+				"content_html": "<p>If I summarize what we saw today from Moscow, it was a smoke &amp; mirrors show. Even Putin’s speech was a letdown, and I felt uninspired. He used fake news to justify the unprovoked invasion of Ukraine. He didn’t do what the West was afraid of declaring conscription or a full-out war with Ukraine. He didn’t because he probably knew that he couldn’t. Declaring a war would have been a sign of failure of the “special military ops”. Conscription wouldn’t bring combat-effective resources soon enough anyway. Russia is simply failing at so many levels.</p>\n<p>Again, for me, and probably for many military pundits, Russia is showing a pale version of its past. We shouldn’t be afraid of them. And we must keep the pressure on them so that when they lose, they will remember their losses for a long time.</p>\n",
+				"content_text": "If I summarize what we saw today from Moscow, it was a smoke & mirrors show. Even Putin’s speech was a letdown, and I felt uninspired. He used fake news to justify the unprovoked invasion of Ukraine. He didn’t do what the West was afraid of declaring conscription or a full-out war with Ukraine. He didn’t because he probably knew that he couldn’t. Declaring a war would have been a sign of failure of the “special military ops”. Conscription wouldn’t bring combat-effective resources soon enough anyway. Russia is simply failing at so many levels.\n\nAgain, for me, and probably for many military pundits, Russia is showing a pale version of its past. We shouldn’t be afraid of them. And we must keep the pressure on them so that when they lose, they will remember their losses for a long time.\n",
+				"date_published": "2022-05-09T06:03:49-05:00",
+				"url": "https://blog.numericcitizen.me/2022/05/09/smoke-mirrors.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/05/07/my-reading-workflow.html",
 				"title": "My Reading Workflow Is in a State of Flux",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/8b2d9a83db.jpg\" alt=\"\"></p>\n<p>First, I got back to Pocket and paid for the subscription. Then I added Readwise. Then I found Matter, and fell in love with it. I’m not sure why. I’m still waiting for Readwise Reader application. While waiting for it, what’s the point of Readwise, again? News Explorer is my go-to application for most of my readings via RSS feeds; I can save links as favourites, but I never do so. My reading workflow is in a total state of flux.</p>\n<p>Which application or service should I use to bookmark articles that I want to read later? What should I prioritize in such application: organization of links or the reading experience? How is that fact that I collect more than I read should change my application selection? Comparing applications like <strong><em>Matter</em></strong>, <strong><em>Pocket,</em></strong> and <strong><em>Raindrop.io</em></strong>, I find many common features, which brings confusion to me. Matter seems better for reading, but Raindrop.io more complete at organizing links collections. Why can’t I have both in the same application? Craft is my goto application for drafting and writing my articles, but can save links with nice previews. Craft is lacking tags to organize objects and doesn’t offer a reading experience as it doesn’t save content from a link. Craft is of no help here in my reading workflow. And what about highlights, how do I create them and make use of them later? Matter is good at creating highlights, Raindrop.io recently added highlight support too, but that’s it. Oh, and RSS readers like Reeder or News Explorer can save links and add tags too. Finally, I wish I could find a great text highlighting extension for Safari, after all, it’s my goto browser.</p>\n<p>To some degree, read later applications or services are still maturing, no solution is complete. This explains that, I guess.</p>\n<p>Help, please. 😫</p>\n<p>Photo by Javier Esteban on Unsplash</p>\n",
@@ -9949,6 +10307,15 @@
 				"date_published": "2022-05-07T06:25:24-05:00",
 				"url": "https://blog.numericcitizen.me/2022/05/07/my-reading-workflow.html",
 				"tags": ["Misc","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/05/05/giving.html",
+				"title": "Giving",
+				"content_html": "<p>🇺🇦 Today, I gave 100 US$ to the just recently crowdfunding platform <a href=\"https://u24.gov.ua\" title=\"United24 Crowdfunding website\">United24</a>. I chose to donate to the defence and demining of Ukraine. This comes after giving 200 CAN$ in the first few weeks of the war. What did you do today? 🤔</p>\n",
+				"content_text": "🇺🇦 Today, I gave 100 US$ to the just recently crowdfunding platform [United24](https://u24.gov.ua \"United24 Crowdfunding website\"). I chose to donate to the defence and demining of Ukraine. This comes after giving 200 CAN$ in the first few weeks of the war. What did you do today? 🤔\n",
+				"date_published": "2022-05-05T12:13:02-05:00",
+				"url": "https://blog.numericcitizen.me/2022/05/05/giving.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/05/02/on-returning-on.html",
@@ -10004,6 +10371,15 @@
 				"tags": ["Longer posts","Apps \u0026 Services"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/04/23/russia-gtfo-of.html",
+				"title": "Russia, GTFO of my blogs",
+				"content_html": "<p>🚫🇷🇺⛔If I could block any IP addresses from Russia from visiting my blogs, I would do it.</p>\n",
+				"content_text": "🚫🇷🇺⛔If I could block any IP addresses from Russia from visiting my blogs, I would do it.\n",
+				"date_published": "2022-04-23T20:26:45-05:00",
+				"url": "https://blog.numericcitizen.me/2022/04/23/russia-gtfo-of.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/04/23/doing-some-cleanup.html",
 				"title": "Doing Some Cleanup in My Home Office",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/a12cd9bba7.jpg\" alt=\"\"></p>\n<p>After spending some time cleanup my office this today, I found these in my drawers and other places. I no longer use these. Do you? I know some people here on Micro.blog do. I don’t which I find fascinating because I did a lot in my younger times. Before the computers.</p>\n",
@@ -10022,6 +10398,15 @@
 				"tags": ["Blogging","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/04/22/war-games.html",
+				"title": "War Games",
+				"content_html": "<p>🇺🇦 It’s fascinating how the <strong>war in Ukraine</strong> makes me think about many video games. Let me explain. Looking at some <em><strong>Telegram</strong></em> <em><strong>channels</strong></em> feeding the results of attacks with anti-tank missiles or other means. You’ll find many short video clips with music and animation while a tank is destroyed. It makes things look like they aren’t real, only a game, which is far from the case for obvious reasons. Yet, there is the <strong>gamification</strong> of some aspects of what is filtering out of this ugly and devastating war. 😟</p>\n<p>BTW, many tidbits flowing on Telegram are utterly disgusting. Is this the first war to feel so close to the action?</p>\n<p>When the coalition attacked Iraq during the Gulf War, I remember people saying it was the first war to be televised. The war in Ukraine is probably the first one made public on social media.</p>\n",
+				"content_text": "🇺🇦 It’s fascinating how the **war in Ukraine** makes me think about many video games. Let me explain. Looking at some _**Telegram**_ _**channels**_ feeding the results of attacks with anti-tank missiles or other means. You’ll find many short video clips with music and animation while a tank is destroyed. It makes things look like they aren’t real, only a game, which is far from the case for obvious reasons. Yet, there is the **gamification** of some aspects of what is filtering out of this ugly and devastating war. 😟\n\nBTW, many tidbits flowing on Telegram are utterly disgusting. Is this the first war to feel so close to the action?\n\nWhen the coalition attacked Iraq during the Gulf War, I remember people saying it was the first war to be televised. The war in Ukraine is probably the first one made public on social media. \n",
+				"date_published": "2022-04-22T13:41:26-05:00",
+				"url": "https://blog.numericcitizen.me/2022/04/22/war-games.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/04/22/im-not-writing.html",
 				
 				"content_html": "<p>I&rsquo;m not writing my <a href=\"https://numericcitizen-introspection.blog/tag/friday-notes-series/\">Friday Notes edition</a> this week, and I feel guilty. I had a hectic week at work after returning from a one-week vacation. Writing weekly series comes with its challenges. 😔</p>\n",
@@ -10037,6 +10422,24 @@
 				"date_published": "2022-04-12T11:29:02-05:00",
 				"url": "https://blog.numericcitizen.me/2022/04/12/taking-a-break.html",
 				"tags": ["Blogging","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/04/08/suddenly-missing-mikhail.html",
+				"title": "Suddenly Missing Mikhail Gorbachev",
+				"content_html": "<p>This morning while reading the news, I suddenly remembered about <strong>Mikhail Gorbachev</strong>. He’s still alive, which I didn’t know. His birthday was March 2th. He’s 92. I vividly remember his presidency and what he brought to Russia and the world. One big and hard lesson we’re currently learning is that we cannot take anything for granted regarding democracy. Does he know what’s happening in Ukraine? What’s his take on all this shit? I would love to see him in an interview. He certainly wasn’t perfect, but Russia seemed to have a much more prevalent “human side” under his tenure. Under Putin, I just want to puke. 🤮</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2024/d2b0171a83.jpg\" alt=\"\"></p>\n",
+				"content_text": "This morning while reading the news, I suddenly remembered about **Mikhail Gorbachev**. He’s still alive, which I didn’t know. His birthday was March 2th. He’s 92. I vividly remember his presidency and what he brought to Russia and the world. One big and hard lesson we’re currently learning is that we cannot take anything for granted regarding democracy. Does he know what’s happening in Ukraine? What’s his take on all this shit? I would love to see him in an interview. He certainly wasn’t perfect, but Russia seemed to have a much more prevalent “human side” under his tenure. Under Putin, I just want to puke. 🤮\n\n![](https://cdn.uploads.micro.blog/6803/2024/d2b0171a83.jpg)\n",
+				"date_published": "2022-04-08T10:04:04-05:00",
+				"url": "https://blog.numericcitizen.me/2022/04/08/suddenly-missing-mikhail.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/04/06/the-price-to.html",
+				"title": "The Price To Pay",
+				"content_html": "<blockquote>\n<p>&ldquo;(…) And we&rsquo;re likely going to see skyrocketing prices if we did put a complete ban on oil.” — US treasury secretary</p>\n</blockquote>\n<p>Well, what is the price of thousands and thousands of people dying, tortured, raped? I can live with rising energy prices. For fuck sake, support the oil and coal embargo against Russia NOW! We cannot escape any impact of this war without some form of sacrifice.</p>\n",
+				"content_text": "> \"(…) And we're likely going to see skyrocketing prices if we did put a complete ban on oil.” — US treasury secretary\n\nWell, what is the price of thousands and thousands of people dying, tortured, raped? I can live with rising energy prices. For fuck sake, support the oil and coal embargo against Russia NOW! We cannot escape any impact of this war without some form of sacrifice. \n",
+				"date_published": "2022-04-06T14:10:53-05:00",
+				"url": "https://blog.numericcitizen.me/2022/04/06/the-price-to.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/04/04/two-quick-questions.html",
@@ -10057,6 +10460,15 @@
 				"tags": ["Apple \u0026 Tech","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/04/04/europes-future.html",
+				"title": "Europe's Future",
+				"content_html": "<p>“…the fate of the whole Eastern and Central Europe and the Black Sea region is being decided on the territory of Ukraine. Therefore, <strong>to protect the freedom of Ukraine and Ukrainians is to guarantee the security of Europe.</strong>”.</p>\n<p>Nothing more to add, your honour.</p>\n",
+				"content_text": "“…the fate of the whole Eastern and Central Europe and the Black Sea region is being decided on the territory of Ukraine. Therefore, **to protect the freedom of Ukraine and Ukrainians is to guarantee the security of Europe.**”. \n\nNothing more to add, your honour. \n",
+				"date_published": "2022-04-04T19:16:26-05:00",
+				"url": "https://blog.numericcitizen.me/2022/04/04/europes-future.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/04/03/its-was-so.html",
 				"title": "It’s Was So Fun",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/9e52b63323.jpg\" alt=\"\"></p>\n<p>This weekend I did some cleanup in my old papers and documents. I found an old bank account statement where I can see a withdraw transaction to help me pay for my <strong>Macintosh 128K</strong> in 1985: 3460.75 CAN$. 🤑 Ouch. I did some research to better document the time when I had a <strong>Macintosh SE</strong> while studying at the university and remembered about using Think Pascal, Prototyper and ResEdit to build a floppy disks indexer. That was before the Internet. It was so much fun. It’s gives you an idea how old I am. 😜</p>\n",
@@ -10066,12 +10478,38 @@
 				"tags": ["Apple \u0026 Tech","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/04/01/already-a-routine.html",
+				"title": "Already a Routine",
+				"content_html": "<p>🇺🇦 For more than a month now, Ukrainian has been fighting to defend themselves against the invaders. This is a watershed moment of history, happening just before our eyes. Sadly, we can already see the routine of war being in place. Emphasis on the events during the news bulletin is decreasing already. We are so easily bored. Unless there is a significant turn of events, we will move on to the next crisis. I’m so sorry for that. 😞</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6803/2024/794b3806e6.jpg\" alt=\"\"></p>\n<p>#ukraine #war</p>\n",
+				"content_text": "🇺🇦 For more than a month now, Ukrainian has been fighting to defend themselves against the invaders. This is a watershed moment of history, happening just before our eyes. Sadly, we can already see the routine of war being in place. Emphasis on the events during the news bulletin is decreasing already. We are so easily bored. Unless there is a significant turn of events, we will move on to the next crisis. I’m so sorry for that. 😞\n\n![](https://cdn.uploads.micro.blog/6803/2024/794b3806e6.jpg)\n\n#ukraine #war\n",
+				"date_published": "2022-04-01T06:54:43-05:00",
+				"url": "https://blog.numericcitizen.me/2022/04/01/already-a-routine.html"
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/03/30/another-edition-of.html",
 				
 				"content_html": "<p>🇺🇦 Another edition of my free monthly Introspection newsletter is out NOW. Get it <a href=\"https://numericcitizen-introspection.blog\">here</a>! Talked about themes are <strong>Apple</strong>, <strong>photography</strong>, <strong>privacy protection</strong> and <strong>climate change</strong>. This month, though, to help build awareness, I have many war-related tidbits on each of these themes. 🇺🇦</p>\n",
 				"content_text": "🇺🇦 Another edition of my free monthly Introspection newsletter is out NOW. Get it [here](https://numericcitizen-introspection.blog)! Talked about themes are **Apple**, **photography**, **privacy protection** and **climate change**. This month, though, to help build awareness, I have many war-related tidbits on each of these themes. 🇺🇦\n",
 				"date_published": "2022-03-30T07:07:04-05:00",
 				"url": "https://blog.numericcitizen.me/2022/03/30/another-edition-of.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/03/29/keep-the-pressure.html",
+				"title": "Keep The Pressure on Putin",
+				"content_html": "<p>🤨 As diplomatic talks progress, don’t be fooled by Russian words. The only viable solution is for them to leave what was known as “Ukraine before 2014”. Nothing less. <em><strong>We must keep pressure on Putin</strong></em> and our respective governments! Oh, and why do we feel so bad about recent Biden’s words about Putin? I mean, a lot of people wish for much more than simply “not staying in power.”</p>\n",
+				"content_text": "🤨 As diplomatic talks progress, don’t be fooled by Russian words. The only viable solution is for them to leave what was known as “Ukraine before 2014”. Nothing less. _**We must keep pressure on Putin**_ and our respective governments! Oh, and why do we feel so bad about recent Biden’s words about Putin? I mean, a lot of people wish for much more than simply “not staying in power.”\n",
+				"date_published": "2022-03-29T11:41:40-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/29/keep-the-pressure.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/03/23/is-the-wind.html",
+				"title": "Is the Wind Slowly Turning?",
+				"content_html": "<p>💪🏻 Stalled or retreating troops. Low morale. Decreasing attacks. High casualties and losts. Retaken cities by Ukrainian troops. Odessa and Kyiv free with minimal damages. I’m not a military expert or a military pundit, but these signs point to a turning point. Let me hope for even brighter days ahead. 🙏🏻✌🏻</p>\n",
+				"content_text": "💪🏻 Stalled or retreating troops. Low morale. Decreasing attacks. High casualties and losts. Retaken cities by Ukrainian troops. Odessa and Kyiv free with minimal damages. I’m not a military expert or a military pundit, but these signs point to a turning point. Let me hope for even brighter days ahead. 🙏🏻✌🏻\n",
+				"date_published": "2022-03-23T18:24:54-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/23/is-the-wind.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/03/23/venting-my-frustration.html",
@@ -10083,6 +10521,15 @@
 				"tags": ["Misc","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/03/22/feeling-more-optimistic.html",
+				"title": "Feeling More Optimistic",
+				"content_html": "<p>😀 After reading the news this morning on the situation of the war in Ukraine, <strong>I feel more upbeat than usual</strong>. It appears that Russian advances in recent days and hours are very limited, except in the sky, but they don’t have sky supremacy yet. Far from it. Ukrainians are simply incredible at fencing one of the world&rsquo;s most powerful (well, that’s what we thought) armies. 🇺🇦</p>\n<p>It will take ages to recover from this mess, but I’ll take any ray of light in a heartbeat.</p>\n",
+				"content_text": "😀 After reading the news this morning on the situation of the war in Ukraine, **I feel more upbeat than usual**. It appears that Russian advances in recent days and hours are very limited, except in the sky, but they don’t have sky supremacy yet. Far from it. Ukrainians are simply incredible at fencing one of the world's most powerful (well, that’s what we thought) armies. 🇺🇦\n\nIt will take ages to recover from this mess, but I’ll take any ray of light in a heartbeat.\n",
+				"date_published": "2022-03-22T11:46:10-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/22/feeling-more-optimistic.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/03/21/dear-mobile-apps.html",
 				"title": "Dear Mobile Apps Developers",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/76cf0ea912.jpg\" alt=\"\"></p>\n<p>Dear iOS developers, dear @Substack, when building screenshots for the App Store, show us your software, not the device on which it is running. Thank you. With love. The Direction.</p>\n",
@@ -10092,6 +10539,15 @@
 				"tags": ["Misc","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/03/19/discussing-war-matters.html",
+				"title": "Discussing War Matters ",
+				"content_html": "<p>🇺🇦🍽 I had this dinner yesterday night with some friends. The war in Ukraine subject came up. In fact, I brought it up, on purpose. As you might expect, I was adamant about our lack of support for the Ukrainian people. My point is that we must do much more even if we have to pay a price. I was emotional about it. Sure, it made my friends feel uneasy. I cannot envision a discussion about Ukraine without being passionate and emotional. 😒🖤</p>\n",
+				"content_text": "🇺🇦🍽 I had this dinner yesterday night with some friends. The war in Ukraine subject came up. In fact, I brought it up, on purpose. As you might expect, I was adamant about our lack of support for the Ukrainian people. My point is that we must do much more even if we have to pay a price. I was emotional about it. Sure, it made my friends feel uneasy. I cannot envision a discussion about Ukraine without being passionate and emotional. 😒🖤\n",
+				"date_published": "2022-03-19T11:40:42-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/19/discussing-war-matters.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/03/18/pausing-my-apple.html",
 				"title": "Pausing My Apple Studio Display Buying Decision",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/b2829266eb.png\" alt=\"\"></p>\n<p>Well, after a promising start, following reviews of the <strong>Apple Studio display</strong>, it seems that I’ll put my buying decision on hold. <a href=\"https://numericcitizen.me/2022/03/12/a-peek-at-apples-studio-vision/\">As I wrote</a>, one of the reasons why I’m considering this display is the integrated camera and speakers for a better video conference experience. It appears image quality is not good at all, judging by the examples posted online. It’s close to being a deal breaker.</p>\n<p>Apparently, the Apple Studio display is running a version of iOS 15.4. Yep, sounds overkill, and yet, it’s the case, <a href=\"https://daringfireball.net/linked/2022/03/17/three-updates-regarding-studio-display\">according to Gruber</a>. Apple is promising a software update to fix the problem and bring image quality on par with the iPad Pro equipped with the same camera and essentially using th same software to enable Center Stage.</p>\n<p>Here’s something: when we look at preview integrated cameras in MacBook Pro or the iMac and find the image quality to be bad, we try to excuse Apple of fitting a camera in a too-thin enclosure. But we know it’s not enough to explain the issue of image quality. Software is the problem. Look no further than the iPhone for an example.</p>\n<p>As soon as:</p>\n<ol>\n<li>I can go to an Apple Store to see the Apple Studio display for myself;</li>\n<li>Normal people are publishing their reviews and comment on their experience with the display;</li>\n<li>Apple fixes the camera image quality with an update to the display operating system;</li>\n</ol>\n<p>Then, I’ll make a final decision. Now, I can’t wait to see in action the software upgrade process on this thing.</p>\n",
@@ -10099,6 +10555,15 @@
 				"date_published": "2022-03-18T06:46:39-05:00",
 				"url": "https://blog.numericcitizen.me/2022/03/18/pausing-my-apple.html",
 				"tags": ["Apple \u0026 Tech","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/03/16/negociating.html",
+				"title": "Negociating",
+				"content_html": "<p>🇺🇦 While current <strong>negotiations</strong> between <strong>Russian criminals</strong> and <strong>Ukraine leaders</strong> are taking place, I sincerely hope that if ever a deal is signed between the two, the West will be the next to convince and deal with and the one who sets the conditions to undo even in small steps, the pressure on Russia. They have to pay the price for decades to come. I’m so angry at them. Does it show? 😡</p>\n",
+				"content_text": "🇺🇦 While current **negotiations** between **Russian criminals** and **Ukraine leaders** are taking place, I sincerely hope that if ever a deal is signed between the two, the West will be the next to convince and deal with and the one who sets the conditions to undo even in small steps, the pressure on Russia. They have to pay the price for decades to come. I’m so angry at them. Does it show? 😡\n",
+				"date_published": "2022-03-16T11:37:22-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/16/negociating.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/03/15/the-mac-studio.html",
@@ -10128,6 +10593,24 @@
 				"tags": ["Photography","Food for thought","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/03/12/back-to-telegram.html",
+				"title": "Back to Telegram",
+				"content_html": "<p>📧 I decided to return to <strong>Telegram</strong> to get the news about the war in <strong>Ukraine</strong>. It’s fast. Simple. I subscribe to a few groups. We see things in there that are unavailable on other news feeds. I prefer Telegram to Twitter for that type of stuff. Some content is shocking, for sure. But it is. Call me a masochist. 😞</p>\n",
+				"content_text": "📧 I decided to return to **Telegram** to get the news about the war in **Ukraine**. It’s fast. Simple. I subscribe to a few groups. We see things in there that are unavailable on other news feeds. I prefer Telegram to Twitter for that type of stuff. Some content is shocking, for sure. But it is. Call me a masochist. 😞\n",
+				"date_published": "2022-03-12T09:19:00-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/12/back-to-telegram.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/03/11/putin-hitler.html",
+				"title": "Putin = Hitler",
+				"content_html": "<p>😡 Let’s face it. Vladimir Putin has no morale. He’s a criminal. His only goal in life is war. He doesn’t care about his people. He only cares about himself. He wants to make Russia “great again” but not for his people, for himself. After Ukraine, he will look around and select his next target. And invade. Eventually, he will make a mistake. Either he will pay for it, or we will all pay for it. Mark my words.</p>\n",
+				"content_text": "😡 Let’s face it. Vladimir Putin has no morale. He’s a criminal. His only goal in life is war. He doesn’t care about his people. He only cares about himself. He wants to make Russia “great again” but not for his people, for himself. After Ukraine, he will look around and select his next target. And invade. Eventually, he will make a mistake. Either he will pay for it, or we will all pay for it. Mark my words. \n",
+				"date_published": "2022-03-11T20:29:29-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/11/putin-hitler.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/03/02/peek-performance-low.html",
 				"title": "Peek Performance, Low Interest",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/977eddaca8.png\" alt=\"\"></p>\n<p>It’s now official. <strong>Apple</strong> will host another <strong>virtual event</strong> next week, on March 8th. It’s the first Apple event of 2022, but it’s far from being the first real event of 2022. Current events happening in <strong>Ukraine</strong> are troubling and make me pause on a lot of things. Apple-related stuff is one of these. I’m not in the mood for that. My thoughts and energy are diverted, seized. I don’t care if it’s a new iPhone SE, a beefed up Mac mini or whatever else. These look so irrelevant in this incredible and terrible era. Low interest indeed.</p>\n",
@@ -10135,6 +10618,15 @@
 				"date_published": "2022-03-02T20:00:08-05:00",
 				"url": "https://blog.numericcitizen.me/2022/03/02/peek-performance-low.html",
 				"tags": ["Apple \u0026 Tech","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/03/02/morning-routines-in.html",
+				"title": "Morning Routines in War Time",
+				"content_html": "<p>🇺🇦 Each morning, I open my laptop and visit some news websites to get the <strong>latest news</strong> from the war in <strong>Ukraine</strong>. I expect the worst all the time. It looks like, between some good news for the Ukrainians, the fundamentals are bleak. The aggressors, the Russians, are making progress toward their goal of crushing the country. While tainted by sadness and sorrow, my morning routine is nothing compared to the people’s routine in Ukraine: fear, sadness, abandonment, and distress. 😢📰</p>\n",
+				"content_text": "🇺🇦 Each morning, I open my laptop and visit some news websites to get the **latest news** from the war in **Ukraine**. I expect the worst all the time. It looks like, between some good news for the Ukrainians, the fundamentals are bleak. The aggressors, the Russians, are making progress toward their goal of crushing the country. While tainted by sadness and sorrow, my morning routine is nothing compared to the people’s routine in Ukraine: fear, sadness, abandonment, and distress. 😢📰\n",
+				"date_published": "2022-03-02T06:59:15-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/02/morning-routines-in.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/03/01/apple-is-finally.html",
@@ -10146,6 +10638,24 @@
 				"tags": ["Apple \u0026 Tech","Food for thought","Longer posts"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/03/01/the-real-nature.html",
+				"title": "The Real Nature of Putin as an Army Leader",
+				"content_html": "<p>🇺🇦 By not telling his own <strong>Russian troops</strong> in Belarus what the training and military exercises were all about (invading Ukraine), you can see <strong>the real nature of</strong> <strong>Putin</strong>. We didn’t need this proof, but here you go.</p>\n",
+				"content_text": "🇺🇦 By not telling his own **Russian troops** in Belarus what the training and military exercises were all about (invading Ukraine), you can see **the real nature of** **Putin**. We didn’t need this proof, but here you go. \n",
+				"date_published": "2022-03-01T13:42:28-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/01/the-real-nature.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/03/01/the-apparent-weakness.html",
+				"title": "The Apparent Weakness of Democracy",
+				"content_html": "<p>🇺🇦 Compared to the <strong>aggressors</strong>, the <strong>invaders</strong> and the <strong>criminals</strong> (<strong>Russian leadership</strong> and Russian’s army), <strong>democracy</strong> is slow to react. We need discussions between partners and allies. We look for consensus, it takes time. Meanwhile, the enemy is progressing. The whole process makes us look weak and undetermined.  ☮️</p>\n",
+				"content_text": "🇺🇦 Compared to the **aggressors**, the **invaders** and the **criminals** (**Russian leadership** and Russian’s army), **democracy** is slow to react. We need discussions between partners and allies. We look for consensus, it takes time. Meanwhile, the enemy is progressing. The whole process makes us look weak and undetermined.  ☮️\n",
+				"date_published": "2022-03-01T10:03:24-05:00",
+				"url": "https://blog.numericcitizen.me/2022/03/01/the-apparent-weakness.html",
+				"tags": ["UkraineWar"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/02/28/going-downwards.html",
 				"title": "Going Downwards",
 				"content_html": "<p><img src=\"https://numericcitizen.micro.blog/uploads/2022/79bbe2345d.png\" alt=\"\"></p>\n<p>I don&rsquo;t know about you but I find current events in Ukraine very disturbing and distracting. As much as I’m happy to see Russia being more and more isolated every hour, I can see its leader being more and more pissed off and willing to commit the worst. The world seems to go in a spiralling direction toward even more violence and hard to resolve situations.</p>\n",
@@ -10153,6 +10663,33 @@
 				"date_published": "2022-02-28T20:13:39-05:00",
 				"url": "https://blog.numericcitizen.me/2022/02/28/going-downwards.html",
 				"tags": ["Food for thought","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/28/ukraine-some-of.html",
+				"title": "Ukraine — Some of My News Sources",
+				"content_html": "<p>🗞️ I thought I could share the news sources I consume to stay in touch with current events in <strong>Ukraine</strong>. <em>First</em>, I’m following <a href=\"https://www.telegraph.co.uk/world-news/\">The Telegraph World News section</a>. In particular, I keep this <a href=\"https://www.telegraph.co.uk/world-news/2022/02/28/russia-ukraine-latest-news-war-putin-zelensky-weapons-updates/\">live webpage</a> open all the time containing a constant news feed. <em>Second</em>, I’m using the <a href=\"https://www.bbc.com/news/live/world-europe-60542877\">BBC News World section</a>, again referring to their live updating web page. <em>Third</em>, I use a <a href=\"https://twitter.com/i/lists/1497945269626880000\">Twitter list</a> to get more up-to-the-minute updates. 🇺🇦</p>\n",
+				"content_text": "🗞️ I thought I could share the news sources I consume to stay in touch with current events in **Ukraine**. _First_, I’m following [The Telegraph World News section](https://www.telegraph.co.uk/world-news/). In particular, I keep this [live webpage](https://www.telegraph.co.uk/world-news/2022/02/28/russia-ukraine-latest-news-war-putin-zelensky-weapons-updates/) open all the time containing a constant news feed. _Second_, I’m using the [BBC News World section](https://www.bbc.com/news/live/world-europe-60542877), again referring to their live updating web page. _Third_, I use a [Twitter list](https://twitter.com/i/lists/1497945269626880000) to get more up-to-the-minute updates. 🇺🇦\n",
+				"date_published": "2022-02-28T13:48:30-05:00",
+				"url": "https://blog.numericcitizen.me/2022/02/28/ukraine-some-of.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/27/media-consumption-frenzy.html",
+				"title": "Media Consumption Frenzy",
+				"content_html": "<p>🇺🇦 Current events in <strong>Ukraine</strong> are triggering a media consumption frenzy in me that resembles the one that came after the 9/11 attacks. If similarities are to continue, fear is going to be next to invite itself into my life. 😨</p>\n",
+				"content_text": "🇺🇦 Current events in **Ukraine** are triggering a media consumption frenzy in me that resembles the one that came after the 9/11 attacks. If similarities are to continue, fear is going to be next to invite itself into my life. 😨\n",
+				"date_published": "2022-02-27T21:13:17-05:00",
+				"url": "https://blog.numericcitizen.me/2022/02/27/media-consumption-frenzy.html",
+				"tags": ["UkraineWar"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/24/ukraine-i-cant.html",
+				"title": "Ukraine, I Can't Believe It",
+				"content_html": "<p>🇺🇦 The news of this <strong>criminal invasion</strong> of a democratic and independent country like <strong>Ukraine</strong> by Putin and his army is appalling and troubling and brings an uncertain future for Europe and the world. We’re in 2022, and we still have to deal with <strong>criminal leaders</strong> like <strong>Putin</strong>. How should we react to this? Cancel any international sports events or competition in Russia, block Russians from participating in any sports events around the world, remove any medals won from the last Olympic, turn off ll the pipeline leading to Russia, freeze Russian banks assets, etc.✌🏻🕊️☮️</p>\n",
+				"content_text": "🇺🇦 The news of this **criminal invasion** of a democratic and independent country like **Ukraine** by Putin and his army is appalling and troubling and brings an uncertain future for Europe and the world. We’re in 2022, and we still have to deal with **criminal leaders** like **Putin**. How should we react to this? Cancel any international sports events or competition in Russia, block Russians from participating in any sports events around the world, remove any medals won from the last Olympic, turn off ll the pipeline leading to Russia, freeze Russian banks assets, etc.✌🏻🕊️☮️\n",
+				"date_published": "2022-02-24T08:58:33-05:00",
+				"url": "https://blog.numericcitizen.me/2022/02/24/ukraine-i-cant.html",
+				"tags": ["UkraineWar"]
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/02/24/a-message-for.html",
@@ -10209,6 +10746,14 @@
 				"tags": ["Longer posts","Apps \u0026 Services"]
 			},
 			{
+				"id": "http://numericcitizen.micro.blog/2022/02/18/winters-worst-part.html",
+				"title": "Winter's Worst Part",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2024/071057328b.jpg\" alt=\"A wintery visual musing during a snowstorm.A wintery visual musing during a snowstorm.\" title=\"Wintery photo\"></p>\n<p>❄️ Right in the middle of February, another snowstorm hit the city. February always felt like the worst part of winter for me. It feels like we’ve been in winter forever. Spring still feels far, and December seems like yesterday. The only good part is that daylight increases steadily, and it’s a short month. Oh, TGIF! 🌨</p>\n<p>#winter #TGIF</p>\n",
+				"content_text": "![A wintery visual musing during a snowstorm.A wintery visual musing during a snowstorm.](https://cdn.uploads.micro.blog/6803/2024/071057328b.jpg \"Wintery photo\")\n\n❄️ Right in the middle of February, another snowstorm hit the city. February always felt like the worst part of winter for me. It feels like we’ve been in winter forever. Spring still feels far, and December seems like yesterday. The only good part is that daylight increases steadily, and it’s a short month. Oh, TGIF! 🌨\n\n#winter #TGIF\n",
+				"date_published": "2022-02-18T06:56:06-05:00",
+				"url": "https://blog.numericcitizen.me/2022/02/18/winters-worst-part.html"
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2022/02/13/my-oldest-post.html",
 				"title": "My Oldest Post",
 				"content_html": "<p>Going back in time on previously published content can be the source of a few smiles. <a href=\"https://numericcitizen.me/2018/10/13/the-return-of-micro-blogging/\">My oldest post</a> on my main blog is about Micro.blog. Here is an excerpt:</p>\n<blockquote>\n<p>This morning I found out the existence of a blogging platform called Micro.blog. Something very special. Very lean. Very light. Without ads. Leaner than WordPress. Yet capable. Close to Twitter but with less clutter.</p>\n</blockquote>\n<p>It’s funny. It’s not about introducing my blog or something like “hello” world.</p>\n",
@@ -10225,6 +10770,14 @@
 				"date_published": "2022-02-13T07:51:00-05:00",
 				"url": "https://blog.numericcitizen.me/2022/02/13/challenge-of-the.html",
 				"tags": ["Misc","Longer posts","Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2022/02/12/peeking-at-airdrop.html",
+				"title": "Peeking at AirDrop in the Coffee Shop",
+				"content_html": "<p>☕️ Going to the coffee shop today after six weeks of sanitary restrictions. Those were lifted recently, at long last. After setting up my MacBook Air, I open up AirDrop in the Finder to see who’s there. Naturally, I don’t know anyone from the list of available devices. It’s just for fun. Available devices vary a lot for each visit. Today was a great crop. 👨🏻‍💻😜</p>\n<p>#musing<img src=\"https://cdn.uploads.micro.blog/6803/2024/9735e31039.jpg\" alt=\"\"></p>\n",
+				"content_text": "☕️ Going to the coffee shop today after six weeks of sanitary restrictions. Those were lifted recently, at long last. After setting up my MacBook Air, I open up AirDrop in the Finder to see who’s there. Naturally, I don’t know anyone from the list of available devices. It’s just for fun. Available devices vary a lot for each visit. Today was a great crop. 👨🏻‍💻😜\n\n#musing![](https://cdn.uploads.micro.blog/6803/2024/9735e31039.jpg)\n",
+				"date_published": "2022-02-12T13:41:30-05:00",
+				"url": "https://blog.numericcitizen.me/2022/02/12/peeking-at-airdrop.html"
 			},
 			{
 				"id": "http://numericcitizen.micro.blog/2022/02/11/please-dont-think.html",
