@@ -7,10 +7,217 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/02/05/with-todays-addition.html",
+				
+				"content_html": "<p>With today&rsquo;s addition regarding <strong>Bookmarks</strong> and AI-based summaries, <strong>Micro.blog</strong> is getting very close to be a read-later service, too. Which I like a lot. Synching highlights to Readwise would be cool too. Hint hint <a href=\"https://micro.blog/manton\">@manton</a> 🙏🏻</p>\n",
+				"content_text": "With today's addition regarding **Bookmarks** and AI-based summaries, **Micro.blog** is getting very close to be a read-later service, too. Which I like a lot. Synching highlights to Readwise would be cool too. Hint hint [@manton](https://micro.blog/manton) 🙏🏻\n",
+				"date_published": "2024-02-05T12:52:29-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/05/with-todays-addition.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/05/our-nileane-reviews.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Similar to the Tapestry project? Seems really well done.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Federico Viticci :ticciseal:\" data-avatar=\"https://micro.blog/viticci@mastodon.macstories.net/avatar.jpg\" cite=\"https://mastodon.macstories.net/@viticci/111879635685799969\"><p>Our <span class=\"h-card\"><a href=\"https://nileane.fr/@nileane\" class=\"u-url mention\">@<span>nileane</span></a></span> reviews feeeed, a very nicely designed alternative to classic RSS readers. Instead of just following RSS feeds, this app supports RSS *and* a variety of sources like Mastodon, YouTube, Reddit, newsletters, and more.</p><p>We're going to see a lot of apps along these lines thanks to decentralized social media. This one looks very intriguing to me: <a href=\"https://www.macstories.net/reviews/feeeed-embracing-feed-diversity-and-personal-news-curation/\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">macstories.net/reviews/feeeed-</span><span class=\"invisible\">embracing-feed-diversity-and-personal-news-curation/</span></a></p><p><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Fcdn.macstories.net%2Fmedia_attachments%2Ffiles%2F111%2F879%2F634%2F543%2F503%2F256%2Foriginal%2F010af1d8084dfbc7.png\" alt=\"\" loading=\"lazy\"></p><footer>Federico Viticci :ticciseal: <cite><a href=\"https://mastodon.macstories.net/@viticci/111879635685799969\" class=\"u-in-reply-to\">https://mastodon.macstories.net/@viticci/111879635685799969</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nSimilar to the Tapestry project? Seems really well done. \n",
+				"date_published": "2024-02-05T10:58:29-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/05/our-nileane-reviews.html",
+				"tags": ["Photography","Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/05/about-this-permanent.html",
+				"title": "About This Permanent State of Being Undecided With Apps",
+				"content_html": "<p>I have been a happy user of Apple Safari for the last decade. If possible, I prefer using Apple’s browser, thanks to its privacy protection and features. If something doesn’t work in Safari, I will try Firefox. I’ll do everything possible to skip Google Chrome. I use Microsoft Edge because of its integration with Microsoft 365 at work. But Safari is never too far, just in case. It’s now my fall-back plan. Why this change? Because of the Arc Browser, which is now my main browser.</p>\n<p>I’m the type of user who always tries to find a use case for an app that I really like, even if it is superseded with a better one. I love Craft. I always use it in my creative hobbies, but I found a great use case for Notion at work. I like Apple Reminder for family-related tasks but use Things 3 for my creative hobbies. I like Apple Calendar for my personal life but prefer Fantastical for the office. I keep both. I like HEY mail but must use Outlook at the office.</p>\n<p>This constant duality in my choices about which app to use sometimes looks like psychological trouble. 😬🤷🏻‍♂️</p>\n",
+				"content_text": "I have been a happy user of Apple Safari for the last decade. If possible, I prefer using Apple’s browser, thanks to its privacy protection and features. If something doesn’t work in Safari, I will try Firefox. I’ll do everything possible to skip Google Chrome. I use Microsoft Edge because of its integration with Microsoft 365 at work. But Safari is never too far, just in case. It’s now my fall-back plan. Why this change? Because of the Arc Browser, which is now my main browser.\n\nI’m the type of user who always tries to find a use case for an app that I really like, even if it is superseded with a better one. I love Craft. I always use it in my creative hobbies, but I found a great use case for Notion at work. I like Apple Reminder for family-related tasks but use Things 3 for my creative hobbies. I like Apple Calendar for my personal life but prefer Fantastical for the office. I keep both. I like HEY mail but must use Outlook at the office. \n\nThis constant duality in my choices about which app to use sometimes looks like psychological trouble. 😬🤷🏻‍♂️\n\n",
+				"date_published": "2024-02-05T08:25:41-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/05/about-this-permanent.html",
+				"tags": ["Longer posts","Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/05/craft-release-v.html",
+				
+				"content_html": "<p><strong>Craft</strong> release v2.7.0 is a big one. There are lots of improvements that should please a majority of users. I played with it while in beta and created <a href=\"https://youtu.be/n6AzLGYJiKY\">a video</a> to give users a visual look at what&rsquo;s new. <a href=\"https://thecraftbible.com\">The Craft Bible</a> also was updated to include the release analysis, now part of the subscription.</p>\n",
+				"content_text": "**Craft** release v2.7.0 is a big one. There are lots of improvements that should please a majority of users. I played with it while in beta and created [a video](https://youtu.be/n6AzLGYJiKY) to give users a visual look at what's new. [The Craft Bible](https://thecraftbible.com) also was updated to include the release analysis, now part of the subscription. \n",
+				"date_published": "2024-02-05T07:15:40-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/05/craft-release-v.html",
+				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/04/i-learned-a.html",
+				
+				"content_html": "<p>I learned a lot of things over my long career in IT. But, there is one thing that I fail to learn and master is everything related to CSS<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I don&rsquo;t get this, at all. If I could master this thing, plus some of Hugo<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup> concepts, I would create my own Micro.blog visual theme. 😔</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I learn so many languages and dialects: Pascal, Cobol, C, Assembler, Fortran, Lisp, Objective-C, etc. What is wrong with me and CSS?&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>I do get Hugo more than CSS, strangely.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I learned a lot of things over my long career in IT. But, there is one thing that I fail to learn and master is everything related to CSS[^1]. I don't get this, at all. If I could master this thing, plus some of Hugo[^2] concepts, I would create my own Micro.blog visual theme. 😔\r\n\r\n[^1]: I learn so many languages and dialects: Pascal, Cobol, C, Assembler, Fortran, Lisp, Objective-C, etc. What is wrong with me and CSS?\r\n[^2]: I do get Hugo more than CSS, strangely. \r\n",
+				"date_published": "2024-02-04T21:24:22-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/04/i-learned-a.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/04/let-me-guess.html",
+				
+				"content_html": "<p>Let me guess again the <strong>upcoming &ldquo;big&rdquo; new feature for Micro.blog</strong>: a fully-featured <strong>Read Later</strong> feature. It could complement Bookmarks wonderfully<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. 👀 That&rsquo;s the only feature that I can think of that would require a separate app and a browser extension.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>If not replace it altogether.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Let me guess again the **upcoming \"big\" new feature for Micro.blog**: a fully-featured **Read Later** feature. It could complement Bookmarks wonderfully[^1]. 👀 That's the only feature that I can think of that would require a separate app and a browser extension. \n\n[^1]: If not replace it altogether. \n",
+				"date_published": "2024-02-04T14:45:40-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/04/let-me-guess.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/04/i-get-the.html",
+				
+				"content_html": "<p>I get the feeling that Apple is working on a native version of <strong>Maps</strong> for the <strong>Vision Pro</strong> that could come in visionOS 1.1 or 2.0 and that should prove the point of the headset utility. Not a killer app but something that only Apple can do<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. The look around feature could feel like magic. Landmarks in 3D on the Vision Pro could prove to be spectacular, too. Imagine a drive-thru experidnce with this<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>! Man, I can&rsquo;t wait to see what&rsquo;s next for visionOS<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I&rsquo;m not counting on Google to do that.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Without actually driving a car, of course.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>John Gruber keeps writing &ldquo;Vision OS&rdquo; and I hate that.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "I get the feeling that Apple is working on a native version of **Maps** for the **Vision Pro** that could come in visionOS 1.1 or 2.0 and that should prove the point of the headset utility. Not a killer app but something that only Apple can do[^1]. The look around feature could feel like magic. Landmarks in 3D on the Vision Pro could prove to be spectacular, too. Imagine a drive-thru experidnce with this[^3]! Man, I can't wait to see what's next for visionOS[^2].\r\n\r\n[^1]: I'm not counting on Google to do that. \r\n[^2]: John Gruber keeps writing \"Vision OS\" and I hate that. \r\n[^3]: Without actually driving a car, of course. \n",
+				"date_published": "2024-02-04T12:38:39-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/04/i-get-the.html",
+				"tags": ["Apple \u0026 Tech"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/04/is-the-apple.html",
+				
+				"content_html": "<p>Is the Apple Vision Pro good for photo editing? I would love to see Photomator for the Vision Pro<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I wonder about colors fidelity and usability.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Is it ever coming to the headset?&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Is the Apple Vision Pro good for photo editing? I would love to see Photomator for the Vision Pro[^1]. I wonder about colors fidelity and usability. \r\n\r\n[^1]: Is it ever coming to the headset?\n",
+				"date_published": "2024-02-04T10:21:06-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/04/is-the-apple.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/04/a-powerful-ecosystem.html",
+				"title": "A Powerful Ecosystem of Tech",
+				"content_html": "<p>When I look at the <strong>Apple Vision Pro</strong>, I see a device with many software and hardware technologies that Apple took years to create, develop and refine. They did it in plain sight with the iPhone, the iPad and the Mac. Each of these devices played a significant role as a test bed for what would come next, a portion of what we can find in the Vision Pro. I can see many examples: windows management introduced on the iPad via the Stage Manager paved the way for window management on the Vision Pro, Three-dimensional and object placement in an augmented reality view in the Apple Store app when placing a virtual Mac on a physical desk, LiDAR Scanner with FaceID paved the way to Personas, continuity on all Apple OSes, and so much more set the playground for a robust ecosystem that takes all its meaning in the Vision Pro. And there are probably hundreds of more technologies that I cannot see. I guess the Apple Vision Pro was in development for a decade at Apple, and with each new feature Apple put into their devices, the headset benefitted from it.</p>\n",
+				"content_text": "When I look at the **Apple Vision Pro**, I see a device with many software and hardware technologies that Apple took years to create, develop and refine. They did it in plain sight with the iPhone, the iPad and the Mac. Each of these devices played a significant role as a test bed for what would come next, a portion of what we can find in the Vision Pro. I can see many examples: windows management introduced on the iPad via the Stage Manager paved the way for window management on the Vision Pro, Three-dimensional and object placement in an augmented reality view in the Apple Store app when placing a virtual Mac on a physical desk, LiDAR Scanner with FaceID paved the way to Personas, continuity on all Apple OSes, and so much more set the playground for a robust ecosystem that takes all its meaning in the Vision Pro. And there are probably hundreds of more technologies that I cannot see. I guess the Apple Vision Pro was in development for a decade at Apple, and with each new feature Apple put into their devices, the headset benefitted from it. \n\n",
+				"date_published": "2024-02-04T09:57:56-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/04/a-powerful-ecosystem.html",
+				"tags": ["Apple \u0026 Tech","Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/04/okay-ladies-and.html",
+				
+				"content_html": "<p>🚨Okay, ladies and gentlemen, it&rsquo;s time for the newest edition of <a href=\"https://crafted.numericcitizen.me/creative-summary-2024-04\">my weekly creative summary</a>! Thanks for taking the time to have a peek at it. 😊 If you prefer the email version, it&rsquo;s coming up later today, but be sure to subscribe <a href=\"https://numericcitizen.me\">here</a>!</p>\n",
+				"content_text": "🚨Okay, ladies and gentlemen, it's time for the newest edition of [my weekly creative summary](https://crafted.numericcitizen.me/creative-summary-2024-04)! Thanks for taking the time to have a peek at it. 😊 If you prefer the email version, it's coming up later today, but be sure to subscribe [here](https://numericcitizen.me)!\n",
+				"date_published": "2024-02-04T09:06:38-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/04/okay-ladies-and.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/04/folks-i-think.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Thinking about the Apple Vision Pro, the right way.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Daniel Jalkut\" data-avatar=\"https://micro.blog/danielpunkass/avatar.jpg\" cite=\"https://danielpunkass.micro.blog/2024/02/03/folks-i-think.html\"><p>Folks, I think I’ve finally rationalized it. Don’t think of it as a PURCHASE. Think of it as an advanced prototype that you’ve paid Apple for the PRIVILEGE of testing.</p>\r\n<footer>Daniel Jalkut <cite><a href=\"https://danielpunkass.micro.blog/2024/02/03/folks-i-think.html\" class=\"u-in-reply-to\">https://danielpunkass.micro.blog/2024/02/03/folks-i-think.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nThinking about the Apple Vision Pro, the right way. \n",
+				"date_published": "2024-02-04T07:19:33-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/04/folks-i-think.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/03/the-lack-of.html",
+				
+				"content_html": "<p>The lack of proper footnotes support in the <strong>Ghost editor</strong> is&hellip; how dare I could say that&hellip; perplexing? <a href=\"https://codelet.co/how-to-add-footnotes-to-your-ghost-posts/\">This solution</a> is a bit&hellip; overwhelming for me. Oh well.</p>\n",
+				"content_text": "The lack of proper footnotes support in the **Ghost editor** is... how dare I could say that... perplexing? [This solution](https://codelet.co/how-to-add-footnotes-to-your-ghost-posts/) is a bit... overwhelming for me. Oh well. \n",
+				"date_published": "2024-02-03T16:02:07-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/03/the-lack-of.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/03/if-youre-a.html",
+				
+				"content_html": "<p>If you&rsquo;re a <strong>Craft</strong> user and are looking for ways that <strong>Gen AI</strong> could add value to the Craft Assistant, I wrote <a href=\"https://crafted.numericcitizen.me/craft-and-next-gen-AI-assistant\">this document</a>. I think there is an untapped potential in Craft because of minimalistic support for the ChatGPT entry-level model. Feedback is welcome.</p>\n",
+				"content_text": "If you're a **Craft** user and are looking for ways that **Gen AI** could add value to the Craft Assistant, I wrote [this document](https://crafted.numericcitizen.me/craft-and-next-gen-AI-assistant). I think there is an untapped potential in Craft because of minimalistic support for the ChatGPT entry-level model. Feedback is welcome.\n",
+				"date_published": "2024-02-03T15:53:39-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/03/if-youre-a.html",
+				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/03/the-next-one.html",
+				"title": "The Next One Is My Best",
+				"content_html": "<p>I just completed recording <strong>my next YouTube video</strong> (<a href=\"https://www.youtube.com/c/numericcitizenvideos\">my YouTube channel</a>), which will come out early next week. It&rsquo;s probably the one I&rsquo;m the most proud of at many levels. The release will match the release of a new version of an app that I like a lot 🤫. Technically, the sound is good. I&rsquo;me using Bezels to demo the app on the iPad and the iPhone, a first for me. The video structure seems logical and should help the viewers in learning new things. Can&rsquo;t wait to share that one. I hope it will get the attention I&rsquo;m hoping for. 🤞🏻</p>\n",
+				"content_text": "I just completed recording **my next YouTube video** ([my YouTube channel](https://www.youtube.com/c/numericcitizenvideos)), which will come out early next week. It's probably the one I'm the most proud of at many levels. The release will match the release of a new version of an app that I like a lot 🤫. Technically, the sound is good. I'me using Bezels to demo the app on the iPad and the iPhone, a first for me. The video structure seems logical and should help the viewers in learning new things. Can't wait to share that one. I hope it will get the attention I'm hoping for. 🤞🏻\n",
+				"date_published": "2024-02-03T12:02:16-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/03/the-next-one.html",
+				"tags": ["Longer posts","Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/03/im-sorry-but.html",
+				"title": "I'm Sorry but Apple Vision Pro Is Another VR Headset, or Is It?",
+				"content_html": "<p>Of all people who reviewed or are now active users of the <strong>Apple Vision Pro</strong>, some are mentioning, rightfully, that this is not about AR<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> but 95% about VR<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. Apple doesn&rsquo;t want to admit it, but this is a VR headset. Why is that? Is is because it is &ldquo;easier&rdquo;<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup> to recreate something from the ground up (the virtual world enabled by visionOS) than taking the reality and adding meaningful and useful stuff to it? I see much more limited use case for augmented reality than for virtual reality. It might change in the future, now that people are now exposed to it through other people using the headset sharing their experience.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Augmented Reality.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Virtual Reality.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>It&rsquo;s not an easy feat to do what visionOS is doing.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Of all people who reviewed or are now active users of the **Apple Vision Pro**, some are mentioning, rightfully, that this is not about AR[^1] but 95% about VR[^2]. Apple doesn't want to admit it, but this is a VR headset. Why is that? Is is because it is \"easier\"[^3] to recreate something from the ground up (the virtual world enabled by visionOS) than taking the reality and adding meaningful and useful stuff to it? I see much more limited use case for augmented reality than for virtual reality. It might change in the future, now that people are now exposed to it through other people using the headset sharing their experience. \r\n\r\n[^1]: Augmented Reality.\r\n[^2]: Virtual Reality.\r\n[^3]: It's not an easy feat to do what visionOS is doing.\n",
+				"date_published": "2024-02-03T11:58:47-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/03/im-sorry-but.html",
+				"tags": ["Apple \u0026 Tech","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/02/ill-probably-buy.html",
+				
+				"content_html": "<p>I&rsquo;ll probably buy an <strong>Apple Vision Pro</strong> when it arrives in Canada. My wife doesn&rsquo;t know it. She will undoubtedly question my decision. She can be challenging at times. But I&rsquo;ll go ahead anyway. We don&rsquo;t have a home theatre by today&rsquo;s standards. We never invested money into these technologies. But this time, it&rsquo;s different. It&rsquo;s a too important moment in technology to pass.</p>\n",
+				"content_text": "I'll probably buy an **Apple Vision Pro** when it arrives in Canada. My wife doesn't know it. She will undoubtedly question my decision. She can be challenging at times. But I'll go ahead anyway. We don't have a home theatre by today's standards. We never invested money into these technologies. But this time, it's different. It's a too important moment in technology to pass.\n",
+				"date_published": "2024-02-02T13:43:13-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/02/ill-probably-buy.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/02/the-arc-browser.html",
+				
+				"content_html": "<p>The <strong>Arc Browser</strong> is the perfect browser to consume my Micro.blog timeline. In fact, it&rsquo;s the best browser to consume, period.  I&rsquo;m (mostly) in love. I know, I may be late to the party.</p>\n",
+				"content_text": "The **Arc Browser** is the perfect browser to consume my Micro.blog timeline. In fact, it's the best browser to consume, period.  I'm (mostly) in love. I know, I may be late to the party. \n",
+				"date_published": "2024-02-02T06:46:46-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/02/the-arc-browser.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/01/currently-exploring-and.html",
+				
+				"content_html": "<p>Currently exploring and testing the <strong>Arc browser</strong>. This thing looks seriously cool. I wish Apple invented it. My only serious concern is iCloud Keychain support. 👀🤔</p>\n",
+				"content_text": "Currently exploring and testing the **Arc browser**. This thing looks seriously cool. I wish Apple invented it. My only serious concern is iCloud Keychain support. 👀🤔\n",
+				"date_published": "2024-02-01T21:45:57-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/01/currently-exploring-and.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/01/basic-apple-guy.html",
+				
+				"content_html": "<p>Basic Apple Guy writing about the Apple Vision Pro:</p>\n<blockquote>\n<p>For now, Vision Pro remains a very exclusive playground for developers and enthusiasts, clay waiting to be moulded into something quite incredible for the future.</p>\n</blockquote>\n<p>Craig Hockenberry writing about the Mac turning 40:</p>\n<blockquote>\n<p>Apple Vision Pro is a technical marvel, but ultimately falls short in ways that satisfy the natural curiosity of developers.</p>\n</blockquote>\n<p>Time will tell if a new generation of developers will find their way to be creative and think outside the box<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. Otherwise, Apple will eventually have to try harder to think outside the box.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Third level pun intended.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Basic Apple Guy writing about the Apple Vision Pro:\n\n> For now, Vision Pro remains a very exclusive playground for developers and enthusiasts, clay waiting to be moulded into something quite incredible for the future.\n\nCraig Hockenberry writing about the Mac turning 40:\n\n> Apple Vision Pro is a technical marvel, but ultimately falls short in ways that satisfy the natural curiosity of developers.\n\nTime will tell if a new generation of developers will find their way to be creative and think outside the box[^1]. Otherwise, Apple will eventually have to try harder to think outside the box. \n\n[^1]:\tThird level pun intended.\n",
+				"date_published": "2024-02-01T20:32:00-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/01/basic-apple-guy.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/01/message-to-me.html",
+				
+				"content_html": "<p>Message to me📌: don&rsquo;t subscribe to <a href=\"https://scribbles.page\">Scribbles</a>. don&rsquo;t subscribe to <a href=\"https://scribbles.page\">Scribbles</a>. don&rsquo;t subscribe to <a href=\"https://scribbles.page\">Scribbles</a>. don&rsquo;t subscribe to <a href=\"https://scribbles.page\">Scribbles</a>. don&rsquo;t subscribe to <a href=\"https://scribbles.page\">Scribbles</a>. don&rsquo;t subscribe to <a href=\"https://scribbles.page\">Scribbles</a>. don&rsquo;t subscribe to <a href=\"https://scribbles.page\">Scribbles</a>. I left Write.as to focus on Micro.blog, why try Scribbles? It makes no sense.</p>\n",
+				"content_text": "Message to me📌: don't subscribe to [Scribbles](https://scribbles.page). don't subscribe to [Scribbles](https://scribbles.page). don't subscribe to [Scribbles](https://scribbles.page). don't subscribe to [Scribbles](https://scribbles.page). don't subscribe to [Scribbles](https://scribbles.page). don't subscribe to [Scribbles](https://scribbles.page). don't subscribe to [Scribbles](https://scribbles.page). I left Write.as to focus on Micro.blog, why try Scribbles? It makes no sense. \n",
+				"date_published": "2024-02-01T09:21:24-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/01/message-to-me.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/01/just-spent-minutes.html",
+				
+				"content_html": "<p>Just spent 15 minutes trying to figure out Safari Profiles, tab groups, etc. Am I alone in thinking that this is far from being user-friendly? I just can&rsquo;t understand how these things work together.</p>\n",
+				"content_text": "Just spent 15 minutes trying to figure out Safari Profiles, tab groups, etc. Am I alone in thinking that this is far from being user-friendly? I just can't understand how these things work together.\n",
+				"date_published": "2024-02-01T06:51:42-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/01/just-spent-minutes.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/31/microsoft-supports-the.html",
+				
+				"content_html": "<p><strong>Microsoft</strong> supports the Apple Vision Pro headset with <strong>Office 365 Suite</strong>, <strong>Teams</strong> and <strong>Copilot</strong>. At least five apps, on day one, for a use case (productivity) still to be demonstrated as viable. For the most probable day-one use case of the Apple Vision Pro, Netflix refuses to create a single app, a &ldquo;simple&rdquo; video library browser and player. WTF? Politics. 😑</p>\n",
+				"content_text": "**Microsoft** supports the Apple Vision Pro headset with **Office 365 Suite**, **Teams** and **Copilot**. At least five apps, on day one, for a use case (productivity) still to be demonstrated as viable. For the most probable day-one use case of the Apple Vision Pro, Netflix refuses to create a single app, a \"simple\" video library browser and player. WTF? Politics. 😑\n",
+				"date_published": "2024-01-31T22:15:36-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/31/microsoft-supports-the.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/01/31/today-i-was.html",
+				
+				"content_html": "<p>Today, I was watching many YouTube videos and was thinking about how impressive it is that some people<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> build their online careers as YouTubers for talking about one application or ecosystem<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Like <a href=\"https://www.youtube.com/@ThomasFrankExplains\">Thomas Frank</a>.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Notion is a great app offering many possibilities to talk about for a long time.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Today, I was watching many YouTube videos and was thinking about how impressive it is that some people[^1] build their online careers as YouTubers for talking about one application or ecosystem[^2]. \r\n\r\n[^1]: Like [Thomas Frank](https://www.youtube.com/@ThomasFrankExplains). \r\n[^2]: Notion is a great app offering many possibilities to talk about for a long time. \n",
+				"date_published": "2024-01-31T20:51:47-05:00",
+				"url": "https://blog.numericcitizen.me/2024/01/31/today-i-was.html",
+				"tags": ["Food for thought","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2024/01/31/imagining-microblogs-next.html",
 				"title": "Imagining Micro.blog’s Next Big Offering — I Think I Cracked It!",
-				"content_html": "<p><img src=\"https://blog.numericcitizen.me/uploads/2024/cleanshotsafari-2024-01-3111.54.502x.png\" alt=\"\"></p>\n<p>I&rsquo;m wondering about this upcoming Micro.blog &ldquo;big new feature&rdquo; quite often. What new feature could require its own section on the left sidebar? What could mandate the release of companion apps on iOS and Android? Let&rsquo;s try to think about it for a minute.</p>\n<p>So, MB already covers text (as blog posts), more generic content (as pages), photos, books, newsletters, and podcasts. What’s missing here? Videos? Movies? Something else? Could Podcast be more explicitly exposed where the Transcript section becomes Podcast? Is MB building its own podcasting player app? Or a podcast recorder? Can AI play a role in this new feature?</p>\n<p>But what else is missing from Micro.blog? Instant messaging? I own a Wavelength group of Micro.blog users. The group is currently hosting 50 users. Here’s the <a href=\"https://wavelength.app/invite/K8vZnQI51dy#M3iTwlw1LzkPjaBFp8UZGw--\">invite link</a>. Near real-time interactions are something I wish Micro.blog had for supporting discussions about specific events<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. Frankly, <strong>instant messaging</strong> is probably the closest thing I can think of that would require a dedicated section and a dedicated set of apps on mobile devices.</p>\n<p>Your thoughts? Please join in! 🙏🏻</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Like Apple Events, sports events, etc.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
-				"content_text": "![](https://blog.numericcitizen.me/uploads/2024/cleanshotsafari-2024-01-3111.54.502x.png)\n\nI'm wondering about this upcoming Micro.blog \"big new feature\" quite often. What new feature could require its own section on the left sidebar? What could mandate the release of companion apps on iOS and Android? Let's try to think about it for a minute. \n\nSo, MB already covers text (as blog posts), more generic content (as pages), photos, books, newsletters, and podcasts. What’s missing here? Videos? Movies? Something else? Could Podcast be more explicitly exposed where the Transcript section becomes Podcast? Is MB building its own podcasting player app? Or a podcast recorder? Can AI play a role in this new feature?\n\nBut what else is missing from Micro.blog? Instant messaging? I own a Wavelength group of Micro.blog users. The group is currently hosting 50 users. Here’s the [invite link](https://wavelength.app/invite/K8vZnQI51dy#M3iTwlw1LzkPjaBFp8UZGw--). Near real-time interactions are something I wish Micro.blog had for supporting discussions about specific events[^1]. Frankly, **instant messaging** is probably the closest thing I can think of that would require a dedicated section and a dedicated set of apps on mobile devices. \n\nYour thoughts? Please join in! 🙏🏻\n\n[^1]:\tLike Apple Events, sports events, etc.\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/6803/2024/cleanshotsafari-2024-01-3111.54.502x.png\" alt=\"\"></p>\n<p>I&rsquo;m wondering about this upcoming Micro.blog &ldquo;big new feature&rdquo; quite often. What new feature could require its own section on the left sidebar? What could mandate the release of companion apps on iOS and Android? Let&rsquo;s try to think about it for a minute.</p>\n<p>So, MB already covers text (as blog posts), more generic content (as pages), photos, books, newsletters, and podcasts. What’s missing here? Videos? Movies? Something else? Could Podcast be more explicitly exposed where the Transcript section becomes Podcast? Is MB building its own podcasting player app? Or a podcast recorder? Can AI play a role in this new feature?</p>\n<p>But what else is missing from Micro.blog? Instant messaging? I own a Wavelength group of Micro.blog users. The group is currently hosting 50 users. Here’s the <a href=\"https://wavelength.app/invite/K8vZnQI51dy#M3iTwlw1LzkPjaBFp8UZGw--\">invite link</a>. Near real-time interactions are something I wish Micro.blog had for supporting discussions about specific events<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. Frankly, <strong>instant messaging</strong> is probably the closest thing I can think of that would require a dedicated section and a dedicated set of apps on mobile devices.</p>\n<p>Your thoughts? Please join in! 🙏🏻</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Like Apple Events, sports events, etc.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/6803/2024/cleanshotsafari-2024-01-3111.54.502x.png)\n\nI'm wondering about this upcoming Micro.blog \"big new feature\" quite often. What new feature could require its own section on the left sidebar? What could mandate the release of companion apps on iOS and Android? Let's try to think about it for a minute. \n\nSo, MB already covers text (as blog posts), more generic content (as pages), photos, books, newsletters, and podcasts. What’s missing here? Videos? Movies? Something else? Could Podcast be more explicitly exposed where the Transcript section becomes Podcast? Is MB building its own podcasting player app? Or a podcast recorder? Can AI play a role in this new feature?\n\nBut what else is missing from Micro.blog? Instant messaging? I own a Wavelength group of Micro.blog users. The group is currently hosting 50 users. Here’s the [invite link](https://wavelength.app/invite/K8vZnQI51dy#M3iTwlw1LzkPjaBFp8UZGw--). Near real-time interactions are something I wish Micro.blog had for supporting discussions about specific events[^1]. Frankly, **instant messaging** is probably the closest thing I can think of that would require a dedicated section and a dedicated set of apps on mobile devices. \n\nYour thoughts? Please join in! 🙏🏻\n\n[^1]:\tLike Apple Events, sports events, etc.\n",
 				"date_published": "2024-01-31T11:58:11-05:00",
 				"url": "https://blog.numericcitizen.me/2024/01/31/imagining-microblogs-next.html",
 				"tags": ["Longer posts","Apps \u0026 Services","Newsletter"]
