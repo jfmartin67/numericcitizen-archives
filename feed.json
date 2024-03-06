@@ -7,6 +7,175 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/03/05/what-if-eu.html",
+				
+				"content_html": "<p>What if EU tells Apple: “you’re changes in iOS 17.4 aren’t enough or wrong”, what then?</p>\n",
+				"content_text": "What if EU tells Apple: “you’re changes in iOS 17.4 aren’t enough or wrong”, what then? \n",
+				"date_published": "2024-03-05T17:41:44-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/05/what-if-eu.html",
+				"tags": ["Apple \u0026 Tech"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/05/i-dont-want.html",
+				
+				"content_html": "<p>I don&rsquo;t want to wait next week for the new <strong>iPad Pro</strong> announcement. I want it TODAY! I need some Apple excitement in my digital life.</p>\n",
+				"content_text": "I don't want to wait next week for the new **iPad Pro** announcement. I want it TODAY! I need some Apple excitement in my digital life. \n",
+				"date_published": "2024-03-05T08:37:08-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/05/i-dont-want.html",
+				"tags": ["Apple \u0026 Tech"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/04/photoediting-on-the.html",
+				
+				"content_html": "<p>Photo-editing on the iPad using <strong>Photomator</strong> is such a joy. I can’t wait to go with the upcoming <strong>iPad Pro</strong>. The iPad is the perfect devide for photo-editing with the Apple Pencil. With the switch to the OLED technology, it will be even better.</p>\n",
+				"content_text": "Photo-editing on the iPad using **Photomator** is such a joy. I can’t wait to go with the upcoming **iPad Pro**. The iPad is the perfect devide for photo-editing with the Apple Pencil. With the switch to the OLED technology, it will be even better. \n",
+				"date_published": "2024-03-04T20:51:10-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/04/photoediting-on-the.html",
+				"tags": ["Apple \u0026 Tech","Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/04/before-after.html",
+				
+				"content_html": "<p>Before. After. 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Before. After. 📷\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://blog.numericcitizen.me/uploads/2024/153cb2f21d.mov\" width=\"640\" height=\"358\" poster=\"https://blog.numericcitizen.me/uploads/2024/0bcb12696a.png\" preload=\"none\"></video>\n",
+				"date_published": "2024-03-04T20:06:57-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/04/before-after.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/04/what-would-be.html",
+				
+				"content_html": "<p>What would be the best or the most suitable Micro.blog visual theme for a travel journal type of blog? <a href=\"https://github.com/heymikehaynes/theme-outpost\">Outpost</a>? I find it drab. Maybe <a href=\"https://github.com/microdotblog/theme-typewriter\">Typewriter</a>? Currently testing the latter on <a href=\"https://numericcitizen-test.micro.blog\">numericcitizen-test.micro.blog</a>.</p>\n",
+				"content_text": "What would be the best or the most suitable Micro.blog visual theme for a travel journal type of blog? [Outpost](https://github.com/heymikehaynes/theme-outpost)? I find it drab. Maybe [Typewriter](https://github.com/microdotblog/theme-typewriter)? Currently testing the latter on [numericcitizen-test.micro.blog](https://numericcitizen-test.micro.blog). \n",
+				"date_published": "2024-03-04T13:02:03-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/04/what-would-be.html",
+				"tags": ["Blogging","Travels"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/04/the-m-inch.html",
+				
+				"content_html": "<p>The M2 13-inch MacBook Air stays in the lineup for 999 US$. The multiplication of price points continues. 🤪</p>\n",
+				"content_text": "The M2 13-inch MacBook Air stays in the lineup for 999 US$. The multiplication of price points continues. 🤪\n",
+				"date_published": "2024-03-04T08:31:31-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/04/the-m-inch.html",
+				"tags": ["Apple \u0026 Tech"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/04/the-new-m.html",
+				
+				"content_html": "<p>The new <strong>M3 MacBook Air</strong> now supports two displays, when the laptop lid is closed.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> 🤔</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>As an M2 15-inch MBA owner, I&rsquo;ll pass.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "The new **M3 MacBook Air** now supports two displays, when the laptop lid is closed.[^1] 🤔\r\n[^1]: As an M2 15-inch MBA owner, I'll pass.\n",
+				"date_published": "2024-03-04T08:29:34-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/04/the-new-m.html",
+				"tags": ["Apple \u0026 Tech"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/04/ai-training-ethics.html",
+				"title": "AI Training: Ethics or Coverage?",
+				"content_html": "<p>Some authors on the internet are against using their content without permission to train the models behind generative AI. As a blogger, this question often comes to my mind. On one hand, I believe that training without permission poses an ethical issue. I am unsure if we have genuinely addressed this question as a society. On the other hand, I question the danger of many authors wanting to silence their voices by blocking the training process to access their online content. Now more than ever, I feel that all voices are essential in ensuring that model training reflects our diversity as much as possible. I don’t want bots and haters to win the race. We, as authors, need to offer resistance. I’m not sure how this challenge will be solved, if ever.</p>\n",
+				"content_text": "Some authors on the internet are against using their content without permission to train the models behind generative AI. As a blogger, this question often comes to my mind. On one hand, I believe that training without permission poses an ethical issue. I am unsure if we have genuinely addressed this question as a society. On the other hand, I question the danger of many authors wanting to silence their voices by blocking the training process to access their online content. Now more than ever, I feel that all voices are essential in ensuring that model training reflects our diversity as much as possible. I don’t want bots and haters to win the race. We, as authors, need to offer resistance. I’m not sure how this challenge will be solved, if ever. \n\n",
+				"date_published": "2024-03-04T07:00:27-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/04/ai-training-ethics.html",
+				"tags": ["Food for thought","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/03/amit-gawande-micro.html",
+				
+				"content_html": "<p>🔗 <!-- raw HTML omitted -->Amit Gawande<!-- raw HTML omitted --></p>\n<blockquote>\n<p>Micro posts don’t sit well on the platform, either. For all that, there’s <a href=\"https://www.amitgawande.com/2024/01/13/my-experiments-with.html\">no better platform than Micro.blog</a>.</p>\n</blockquote>\n<p>I’m afraid I have to disagree. I found a great use case, for me, for Scribbles. Blips. I recently discovered that posts without titles are no longer shown in the Explore section of Scribbles. Sad. Yet, I’m a big supporter of Scribbles.</p>\n",
+				"content_text": "🔗 <a href=\"https://www.amitgawande.com/2024/02/26/i-have-enjoyed.html\" class=\"u-in-reply-to\">Amit Gawande</a>\r\n\r\n> Micro posts don’t sit well on the platform, either. For all that, there’s [no better platform than Micro.blog](https://www.amitgawande.com/2024/01/13/my-experiments-with.html).\r\n\r\nI’m afraid I have to disagree. I found a great use case, for me, for Scribbles. Blips. I recently discovered that posts without titles are no longer shown in the Explore section of Scribbles. Sad. Yet, I’m a big supporter of Scribbles. \n",
+				"date_published": "2024-03-03T22:04:19-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/03/amit-gawande-micro.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/03/source-apple-to.html",
+				
+				"content_html": "<p>🔗 <!-- raw HTML omitted -->Source: Apple to Announce New Products This Week - MacRumors<!-- raw HTML omitted --></p>\n<blockquote>\n<p>Apple plans to announce new products with press releases on its website this week, a proven source familiar with the matter told <em>MacRumors</em>.</p>\n</blockquote>\n<p>After over a year without any new iPad, is Apple going through the press release route? It can’t be about cost-cutting. Or is it? I can’t wait to see what’s in store for potential upgraders like me.</p>\n",
+				"content_text": "🔗 <a href=\"https://www.macrumors.com/2024/03/03/source-apple-product-announcements-this-week/\" class=\"u-in-reply-to\">Source: Apple to Announce New Products This Week - MacRumors</a>\n\n> Apple plans to announce new products with press releases on its website this week, a proven source familiar with the matter told _MacRumors_.\n\nAfter over a year without any new iPad, is Apple going through the press release route? It can’t be about cost-cutting. Or is it? I can’t wait to see what’s in store for potential upgraders like me.\n",
+				"date_published": "2024-03-03T20:49:20-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/03/source-apple-to.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/03/one-big-regret.html",
+				"title": "One Big Regret of My Digital Life",
+				"content_html": "<p>One of the things I regret the most is not having had the idea of creating a blog in the 90s (and keeping it until today). Surprisingly, I learned about HTML, web servers like Apache and Netscape when it became popular<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. I didn&rsquo;t click with the idea of owning a small portion of the Internet to share what I was becoming at that time. What a missed opportunity.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>It&rsquo;s not exactly true. I used to have and maintain a website about a subject that I still find fascinating: meteorology, circa 1994.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "One of the things I regret the most is not having had the idea of creating a blog in the 90s (and keeping it until today). Surprisingly, I learned about HTML, web servers like Apache and Netscape when it became popular[^1]. I didn't click with the idea of owning a small portion of the Internet to share what I was becoming at that time. What a missed opportunity. \r\n\r\n[^1]: It's not exactly true. I used to have and maintain a website about a subject that I still find fascinating: meteorology, circa 1994. \n",
+				"date_published": "2024-03-03T20:03:07-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/03/one-big-regret.html",
+				"tags": ["Food for thought","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/03/i-spent-part.html",
+				
+				"content_html": "<p>I spent part of my morning testing the creation of a GPT that has the function of producing a summary of the article referenced by a URL. The summary must be divided into three parts: a paragraph, a list of key elements, and finally a list of keywords. It&rsquo;s easy to use and the results are usually excellent. However, to my surprise, many authors block access to engines like ChatGPT. This GPT will be used with Omnivore but integration is not possible. I need to copy and paste the article&rsquo;s original URL into the GPT.</p>\n",
+				"content_text": "I spent part of my morning testing the creation of a GPT that has the function of producing a summary of the article referenced by a URL. The summary must be divided into three parts: a paragraph, a list of key elements, and finally a list of keywords. It's easy to use and the results are usually excellent. However, to my surprise, many authors block access to engines like ChatGPT. This GPT will be used with Omnivore but integration is not possible. I need to copy and paste the article's original URL into the GPT.\n",
+				"date_published": "2024-03-03T10:36:51-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/03/i-spent-part.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/03/for-microblog-lovers.html",
+				
+				"content_html": "<p>For Micro.blog lovers and enthusiasts, I made a video summarizing February improvements and additions. Enjoy.\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/PsrrvDhFY98' frameborder='0' allowfullscreen></iframe></div></p>\n",
+				"content_text": "For Micro.blog lovers and enthusiasts, I made a video summarizing February improvements and additions. Enjoy. \r\n{{< youtube \"PsrrvDhFY98\" >}}\n",
+				"date_published": "2024-03-03T10:30:48-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/03/for-microblog-lovers.html",
+				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/03/week-number-eight.html",
+				
+				"content_html": "<p>Week number eight is complete. You can read <strong>my weekly creative summary</strong> right <a href=\"https://crafted.numericcitizen.me/creative-summary-2024-08\">HERE</a>! Coming up later for newsletter subscribers. Thanks for reading about my work. 🙏🏻</p>\n",
+				"content_text": "Week number eight is complete. You can read **my weekly creative summary** right [HERE](https://crafted.numericcitizen.me/creative-summary-2024-08)! Coming up later for newsletter subscribers. Thanks for reading about my work. 🙏🏻\n",
+				"date_published": "2024-03-03T08:56:29-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/03/week-number-eight.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/02/experiment-with-photomator.html",
+				
+				"content_html": "<p>Experiment with <strong>Photomator</strong> on iPad. Thoughts?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Experiment with **Photomator** on iPad. Thoughts? \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://blog.numericcitizen.me/uploads/2024/7ce3a0b411.mov\" width=\"640\" height=\"446\" poster=\"https://blog.numericcitizen.me/uploads/2024/1303633afb.png\" preload=\"none\"></video>\n",
+				"date_published": "2024-03-02T17:42:31-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/02/experiment-with-photomator.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/02/i-made-a.html",
+				
+				"content_html": "<p>I made a big cleanup in my <strong>Shortcuts</strong> this morning. Boy, do I feel this app needs so much more work to be enjoyable to use. Can Apple fix this mess? Editing a long shortcut is not optimal. There should be a compressed or text-only mode with inline hyperlinks for variables and actions. Syncing is broken—no debugging option. There should be a way to turn off a shortcut so it doesn&rsquo;t appear in places like share sheets. I wish Apple spent more time on Shortcuts than they do on Swift Playground. Oh, is Apple going to enable creating Shortcuts using GenAI? That would be really cool. 👀🤔</p>\n",
+				"content_text": "I made a big cleanup in my **Shortcuts** this morning. Boy, do I feel this app needs so much more work to be enjoyable to use. Can Apple fix this mess? Editing a long shortcut is not optimal. There should be a compressed or text-only mode with inline hyperlinks for variables and actions. Syncing is broken—no debugging option. There should be a way to turn off a shortcut so it doesn't appear in places like share sheets. I wish Apple spent more time on Shortcuts than they do on Swift Playground. Oh, is Apple going to enable creating Shortcuts using GenAI? That would be really cool. 👀🤔\n",
+				"date_published": "2024-03-02T13:27:57-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/02/i-made-a.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/02/im-playing-with.html",
+				
+				"content_html": "<p>I&rsquo;m playing with my content by asking ChatGPT to summarize my blog&rsquo;s <a href=\"https://blog.numericcitizen.me/newsletters/2024/03/01/7561.html\">monthly digest</a> newsletter. It would be nice if we had an option to include this summary automatically using Micro.blog newsletter feature. cc <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
+				"content_text": "I'm playing with my content by asking ChatGPT to summarize my blog's [monthly digest](https://blog.numericcitizen.me/newsletters/2024/03/01/7561.html) newsletter. It would be nice if we had an option to include this summary automatically using Micro.blog newsletter feature. cc [@manton](https://micro.blog/manton)\n",
+				"date_published": "2024-03-02T09:46:55-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/02/im-playing-with.html",
+				"tags": ["Blogging"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/03/02/on-singlepurpose-device.html",
+				"title": "On Single-Purpose Device Attractiveness",
+				"content_html": "<p>This week during a work meeting with my office colleagues, one of them was using a &ldquo;<strong><a href=\"https://remarkable.com/\">remarkable</a></strong>&rdquo; tablet to take notes. I was sitting right next to him and could see the tablet in action. I must say I was impressed. It&rsquo;s certain that a &ldquo;remarkable&rdquo; tablet offers very limited functionality compared to an iPad, but it raises the following question: Should Apple consider going back to creating single-purpose devices? For example, the iPhone killed the iPod, but I think if Apple re-entered the market with a new line of <strong>iPods</strong>, it would be very popular. And I think the same would be true for a note-taking tablet.</p>\n",
+				"content_text": "This week during a work meeting with my office colleagues, one of them was using a \"**[remarkable](https://remarkable.com/)**\" tablet to take notes. I was sitting right next to him and could see the tablet in action. I must say I was impressed. It's certain that a \"remarkable\" tablet offers very limited functionality compared to an iPad, but it raises the following question: Should Apple consider going back to creating single-purpose devices? For example, the iPhone killed the iPod, but I think if Apple re-entered the market with a new line of **iPods**, it would be very popular. And I think the same would be true for a note-taking tablet.\n",
+				"date_published": "2024-03-02T09:33:56-05:00",
+				"url": "https://blog.numericcitizen.me/2024/03/02/on-singlepurpose-device.html",
+				"tags": ["Apple \u0026 Tech","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/02/29/lots-of-meetings.html",
+				
+				"content_html": "<p>Lots of meetings today at the office. Used my <strong>iPad Pro</strong> all the time for note-taking. It&rsquo;s such a wonderful and mighty device for that purpose. Even with iPadOS limitations. I&rsquo;m excited for the next iteration. I can&rsquo;t wait to see what&rsquo;s coming next to this platform.</p>\n",
+				"content_text": "Lots of meetings today at the office. Used my **iPad Pro** all the time for note-taking. It's such a wonderful and mighty device for that purpose. Even with iPadOS limitations. I'm excited for the next iteration. I can't wait to see what's coming next to this platform. \n",
+				"date_published": "2024-02-29T21:32:07-05:00",
+				"url": "https://blog.numericcitizen.me/2024/02/29/lots-of-meetings.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2024/02/28/tim-cook-says.html",
 				
 				"content_html": "<p>🔗 <!-- raw HTML omitted -->Tim Cook Says Apple Will &lsquo;Break New Ground&rsquo; in Generative AI - MacRumors<!-- raw HTML omitted --></p>\n<blockquote>\n<p>and during the event, Apple CEO <a href=\"https://www.macrumors.com/guide/tim-cook/\">Tim Cook</a> once again commented on Apple&rsquo;s AI plans. Cook said that the company will &ldquo;break new ground&rdquo; in generative AI in 2024. &ldquo;We believe it will unlock transformative opportunities for our users,&rdquo; said Cook.</p>\n</blockquote>\n<p>Will Apple GenAI break new ground for Apple users or to everyone compared to what is currently possible? It’s a big difference because Apple is quite behind.</p>\n",
