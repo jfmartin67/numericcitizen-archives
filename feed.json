@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/04/21/now-c-c.html",
+				"title": "Now ☀️9 °C - 🌡️2 °C - 🌧️29%",
+				"content_html": "<ol>\n<li>Today, I wanted to try <strong>something different</strong> and write this post on <strong>Micro.blog</strong> instead of <strong>Scribbles</strong>. Since the Micro.blog editor is so far behind Scribbles’, I’m using <strong>Ulysses</strong> for this experiment. Sadly, people won’t be able to reply using a contact form because my blog on Micro.blog doesn’t offer one. In any case, say <a href=\"mailto:hello@numericcitizen.me\">hello@numericcitizen.me</a>!</li>\n<li>Today is a special day—video recording day! I’m excited to share more about <strong>my creator dashboard</strong>, a project I’ve been passionately building in Craft.</li>\n<li>I’ve been editing photos with <strong>Photomator</strong> recently and discovered that for some photos, Photomator would create a sidecar file which is more than 100 MB in size, while for other photos, the sidecar file is only around a hundred kilobytes, under similar editing workflows.</li>\n<li>I find <strong>Grammarly</strong> to be overly iterative when suggesting corrections. After applying a suggestion, it will iterate and suggest something else that it could have figured out in the first place. They are transitioning to AI, and I think it will help. Oh, and Grammarly considers markdown formatting marks to be corrected.</li>\n<li>Yesterday, after watching <a href=\"https://youtu.be/MndzBJfw7dI?si=ZaDvcJLYUZB7JNXL\">this video</a>, I wondered if I should switch to <strong>FinalCut Pro</strong> for my video production. There are things that I find super cool and useful in FCP that I don’t have in <strong>Screenflow</strong> like <a href=\"https://www.gling.ai/\">Gling.ai</a>.</li>\n<li>It took me 22 minutes to write this post.</li>\n<li>Maybe I could alternate between Scribbles and Micro.blog for this /Now post. What do you think? Don’t miss <a href=\"https://blips.numericcitizen.me/categories/now\">previous /Now posts</a> on Scribbles.</li>\n<li>This is a photo that I processed yesterday night. A better version will soon be available on <a href=\"https://glass.photo/numericcitizen\">my Glass page</a>, though.</li>\n</ol>\n<p><img src=\"https://blog.numericcitizen.me/uploads/2024/dsc-0447.jpeg\" alt=\"\"></p>\n",
+				"content_text": "1. Today, I wanted to try **something different** and write this post on **Micro.blog** instead of **Scribbles**. Since the Micro.blog editor is so far behind Scribbles’, I’m using **Ulysses** for this experiment. Sadly, people won’t be able to reply using a contact form because my blog on Micro.blog doesn’t offer one. In any case, say hello@numericcitizen.me!\n2. Today is a special day—video recording day! I’m excited to share more about **my creator dashboard**, a project I’ve been passionately building in Craft.\n3. I’ve been editing photos with **Photomator** recently and discovered that for some photos, Photomator would create a sidecar file which is more than 100 MB in size, while for other photos, the sidecar file is only around a hundred kilobytes, under similar editing workflows. \n4. I find **Grammarly** to be overly iterative when suggesting corrections. After applying a suggestion, it will iterate and suggest something else that it could have figured out in the first place. They are transitioning to AI, and I think it will help. Oh, and Grammarly considers markdown formatting marks to be corrected.\n5. Yesterday, after watching [this video](https://youtu.be/MndzBJfw7dI?si=ZaDvcJLYUZB7JNXL), I wondered if I should switch to **FinalCut Pro** for my video production. There are things that I find super cool and useful in FCP that I don’t have in **Screenflow** like [Gling.ai](https://www.gling.ai/).\n6. It took me 22 minutes to write this post.\n7. Maybe I could alternate between Scribbles and Micro.blog for this /Now post. What do you think? Don’t miss [previous /Now posts](https://blips.numericcitizen.me/categories/now) on Scribbles.\n8. This is a photo that I processed yesterday night. A better version will soon be available on [my Glass page](https://glass.photo/numericcitizen), though.\n\n![](https://blog.numericcitizen.me/uploads/2024/dsc-0447.jpeg)\n\n\n",
+				"date_published": "2024-04-21T07:02:35-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/21/now-c-c.html",
+				"tags": ["Blogging","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/20/i-want-to.html",
+				
+				"content_html": "<p>I want to discover a new blog, any suggestions for me?</p>\n",
+				"content_text": "I want to discover a new blog, any suggestions for me?\n",
+				"date_published": "2024-04-20T18:43:57-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/20/i-want-to.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/20/im-cautiously-happy.html",
+				
+				"content_html": "<p>I&rsquo;m cautiously happy to see the American settle and go ahead with the military aid for <strong>Ukraine</strong> (and Taiwan). Time is seriously running out, and I&rsquo;m afraid that the West falls in the &ldquo;too little too late&rdquo; trap. Now finish this and ship the good stuff out ASAP FTW!</p>\n",
+				"content_text": "I'm cautiously happy to see the American settle and go ahead with the military aid for **Ukraine** (and Taiwan). Time is seriously running out, and I'm afraid that the West falls in the \"too little too late\" trap. Now finish this and ship the good stuff out ASAP FTW!\n",
+				"date_published": "2024-04-20T16:43:49-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/20/im-cautiously-happy.html",
+				"tags": ["UkraineWar","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/20/im-currently-working.html",
+				
+				"content_html": "<p>I&rsquo;m currently working on building a <strong>creator dashboard</strong> in <strong>Craft</strong> and it&rsquo;s fun but Craft is rather limited compared to Notion. I&rsquo;m working on an upcoming video about that! Stay tuned.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm currently working on building a **creator dashboard** in **Craft** and it's fun but Craft is rather limited compared to Notion. I'm working on an upcoming video about that! Stay tuned.\r\n\n\n<img src=\"uploads/2024/video-banners-new.001.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2024-04-20T08:52:30-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/20/im-currently-working.html",
+				"tags": ["Photography","Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/17/the-house-of.html",
+				
+				"content_html": "<p>The House of Representatives are going to vote on separate bills for <strong>Ukraine</strong> and Israel aid this weekend. My fear is that aid for <strong>Israel</strong> gets a go but not Ukraine which would be devastating. This could be a turning point.</p>\n",
+				"content_text": "The House of Representatives are going to vote on separate bills for **Ukraine** and Israel aid this weekend. My fear is that aid for **Israel** gets a go but not Ukraine which would be devastating. This could be a turning point. \n",
+				"date_published": "2024-04-17T18:47:22-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/17/the-house-of.html",
+				"tags": ["UkraineWar","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/17/went-outside-today.html",
+				
+				"content_html": "<p>Went outside today for lunch and took <strong>my camera</strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> with me. What a good idea it was. I like this a lot because it is an opportunity to take a mental break from work. When I&rsquo;m coming back to work, I&rsquo;m more enthusiastic.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Nikon Zf with a 44mm F2 lens. Great combo.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Went outside today for lunch and took **my camera**[^1] with me. What a good idea it was. I like this a lot because it is an opportunity to take a mental break from work. When I'm coming back to work, I'm more enthusiastic.\r\n\r\n[^1]: Nikon Zf with a 44mm F2 lens. Great combo. \n",
+				"date_published": "2024-04-17T13:31:18-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/17/went-outside-today.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/17/why-on-earth.html",
+				
+				"content_html": "<p>Why on earth in 2024 a company like <strong>Checkpoint</strong> still ships 32-bit software like a MDR client for Windows Server 2019? I mean, come on!! It&rsquo;s like shipping a parallel port on a MacBook Pro!</p>\n",
+				"content_text": "Why on earth in 2024 a company like **Checkpoint** still ships 32-bit software like a MDR client for Windows Server 2019? I mean, come on!! It's like shipping a parallel port on a MacBook Pro! \n",
+				"date_published": "2024-04-17T09:13:05-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/17/why-on-earth.html",
+				"tags": ["Work"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/17/why-would-you.html",
+				
+				"content_html": "<p>Why would you need <strong>Echofeed</strong> when using Micro.blog to syndicate to Mastodon et al.?</p>\n",
+				"content_text": "Why would you need **Echofeed** when using Micro.blog to syndicate to Mastodon et al.? \n",
+				"date_published": "2024-04-17T07:56:06-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/17/why-would-you.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/16/the-magic-is.html",
+				
+				"content_html": "<p><a href=\"https://initialcharge.net/2024/04/apple-magic-gone/\">The Magic Is Gone - Initial Charge</a></p>\n<blockquote>\n<p>The magic of Apple’s retail stores is gone.</p>\n</blockquote>\n<p>Except when the new iPad Pro launches, which should be the case pretty soon.</p>\n",
+				"content_text": " [The Magic Is Gone - Initial Charge](https://initialcharge.net/2024/04/apple-magic-gone/)\r\n\r\n> The magic of Apple’s retail stores is gone.\r\n\r\nExcept when the new iPad Pro launches, which should be the case pretty soon. \n",
+				"date_published": "2024-04-16T21:52:41-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/16/the-magic-is.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/16/on-microblog-scribbles.html",
+				
+				"content_html": "<p><a href=\"https://lmika.org/2024/04/16/yeah-honestly-i.html\">On Micro.blog, Scribbles, And Multi-homing</a></p>\n<blockquote>\n<p>It’s easier for me to do this using Scribbles editor. I don’t know why. Might be a combination of how the compose screen is styled and laid out, plus the use of a WYSIWYG editor. But whatever it is, it all combines into an experience where the words flow a little easier for me. That’s probably the only way I can describe it. There’s nothing really empirical about it all, but maybe that’s the point. It’s involves the emotional side of writing: the “look and feel”.</p>\n</blockquote>\n<p>I prefer Scribbles editor to Micro.blog&rsquo;s, too. There is something about Scribbles that makes the experience more enjoyable. But I&rsquo;m still using Micro.blog for longer posts and Scribbles for short ones, except maybe the /Now posts. Well, it&rsquo;s complicated. Anyhow, I think Micro.blog&rsquo;s post editor needs some more love.</p>\n",
+				"content_text": " [On Micro.blog, Scribbles, And Multi-homing](https://lmika.org/2024/04/16/yeah-honestly-i.html)\r\n\r\n> It’s easier for me to do this using Scribbles editor. I don’t know why. Might be a combination of how the compose screen is styled and laid out, plus the use of a WYSIWYG editor. But whatever it is, it all combines into an experience where the words flow a little easier for me. That’s probably the only way I can describe it. There’s nothing really empirical about it all, but maybe that’s the point. It’s involves the emotional side of writing: the “look and feel”.\r\n\r\nI prefer Scribbles editor to Micro.blog's, too. There is something about Scribbles that makes the experience more enjoyable. But I'm still using Micro.blog for longer posts and Scribbles for short ones, except maybe the /Now posts. Well, it's complicated. Anyhow, I think Micro.blog's post editor needs some more love.\n",
+				"date_published": "2024-04-16T06:46:14-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/16/on-microblog-scribbles.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2024/04/14/funny-that-reading.html",
 				
 				"content_html": "<p>Funny that, reading a random post this morning, stumbled <a href=\"https://blog.numericcitizen.me/2023/02/23/a-typical-morning.html\">on that one</a>. A year later and I found <a href=\"https://youtube.com/watch?v=wZCgVYwqz8E\">a use case</a> for <strong>Bear</strong>.</p>\n",
@@ -28,7 +118,7 @@
 				"id": "http://numericcitizen.micro.blog/2024/04/13/a-long-time.html",
 				
 				"content_html": "<p>A long time ago, around iOS 7, I played with my iPad to do some mockups, like this one: a redesigned Settings.app.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A long time ago, around iOS 7, I played with my iPad to do some mockups, like this one: a redesigned Settings.app.\n\n<img src=\"uploads/2024/img-8983.png\" width=\"436\" height=\"600\" alt=\"\">\n",
+				"content_text": "A long time ago, around iOS 7, I played with my iPad to do some mockups, like this one: a redesigned Settings.app.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2024/img-8983.png\" width=\"436\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-13T17:21:15-04:00",
 				"url": "https://blog.numericcitizen.me/2024/04/13/a-long-time.html",
 				"tags": ["Apple \u0026 Tech","Photography"]
