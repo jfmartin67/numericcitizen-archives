@@ -7,6 +7,159 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/04/30/three-years-later.html",
+				
+				"content_html": "<p>Three years later and it&rsquo;s funny to remember <a href=\"https://meta.numericcitizen.me/2021/03/17/ghost-is-out.html\">where I came from</a> and why I&rsquo;ve migrated to Ghost for everything<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, not only my newsletter.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Not exactly, everything, but for my main website where I share my newsletter and some other long-form posts.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Three years later and it's funny to remember [where I came from](https://meta.numericcitizen.me/2021/03/17/ghost-is-out.html) and why I've migrated to Ghost for everything[^1], not only my newsletter. \r\n[^1]: Not exactly, everything, but for my main website where I share my newsletter and some other long-form posts.\n",
+				"date_published": "2024-04-30T21:43:11-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/30/three-years-later.html",
+				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/30/for-some-reason.html",
+				
+				"content_html": "<p>For some reason, tonight, I miss Medium. I used to love <a href=\"https://meta.numericcitizen.me/2021/03/16/tips-and-tricks.html\">writing for it</a> and reading from it. I still have close to 800 followers, albeit the number really never change, which I find strange.</p>\n",
+				"content_text": "For some reason, tonight, I miss Medium. I used to love [writing for it](https://meta.numericcitizen.me/2021/03/16/tips-and-tricks.html) and reading from it. I still have close to 800 followers, albeit the number really never change, which I find strange. \n",
+				"date_published": "2024-04-30T21:35:44-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/30/for-some-reason.html",
+				"tags": ["Blogging","Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/30/about-the-super.html",
+				"title": "About the Super Greedy Broadcom Company",
+				"content_html": "<p>VMware is no longer synonym of IT innovations. Now, it has because the new Microsoft of the nineties: it is about licensing costs and tricks. Let me elaborate a little bit more.</p>\n<p>The EU is going after Apple and Google and Meta these days with fierce energy and determination. It&rsquo;s all good<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. But what is currently happening right now in IT world with the Broadcom merger with VMware is absolutely criminal<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. Broadcom is doing some massive cleanup in the VMware house and the the list of SKU who was completely replaced with new bundles and licensing mode. For many big organisations (governmental for example), subscriptions price are simply going sky high. Many government agencies are now facing something like 3 to 10 times what they used to pay for about the same features set. It is criminal and if anything, this is something that should be looked into with more scrutiny. It is one thing that a bank is paying much more for something, but when it comes to government services, it is tax payers money. That&rsquo;s quite different. We have to call it out publicly.</p>\n<p>I wish we would talk about this more in the general press, not only in the tech field.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>It depends to whom you talk to.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Broadcom is well-known for their past merger with Symantec and Computer Associates. It was ugly. Apparently, it was a nothing to what we are seeing with VMware acquisition.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "VMware is no longer synonym of IT innovations. Now, it has because the new Microsoft of the nineties: it is about licensing costs and tricks. Let me elaborate a little bit more. \r\n\r\nThe EU is going after Apple and Google and Meta these days with fierce energy and determination. It's all good[^1]. But what is currently happening right now in IT world with the Broadcom merger with VMware is absolutely criminal[^2]. Broadcom is doing some massive cleanup in the VMware house and the the list of SKU who was completely replaced with new bundles and licensing mode. For many big organisations (governmental for example), subscriptions price are simply going sky high. Many government agencies are now facing something like 3 to 10 times what they used to pay for about the same features set. It is criminal and if anything, this is something that should be looked into with more scrutiny. It is one thing that a bank is paying much more for something, but when it comes to government services, it is tax payers money. That's quite different. We have to call it out publicly. \r\n\r\nI wish we would talk about this more in the general press, not only in the tech field.\r\n \r\n[^1]: It depends to whom you talk to.\r\n[^2]: Broadcom is well-known for their past merger with Symantec and Computer Associates. It was ugly. Apparently, it was a nothing to what we are seeing with VMware acquisition.\n",
+				"date_published": "2024-04-30T17:28:49-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/30/about-the-super.html",
+				"tags": ["Longer posts"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/30/on-ai-pin.html",
+				"title": "On AI Pin, Rabbit R1 and Apple Vision Pro.",
+				"content_html": "<p>From what I&rsquo;m reading and seeing, the <strong>AI Pin</strong> and <strong>Rabbit R1</strong> are terrible devices for potentially great AI use cases, while the <strong>Apple Vision Pro</strong> is a technology marvel device with weak use cases. The former are probably DOA because they risk lacking funding to keep the show going, while Apple&rsquo;s massive resources might save the Apple Vision Pro from a complete failure.</p>\n",
+				"content_text": "From what I'm reading and seeing, the **AI Pin** and **Rabbit R1** are terrible devices for potentially great AI use cases, while the **Apple Vision Pro** is a technology marvel device with weak use cases. The former are probably DOA because they risk lacking funding to keep the show going, while Apple's massive resources might save the Apple Vision Pro from a complete failure.\n",
+				"date_published": "2024-04-30T07:36:45-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/30/on-ai-pin.html",
+				"tags": ["Apple \u0026 Tech","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/29/in-this-image.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>In this image, according to AI bot, the 2013 Mac Pro is brown&hellip; a brown speaker! 😂</p>\n",
+				"content_text": "<img src=\"uploads/2024/img-1082.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A computer setup with a black monitor, white keyboard, and mouse on a desk next to a brown speaker.\">\r\n\r\nIn this image, according to AI bot, the 2013 Mac Pro is brown... a brown speaker! 😂\n",
+				"date_published": "2024-04-29T17:33:25-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/29/in-this-image.html",
+				"tags": ["Apple \u0026 Tech","Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/28/its-funny-how.html",
+				
+				"content_html": "<p>It&rsquo;s funny how my subscribers count can vary after I share a new video on my YouTube channel. In recent days, I got many new subscribers, thanks to a video about building a dashboard with Craft. Then, I share <a href=\"https://youtube.com/watch?v=M0-0d0vgMKM\">this video</a> about Micro.blog, and many people suddenly quit and unsubscribe<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. 🤷🏻‍♂️</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>We can&rsquo;t please everyone, I guess.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "It's funny how my subscribers count can vary after I share a new video on my YouTube channel. In recent days, I got many new subscribers, thanks to a video about building a dashboard with Craft. Then, I share [this video](https://youtube.com/watch?v=M0-0d0vgMKM) about Micro.blog, and many people suddenly quit and unsubscribe[^1]. 🤷🏻‍♂️\r\n\r\n[^1]: We can't please everyone, I guess. \n",
+				"date_published": "2024-04-28T19:33:04-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/28/its-funny-how.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/28/calling-for-suggestions.html",
+				
+				"content_html": "<p>Calling for suggestions: I&rsquo;d like to back up my <strong>iCloud Photos Library</strong> content locally on my Synology NAS, but I don&rsquo;t want to use the built-in &ldquo;Download Originals to this Mac&rdquo; of Apple Photos. Any utility that does that? Thanks!</p>\n",
+				"content_text": "Calling for suggestions: I'd like to back up my **iCloud Photos Library** content locally on my Synology NAS, but I don't want to use the built-in \"Download Originals to this Mac\" of Apple Photos. Any utility that does that? Thanks!\n",
+				"date_published": "2024-04-28T15:07:05-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/28/calling-for-suggestions.html",
+				"tags": ["Photography","Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/28/its-still-sunday.html",
+				
+				"content_html": "<p>🔥 It&rsquo;s still Sunday where I live, and it&rsquo;s time to share the <a href=\"https://crafted.numericcitizen.me/creative-summary-2024-16\">newest edition </a>of <strong>the weekly creative summary!</strong> Coming up soon to a mailbox near you<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. 😅</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>You aren&rsquo;t subscribing?? What are you waiting for!&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "🔥 It's still Sunday where I live, and it's time to share the [newest edition ](https://crafted.numericcitizen.me/creative-summary-2024-16)of **the weekly creative summary!** Coming up soon to a mailbox near you[^1]. 😅\r\n\r\n[^1]: You aren't subscribing?? What are you waiting for!\n",
+				"date_published": "2024-04-28T13:56:09-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/28/its-still-sunday.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/28/you-want-to.html",
+				
+				"content_html": "<p>You want to know more about all the new features and tweaks introduced on <strong>Micro.blog</strong> in the last two months? Here&rsquo;s a video that I made today for you guys. Enjoy. cc <a href=\"https://micro.blog/jean\">@jean</a> <a href=\"https://micro.blog/manton\">@manton</a></p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/M0-0d0vgMKM' frameborder='0' allowfullscreen></iframe></div>\n",
+				"content_text": "You want to know more about all the new features and tweaks introduced on **Micro.blog** in the last two months? Here's a video that I made today for you guys. Enjoy. cc [@jean](https://micro.blog/jean) [@manton](https://micro.blog/manton) \r\n\r\n{{< youtube \"M0-0d0vgMKM\" >}}\n",
+				"date_published": "2024-04-28T12:49:17-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/28/you-want-to.html",
+				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/28/today-i-might.html",
+				
+				"content_html": "<p>Today I might have hit the max my <strong>M1 Mac mini</strong> could give me: while exporting my video in ScreenFlow, I was editing a photo in Photomator. The latter couldn&rsquo;t keep up with me trying different settings on my image.</p>\n",
+				"content_text": "Today I might have hit the max my **M1 Mac mini** could give me: while exporting my video in ScreenFlow, I was editing a photo in Photomator. The latter couldn't keep up with me trying different settings on my image. \n",
+				"date_published": "2024-04-28T11:48:34-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/28/today-i-might.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/28/im-currently-recording.html",
+				
+				"content_html": "<p>I&rsquo;m currently recording the next edition of the &ldquo;What&rsquo;s Up with Micro.blog&rdquo; episode and I&rsquo;m Testing cross-posting to Bluesky. This post includes #hashtag. Let&rsquo;s see if it works!</p>\n",
+				"content_text": "I'm currently recording the next edition of the \"What's Up with Micro.blog\" episode and I'm Testing cross-posting to Bluesky. This post includes #hashtag. Let's see if it works!\n",
+				"date_published": "2024-04-28T09:42:31-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/28/im-currently-recording.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/28/security-is-hard.html",
+				"title": "Security Is Hard for Everyone",
+				"content_html": "<p>This morning, my wife picked up her iPhone and tried to unlock it<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>. She couldn&rsquo;t after a few try<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>. She tried a few times with a slight variation, but the iPhone refused to unlock itself, now showing a 15-minute delay on the lock screen. Her passcode is a complex one as per corporate security rules. She knows it by heart, she told me. She doesn&rsquo;t know what to do, and she is in deep doubt now. Eventually, she asked me for help, but I told her I cannot do much about it<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup>.</p>\n<p>At first, I thought it was the infamous Apple ID being locked out, but it&rsquo;s not the case. As a reminder: the passcode used to unlock your iPhone has little to do with your Apple ID. But, when using 2FA, the iPhone is required to get access to the Apple ID and must be unlocked for this to work. Maybe this is why people think they are both linked together. It&rsquo;s not the case.</p>\n<p>As I finish writing this up, my wife tried again to unlock her iPhone and it worked. All is good now. But it&rsquo;s a reminder that, for most people, security is hard. It&rsquo;s hard to experience. It&rsquo;s hard to explain. It&rsquo;s hard to get over it.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Face ID requires using the passcode to unlock the device after a period of time.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>She couldn&rsquo;t tell me how many times she tried.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>Eventually, without the passcode, an iPhone needs to be fully erased to be able to use it again. It&rsquo;s a security measure. It&rsquo;s by design, in case you didn&rsquo;t know.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "This morning, my wife picked up her iPhone and tried to unlock it[^1]. She couldn't after a few try[^2]. She tried a few times with a slight variation, but the iPhone refused to unlock itself, now showing a 15-minute delay on the lock screen. Her passcode is a complex one as per corporate security rules. She knows it by heart, she told me. She doesn't know what to do, and she is in deep doubt now. Eventually, she asked me for help, but I told her I cannot do much about it[^3].\r\n\r\nAt first, I thought it was the infamous Apple ID being locked out, but it's not the case. As a reminder: the passcode used to unlock your iPhone has little to do with your Apple ID. But, when using 2FA, the iPhone is required to get access to the Apple ID and must be unlocked for this to work. Maybe this is why people think they are both linked together. It's not the case. \r\n\r\nAs I finish writing this up, my wife tried again to unlock her iPhone and it worked. All is good now. But it's a reminder that, for most people, security is hard. It's hard to experience. It's hard to explain. It's hard to get over it. \r\n\r\n[^1]: Face ID requires using the passcode to unlock the device after a period of time.\r\n[^2]: She couldn't tell me how many times she tried.\r\n[^3]: Eventually, without the passcode, an iPhone needs to be fully erased to be able to use it again. It's a security measure. It's by design, in case you didn't know. \n",
+				"date_published": "2024-04-28T08:27:03-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/28/security-is-hard.html",
+				"tags": ["Apple \u0026 Tech","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/27/more-than-half.html",
+				
+				"content_html": "<p>More than half of my planned errands for the weekend is already completed! It&rsquo;s a rather productive day. One thing that I did that wasn&rsquo;t planned at all: <strong>doing photography</strong>! That&rsquo;s my bike that I bought last year[^1]!</p>\n<p>[^1] Unprocessed image taken with my Nikon Zf.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "More than half of my planned errands for the weekend is already completed! It's a rather productive day. One thing that I did that wasn't planned at all: **doing photography**! That's my bike that I bought last year[^1]! \r\n\r\n[^1] Unprocessed image taken with my Nikon Zf.\n\n<img src=\"https://cdn.uploads.micro.blog/6803/2024/dsc-0972-compressed.jpeg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-04-27T14:06:27-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/27/more-than-half.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/27/i-forgot-about.html",
+				
+				"content_html": "<p>I forgot about my &ldquo;<strong>numericcitizen.photos</strong>&rdquo; domain. It was due for renewal. I cancelled it. I feel better.</p>\n",
+				"content_text": "I forgot about my \"**numericcitizen.photos**\" domain. It was due for renewal. I cancelled it. I feel better.\n",
+				"date_published": "2024-04-27T11:31:30-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/27/i-forgot-about.html",
+				"tags": ["Apps \u0026 Services"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/26/tempted-to-start.html",
+				
+				"content_html": "<p>Tempted to start watching <strong>“The Last of Us”</strong>. But I need to subscribe to Crave apparently. Is it really good? I’m a mild science fiction type of huy. 🤔</p>\n",
+				"content_text": "Tempted to start watching **“The Last of Us”**. But I need to subscribe to Crave apparently. Is it really good? I’m a mild science fiction type of huy. 🤔\n",
+				"date_published": "2024-04-26T18:54:33-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/26/tempted-to-start.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/26/its-been-such.html",
+				
+				"content_html": "<p>It’s been such a long time since Apple redesigned their <strong>Magic Mouse</strong>. Is this the only solution to an old problem? And this charging port underneath, could they try to fix this nonsense too? Hard to believe Apple can be so slow at fixing the obvious.</p>\n",
+				"content_text": "It’s been such a long time since Apple redesigned their **Magic Mouse**. Is this the only solution to an old problem? And this charging port underneath, could they try to fix this nonsense too? Hard to believe Apple can be so slow at fixing the obvious. \n",
+				"date_published": "2024-04-26T17:13:42-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/26/its-been-such.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/04/26/overrated-x.html",
+				"title": "Overrated x 1000",
+				"content_html": "<p><strong>Microsoft 365</strong> or Office 365, if you prefer, is so overrated. Microsoft is the master of selling licenses but when it comes down to doing real serious collaborative work with Teams and the rest of the software suite it falls apart really quickly. For example: trying to collaborated on a Word document, creating comments and assigning a task toi someone&hellip; nobody knows really where the task is actually saved! And no one seems to get a notification&hellip; or nobody cares to look at the activity tab in Teams because it is so overwhelming! Oh and don&rsquo;t get me started with Microsoft Loop, a pale copycat of Notion. And should we talk about Visio? I prefer not.</p>\n<p>I&rsquo;m so fed up of working in an IT field where everyone is short sighted with Microsoft. I mean, there are so much more powerful collaborative apps out there.</p>\n<p>/rantoff</p>\n",
+				"content_text": "**Microsoft 365** or Office 365, if you prefer, is so overrated. Microsoft is the master of selling licenses but when it comes down to doing real serious collaborative work with Teams and the rest of the software suite it falls apart really quickly. For example: trying to collaborated on a Word document, creating comments and assigning a task toi someone... nobody knows really where the task is actually saved! And no one seems to get a notification... or nobody cares to look at the activity tab in Teams because it is so overwhelming! Oh and don't get me started with Microsoft Loop, a pale copycat of Notion. And should we talk about Visio? I prefer not.\r\n\r\nI'm so fed up of working in an IT field where everyone is short sighted with Microsoft. I mean, there are so much more powerful collaborative apps out there.\r\n\r\n/rantoff\n",
+				"date_published": "2024-04-26T10:17:36-04:00",
+				"url": "https://blog.numericcitizen.me/2024/04/26/overrated-x.html",
+				"tags": ["Longer posts","Apps \u0026 Services","Newsletter","Work"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2024/04/25/hey-guys-im.html",
 				
 				"content_html": "<p>Hey guys, I&rsquo;m looking for an app that can browser folders containing photos. This app would display photo&rsquo;s metadata too and allow for adjusting the thumbnails size. Any recommendations for me? I&rsquo;m looking for an alternative to Adobe Bridge. Thanks.</p>\n",
