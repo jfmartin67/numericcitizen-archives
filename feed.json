@@ -7,6 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/05/07/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=43.694385,7.283779&amp;ll=43.694385,7.283779\">Location</a> check in 🗺 — Third stop: Nice, France.</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=43.694385,7.283779&ll=43.694385,7.283779) check in 🗺 — Third stop: Nice, France. \n",
+				"date_published": "2024-05-07T03:24:38-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/07/location-check-in.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/06/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=43.114597,5.932318&amp;ll=43.114597,5.932318\">Location</a> check in 🗺 — Next stop: Toulon, France.</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=43.114597,5.932318&ll=43.114597,5.932318) check in 🗺 — Next stop: Toulon, France. \n",
+				"date_published": "2024-05-06T03:56:31-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/06/location-check-in.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/05/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=43.300743,5.361328&amp;ll=43.300743,5.361328\">Location</a> check in 🗺 — First stop. Marseille, France.</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=43.300743,5.361328&ll=43.300743,5.361328) check in 🗺 — First stop. Marseille, France. \n",
+				"date_published": "2024-05-05T04:54:45-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/05/location-check-in.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/03/090605.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=41.290646,2.074442&amp;ll=41.290646,2.074442\">Location</a> check in 🗺 — Finally arrived at destination ✈️</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=41.290646,2.074442&ll=41.290646,2.074442) check in 🗺 — Finally arrived at destination ✈️\n",
+				"date_published": "2024-05-03T09:06:05-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/03/090605.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/03/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=48.354757,11.798910&amp;ll=48.354757,11.798910\">Location</a> check in 🗺 — Tired. 😴</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=48.354757,11.798910&ll=48.354757,11.798910) check in 🗺 — Tired. 😴\n",
+				"date_published": "2024-05-03T05:49:36-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/03/location-check-in.html"
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/02/the-ipad-revenue.html",
+				
+				"content_html": "<p>The iPad revenue share is about 6% of total. Seeing Apple continue to invest in this platform is something that I wonder if other companies would do with such a “loss leader”. I can’t wait to see what’s in store for the iPad next week.</p>\n",
+				"content_text": "The iPad revenue share is about 6% of total. Seeing Apple continue to invest in this platform is something that I wonder if other companies would do with such a “loss leader”. I can’t wait to see what’s in store for the iPad next week. \n",
+				"date_published": "2024-05-02T17:18:01-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/02/the-ipad-revenue.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/02/information-architect-is.html",
+				
+				"content_html": "<p><strong>Information Architect</strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> is working on something that could prove to be super useful for me: shareable presentations using iA Presenter. It&rsquo;s currently in testing. Judging by their <a href=\"https://ia.net/topics/ia-presenter-sharing-beta\">blog post</a>, it looks slick. I could build online presentations that go with The Craft Bible or The Craft Starter Kit that I&rsquo;m working on. Can&rsquo;t wait to try it out.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>The maker of iA Writer, iA Presenter.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "**Information Architect**[^1] is working on something that could prove to be super useful for me: shareable presentations using iA Presenter. It's currently in testing. Judging by their [blog post](https://ia.net/topics/ia-presenter-sharing-beta), it looks slick. I could build online presentations that go with The Craft Bible or The Craft Starter Kit that I'm working on. Can't wait to try it out.\r\n[^1]: The maker of iA Writer, iA Presenter. \n",
+				"date_published": "2024-05-02T07:13:58-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/02/information-architect-is.html",
+				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2024/04/30/three-years-later.html",
 				
 				"content_html": "<p>Three years later and it&rsquo;s funny to remember <a href=\"https://meta.numericcitizen.me/2021/03/17/ghost-is-out.html\">where I came from</a> and why I&rsquo;ve migrated to Ghost for everything<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, not only my newsletter.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Not exactly, everything, but for my main website where I share my newsletter and some other long-form posts.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
@@ -46,7 +104,7 @@
 				"id": "http://numericcitizen.micro.blog/2024/04/29/in-this-image.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>In this image, according to AI bot, the 2013 Mac Pro is brown&hellip; a brown speaker! 😂</p>\n",
-				"content_text": "<img src=\"uploads/2024/img-1082.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A computer setup with a black monitor, white keyboard, and mouse on a desk next to a brown speaker.\">\r\n\r\nIn this image, according to AI bot, the 2013 Mac Pro is brown... a brown speaker! 😂\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/6803/2024/img-1082.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A computer setup with a black monitor, white keyboard, and mouse on a desk next to a brown speaker.\">\r\n\r\nIn this image, according to AI bot, the 2013 Mac Pro is brown... a brown speaker! 😂\n",
 				"date_published": "2024-04-29T17:33:25-04:00",
 				"url": "https://blog.numericcitizen.me/2024/04/29/in-this-image.html",
 				"tags": ["Apple \u0026 Tech","Photography"]
