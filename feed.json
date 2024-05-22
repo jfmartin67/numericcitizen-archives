@@ -7,6 +7,114 @@
 	"items": [
 		
 			{
+				"id": "http://numericcitizen.micro.blog/2024/05/20/slowly-but-surely.html",
+				
+				"content_html": "<p>Slowly but surely, I&rsquo;m refining my use case for <a href=\"https://ko-fi.com/numericcitizen\">my Ko-fi page</a>: more personal stories and content, something that I don&rsquo;t share elsewhere. The very small paywall makes me feel comfortable to share this kind of content. When I get millions of supporters, I might revisit this, but until then, I&rsquo;m glad of doing what I&rsquo;m doing there<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>Of course, if you want to support me and my creative work, you&rsquo;ll make me even happier!&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Slowly but surely, I'm refining my use case for [my Ko-fi page](https://ko-fi.com/numericcitizen): more personal stories and content, something that I don't share elsewhere. The very small paywall makes me feel comfortable to share this kind of content. When I get millions of supporters, I might revisit this, but until then, I'm glad of doing what I'm doing there[^1].\r\n\r\n[^1]: Of course, if you want to support me and my creative work, you'll make me even happier!\n",
+				"date_published": "2024-05-20T14:24:21-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/20/slowly-but-surely.html",
+				"tags": ["Personal","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/20/just-downloaded-three.html",
+				
+				"content_html": "<p>Just downloaded three YouTube videos on my Mac, ran <strong><a href=\"https://goodsnooze.gumroad.com/l/macwhisper\">MacWhisper</a></strong><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> to generate the transcripts, then uploaded the resulting files into <strong>ChatGPT</strong> for a summarization and to get a few answers to my numerous questions. I saved about an hour of work. What a wonderful time to be alive!<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>A great Mac utility to do video transcription using GenAI.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>From a tech standpoint.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Just downloaded three YouTube videos on my Mac, ran **[MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)**[^1] to generate the transcripts, then uploaded the resulting files into **ChatGPT** for a summarization and to get a few answers to my numerous questions. I saved about an hour of work. What a wonderful time to be alive![^2]\r\n\r\n[^1]: A great Mac utility to do video transcription using GenAI.\r\n[^2]: From a tech standpoint. \n",
+				"date_published": "2024-05-20T14:04:33-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/20/just-downloaded-three.html",
+				"tags": ["Blogging","Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/19/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if a good way to learn about <strong>Final Cut Pro</strong> is to start with the iPad version. I’ve started testing it with the sample project. Surprisingly, the iPad had trouble handling my UI interactions. This is a M4 iPd Pro, mind you. 😣😳 Also, FCP for iPad reminds me a lot about iMovie. And I’m not sure this is a good thing.</p>\n",
+				"content_text": "I wonder if a good way to learn about **Final Cut Pro** is to start with the iPad version. I’ve started testing it with the sample project. Surprisingly, the iPad had trouble handling my UI interactions. This is a M4 iPd Pro, mind you. 😣😳 Also, FCP for iPad reminds me a lot about iMovie. And I’m not sure this is a good thing. \n",
+				"date_published": "2024-05-19T17:48:27-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/19/i-wonder-if.html",
+				"tags": ["Apps \u0026 Services","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/19/experiencing-a-serious.html",
+				"title": "Experiencing A Serious Bug With M4 iPad Pro",
+				"content_html": "<p>I’m experiencing an rather frustrating issue with my M4 iPad Pro: I’m experimenting with an external displayy (LG 4K UltraFine) with a thunderbolt cable. Everything works fine until the iPad starts acting up and disable the external display. It’s like if the cable was being disconnected and reconnected every few seconds. A restart of the iPad fixes the issue for a little while. Very frustrating to say the least. Probably a bug with iPadOS 17.5. I was hoping to test the external display but I’ll have to wait a little bit more.</p>\n",
+				"content_text": "I’m experiencing an rather frustrating issue with my M4 iPad Pro: I’m experimenting with an external displayy (LG 4K UltraFine) with a thunderbolt cable. Everything works fine until the iPad starts acting up and disable the external display. It’s like if the cable was being disconnected and reconnected every few seconds. A restart of the iPad fixes the issue for a little while. Very frustrating to say the least. Probably a bug with iPadOS 17.5. I was hoping to test the external display but I’ll have to wait a little bit more. \n",
+				"date_published": "2024-05-19T12:56:06-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/19/experiencing-a-serious.html",
+				"tags": ["Apple \u0026 Tech","Longer posts","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/19/i-generally-prefer.html",
+				
+				"content_html": "<p>I generally prefer high-contrast images when doing black &amp; white photography. What do you think?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I generally prefer high-contrast images when doing black & white photography. What do you think?\n\n<img src=\"uploads/2024/apple-eventdsc-12192024-05-1908.58.032x.png\" width=\"439\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-05-19T09:03:26-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/19/i-generally-prefer.html",
+				"tags": ["Photography","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/19/hey-its-sunday.html",
+				
+				"content_html": "<p>🚨Hey, it&rsquo;s Sunday! And you know what happens on each Sunday? It&rsquo;s time for the new edition of <strong>the weekly creative summary newsletter</strong>! <a href=\"https://crafted.numericcitizen.me/creative-summary-2024-19\">Here you go</a>, ladies and gentlemen! Enjoy. Made with care and love. 😌</p>\n",
+				"content_text": "🚨Hey, it's Sunday! And you know what happens on each Sunday? It's time for the new edition of **the weekly creative summary newsletter**! [Here you go](https://crafted.numericcitizen.me/creative-summary-2024-19), ladies and gentlemen! Enjoy. Made with care and love. 😌\n",
+				"date_published": "2024-05-19T07:36:46-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/19/hey-its-sunday.html",
+				"tags": ["Blogging","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/18/on-ipados-i.html",
+				
+				"content_html": "<p>On <strong>iPadOS</strong>, I wish I could tap outside a window (Stage Manager being active) to dismiss the front app and return to the Home Screen. I’m a Mac user too, so this is something expected. Why not on iPad?</p>\n",
+				"content_text": "On **iPadOS**, I wish I could tap outside a window (Stage Manager being active) to dismiss the front app and return to the Home Screen. I’m a Mac user too, so this is something expected. Why not on iPad? \n",
+				"date_published": "2024-05-18T10:59:36-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/18/on-ipados-i.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/18/ive-been-baited.html",
+				
+				"content_html": "<p><a href=\"https://birchtree.me/blog/ive-been-baited-into-writing-about-touch-screen-macs-once-more/\">I’ve been baited into writing about touch screen Macs once more</a></p>\n<blockquote>\n<p>I don’t think these Macs would look like today’s clamshell MacBooks, they would have a new form factor more similar to iPads.</p>\n</blockquote>\n<p>What if a touchscreen Mac only allowed for scrolling content with fingers? If the touchscreen Mac is not convertible, what other use of touch than scrolling would people do with a touchscreen Mac? What are people doing on Windows with a touch screen, really?</p>\n",
+				"content_text": "[I’ve been baited into writing about touch screen Macs once more](https://birchtree.me/blog/ive-been-baited-into-writing-about-touch-screen-macs-once-more/)\r\n> I don’t think these Macs would look like today’s clamshell MacBooks, they would have a new form factor more similar to iPads.\r\n\r\nWhat if a touchscreen Mac only allowed for scrolling content with fingers? If the touchscreen Mac is not convertible, what other use of touch than scrolling would people do with a touchscreen Mac? What are people doing on Windows with a touch screen, really?\n",
+				"date_published": "2024-05-18T10:07:53-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/18/ive-been-baited.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/17/thought-of-the.html",
+				
+				"content_html": "<p>Thought of the hour: I don&rsquo;t think I&rsquo;ll ever buy the <strong>Magic Keyboard for the iPad</strong>, thanks to having a MacBook Air. Yet, I do see that it is really improved compared to previous gen.</p>\n",
+				"content_text": "Thought of the hour: I don't think I'll ever buy the **Magic Keyboard for the iPad**, thanks to having a MacBook Air. Yet, I do see that it is really improved compared to previous gen.\n",
+				"date_published": "2024-05-17T14:40:57-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/17/thought-of-the.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/17/when-you-think.html",
+				
+				"content_html": "<p>When you think about it, not being able to mount an iPad as a USB drive on the Mac to do some files management, in 2024, it&rsquo;s a bit &hellip; frustrating? In that respect, I do join my voice to those who think iPadOS is lacking in many areas, small and bigger.</p>\n",
+				"content_text": "When you think about it, not being able to mount an iPad as a USB drive on the Mac to do some files management, in 2024, it's a bit ... frustrating? In that respect, I do join my voice to those who think iPadOS is lacking in many areas, small and bigger. \n",
+				"date_published": "2024-05-17T14:11:18-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/17/when-you-think.html",
+				"tags": ["Apple \u0026 Tech","Newsletter"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/17/since-getting-my.html",
+				
+				"content_html": "<p>Since getting my new iPad, I decided that this would be the only device that I use when eating launch because it is smaller and I reduce the risk of food falling on my MacBook Air keyboard. 😩</p>\n",
+				"content_text": "Since getting my new iPad, I decided that this would be the only device that I use when eating launch because it is smaller and I reduce the risk of food falling on my MacBook Air keyboard. 😩\n",
+				"date_published": "2024-05-17T14:06:30-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/17/since-getting-my.html",
+				"tags": ["Apple \u0026 Tech","Personal"]
+			},
+			{
+				"id": "http://numericcitizen.micro.blog/2024/05/17/its-microcamp-day.html",
+				
+				"content_html": "<p>It’s Micro.camp day and I’m looking forward to it! This will be my first! <a href=\"https://micro.blog/manton\">@manton</a> <a href=\"https://micro.blog/vincent\">@vincent</a> <a href=\"https://micro.blog/jean\">@jean</a></p>\n",
+				"content_text": "It’s Micro.camp day and I’m looking forward to it! This will be my first! [@manton](https://micro.blog/manton) [@vincent](https://micro.blog/vincent) [@jean](https://micro.blog/jean) \n",
+				"date_published": "2024-05-17T07:30:13-04:00",
+				"url": "https://blog.numericcitizen.me/2024/05/17/its-microcamp-day.html",
+				"tags": ["Blogging"]
+			},
+			{
 				"id": "http://numericcitizen.micro.blog/2024/05/17/this-process-of.html",
 				
 				"content_html": "<p>This process of having to restore purchases to re-activate in-app purchase for each subscription even after a iPad migration or restore from the Mac is painful. 😣</p>\n",
