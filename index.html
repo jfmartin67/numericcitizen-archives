@@ -24,6 +24,527 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://blog.numericcitizen.me/2026/01/22/something-is-going-on.html">Something Is Going On</a></h1>
+		
+
+		<a href="https://blog.numericcitizen.me/2026/01/22/something-is-going-on.html" class="u-url"><time class="dt-published" datetime="2026-01-22 07:31:24 -0500">Jan 22, 2026</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;m still working on this, but I&rsquo;m heading in the right direction. I realize that every blog post should have a title so that my RSS flow feed looks great. 👀</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.numericcitizen.me/2026/01/20/asking-claude-code-to-suggest.html" class="u-url"><time class="dt-published" datetime="2026-01-20 22:24:53 -0500">Jan 20, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Asking Claude Code to suggest new features and improvements for my photo-sharing app is a lot of fun. Reviewing the list, I see several valid suggestions. However, as a &ldquo;product manager&rdquo;, I must decide what gets implemented and what does not. It&rsquo;s kind of a power trip. You know &ldquo;A thousand no for each yes&rdquo;? 😎</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://blog.numericcitizen.me/2026/01/20/im-rebuilding-flickr.html">I&#39;m rebuilding Flickr! </a></h1>
+		
+
+		<a href="https://blog.numericcitizen.me/2026/01/20/im-rebuilding-flickr.html" class="u-url"><time class="dt-published" datetime="2026-01-20 21:40:06 -0500">Jan 20, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Well, maybe not, but here&rsquo;s a description of my recently created photo-sharing webapp. And I have many more ideas to improve this.</p>
+<h2 id="photo-sharing-webapp---feature-overview">Photo Sharing WebApp - Feature Overview</h2>
+<p>A modern, full-stack travel photo gallery built with Next.js 15, featuring intelligent photo management, interactive maps, and seamless cloud storage integration.</p>
+<hr>
+<h2 id="-highlights">🌟 Highlights</h2>
+<ul>
+<li><strong>Zero-Database Architecture</strong>: Uses Vercel Blob for photos and Redis (via Vercel KV) for metadata</li>
+<li><strong>Privacy Controls</strong>: Public, unlisted, and private album visibility options</li>
+<li><strong>Interactive World Map</strong>: Displays photo locations extracted from EXIF GPS data</li>
+<li><strong>Responsive Design</strong>: Optimized for all devices from mobile to desktop</li>
+<li><strong>Admin Panel</strong>: Complete photo management without leaving the browser</li>
+</ul>
+<hr>
+<h2 id="-public-gallery-features">🎨 Public Gallery Features</h2>
+<h3 id="album-management">Album Management</h3>
+<ul>
+<li><strong>Collapsible Albums</strong>: Each travel album can be expanded or collapsed independently</li>
+<li><strong>Smart Defaults</strong>: Most recent album automatically expands on page load</li>
+<li><strong>Album Metadata</strong>: Title, description, and date for each collection</li>
+<li><strong>Privacy Levels</strong>:
+<ul>
+<li><strong>Public</strong>: Visible to everyone on the homepage</li>
+<li><strong>Unlisted</strong>: Only accessible via direct link</li>
+<li><strong>Private</strong>: Visible only to authenticated admins</li>
+</ul>
+</li>
+</ul>
+<h3 id="photo-display">Photo Display</h3>
+<ul>
+<li><strong>Grid Layout Options</strong>: Three display modes to suit your preference
+<ul>
+<li><strong>Comfortable</strong>: Spacious 2-5 column grid with square thumbnails</li>
+<li><strong>Compact</strong>: Dense 3-6 column grid for maximum photos per screen</li>
+<li><strong>Masonry</strong>: Pinterest-style layout preserving original aspect ratios</li>
+</ul>
+</li>
+<li><strong>Layout Persistence</strong>: Grid preference saved in browser localStorage</li>
+<li><strong>Newest First</strong>: Photos automatically sorted by upload date (newest at top-left)</li>
+<li><strong>Rounded Thumbnails</strong>: Modern, elegant aesthetic with subtle shadows</li>
+<li><strong>Hover Effects</strong>: Smooth scale and brightness animations on interaction</li>
+<li><strong>Upload Date Display</strong>: Shows when each photo was added (in comfortable/masonry modes)</li>
+</ul>
+<h3 id="lightbox-viewer">Lightbox Viewer</h3>
+<ul>
+<li><strong>Full-Screen Experience</strong>: Distraction-free photo viewing</li>
+<li><strong>Navigation Controls</strong>:
+<ul>
+<li>Keyboard arrows (← →) for previous/next</li>
+<li>On-screen navigation buttons</li>
+<li>ESC key to close</li>
+</ul>
+</li>
+<li><strong>Photo Captions</strong>: Optional descriptions displayed below photos</li>
+<li><strong>Smooth Transitions</strong>: Animated photo changes with loading states</li>
+<li><strong>Mobile Optimized</strong>: Touch-friendly controls and responsive sizing</li>
+</ul>
+<h3 id="interactive-features">Interactive Features</h3>
+<ul>
+<li><strong>World Map Integration</strong>:
+<ul>
+<li>Leaflet-based interactive map</li>
+<li>Clustered markers for photos with GPS coordinates</li>
+<li>Click markers to view photos from that location</li>
+<li>Automatic bounds fitting to show all locations</li>
+<li>Album information in marker popups</li>
+</ul>
+</li>
+<li><strong>Random Featured Photo</strong>:
+<ul>
+<li>Displays a random photo from all albums on homepage</li>
+<li>Changes on each page load</li>
+<li>Shows caption if available</li>
+</ul>
+</li>
+<li><strong>Mini Thumbnails</strong>:
+<ul>
+<li>Collapsed albums show preview of first 5 photos</li>
+<li>Smooth animation on expand/collapse</li>
+<li>Photo count badge for albums with 6+ photos</li>
+</ul>
+</li>
+</ul>
+<h3 id="content-syndication">Content Syndication</h3>
+<ul>
+<li><strong>RSS Feed</strong>: Subscribe to new photo uploads at <code>/feed.xml</code></li>
+<li><strong>Analytics</strong>: Vercel Analytics integration for visitor tracking</li>
+</ul>
+<hr>
+<h2 id="-admin-panel-features">🔐 Admin Panel Features</h2>
+<h3 id="authentication">Authentication</h3>
+<ul>
+<li><strong>Vercel Authentication</strong>: Secure login using your Vercel account</li>
+<li><strong>Protected Routes</strong>: <code>/admin</code> and sub-routes require authentication</li>
+<li><strong>Session Management</strong>: Logout functionality with redirect</li>
+</ul>
+<h3 id="album-management-1">Album Management</h3>
+<ul>
+<li><strong>Create Albums</strong>:
+<ul>
+<li>Title (required)</li>
+<li>Description (optional)</li>
+<li>Date (optional, ISO format)</li>
+<li>Privacy setting (public/unlisted/private)</li>
+</ul>
+</li>
+<li><strong>Edit Albums</strong>:
+<ul>
+<li>Update all metadata including privacy settings</li>
+<li>Inline editing interface</li>
+<li>Cancel without saving</li>
+</ul>
+</li>
+<li><strong>Delete Albums</strong>:
+<ul>
+<li>Confirmation dialog before deletion</li>
+<li>Automatically deletes all photos in album</li>
+<li>Removes both metadata and blob files</li>
+</ul>
+</li>
+</ul>
+<h3 id="photo-management">Photo Management</h3>
+<ul>
+<li><strong>Bulk Upload</strong>:
+<ul>
+<li>Multi-file selection support</li>
+<li>Drag-and-drop interface</li>
+<li>Progress tracking for each file</li>
+<li>Batch processing with individual status indicators</li>
+<li>Total size calculation before upload</li>
+</ul>
+</li>
+<li><strong>Upload Features</strong>:
+<ul>
+<li>Automatic EXIF extraction (GPS, camera, capture settings)</li>
+<li>Optional captions (for single photo uploads)</li>
+<li>Format support: JPG, PNG, WebP, and more</li>
+<li>Visual upload progress bar</li>
+<li>Success/error status for each file</li>
+</ul>
+</li>
+<li><strong>Photo Organization</strong>:
+<ul>
+<li>Clickable photo count badges link to management page</li>
+<li>Grid view of all photos in an album</li>
+<li>Displays metadata: upload date, GPS, camera info</li>
+<li>Empty state with call-to-action</li>
+</ul>
+</li>
+<li><strong>Delete Photos</strong>:
+<ul>
+<li>Individual photo deletion from management page</li>
+<li>Confirmation dialog with photo caption</li>
+<li>Removes both Vercel Blob file and metadata</li>
+<li>Instant UI update on successful deletion</li>
+</ul>
+</li>
+</ul>
+<h3 id="admin-dashboard">Admin Dashboard</h3>
+<ul>
+<li><strong>Album Overview</strong>:
+<ul>
+<li>List of all albums (sorted by date, newest first)</li>
+<li>Photo count for each album</li>
+<li>Privacy status indicators with icons</li>
+<li>Quick access buttons (Edit, Upload, Manage, Delete)</li>
+</ul>
+</li>
+<li><strong>Status Indicators</strong>:
+<ul>
+<li>🌍 <strong>Public</strong>: Green badge with globe icon</li>
+<li>🔗 <strong>Unlisted</strong>: Yellow badge with link icon</li>
+<li>🔒 <strong>Private</strong>: Red badge with lock icon</li>
+</ul>
+</li>
+<li><strong>Responsive Layout</strong>: Optimized for tablet and mobile management</li>
+</ul>
+<hr>
+<h2 id="-technical-architecture">🛠️ Technical Architecture</h2>
+<h3 id="frontend">Frontend</h3>
+<ul>
+<li><strong>Framework</strong>: Next.js 15 with App Router</li>
+<li><strong>Language</strong>: TypeScript for type safety</li>
+<li><strong>Styling</strong>: Tailwind CSS with custom configurations</li>
+<li><strong>Icons</strong>: Lucide React for consistent iconography</li>
+<li><strong>Image Optimization</strong>: Next.js Image component with automatic optimization</li>
+<li><strong>State Management</strong>: React hooks (useState, useEffect)</li>
+<li><strong>Client-Side Rendering</strong>: Dynamic imports for map components (SSR bypass)</li>
+</ul>
+<h3 id="backend">Backend</h3>
+<ul>
+<li><strong>API Routes</strong>: Next.js server-side API endpoints</li>
+<li><strong>File Upload</strong>: FormData with multipart handling</li>
+<li><strong>EXIF Parsing</strong>: <code>exif-parser</code> library for metadata extraction</li>
+<li><strong>Image Processing</strong>: Automatic format conversion and compression</li>
+</ul>
+<h3 id="storage--database">Storage &amp; Database</h3>
+<ul>
+<li><strong>Photo Storage</strong>: Vercel Blob (CDN-backed object storage)</li>
+<li><strong>Metadata Storage</strong>: Redis via Vercel KV Marketplace integration</li>
+<li><strong>Database Client</strong>: <code>ioredis</code> for Redis connections</li>
+<li><strong>Data Structure</strong>:
+<ul>
+<li>Albums stored as JSON array in <code>albums</code> key</li>
+<li>Photos stored per album in <code>photos:{albumId}</code> keys</li>
+<li>No SQL database required</li>
+</ul>
+</li>
+</ul>
+<h3 id="deployment">Deployment</h3>
+<ul>
+<li><strong>Platform</strong>: Vercel</li>
+<li><strong>Environment</strong>:
+<ul>
+<li><code>BLOB_READ_WRITE_TOKEN</code>: Vercel Blob access</li>
+<li><code>KV_REDIS_URL</code>: Redis connection string</li>
+</ul>
+</li>
+<li><strong>CDN</strong>: Automatic edge caching for photos and pages</li>
+<li><strong>Domain</strong>: Custom domain support with automatic SSL</li>
+</ul>
+<hr>
+<h2 id="-data-models">📊 Data Models</h2>
+<h3 id="album">Album</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">id</span>: <span style="color:#66d9ef">string</span>;                          <span style="color:#75715e">// album_timestamp_random
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">title</span>: <span style="color:#66d9ef">string</span>;                       <span style="color:#75715e">// &#34;Japan 2025&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">description</span>: <span style="color:#66d9ef">string</span>;                 <span style="color:#75715e">// Trip description
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">date</span>: <span style="color:#66d9ef">string</span>;                        <span style="color:#75715e">// ISO date &#34;2025-01-15&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">createdAt</span>: <span style="color:#66d9ef">number</span>;                   <span style="color:#75715e">// Unix timestamp
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">visibility</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;public&#34;</span> <span style="color:#f92672">|</span> <span style="color:#e6db74">&#34;unlisted&#34;</span> <span style="color:#f92672">|</span> <span style="color:#e6db74">&#34;private&#34;</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><h3 id="photo">Photo</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">id</span>: <span style="color:#66d9ef">string</span>;                          <span style="color:#75715e">// photo_timestamp_random
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">albumId</span>: <span style="color:#66d9ef">string</span>;                     <span style="color:#75715e">// Reference to album
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">blobUrl</span>: <span style="color:#66d9ef">string</span>;                     <span style="color:#75715e">// Vercel Blob URL
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">caption?</span>: <span style="color:#66d9ef">string</span>;                    <span style="color:#75715e">// Optional description
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">uploadedAt</span>: <span style="color:#66d9ef">number</span>;                  <span style="color:#75715e">// Unix timestamp
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>  <span style="color:#a6e22e">metadata</span><span style="color:#f92672">?:</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">gps</span><span style="color:#f92672">?:</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">latitude</span>: <span style="color:#66d9ef">number</span>;
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">longitude</span>: <span style="color:#66d9ef">number</span>;
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">altitude?</span>: <span style="color:#66d9ef">number</span>;
+</span></span><span style="display:flex;"><span>    };
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">camera</span><span style="color:#f92672">?:</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">make?</span>: <span style="color:#66d9ef">string</span>;                   <span style="color:#75715e">// &#34;Canon&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#a6e22e">model?</span>: <span style="color:#66d9ef">string</span>;                  <span style="color:#75715e">// &#34;EOS R5&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#a6e22e">lens?</span>: <span style="color:#66d9ef">string</span>;
+</span></span><span style="display:flex;"><span>    };
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">capture</span><span style="color:#f92672">?:</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">dateTaken?</span>: <span style="color:#66d9ef">string</span>;              <span style="color:#75715e">// When photo was taken
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#a6e22e">exposureTime?</span>: <span style="color:#66d9ef">string</span>;           <span style="color:#75715e">// &#34;1/1000&#34;
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#a6e22e">fNumber?</span>: <span style="color:#66d9ef">number</span>;                <span style="color:#75715e">// 2.8
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#a6e22e">iso?</span>: <span style="color:#66d9ef">number</span>;                    <span style="color:#75715e">// 100
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#a6e22e">focalLength?</span>: <span style="color:#66d9ef">number</span>;            <span style="color:#75715e">// 50mm
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    };
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">dimensions</span><span style="color:#f92672">?:</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">width</span>: <span style="color:#66d9ef">number</span>;
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">height</span>: <span style="color:#66d9ef">number</span>;
+</span></span><span style="display:flex;"><span>    };
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">orientation?</span>: <span style="color:#66d9ef">number</span>;
+</span></span><span style="display:flex;"><span>  };
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+<h2 id="-user-flows">🎯 User Flows</h2>
+<h3 id="visitor-journey">Visitor Journey</h3>
+<ol>
+<li>Land on homepage → See random featured photo</li>
+<li>View interactive world map with photo locations</li>
+<li>Browse albums (newest expanded by default)</li>
+<li>Click photo → Open lightbox viewer</li>
+<li>Navigate with arrows or keyboard</li>
+<li>Subscribe to RSS feed for updates</li>
+</ol>
+<h3 id="admin-journey">Admin Journey</h3>
+<ol>
+<li>Navigate to <code>/admin</code> → Vercel auth redirect</li>
+<li>View dashboard with all albums and photo counts</li>
+<li><strong>Create new album</strong>: Click &ldquo;Create Album&rdquo; → Fill form → Set privacy</li>
+<li><strong>Upload photos</strong>: Click &ldquo;Upload Photos&rdquo; → Drag files → Add captions → Upload</li>
+<li><strong>Manage photos</strong>: Click photo count badge → View grid → Delete unwanted photos</li>
+<li><strong>Edit album</strong>: Click &ldquo;Edit&rdquo; → Update metadata/privacy → Save</li>
+<li><strong>Delete album</strong>: Click &ldquo;Delete&rdquo; → Confirm → Album and all photos removed</li>
+</ol>
+<hr>
+<h2 id="-performance-optimizations">🚀 Performance Optimizations</h2>
+<ul>
+<li><strong>Image Optimization</strong>: Next.js automatic WebP conversion and lazy loading</li>
+<li><strong>CDN Caching</strong>: Vercel Edge Network caches photos globally</li>
+<li><strong>Code Splitting</strong>: Dynamic imports for heavy components (map)</li>
+<li><strong>Responsive Images</strong>: Multiple sizes served based on viewport</li>
+<li><strong>Minimal JavaScript</strong>: Client-side JS only where needed</li>
+<li><strong>Fast Page Loads</strong>: Static generation where possible</li>
+<li><strong>Efficient Queries</strong>: Single Redis calls for album/photo lists</li>
+<li><strong>LocalStorage</strong>: Grid layout preference cached client-side</li>
+</ul>
+<hr>
+<h2 id="-design-philosophy">🎨 Design Philosophy</h2>
+<h3 id="visual-design">Visual Design</h3>
+<ul>
+<li><strong>Color Palette</strong>: Blue gradient accents with dark mode support</li>
+<li><strong>Typography</strong>: Clear hierarchy with responsive font sizes</li>
+<li><strong>Spacing</strong>: Generous whitespace for comfortable reading</li>
+<li><strong>Shadows</strong>: Layered depth with hover elevations</li>
+<li><strong>Animations</strong>: Subtle 300ms transitions throughout</li>
+<li><strong>Icons</strong>: Consistent Lucide icon library</li>
+</ul>
+<h3 id="user-experience">User Experience</h3>
+<ul>
+<li><strong>Progressive Disclosure</strong>: Collapsed albums reduce cognitive load</li>
+<li><strong>Keyboard Navigation</strong>: Full keyboard support in lightbox</li>
+<li><strong>Touch Optimization</strong>: Tap targets sized for mobile</li>
+<li><strong>Loading States</strong>: Spinners and skeletons during data fetches</li>
+<li><strong>Error Handling</strong>: User-friendly error messages</li>
+<li><strong>Confirmation Dialogs</strong>: Prevent accidental deletions</li>
+</ul>
+<h3 id="accessibility">Accessibility</h3>
+<ul>
+<li><strong>Semantic HTML</strong>: Proper heading hierarchy</li>
+<li><strong>Focus States</strong>: Visible keyboard focus indicators</li>
+<li><strong>Alt Text</strong>: Image descriptions for screen readers</li>
+<li><strong>Color Contrast</strong>: WCAG AA compliance</li>
+<li><strong>Responsive Design</strong>: Works on all screen sizes</li>
+</ul>
+<hr>
+<h2 id="-use-cases">📈 Use Cases</h2>
+<h3 id="personal-travel-blog">Personal Travel Blog</h3>
+<ul>
+<li>Document trips with organized photo albums</li>
+<li>Share adventures with family and friends</li>
+<li>Keep private memories secure with privacy controls</li>
+</ul>
+<h3 id="photography-portfolio">Photography Portfolio</h3>
+<ul>
+<li>Showcase work by location or project</li>
+<li>Professional presentation with grid layouts</li>
+<li>Metadata display for technical details</li>
+</ul>
+<h3 id="family-photo-sharing">Family Photo Sharing</h3>
+<ul>
+<li>Create unlisted albums for family-only access</li>
+<li>Easy upload from mobile devices</li>
+<li>No complicated software required</li>
+</ul>
+<h3 id="educational-projects">Educational Projects</h3>
+<ul>
+<li>Demonstrate modern web development practices</li>
+<li>Showcase Next.js 15 App Router patterns</li>
+<li>Example of cloud storage integration</li>
+</ul>
+<hr>
+<h2 id="-future-enhancement-ideas">🔮 Future Enhancement Ideas</h2>
+<h3 id="photo-features">Photo Features</h3>
+<ul>
+<li>Bulk photo deletion (select multiple)</li>
+<li>Photo reordering (drag-and-drop)</li>
+<li>Photo editing (crop, rotate, filters)</li>
+<li>Download full-resolution images</li>
+<li>Print/photo book export</li>
+</ul>
+<h3 id="search--discovery">Search &amp; Discovery</h3>
+<ul>
+<li>Full-text search across captions</li>
+<li>Tag system for categorization</li>
+<li>Timeline view (chronological)</li>
+<li>Favorites/highlights collection</li>
+</ul>
+<h3 id="social-features">Social Features</h3>
+<ul>
+<li>Photo comments system</li>
+<li>Social media share buttons</li>
+<li>Individual photo permalinks</li>
+<li>Public photo embeds</li>
+</ul>
+<h3 id="analytics">Analytics</h3>
+<ul>
+<li>View count tracking</li>
+<li>Popular photos dashboard</li>
+<li>Storage usage metrics</li>
+<li>Visitor analytics</li>
+</ul>
+<h3 id="mobile-app">Mobile App</h3>
+<ul>
+<li>Native iOS/Android apps</li>
+<li>Offline photo viewing (PWA)</li>
+<li>Camera integration for uploads</li>
+<li>Push notifications for new albums</li>
+</ul>
+<hr>
+<h2 id="-why-this-architecture">💡 Why This Architecture?</h2>
+<h3 id="serverless-first">Serverless-First</h3>
+<ul>
+<li><strong>No server maintenance</strong>: Vercel handles infrastructure</li>
+<li><strong>Auto-scaling</strong>: Handles traffic spikes automatically</li>
+<li><strong>Global CDN</strong>: Photos served from edge locations</li>
+<li><strong>Cost-effective</strong>: Pay only for usage</li>
+</ul>
+<h3 id="modern-stack">Modern Stack</h3>
+<ul>
+<li><strong>Type Safety</strong>: TypeScript catches bugs at compile time</li>
+<li><strong>React 19</strong>: Latest React features and optimizations</li>
+<li><strong>Next.js 15</strong>: App Router for improved performance</li>
+<li><strong>Tailwind CSS</strong>: Utility-first styling for rapid development</li>
+</ul>
+<h3 id="cloud-storage">Cloud Storage</h3>
+<ul>
+<li><strong>Vercel Blob</strong>: Purpose-built for media storage</li>
+<li><strong>Redis</strong>: Fast key-value storage for metadata</li>
+<li><strong>No database</strong>: Simpler architecture, fewer failure points</li>
+<li><strong>Atomic operations</strong>: Redis ensures data consistency</li>
+</ul>
+<hr>
+<h2 id="-technical-decisions">📝 Technical Decisions</h2>
+<h3 id="why-ioredis-instead-of-vercelkv">Why ioredis instead of @vercel/kv?</h3>
+<p>The Vercel KV Marketplace integration provides a standard Redis URL, which works better with the <code>ioredis</code> package. This offers more flexibility and standard Redis features.</p>
+<h3 id="why-client-side-rendering-for-the-homepage">Why client-side rendering for the homepage?</h3>
+<p>The random featured photo and map interactions require JavaScript. Client-side rendering provides the most interactive experience while keeping the codebase simple.</p>
+<h3 id="why-separate-manage-page-instead-of-edit-in-place">Why separate manage page instead of edit-in-place?</h3>
+<p>Separating photo management from display keeps each view focused and performant. The upload page stays lightweight for quick uploads, while the manage page provides detailed controls.</p>
+<h3 id="why-not-use-a-traditional-database">Why not use a traditional database?</h3>
+<p>For a photo gallery, the access patterns are simple (list albums, list photos). Redis provides sub-millisecond reads and sufficient storage for metadata, while Vercel Blob handles the large files. This eliminates the need for PostgreSQL/MySQL.</p>
+<hr>
+<h2 id="-project-structure">🏗️ Project Structure</h2>
+<pre tabindex="0"><code>voyages-photo-gallery/
+├── app/
+│   ├── admin/
+│   │   ├── manage/[albumId]/       # Photo management page
+│   │   ├── upload/[albumId]/       # Photo upload page
+│   │   └── page.tsx                # Admin dashboard
+│   ├── api/
+│   │   ├── admin/
+│   │   │   ├── albums/
+│   │   │   │   ├── [albumId]/      # Update/delete album
+│   │   │   │   └── route.ts        # Create album
+│   │   │   ├── photos/
+│   │   │   │   └── route.ts        # Delete photo
+│   │   │   └── upload/
+│   │   │       └── route.ts        # Upload photos
+│   │   ├── albums/
+│   │   │   └── route.ts            # Get all albums (public)
+│   │   ├── photos/
+│   │   │   └── route.ts            # Get all photos (public)
+│   │   └── auth/                   # Login/logout
+│   ├── feed.xml/
+│   │   └── route.ts                # RSS feed generation
+│   ├── layout.tsx                  # Root layout with Analytics
+│   ├── page.tsx                    # Public gallery homepage
+│   └── globals.css                 # Global styles
+├── components/
+│   ├── AlbumSection.tsx            # Collapsible album component
+│   ├── GridLayoutToggle.tsx        # Layout switcher
+│   ├── Lightbox.tsx                # Photo viewer
+│   └── WorldMap.tsx                # Interactive map
+├── lib/
+│   └── db.ts                       # Redis database functions
+├── types/
+│   └── index.ts                    # TypeScript type definitions
+├── middleware.ts                   # Auth protection
+└── package.json                    # Dependencies
+</code></pre><hr>
+<h2 id="-learning-resources">🎓 Learning Resources</h2>
+<p>This project demonstrates:</p>
+<ul>
+<li>Next.js 15 App Router patterns</li>
+<li>TypeScript in React applications</li>
+<li>Tailwind CSS utility-first styling</li>
+<li>Vercel deployment and storage</li>
+<li>Redis data modeling</li>
+<li>EXIF metadata extraction</li>
+<li>Responsive design principles</li>
+<li>File upload handling</li>
+<li>Authentication middleware</li>
+<li>Dynamic routing</li>
+<li>Client/server component separation</li>
+</ul>
+<p>Perfect for developers learning modern full-stack web development!</p>
+<hr>
+<h2 id="-license">📄 License</h2>
+<p>MIT License - Feel free to use this as a learning resource or starting point for your own projects.</p>
+<hr>
+<h2 id="-contributing">🤝 Contributing</h2>
+<p>Built with <a href="https://claude.com/claude-code">Claude Code</a> - AI-assisted development for rapid prototyping and feature implementation.</p>
+<p><strong>Technologies</strong>: Next.js 15 • React 19 • TypeScript • Tailwind CSS • Vercel • Redis • Leaflet</p>
+<p><strong>Built by</strong>: AI enthusiasts exploring the intersection of modern web development and AI-assisted coding</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://blog.numericcitizen.me/2026/01/19/this-weekend-i-wanted-to.html" class="u-url"><time class="dt-published" datetime="2026-01-19 21:58:03 -0500">Jan 19, 2026</time></a>
 
